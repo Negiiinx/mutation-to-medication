@@ -1,0 +1,576 @@
+source,gene,molecular_profile,disease,therapy,therapies,label,best_lvl,moa_tier,best_level,uid,split,n_gene,n_items
+MOAlmanac,BCR,BCR::ABL1 Fusion,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,SENSITIVE,5,FDA-Approved,A,ac21e594bec0,ALL,,1
+MOAlmanac,BCR,BCR::ABL1 Fusion,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,SENSITIVE,5,FDA-Approved,A,cef8c53ae48a,ALL,,1
+MOAlmanac,BCR,BCR::ABL1 Fusion,Acute Lymphoid Leukemia,Dasatinib,Dasatinib,SENSITIVE,5,FDA-Approved,A,bba1fbbc3bf1,ALL,,1
+MOAlmanac,BCR,BCR::ABL1 Fusion,Chronic Myelogenous Leukemia,Imatinib,Imatinib,SENSITIVE,5,FDA-Approved,A,55fe48e44075,ALL,,1
+MOAlmanac,BCR,BCR::ABL1 Fusion,Acute Lymphoid Leukemia,Imatinib,Imatinib,SENSITIVE,5,FDA-Approved,A,48e8794fe144,ALL,,1
+MOAlmanac,BCR,BCR::ABL1 Fusion,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,SENSITIVE,4,Clinical trial,B,809c65965afc,ALL,,1
+MOAlmanac,BCR,BCR::ABL1 Fusion,Chronic Myelogenous Leukemia,Asciminib,Asciminib,SENSITIVE,5,FDA-Approved,A,23ca11d245c3,ALL,,1
+MOAlmanac,ALK,ALK::None Fusion,Non-Small Cell Lung Cancer,Alectinib,Alectinib,SENSITIVE,5,FDA-Approved,A,f14f806e2935,ALL,,1
+MOAlmanac,ALK,ALK::None Fusion,Non-Small Cell Lung Cancer,Crizotinib,Crizotinib,SENSITIVE,5,FDA-Approved,A,daf31f580d7f,ALL,,1
+MOAlmanac,ALK,ALK::None Fusion,Non-Small Cell Lung Cancer,Lorlatinib,Lorlatinib,SENSITIVE,5,FDA-Approved,A,30be4f463fbf,ALL,,1
+MOAlmanac,ALK,ALK::None Fusion,Non-Small Cell Lung Cancer,Ceritinib,Ceritinib,SENSITIVE,5,FDA-Approved,A,3ed0138c79eb,ALL,,1
+MOAlmanac,ALK,ALK::None Fusion,Inflammatory Myofibroblastic Tumor,Crizotinib,Crizotinib,SENSITIVE,5,Guideline,A,779383cfc675,ALL,,1
+MOAlmanac,ALK,ALK::None Fusion,Inflammatory Myofibroblastic Tumor,Ceritinib,Ceritinib,SENSITIVE,5,Guideline,A,a8e44d0b58da,ALL,,1
+MOAlmanac,BRD4,BRD4::None Fusion,"Squamous Cell Carcinoma, NOS",JQ1,JQ1,SENSITIVE,2,Preclinical,D,f42d6ff81e16,ALL,,1
+MOAlmanac,CCND1,CCND1::None Fusion,Multiple Myeloma,Palbociclib,Palbociclib,SENSITIVE,1,Inferential,E,cfdae9a1e5e6,ALL,,1
+MOAlmanac,CCND3,CCND3::None Fusion,Multiple Myeloma,Palbociclib,Palbociclib,SENSITIVE,1,Inferential,E,1390857a79a4,ALL,,1
+MOAlmanac,COL1A1,COL1A1::PDGFB Fusion,Dermatofibrosarcoma Protuberans,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,b5c718a2f397,ALL,,1
+MOAlmanac,EML4,EML4::ALK Fusion,Non-Small Cell Lung Cancer,Gamma knife,Gamma knife,SENSITIVE,4,Clinical evidence,B,ed90e105215b,ALL,,1
+MOAlmanac,EML4,EML4::ALK Fusion,Non-Small Cell Lung Cancer,Crizotinib,Crizotinib,SENSITIVE,5,Guideline,A,b05c2366514c,ALL,,1
+MOAlmanac,ESRP1,ESRP1::RAF1 Fusion,Prostate Adenocarcinoma,Sorafenib,Sorafenib,SENSITIVE,2,Preclinical,D,9a57cdff8e53,ALL,,1
+MOAlmanac,ESRP1,ESRP1::RAF1 Fusion,Prostate Adenocarcinoma,U0126,U0126,SENSITIVE,2,Preclinical,D,f6af2994a94b,ALL,,1
+MOAlmanac,FGFR2,FGFR2::TACC3 Fusion,Cholangiocarcinoma,Ponatinib,Ponatinib,SENSITIVE,4,Clinical evidence,B,9d54ae877080,ALL,,1
+MOAlmanac,FGFR2,FGFR2::None Fusion,Cholangiocarcinoma,Pemigatinib,Pemigatinib,SENSITIVE,5,FDA-Approved,A,604418ee04ac,ALL,,1
+MOAlmanac,FGFR2,FGFR2::None Fusion,Cholangiocarcinoma,Infigratinib,Infigratinib,SENSITIVE,5,FDA-Approved,A,143cc20ea390,ALL,,1
+MOAlmanac,FGFR3,FGFR3::None Fusion,Bladder Urothelial Carcinoma,Erdafitinib,Erdafitinib,SENSITIVE,5,FDA-Approved,A,4f25dc05c9c9,ALL,,1
+MOAlmanac,FGFR3,FGFR3::NSD2 Fusion,Multiple Myeloma,Bortezomib,Bortezomib,SENSITIVE,4,Clinical evidence,B,16b00c54f1de,ALL,,1
+MOAlmanac,NTRK1,NTRK1::None Fusion,Any solid tumor,Larotrectinib,Larotrectinib,SENSITIVE,5,FDA-Approved,A,7733d3196368,ALL,,1
+MOAlmanac,NTRK1,NTRK1::None Fusion,Any solid tumor,Entrectinib,Entrectinib,SENSITIVE,4,Clinical evidence,B,55e709b7f72b,ALL,,1
+MOAlmanac,NTRK2,NTRK2::None Fusion,Any solid tumor,Larotrectinib,Larotrectinib,SENSITIVE,5,FDA-Approved,A,b529f696f3d5,ALL,,1
+MOAlmanac,NTRK2,NTRK2::None Fusion,Any solid tumor,Entrectinib,Entrectinib,SENSITIVE,4,Clinical evidence,B,e40fc87e846b,ALL,,1
+MOAlmanac,NTRK3,NTRK3::None Fusion,Any solid tumor,Larotrectinib,Larotrectinib,SENSITIVE,5,FDA-Approved,A,3794c0ab88eb,ALL,,1
+MOAlmanac,NTRK3,NTRK3::None Fusion,Any solid tumor,Entrectinib,Entrectinib,SENSITIVE,4,Clinical evidence,B,82b23d2a4682,ALL,,1
+MOAlmanac,PDGFRA,PDGFRA::None Fusion,Myelodysplasia,Imatinib,Imatinib,SENSITIVE,5,FDA-Approved,A,62cb4a7280a9,ALL,,1
+MOAlmanac,FIP1L1,FIP1L1::PDGFRA Fusion,"Chronic Eosinophilic Leukemia, NOS",Imatinib,Imatinib,SENSITIVE,5,FDA-Approved,A,07c35f2568e3,ALL,,1
+MOAlmanac,BCR,BCR::PDGFRA Fusion,Chronic Myelogenous Leukemia,Imatinib,Imatinib,SENSITIVE,4,Clinical evidence,B,a57bf154b921,ALL,,1
+MOAlmanac,PDGFRB,PDGFRB::None Fusion,Myelodysplasia,Imatinib,Imatinib,SENSITIVE,5,FDA-Approved,A,921ad9e2b720,ALL,,1
+MOAlmanac,ETV6,ETV6::PDGFRB Fusion,Chronic Myelomonocytic Leukemia,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,61a978fe4d8d,ALL,,1
+MOAlmanac,RET,RET::None Fusion,Non-Small Cell Lung Cancer,Cabozantinib,Cabozantinib,SENSITIVE,5,Guideline,A,379220c766fd,ALL,,1
+MOAlmanac,RET,RET::None Fusion,Non-Small Cell Lung Cancer,Vandetanib,Vandetanib,SENSITIVE,5,Guideline,A,200104b86070,ALL,,1
+MOAlmanac,RET,RET::None Fusion,Non-Small Cell Lung Cancer,Selpercatinib,Selpercatinib,SENSITIVE,5,FDA-Approved,A,e6fda2226a09,ALL,,1
+MOAlmanac,RET,RET::None Fusion,Anaplastic Thyroid Cancer,Selpercatinib,Selpercatinib,SENSITIVE,5,FDA-Approved,A,cb3f5dbc79fc,ALL,,1
+MOAlmanac,RET,RET::None Fusion,Non-Small Cell Lung Cancer,Pralsetinib,Pralsetinib,SENSITIVE,5,FDA-Approved,A,57cb94830413,ALL,,1
+MOAlmanac,RET,RET::None Fusion,Anaplastic Thyroid Cancer,Pralsetinib,Pralsetinib,SENSITIVE,5,FDA-Approved,A,ec9af650fcfd,ALL,,1
+MOAlmanac,ROS1,ROS1::None Fusion,Non-Small Cell Lung Cancer,Crizotinib,Crizotinib,SENSITIVE,5,FDA-Approved,A,14a4ffde5fbc,ALL,,1
+MOAlmanac,RUNX1,RUNX1::RUNX1T1 Fusion,Myelodysplasia,Azacitidine + Panobinostat,Azacitidine + Panobinostat,SENSITIVE,2,Preclinical,D,c6d0263e59a6,ALL,,1
+MOAlmanac,SLC45A3,SLC45A3::BRAF Fusion,Prostate Adenocarcinoma,Sorafenib,Sorafenib,SENSITIVE,2,Preclinical,D,db44a3634dba,ALL,,1
+MOAlmanac,SLC45A3,SLC45A3::BRAF Fusion,Prostate Adenocarcinoma,U0126,U0126,SENSITIVE,2,Preclinical,D,19272688d5ef,ALL,,1
+MOAlmanac,TMPRSS2,TMPRSS2::ERG Fusion,Prostate Adenocarcinoma,Rucaparib,Rucaparib,SENSITIVE,2,Preclinical,D,7a014817e195,ALL,,1
+MOAlmanac,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Imatinib,Imatinib,RESISTANT,2,Preclinical,D,f14fcd2bc243,ALL,,1
+MOAlmanac,ABL1,ABL1 Mutation,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,4,Clinical evidence,B,2e4f8e1c0a3c,ALL,,1
+MOAlmanac,ABL1,ABL1 T315A,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,4,Clinical evidence,B,e037f5642be9,ALL,,1
+MOAlmanac,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,4,Clinical evidence,B,98c84ea93c11,ALL,,1
+MOAlmanac,ABL1,ABL1 F317L,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,4,Clinical evidence,B,a018042a8cf1,ALL,,1
+MOAlmanac,ABL1,ABL1 F317V,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,4,Clinical evidence,B,3fc783ea0e58,ALL,,1
+MOAlmanac,ABL1,ABL1 F317I,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,4,Clinical evidence,B,39b5d074fa51,ALL,,1
+MOAlmanac,ABL1,ABL1 F317C,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,4,Clinical evidence,B,9da7190f0afa,ALL,,1
+MOAlmanac,ABL1,ABL1 Mutation,Chronic Myelogenous Leukemia,Imatinib,Imatinib,RESISTANT,4,Clinical evidence,B,a5ccf90b636a,ALL,,1
+MOAlmanac,ABL1,ABL1 E255K,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,4,Clinical evidence,B,30c7418a9215,ALL,,1
+MOAlmanac,ABL1,ABL1 E255V,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,4,Clinical evidence,B,b1df7ef3ba57,ALL,,1
+MOAlmanac,ABL1,ABL1 Y253H,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,4,Clinical evidence,B,4e885b41e972,ALL,,1
+MOAlmanac,ABL1,ABL1 F359V,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,4,Clinical evidence,B,89b62a60ead9,ALL,,1
+MOAlmanac,ABL1,ABL1 F359C,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,4,Clinical evidence,B,d92a06f2285b,ALL,,1
+MOAlmanac,ABL1,ABL1 F359I,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,4,Clinical evidence,B,7e7817b7cc5c,ALL,,1
+MOAlmanac,ABL1,ABL1 Y253H,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,5,Guideline,A,10874c10d4be,ALL,,1
+MOAlmanac,ABL1,ABL1 E255K,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,5,Guideline,A,961895e076ea,ALL,,1
+MOAlmanac,ABL1,ABL1 E255V,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,5,Guideline,A,e0d5e12f9897,ALL,,1
+MOAlmanac,ABL1,ABL1 F359V,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,5,Guideline,A,cd5bf07832a8,ALL,,1
+MOAlmanac,ABL1,ABL1 F359C,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,5,Guideline,A,4a0b6c3a5970,ALL,,1
+MOAlmanac,ABL1,ABL1 F359I,Chronic Myelogenous Leukemia,Dasatinib,Dasatinib,RESISTANT,5,Guideline,A,b1f2515c7430,ALL,,1
+MOAlmanac,ABL1,ABL1 F317L,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,5,Guideline,A,bc9a681adeab,ALL,,1
+MOAlmanac,ABL1,ABL1 F317V,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,5,Guideline,A,a77c6c09797e,ALL,,1
+MOAlmanac,ABL1,ABL1 F317I,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,5,Guideline,A,36d7c7116004,ALL,,1
+MOAlmanac,ABL1,ABL1 F317C,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,5,Guideline,A,5d60729a7dbe,ALL,,1
+MOAlmanac,ABL1,ABL1 T315A,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,5,Guideline,A,3675f5838b87,ALL,,1
+MOAlmanac,ABL1,ABL1 V299L,Chronic Myelogenous Leukemia,Nilotinib,Nilotinib,RESISTANT,5,Guideline,A,6029696b6a2c,ALL,,1
+MOAlmanac,ABL1,ABL1 E255K,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,8bb47d5ff739,ALL,,1
+MOAlmanac,ABL1,ABL1 E255V,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,7a02a6236dbc,ALL,,1
+MOAlmanac,ABL1,ABL1 F317L,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,01701581ed1a,ALL,,1
+MOAlmanac,ABL1,ABL1 F317V,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,5a638b236ab5,ALL,,1
+MOAlmanac,ABL1,ABL1 F317I,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,c5e890126ae6,ALL,,1
+MOAlmanac,ABL1,ABL1 F317C,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,f4d14b701cdb,ALL,,1
+MOAlmanac,ABL1,ABL1 F359V,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,f57a11f7bda1,ALL,,1
+MOAlmanac,ABL1,ABL1 F359C,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,7a4afad25cbf,ALL,,1
+MOAlmanac,ABL1,ABL1 T315A,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,64244903ae97,ALL,,1
+MOAlmanac,ABL1,ABL1 Y253H,Chronic Myelogenous Leukemia,Bosutinib,Bosutinib,RESISTANT,5,Guideline,A,0b62098b75a3,ALL,,1
+MOAlmanac,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Ponatinib,Ponatinib,RESISTANT,5,Guideline,A,7d7c7996aba7,ALL,,1
+MOAlmanac,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Omacetaxine,Omacetaxine,RESISTANT,5,Guideline,A,2970e499d4b4,ALL,,1
+MOAlmanac,AKT1,AKT1 Mutation,Invasive Breast Carcinoma,Akt Inhibitor MK2206,Akt Inhibitor MK2206,SENSITIVE,2,Preclinical,D,4970ed4cef96,ALL,,1
+MOAlmanac,AKT1,AKT1 E17K,Invasive Breast Carcinoma,Akt Inhibitor MK2206,Akt Inhibitor MK2206,SENSITIVE,2,Preclinical,D,3d4ba73bde04,ALL,,1
+MOAlmanac,ALK,ALK G1202R,Non-Small Cell Lung Cancer,Ceritinib,Ceritinib,RESISTANT,2,Preclinical,D,4b9ac3d56325,ALL,,1
+MOAlmanac,ALK,ALK F1174C,Non-Small Cell Lung Cancer,Ceritinib,Ceritinib,RESISTANT,2,Preclinical,D,593ece5633a2,ALL,,1
+MOAlmanac,ALK,ALK L1196M,Non-Small Cell Lung Cancer,Ceritinib,Ceritinib,SENSITIVE,2,Preclinical,D,6978da877a78,ALL,,1
+MOAlmanac,ALK,ALK G1269A,Non-Small Cell Lung Cancer,Ceritinib,Ceritinib,SENSITIVE,2,Preclinical,D,d18bc102ea8c,ALL,,1
+MOAlmanac,ALK,ALK S1206Y,Non-Small Cell Lung Cancer,Ceritinib,Ceritinib,SENSITIVE,2,Preclinical,D,88385d7be3ff,ALL,,1
+MOAlmanac,AR,AR T878A,Prostate Adenocarcinoma,Abiraterone,Abiraterone,RESISTANT,4,Clinical evidence,B,4506c6076f8e,ALL,,1
+MOAlmanac,AR,AR L702H,Prostate Adenocarcinoma,Abiraterone,Abiraterone,RESISTANT,4,Clinical evidence,B,7cdedf15cc93,ALL,,1
+MOAlmanac,ARAF,ARAF S214C,Non-Small Cell Lung Cancer,Sorafenib,Sorafenib,SENSITIVE,4,Clinical evidence,B,668ed224d3e0,ALL,,1
+MOAlmanac,ARID1A,ARID1A Mutation,"Ovarian Cancer, Other",Durvalumab,Durvalumab,SENSITIVE,2,Preclinical,D,1e3b91e45f84,ALL,,1
+MOAlmanac,ATM,ATM Mutation,Any solid tumor,Elimusertib,Elimusertib,SENSITIVE,4,Clinical trial,B,50bdc81afdc0,ALL,,1
+MOAlmanac,ATM,ATM Mutation,Any solid tumor,Radiation Therapy,Radiation Therapy,SENSITIVE,4,Clinical evidence,B,b4243ba55b74,ALL,,1
+MOAlmanac,ATM,ATM A1127D,Colorectal Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,2,Preclinical,D,fb2cd88b5e15,ALL,,1
+MOAlmanac,ATM,ATM Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,a1196803e152,ALL,,1
+MOAlmanac,BARD1,BARD1 Mutation,"Ovarian Cancer, Other",Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,2eecd0a09d73,ALL,,1
+MOAlmanac,BARD1,BARD1 Mutation,Peritoneal Mesothelioma,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,43a4af1221fe,ALL,,1
+MOAlmanac,BARD1,BARD1 Mutation,Serous Ovarian Cancer,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,706f2d187c58,ALL,,1
+MOAlmanac,BARD1,BARD1 Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,715d5c40d027,ALL,,1
+MOAlmanac,BCR,BCR Mutation,Chronic Myelogenous Leukemia,Imatinib,Imatinib,RESISTANT,4,Clinical evidence,B,03590c42abc3,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Dabrafenib,Dabrafenib,SENSITIVE,5,FDA-Approved,A,9c86a8ed55c6,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Dabrafenib + Trametinib,Dabrafenib + Trametinib,SENSITIVE,5,FDA-Approved,A,7bd2bb88b1cb,ALL,,1
+MOAlmanac,BRAF,BRAF V600K,Melanoma,Dabrafenib + Trametinib,Dabrafenib + Trametinib,SENSITIVE,5,FDA-Approved,A,dc824f5e6339,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Non-Small Cell Lung Cancer,Dabrafenib + Trametinib,Dabrafenib + Trametinib,SENSITIVE,5,FDA-Approved,A,92742e93c511,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Trametinib,Trametinib,SENSITIVE,5,FDA-Approved,A,05c952e36486,ALL,,1
+MOAlmanac,BRAF,BRAF V600K,Melanoma,Trametinib,Trametinib,SENSITIVE,5,FDA-Approved,A,8ca9dcffda10,ALL,,1
+MOAlmanac,BRAF,BRAF V600K,Melanoma,Encorafenib,Encorafenib,SENSITIVE,5,FDA-Approved,A,bd17d29bd621,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Encorafenib,Encorafenib,SENSITIVE,5,FDA-Approved,A,a08204114b6d,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Colorectal Adenocarcinoma,Cetuximab + Encorafenib,Cetuximab + Encorafenib,SENSITIVE,5,FDA-Approved,A,b12b78b8cfb5,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Vemurafenib,Vemurafenib,SENSITIVE,5,FDA-Approved,A,8689ce64f485,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Colorectal Adenocarcinoma,Panitumumab,Panitumumab,RESISTANT,5,Guideline,A,04b0c21f2fc5,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Cobimetinib + Vemurafenib,Cobimetinib + Vemurafenib,SENSITIVE,5,Guideline,A,c9732367668f,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Ipilimumab + Vemurafenib,Ipilimumab + Vemurafenib,SENSITIVE,4,Clinical trial,B,5de949d1d194,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Bevacizumab + Dabrafenib,Bevacizumab + Dabrafenib,SENSITIVE,2,Preclinical,D,bd182582f2e6,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Dabrafenib + Omipalisib,Dabrafenib + Omipalisib,SENSITIVE,2,Preclinical,D,7551c8524425,ALL,,1
+MOAlmanac,BRAF,BRAF Mutation,Melanoma,Selumetinib + Vemurafenib,Selumetinib + Vemurafenib,SENSITIVE,2,Preclinical,D,2417db8c851d,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Bleomycin,Bleomycin,SENSITIVE,2,Preclinical,D,8c3261fc8c99,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Mito-CP,Mito-CP,SENSITIVE,2,Preclinical,D,074758eb2157,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Langerhans Cell Histiocytosis,Vemurafenib,Vemurafenib,SENSITIVE,4,Clinical trial,B,7f3fef3a53df,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Non-Langerhans Cell Histiocytosis/Erdheim-Chester Disease,Vemurafenib,Vemurafenib,SENSITIVE,4,Clinical trial,B,0cf560a99073,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Non-Small Cell Lung Cancer,Vemurafenib,Vemurafenib,SENSITIVE,4,Clinical trial,B,85290b70ee83,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,High-Grade Neuroendocrine Carcinoma of the Colon and Rectum,Dabrafenib + Trametinib,Dabrafenib + Trametinib,SENSITIVE,4,Clinical evidence,B,cac876a6154f,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,High-Grade Neuroendocrine Carcinoma of the Colon and Rectum,Trametinib + Vemurafenib,Trametinib + Vemurafenib,SENSITIVE,4,Clinical evidence,B,dbdbead6f219,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Melanoma,Interferon Alpha + Ixazomib,Interferon Alpha + Ixazomib,SENSITIVE,2,Preclinical,D,f64e0a708227,ALL,,1
+MOAlmanac,BRAF,BRAF Mutation,Melanoma,Dabrafenib,Dabrafenib,SENSITIVE,4,Clinical evidence,B,eefc5880fc10,ALL,,1
+MOAlmanac,BRAF,BRAF Mutation,Melanoma,Vemurafenib,Vemurafenib,SENSITIVE,4,Clinical evidence,B,9e661aee0557,ALL,,1
+MOAlmanac,BRAF,BRAF Mutation,Melanoma,Dabrafenib + Trametinib,Dabrafenib + Trametinib,SENSITIVE,4,Clinical evidence,B,2d84b2a1e728,ALL,,1
+MOAlmanac,BRAF,BRAF Mutation,Melanoma,Trametinib,Trametinib,SENSITIVE,4,Clinical evidence,B,c941688cc76c,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Pancreatic Adenocarcinoma,Vemurafenib,Vemurafenib,SENSITIVE,4,Clinical evidence,B,7489c96c11a5,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Glioma,Neratinib + Vemurafenib,Neratinib + Vemurafenib,SENSITIVE,2,Preclinical,D,8fde3cfac1a7,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Colorectal Adenocarcinoma,Cetuximab,Cetuximab,RESISTANT,5,Guideline,A,09c26e37fe85,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Colorectal Adenocarcinoma,Cetuximab + Vemurafenib,Cetuximab + Vemurafenib,SENSITIVE,4,Clinical trial,B,1312109c56d5,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Ovarian Epithelial Tumor,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,8ab207cce900,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,High-Grade Serous Fallopian Tube Cancer,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,17933913a97b,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Peritoneal Serous Carcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,9e81c8902c1e,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Ovarian Epithelial Tumor,Rucaparib,Rucaparib,SENSITIVE,5,FDA-Approved,A,9b4efc4f23dc,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,High-Grade Serous Fallopian Tube Cancer,Rucaparib,Rucaparib,SENSITIVE,5,FDA-Approved,A,694605288393,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Peritoneal Serous Carcinoma,Rucaparib,Rucaparib,SENSITIVE,5,FDA-Approved,A,42ff00648535,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,"Ovarian Cancer, Other",Olaparib,Olaparib,SENSITIVE,4,Clinical evidence,B,6c644ae1a668,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,"Ovarian Cancer, Other",Olaparib,Olaparib,RESISTANT,4,Clinical evidence,B,0b900e983a36,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Pancreatic Adenocarcinoma,Platinum Compound,Platinum Compound,SENSITIVE,4,Clinical evidence,B,b1ff148f9b86,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Ovarian Epithelial Tumor,Niraparib,Niraparib,SENSITIVE,5,FDA-Approved,A,a498614e7397,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,High-Grade Serous Fallopian Tube Cancer,Niraparib,Niraparib,SENSITIVE,5,FDA-Approved,A,442c35453674,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Peritoneal Serous Carcinoma,Niraparib,Niraparib,SENSITIVE,5,FDA-Approved,A,0e6064746634,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,3dfbcfd3817c,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Ovarian Epithelial Tumor,Bevacizumab + Olaparib,Bevacizumab + Olaparib,SENSITIVE,5,FDA-Approved,A,723529097f13,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,High-Grade Serous Fallopian Tube Cancer,Bevacizumab + Olaparib,Bevacizumab + Olaparib,SENSITIVE,5,FDA-Approved,A,a3a3ea06ccd3,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Peritoneal Serous Carcinoma,Bevacizumab + Olaparib,Bevacizumab + Olaparib,SENSITIVE,5,FDA-Approved,A,b4b5546238d2,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Ovarian Epithelial Tumor,Niraparib,Niraparib,SENSITIVE,5,FDA-Approved,A,f7874e02bb5c,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,High-Grade Serous Fallopian Tube Cancer,Niraparib,Niraparib,SENSITIVE,5,FDA-Approved,A,2522ce6a6030,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Peritoneal Serous Carcinoma,Niraparib,Niraparib,SENSITIVE,5,FDA-Approved,A,37892e124856,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Ovarian Epithelial Tumor,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,39bfc12e9a70,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,High-Grade Serous Fallopian Tube Cancer,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,86c9f8b2fedb,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Peritoneal Serous Carcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,1646e8fdcc35,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Ovarian Epithelial Tumor,Rucaparib,Rucaparib,SENSITIVE,5,FDA-Approved,A,0e8822022823,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,High-Grade Serous Fallopian Tube Cancer,Rucaparib,Rucaparib,SENSITIVE,5,FDA-Approved,A,81ffe9d347f1,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Peritoneal Serous Carcinoma,Rucaparib,Rucaparib,SENSITIVE,5,FDA-Approved,A,5eb876ba98ff,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,"Ovarian Cancer, Other",Olaparib,Olaparib,SENSITIVE,4,Clinical evidence,B,764d7dcc22b2,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,"Ovarian Cancer, Other",Olaparib,Olaparib,RESISTANT,4,Clinical evidence,B,bcc202feda51,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,4,Clinical trial,B,af004a47b10a,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Pancreatic Adenocarcinoma,Platinum Compound,Platinum Compound,SENSITIVE,4,Clinical evidence,B,0de05ea857d5,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Melanoma,Nivolumab + Pembrolizumab,Nivolumab + Pembrolizumab,SENSITIVE,4,Clinical evidence,B,165ae503b75e,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Ovarian Epithelial Tumor,Bevacizumab + Olaparib,Bevacizumab + Olaparib,SENSITIVE,5,FDA-Approved,A,e6305003bed4,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,High-Grade Serous Fallopian Tube Cancer,Bevacizumab + Olaparib,Bevacizumab + Olaparib,SENSITIVE,5,FDA-Approved,A,eaa5c599e74b,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Peritoneal Serous Carcinoma,Bevacizumab + Olaparib,Bevacizumab + Olaparib,SENSITIVE,5,FDA-Approved,A,d974d29643bd,ALL,,1
+MOAlmanac,BRIP1,BRIP1 Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,e70f81b439ad,ALL,,1
+MOAlmanac,CDK12,CDK12 Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,406069fb9f1c,ALL,,1
+MOAlmanac,CHEK1,CHEK1 Mutation,"Ovarian Cancer, Other",Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,c30ddaaa1a0c,ALL,,1
+MOAlmanac,CHEK1,CHEK1 Mutation,Peritoneal Mesothelioma,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,d3ffaa443807,ALL,,1
+MOAlmanac,CHEK1,CHEK1 Mutation,Serous Ovarian Cancer,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,6d436aa8c7da,ALL,,1
+MOAlmanac,CHEK1,CHEK1 Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,388f3f1ebec4,ALL,,1
+MOAlmanac,CHEK2,CHEK2 Mutation,"Ovarian Cancer, Other",Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,6a664d2e437e,ALL,,1
+MOAlmanac,CHEK2,CHEK2 Mutation,Peritoneal Mesothelioma,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,1ce2e30c3918,ALL,,1
+MOAlmanac,CHEK2,CHEK2 Mutation,Serous Ovarian Cancer,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,49d2b22a2516,ALL,,1
+MOAlmanac,CHEK2,CHEK2 Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,34edd8b5ef76,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Osimertinib,Osimertinib,SENSITIVE,5,FDA-Approved,A,544736f3fc03,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Erlotinib,Erlotinib,SENSITIVE,5,Guideline,A,2b93262054b5,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Gefitinib,Gefitinib,SENSITIVE,5,Guideline,A,6aa0476ebc88,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Gefitinib,Gefitinib,RESISTANT,5,Guideline,A,9dc91d6cdb8a,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Afatinib,Afatinib,SENSITIVE,5,Guideline,A,79616b6c36a0,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Gefitinib,Gefitinib,RESISTANT,5,Guideline,A,354763d3e569,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Durvalumab + Osimertinib,Durvalumab + Osimertinib,SENSITIVE,4,Clinical trial,B,67d22a018834,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Olmutinib,Olmutinib,SENSITIVE,4,Clinical trial,B,5bb6930c50e9,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Cabozantinib,Cabozantinib,SENSITIVE,4,Clinical trial,B,127177f8b0a7,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Capmatinib,Capmatinib,SENSITIVE,4,Clinical trial,B,27c456366b9e,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Zorifertinib,Zorifertinib,SENSITIVE,4,Clinical trial,B,26a9e4281343,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Dacomitinib,Dacomitinib,SENSITIVE,4,Clinical trial,B,067d82031392,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Icotinib,Icotinib,SENSITIVE,4,Clinical trial,B,7f00544405b7,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Rociletinib,Rociletinib,SENSITIVE,4,Clinical trial,B,2906838121de,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Nazartinib,Nazartinib,SENSITIVE,4,Clinical evidence,B,15fdeab5a78e,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Nazartinib,Nazartinib,SENSITIVE,4,Clinical evidence,B,f2c681474ddb,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Mavelertinib,Mavelertinib,SENSITIVE,4,Clinical evidence,B,723ce9425b0e,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Mavelertinib,Mavelertinib,SENSITIVE,4,Clinical evidence,B,80bcbb00236f,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Erlotinib,Erlotinib,RESISTANT,4,Clinical evidence,B,5c93c01f14a5,ALL,,1
+MOAlmanac,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Afatinib,Afatinib,RESISTANT,4,Clinical evidence,B,82a8f4c4c93d,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Afatinib,Afatinib,SENSITIVE,5,FDA-Approved,A,b388e372db36,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Gamma knife,Gamma knife,SENSITIVE,4,Clinical evidence,B,73bbbc6b0a47,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Osimertinib,Osimertinib,SENSITIVE,4,Clinical trial,B,2c715c702933,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Osimertinib,Osimertinib,SENSITIVE,4,Clinical trial,B,fe9f58a5b564,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Amivantamab,Amivantamab,SENSITIVE,5,FDA-Approved,A,7a09d7034643,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Mobocertinib,Mobocertinib,SENSITIVE,5,FDA-Approved,A,c33466ae5c32,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Mutation,Invasive Breast Carcinoma,Neratinib,Neratinib,SENSITIVE,4,Clinical evidence,B,5b38e7e3dace,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Mutation,Non-Small Cell Lung Cancer,Trastuzumab Emtansine,Trastuzumab Emtansine,SENSITIVE,5,Guideline,A,0163cc4d7081,ALL,,1
+MOAlmanac,ERBB3,ERBB3 Mutation,Invasive Breast Carcinoma,Neratinib,Neratinib,SENSITIVE,4,Clinical evidence,B,51d3d3d82cc4,ALL,,1
+MOAlmanac,ERCC2,ERCC2 Mutation,Bladder Urothelial Carcinoma,Cisplatin,Cisplatin,SENSITIVE,4,Clinical evidence,B,8f582afb380a,ALL,,1
+MOAlmanac,ERRFI1,ERRFI1 E384*,Cholangiocarcinoma,Erlotinib,Erlotinib,SENSITIVE,4,Clinical evidence,B,0a1b250f84b7,ALL,,1
+MOAlmanac,ESR1,ESR1 Mutation,Invasive Breast Carcinoma,Letrozole + Tamoxifen,Letrozole + Tamoxifen,RESISTANT,4,Clinical evidence,B,40dc481671df,ALL,,1
+MOAlmanac,EZH2,EZH2 Y646*,Follicular Lymphoma,Tazemetostat,Tazemetostat,SENSITIVE,5,FDA-Approved,A,701ad3f7e6f2,ALL,,1
+MOAlmanac,EZH2,EZH2 Y646F,Follicular Lymphoma,Tazemetostat,Tazemetostat,SENSITIVE,5,FDA-Approved,A,8b593635b4a6,ALL,,1
+MOAlmanac,EZH2,EZH2 Y646N,Follicular Lymphoma,Tazemetostat,Tazemetostat,SENSITIVE,5,FDA-Approved,A,ecfbf1f2e7a3,ALL,,1
+MOAlmanac,EZH2,EZH2 A682G,Follicular Lymphoma,Tazemetostat,Tazemetostat,SENSITIVE,5,FDA-Approved,A,dfc14dd72fca,ALL,,1
+MOAlmanac,EZH2,EZH2 A692V,Follicular Lymphoma,Tazemetostat,Tazemetostat,SENSITIVE,5,FDA-Approved,A,8bdcaead10fd,ALL,,1
+MOAlmanac,FANCL,FANCL Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,6de3c77faaa8,ALL,,1
+MOAlmanac,FBXW7,FBXW7 Mutation,Breast Invasive Ductal Carcinoma,Sirolimus,Sirolimus,SENSITIVE,2,Preclinical,D,c305c04f6fb9,ALL,,1
+MOAlmanac,FGFR3,FGFR3 R248C,Bladder Urothelial Carcinoma,Erdafitinib,Erdafitinib,SENSITIVE,5,FDA-Approved,A,87889aa36586,ALL,,1
+MOAlmanac,FGFR3,FGFR3 S249C,Bladder Urothelial Carcinoma,Erdafitinib,Erdafitinib,SENSITIVE,5,FDA-Approved,A,9b06775d95a1,ALL,,1
+MOAlmanac,FGFR3,FGFR3 G370C,Bladder Urothelial Carcinoma,Erdafitinib,Erdafitinib,SENSITIVE,5,FDA-Approved,A,9cbe8cdcec38,ALL,,1
+MOAlmanac,FGFR3,FGFR3 Y373C,Bladder Urothelial Carcinoma,Erdafitinib,Erdafitinib,SENSITIVE,5,FDA-Approved,A,de188bb11b75,ALL,,1
+MOAlmanac,FLCN,FLCN Mutation,Bladder Urothelial Carcinoma,Everolimus,Everolimus,SENSITIVE,4,Clinical evidence,B,cd283667dd5b,ALL,,1
+MOAlmanac,FLCN,FLCN Mutation,Anaplastic Thyroid Cancer,Everolimus,Everolimus,SENSITIVE,4,Clinical evidence,B,42aa7d65bfe9,ALL,,1
+MOAlmanac,FLT3,FLT3 F691L,Acute Myeloid Leukemia,Quizartinib,Quizartinib,RESISTANT,4,Clinical evidence,B,217d2d4aac5c,ALL,,1
+MOAlmanac,FLT3,FLT3 K663Q,Acute Myeloid Leukemia,Sunitinib,Sunitinib,SENSITIVE,2,Preclinical,D,e4f6bd29966c,ALL,,1
+MOAlmanac,GATA3,GATA3 M294K,Invasive Breast Carcinoma,Letrozole,Letrozole,SENSITIVE,4,Clinical evidence,B,3505bc65e73c,ALL,,1
+MOAlmanac,IDH1,IDH1 Mutation,Acute Myeloid Leukemia,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,3427ab442bc8,ALL,,1
+MOAlmanac,IDH1,IDH1 Mutation,Glioma,Antineoplastic Alkylating Agent,Antineoplastic Alkylating Agent,SENSITIVE,5,Guideline,A,65a17e834aff,ALL,,1
+MOAlmanac,IDH1,IDH1 R132H,Acute Myeloid Leukemia,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,25b0c9626bb0,ALL,,1
+MOAlmanac,IDH1,IDH1 R132C,Acute Myeloid Leukemia,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,c69d621c18c8,ALL,,1
+MOAlmanac,IDH1,IDH1 R132H,Cholangiocarcinoma,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,1742ebe8a172,ALL,,1
+MOAlmanac,IDH1,IDH1 R132C,Cholangiocarcinoma,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,383225e8d928,ALL,,1
+MOAlmanac,IDH1,IDH1 Mutation,Cholangiocarcinoma,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,79c2b1fb86e2,ALL,,1
+MOAlmanac,IDH2,IDH2 R140Q,Acute Myeloid Leukemia,Enasidenib,Enasidenib,SENSITIVE,5,FDA-Approved,A,17961fb2c2ba,ALL,,1
+MOAlmanac,IDH2,IDH2 R172S,Acute Myeloid Leukemia,Enasidenib,Enasidenib,SENSITIVE,5,FDA-Approved,A,b2898494f4f0,ALL,,1
+MOAlmanac,IDH2,IDH2 R172K,Acute Myeloid Leukemia,Enasidenib,Enasidenib,SENSITIVE,5,FDA-Approved,A,96df59ead707,ALL,,1
+MOAlmanac,IDH2,IDH2 Mutation,Glioma,Antineoplastic Alkylating Agent,Antineoplastic Alkylating Agent,SENSITIVE,5,Guideline,A,cefa8d466f25,ALL,,1
+MOAlmanac,JAK1,JAK1 V656F,Acute Lymphoid Leukemia,Zelavespib,Zelavespib,SENSITIVE,2,Preclinical,D,1ae08657becd,ALL,,1
+MOAlmanac,JAK1,JAK1 A634D,Acute Lymphoid Leukemia,Zelavespib,Zelavespib,SENSITIVE,2,Preclinical,D,d58032c85af8,ALL,,1
+MOAlmanac,JAK3,JAK3 A572T,T-Cell Acute Lymphoid Leukemia,Ruxolitinib,Ruxolitinib,SENSITIVE,2,Preclinical,D,810954f3f0c2,ALL,,1
+MOAlmanac,JAK3,JAK3 M511I,T-Cell Acute Lymphoid Leukemia,Ruxolitinib,Ruxolitinib,SENSITIVE,2,Preclinical,D,7319887863cb,ALL,,1
+MOAlmanac,JAK3,JAK3 L857Q,T-Cell Acute Lymphoid Leukemia,Ruxolitinib,Ruxolitinib,SENSITIVE,2,Preclinical,D,01cea8399e8c,ALL,,1
+MOAlmanac,JAK3,JAK3 A572T,T-Cell Acute Lymphoid Leukemia,Tofacitinib,Tofacitinib,SENSITIVE,2,Preclinical,D,a14d614673f9,ALL,,1
+MOAlmanac,JAK3,JAK3 M511I,T-Cell Acute Lymphoid Leukemia,Tofacitinib,Tofacitinib,SENSITIVE,2,Preclinical,D,da710ca6f301,ALL,,1
+MOAlmanac,JAK3,JAK3 L857Q,T-Cell Acute Lymphoid Leukemia,Tofacitinib,Tofacitinib,SENSITIVE,2,Preclinical,D,aacbb9ee1f50,ALL,,1
+MOAlmanac,KIT,KIT Mutation,Gastrointestinal Stromal Tumor,Imatinib,Imatinib,SENSITIVE,5,FDA-Approved,A,569f8488c5af,ALL,,1
+MOAlmanac,KIT,KIT Mutation,Gastrointestinal Stromal Tumor,Regorafenib,Regorafenib,SENSITIVE,5,FDA-Approved,A,d9bf3ede28d5,ALL,,1
+MOAlmanac,KIT,KIT T670I,Gastrointestinal Stromal Tumor,Regorafenib,Regorafenib,SENSITIVE,5,FDA-Approved,A,e4830f040f17,ALL,,1
+MOAlmanac,KIT,KIT V654A,Gastrointestinal Stromal Tumor,Regorafenib,Regorafenib,SENSITIVE,5,FDA-Approved,A,33af7844db42,ALL,,1
+MOAlmanac,KIT,KIT Mutation,Gastrointestinal Stromal Tumor,Sunitinib,Sunitinib,SENSITIVE,5,FDA-Approved,A,4270c1442fe7,ALL,,1
+MOAlmanac,KIT,KIT T670I,Gastrointestinal Stromal Tumor,Sunitinib,Sunitinib,SENSITIVE,5,FDA-Approved,A,878eae555524,ALL,,1
+MOAlmanac,KIT,KIT V654A,Gastrointestinal Stromal Tumor,Sunitinib,Sunitinib,SENSITIVE,5,FDA-Approved,A,38600aa898e8,ALL,,1
+MOAlmanac,KIT,KIT Mutation,Head and Neck Mucosal Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,1c34c27ba765,ALL,,1
+MOAlmanac,KIT,KIT Mutation,Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,45a5f7efa846,ALL,,1
+MOAlmanac,KIT,KIT W557C,Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,f19744cedc21,ALL,,1
+MOAlmanac,KIT,KIT W557G,Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,d726e98f863d,ALL,,1
+MOAlmanac,KIT,KIT W557R,Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,3e24bf43fbf9,ALL,,1
+MOAlmanac,KIT,KIT V559A,Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,f03eb97d916a,ALL,,1
+MOAlmanac,KIT,KIT V559G,Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,7d7046c33ae0,ALL,,1
+MOAlmanac,KIT,KIT L576P,Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,05cf9c8b0b1d,ALL,,1
+MOAlmanac,KIT,KIT K642E,Melanoma,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,862c1996b6b5,ALL,,1
+MOAlmanac,KIT,KIT Mutation,Thymic Carcinoma,Sunitinib,Sunitinib,SENSITIVE,5,Guideline,A,9af8e47f14fe,ALL,,1
+MOAlmanac,KIT,KIT D816V,Gastrointestinal Stromal Tumor,Avapritinib,Avapritinib,SENSITIVE,2,Preclinical,D,b1b8d71def23,ALL,,1
+MOAlmanac,KIT,KIT Mutation,Gastrointestinal Stromal Tumor,Avapritinib,Avapritinib,SENSITIVE,2,Preclinical,D,1ace62080428,ALL,,1
+MOAlmanac,KIT,KIT Mutation,Mast Cell Leukemia,Avapritinib,Avapritinib,SENSITIVE,2,Preclinical,D,5295352c2dec,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Non-Small Cell Lung Cancer,Palbociclib + Trametinib,Palbociclib + Trametinib,SENSITIVE,2,Preclinical,D,84fb0849a826,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,"Ovarian Cancer, Other",Buparlisib + Trametinib,Buparlisib + Trametinib,SENSITIVE,4,Clinical trial,B,92f693867401,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Colorectal Adenocarcinoma,Cetuximab,Cetuximab,RESISTANT,5,Guideline,A,ef4376b46b88,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Colorectal Adenocarcinoma,Panitumumab,Panitumumab,RESISTANT,5,Guideline,A,e487053f267f,ALL,,1
+MOAlmanac,KRAS,KRAS G12C,Non-Small Cell Lung Cancer,Sotorasib,Sotorasib,SENSITIVE,5,FDA-Approved,A,12ceeafdf212,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Non-Small Cell Lung Cancer,Gefitinib,Gefitinib,RESISTANT,5,Guideline,A,265ace9205bd,ALL,,1
+MOAlmanac,KRAS,KRAS G12,Any solid tumor,Proton Stereotactic Body Radiation Therapy,Proton Stereotactic Body Radiation Therapy,RESISTANT,4,Clinical trial,B,a5a0add3ca02,ALL,,1
+MOAlmanac,KRAS,KRAS G13,Any solid tumor,Proton Stereotactic Body Radiation Therapy,Proton Stereotactic Body Radiation Therapy,RESISTANT,4,Clinical trial,B,5f176d2b7e36,ALL,,1
+MOAlmanac,KRAS,KRAS Q61,Any solid tumor,Proton Stereotactic Body Radiation Therapy,Proton Stereotactic Body Radiation Therapy,RESISTANT,4,Clinical trial,B,9b7900a54b87,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Non-Small Cell Lung Cancer,FGFR1 inhibitor + Trametinib,FGFR1 inhibitor + Trametinib,SENSITIVE,2,Preclinical,D,e9c54cecba98,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Pancreatic Adenocarcinoma,FGFR1 inhibitor + Trametinib,FGFR1 inhibitor + Trametinib,SENSITIVE,2,Preclinical,D,2347b9537523,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Non-Small Cell Lung Cancer,Pembrolizumab,Pembrolizumab,SENSITIVE,4,Clinical evidence,B,0f0a9176047a,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Pancreatic Adenocarcinoma,Vemurafenib,Vemurafenib,RESISTANT,4,Clinical evidence,B,9b406e2ba60b,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Leukemia,Momelotinib,Momelotinib,SENSITIVE,2,Preclinical,D,27b4e590d7e0,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Leukemia,Ruxolitinib,Ruxolitinib,SENSITIVE,2,Preclinical,D,3a3eb401e5e1,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Rectal Adenocarcinoma,Chemoradiotherapy,Chemoradiotherapy,RESISTANT,4,Clinical evidence,B,1829139a1289,ALL,,1
+MOAlmanac,KRAS,KRAS Mutation,Non-Small Cell Lung Cancer,Stereotactic Body Radiation Therapy,Stereotactic Body Radiation Therapy,RESISTANT,4,Clinical evidence,B,b82f023cfdcf,ALL,,1
+MOAlmanac,MAP2K1,MAP2K1 P124L,Melanoma,Vemurafenib,Vemurafenib,RESISTANT,2,Preclinical,D,145f462526cc,ALL,,1
+MOAlmanac,MAP2K1,MAP2K1 Q56P,Melanoma,Vemurafenib,Vemurafenib,RESISTANT,2,Preclinical,D,e4d3671808bc,ALL,,1
+MOAlmanac,MAP2K1,MAP2K1 P124L,Melanoma,Selumetinib,Selumetinib,RESISTANT,4,Clinical evidence,B,47662838fd45,ALL,,1
+MOAlmanac,MAP2K1,MAP2K1 Q56P,Non-Small Cell Lung Cancer,Selumetinib,Selumetinib,SENSITIVE,2,Preclinical,D,2adfbb591c6b,ALL,,1
+MOAlmanac,MAP2K1,MAP2K1 Q56P,Melanoma,Selumetinib,Selumetinib,RESISTANT,2,Preclinical,D,dfc4ce207207,ALL,,1
+MOAlmanac,MAP2K1,MAP2K1 C121S,Melanoma,Vemurafenib,Vemurafenib,RESISTANT,2,Preclinical,D,ff239fd298d3,ALL,,1
+MOAlmanac,MAP2K1,MAP2K1 C121S,Melanoma,Selumetinib,Selumetinib,RESISTANT,2,Preclinical,D,95de338f722d,ALL,,1
+MOAlmanac,MAP2K2,MAP2K2 Q60P,Melanoma,Trametinib,Trametinib,RESISTANT,4,Clinical evidence,B,be6bc240243f,ALL,,1
+MOAlmanac,MAPK1,MAPK1 E322K,Head and Neck Squamous Cell Carcinoma,Erlotinib,Erlotinib,SENSITIVE,2,Preclinical,D,fcfa24618c38,ALL,,1
+MOAlmanac,MET,MET T1010I,Head and Neck Squamous Cell Carcinoma,SU11274,SU11274,SENSITIVE,2,Preclinical,D,484dc9b0c2b4,ALL,,1
+MOAlmanac,MET,MET Mutation,Non-Small Cell Lung Cancer,Crizotinib,Crizotinib,SENSITIVE,5,Guideline,A,6fe0bddce8b4,ALL,,1
+MOAlmanac,MET,MET Mutation,Non-Small Cell Lung Cancer,Capmatinib,Capmatinib,SENSITIVE,5,FDA-Approved,A,63562102d6eb,ALL,,1
+MOAlmanac,MLH3,MLH3 Mutation,Colorectal Adenocarcinoma,Pembrolizumab,Pembrolizumab,SENSITIVE,4,Clinical evidence,B,e3d89e39942d,ALL,,1
+MOAlmanac,MPL,MPL W515L,Myeloproliferative Neoplasm,EXEL-8232,EXEL-8232,SENSITIVE,2,Preclinical,D,a9f9c08266d7,ALL,,1
+MOAlmanac,MSH2,MSH2 Mutation,Colorectal Adenocarcinoma,Pembrolizumab,Pembrolizumab,SENSITIVE,4,Clinical evidence,B,5905db45bb47,ALL,,1
+MOAlmanac,MSH6,MSH6 Mutation,Colorectal Adenocarcinoma,Pembrolizumab,Pembrolizumab,SENSITIVE,4,Clinical evidence,B,7f134c8d91c8,ALL,,1
+MOAlmanac,MYH,MYH Mutation,Colorectal Adenocarcinoma,Pembrolizumab,Pembrolizumab,SENSITIVE,1,Inferential,E,b4110aa4f4e9,ALL,,1
+MOAlmanac,NFE2L2,NFE2L2 Mutation,Lung Squamous Cell Carcinoma,Radiation Therapy,Radiation Therapy,RESISTANT,2,Preclinical,D,b1c2d4726838,ALL,,1
+MOAlmanac,NRAS,NRAS Q61R,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,898c742ed06a,ALL,,1
+MOAlmanac,NRAS,NRAS G12C,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,a7c0d159433e,ALL,,1
+MOAlmanac,NRAS,NRAS G12D,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,dc713d149ab2,ALL,,1
+MOAlmanac,NRAS,NRAS G12R,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,bfa93d516d5d,ALL,,1
+MOAlmanac,NRAS,NRAS G12S,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,6cb32013f0af,ALL,,1
+MOAlmanac,NRAS,NRAS G12V,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,dcdefb9e559f,ALL,,1
+MOAlmanac,NRAS,NRAS G13A,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,7f63296b4c50,ALL,,1
+MOAlmanac,NRAS,NRAS G13D,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,cad916b6f944,ALL,,1
+MOAlmanac,NRAS,NRAS G13R,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,6bc485a0a7da,ALL,,1
+MOAlmanac,NRAS,NRAS G13V,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,fc3abe75e534,ALL,,1
+MOAlmanac,NRAS,NRAS Q61E,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,61a57e9732aa,ALL,,1
+MOAlmanac,NRAS,NRAS Q61H,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,eb40c2ec37e8,ALL,,1
+MOAlmanac,NRAS,NRAS Q61L,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,043ca40eda95,ALL,,1
+MOAlmanac,NRAS,NRAS Q61P,Melanoma,Selumetinib,Selumetinib,SENSITIVE,4,Clinical evidence,B,bb3418e1ac57,ALL,,1
+MOAlmanac,PALB2,PALB2 Mutation,Peritoneal Mesothelioma,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,14dfe7ecd437,ALL,,1
+MOAlmanac,PALB2,PALB2 Mutation,Serous Ovarian Cancer,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,07a927c24af9,ALL,,1
+MOAlmanac,PALB2,PALB2 Mutation,"Ovarian Cancer, Other",Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,8e454c5745e5,ALL,,1
+MOAlmanac,PALB2,PALB2 Mutation,Pancreatic Adenocarcinoma,Platinum Compound,Platinum Compound,SENSITIVE,4,Clinical evidence,B,7923cdf29c5f,ALL,,1
+MOAlmanac,PALB2,PALB2 Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,91216ea5859a,ALL,,1
+MOAlmanac,PBRM1,PBRM1 Mutation,Renal Clear Cell Carcinoma,Nivolumab,Nivolumab,SENSITIVE,4,Clinical evidence,B,3d0c5b871855,ALL,,1
+MOAlmanac,PDGFRA,PDGFRA Mutation,Gastrointestinal Stromal Tumor,Imatinib,Imatinib,SENSITIVE,5,Guideline,A,7b857b3db2d0,ALL,,1
+MOAlmanac,PDGFRA,PDGFRA D842V,Gastrointestinal Stromal Tumor,Avapritinib,Avapritinib,SENSITIVE,2,Preclinical,D,e031373752ea,ALL,,1
+MOAlmanac,PDGFRA,PDGFRA Mutation,Gastrointestinal Stromal Tumor,Avapritinib,Avapritinib,SENSITIVE,5,FDA-Approved,A,ae0eb206011f,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA Mutation,Invasive Breast Carcinoma,Alpelisib,Alpelisib,SENSITIVE,5,FDA-Approved,A,b78eb5c81245,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA Mutation,Breast Invasive Ductal Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,0417f7e886c0,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA E545Q,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,dc918ea23b37,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA C420R,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,29fdf4bc4ccf,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA E542K,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,16ab6511c387,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA E542Q,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,9beefd99ea17,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA E545A,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,640c94b51145,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA E545D,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,0eb2916af920,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA E545G,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,efbc145485df,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA E545K,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,4e1f2f19b574,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA G1049R,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,67fb41354022,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA G1049S,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,4068cad29100,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA H1047L,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,a4b9e99b17e3,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA H1047R,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,ecaf41d97bc8,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA H1047Y,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,eeaaf9576280,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA H701P,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,971594ee7a7c,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA M1043I,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,fbeaa93f29e2,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA P539R,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,b841a5eeb37e,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA Q546K,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,76a15c32e373,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA Y1021C,Invasive Breast Carcinoma,Pictilisib,Pictilisib,SENSITIVE,2,Preclinical,D,8e361a8a8c0d,ALL,,1
+MOAlmanac,POLD1,POLD1 Mutation,Colorectal Adenocarcinoma,Pembrolizumab,Pembrolizumab,SENSITIVE,1,Inferential,E,1787c360f317,ALL,,1
+MOAlmanac,POLD1,POLD1 Mutation,Any solid tumor,Durvalumab,Durvalumab,SENSITIVE,1,Inferential,E,7a075d2fb98a,ALL,,1
+MOAlmanac,POLD1,POLD1 Mutation,Any solid tumor,Pembrolizumab,Pembrolizumab,SENSITIVE,1,Inferential,E,78fea04c1d15,ALL,,1
+MOAlmanac,POLE,POLE Mutation,Colorectal Adenocarcinoma,Pembrolizumab,Pembrolizumab,SENSITIVE,1,Inferential,E,561eb4a1dd89,ALL,,1
+MOAlmanac,POLE,POLE Mutation,Any solid tumor,Durvalumab,Durvalumab,SENSITIVE,1,Inferential,E,acd194df659f,ALL,,1
+MOAlmanac,POLE,POLE Mutation,Any solid tumor,Pembrolizumab,Pembrolizumab,SENSITIVE,1,Inferential,E,064dca71f93a,ALL,,1
+MOAlmanac,PTEN,PTEN Mutation,Prostate Adenocarcinoma,PI3Kbeta Inhibitor AZD8186,PI3Kbeta Inhibitor AZD8186,SENSITIVE,2,Preclinical,D,816c554c4299,ALL,,1
+MOAlmanac,PTEN,PTEN Mutation,Uterine Leiomyoma,Pembrolizumab,Pembrolizumab,RESISTANT,4,Clinical evidence,B,4079d206147c,ALL,,1
+MOAlmanac,PTEN,PTEN Mutation,Melanoma,Pembrolizumab,Pembrolizumab,RESISTANT,4,Clinical evidence,B,b45931c3cab0,ALL,,1
+MOAlmanac,RAD51B,RAD51B Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,a49d9572991a,ALL,,1
+MOAlmanac,RAD51C,RAD51C Mutation,"Ovarian Cancer, Other",Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,5a80d220973d,ALL,,1
+MOAlmanac,RAD51C,RAD51C Mutation,Peritoneal Mesothelioma,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,cbd726f46769,ALL,,1
+MOAlmanac,RAD51C,RAD51C Mutation,Serous Ovarian Cancer,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,86c38fc94ad7,ALL,,1
+MOAlmanac,RAD51C,RAD51C Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,50a574777281,ALL,,1
+MOAlmanac,RAD51D,RAD51D Mutation,"Ovarian Cancer, Other",Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,5a7f136f2b56,ALL,,1
+MOAlmanac,RAD51D,RAD51D Mutation,Peritoneal Mesothelioma,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,dd1f5335a908,ALL,,1
+MOAlmanac,RAD51D,RAD51D Mutation,Serous Ovarian Cancer,Platinum Compound,Platinum Compound,SENSITIVE,1,Inferential,E,256dc582313b,ALL,,1
+MOAlmanac,RAD51D,RAD51D Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,7b08196f515d,ALL,,1
+MOAlmanac,RAD54L,RAD54L Mutation,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,5,FDA-Approved,A,1091e4b52e75,ALL,,1
+MOAlmanac,RET,RET V804M,Medullary Thyroid Cancer,Selpercatinib,Selpercatinib,RESISTANT,4,Clinical evidence,B,e2ea3b6e8e91,ALL,,1
+MOAlmanac,RET,RET M918T,Medullary Thyroid Cancer,Selpercatinib,Selpercatinib,SENSITIVE,4,Clinical evidence,B,03fa1bbca08a,ALL,,1
+MOAlmanac,RET,RET Mutation,Medullary Thyroid Cancer,Selpercatinib,Selpercatinib,SENSITIVE,5,FDA-Approved,A,91f450f96e5c,ALL,,1
+MOAlmanac,SMARCA4,SMARCA4 Mutation,Non-Small Cell Lung Cancer,Tozasertib Lactate,Tozasertib Lactate,SENSITIVE,2,Preclinical,D,809a44071142,ALL,,1
+MOAlmanac,SPOP,SPOP Mutation,Prostate Adenocarcinoma,Abiraterone,Abiraterone,SENSITIVE,4,Clinical evidence,B,221cb7d47578,ALL,,1
+MOAlmanac,TET2,TET2 Mutation,Myelodysplasia,Azacitidine,Azacitidine,SENSITIVE,4,Clinical evidence,B,4714be055565,ALL,,1
+MOAlmanac,TP53,TP53 Mutation,Myelodysplasia,Lenalidomide,Lenalidomide,RESISTANT,5,Guideline,A,fef225886a3a,ALL,,1
+MOAlmanac,TP53,TP53 Mutation,Gastric Remnant Adenocarcinoma,nutlin-3,nutlin-3,RESISTANT,2,Preclinical,D,8c4915ad54e1,ALL,,1
+MOAlmanac,TP53,TP53 Mutation,Rectal Adenocarcinoma,Chemoradiotherapy,Chemoradiotherapy,RESISTANT,4,Clinical evidence,B,7fdac5d0f77f,ALL,,1
+MOAlmanac,TSC1,TSC1 Mutation,Astrocytoma,Everolimus,Everolimus,SENSITIVE,5,FDA-Approved,A,dd4d8dcc0d6e,ALL,,1
+MOAlmanac,TSC1,TSC1 Mutation,Bladder Urothelial Carcinoma,Everolimus,Everolimus,SENSITIVE,4,Clinical evidence,B,658f3b6d06b7,ALL,,1
+MOAlmanac,TSC1,TSC1 Mutation,Anaplastic Thyroid Cancer,Everolimus,Everolimus,SENSITIVE,4,Clinical evidence,B,b2a408a22404,ALL,,1
+MOAlmanac,TSC2,TSC2 Mutation,Astrocytoma,Everolimus,Everolimus,SENSITIVE,5,FDA-Approved,A,a6e4f9a29640,ALL,,1
+MOAlmanac,TSC2,TSC2 Mutation,Bladder Urothelial Carcinoma,Everolimus,Everolimus,SENSITIVE,4,Clinical evidence,B,cf68ca6bf6b7,ALL,,1
+MOAlmanac,TSC2,TSC2 Mutation,Anaplastic Thyroid Cancer,Everolimus,Everolimus,SENSITIVE,4,Clinical evidence,B,3b162ab68cbf,ALL,,1
+MOAlmanac,AR,AR Amplification,Prostate Adenocarcinoma,Abiraterone,Abiraterone,RESISTANT,5,Guideline,A,e28b6023be29,ALL,,1
+MOAlmanac,AR,AR Amplification,Prostate Adenocarcinoma,Abiraterone,Abiraterone,SENSITIVE,5,Guideline,A,264212d19359,ALL,,1
+MOAlmanac,AR,AR Amplification,Prostate Adenocarcinoma,Enzalutamide,Enzalutamide,SENSITIVE,5,Guideline,A,7a9e63d7d8fb,ALL,,1
+MOAlmanac,AR,AR Amplification,Invasive Breast Carcinoma,Radiation Therapy,Radiation Therapy,RESISTANT,1,Inferential,E,cbeff81b79e5,ALL,,1
+MOAlmanac,ARID1A,ARID1A Deletion,"Ovarian Cancer, Other",Durvalumab,Durvalumab,SENSITIVE,2,Preclinical,D,cbb773c9256f,ALL,,1
+MOAlmanac,AURKA,AURKA Amplification,Prostate Neuroendocrine Cancer,Danusertib,Danusertib,SENSITIVE,2,Preclinical,D,2934dca61167,ALL,,1
+MOAlmanac,AURKB,AURKB Amplification,Small Cell Lung Cancer,Barasertib,Barasertib,SENSITIVE,2,Preclinical,D,f5dd8b38805b,ALL,,1
+MOAlmanac,BRAF,BRAF Amplification,Colorectal Adenocarcinoma,Selumetinib,Selumetinib,RESISTANT,2,Preclinical,D,0eb20ef6d42e,ALL,,1
+MOAlmanac,BRAF,BRAF Amplification,Melanoma,Vemurafenib,Vemurafenib,RESISTANT,4,Clinical evidence,B,ae4d605ab06e,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Deletion,Prostate Adenocarcinoma,Olaparib,Olaparib,SENSITIVE,4,Clinical trial,B,75ec64344b80,ALL,,1
+MOAlmanac,CCND1,CCND1 Amplification,Pancreatic Adenocarcinoma,Palbociclib,Palbociclib,SENSITIVE,1,Inferential,E,2ca0ff5485b5,ALL,,1
+MOAlmanac,CCNE1,CCNE1 Amplification,"Ovarian Cancer, Other",Bortezomib,Bortezomib,SENSITIVE,2,Preclinical,D,af68a6cb804b,ALL,,1
+MOAlmanac,CD274,CD274 Amplification,Non-Small Cell Lung Cancer,Pembrolizumab,Pembrolizumab,SENSITIVE,1,Inferential,E,dcff1750b662,ALL,,1
+MOAlmanac,CD274,CD274 Amplification,Non-Small Cell Lung Cancer,Atezolizumab,Atezolizumab,SENSITIVE,1,Inferential,E,332ceaa08493,ALL,,1
+MOAlmanac,CD274,CD274 Amplification,Invasive Breast Carcinoma,Chemotherapy + Pembrolizumab,Chemotherapy + Pembrolizumab,SENSITIVE,1,Inferential,E,a017faa91b92,ALL,,1
+MOAlmanac,CD274,CD274 Amplification,Stomach Adenocarcinoma,Pembrolizumab,Pembrolizumab,SENSITIVE,1,Inferential,E,368950650243,ALL,,1
+MOAlmanac,CD274,CD274 Amplification,Adenocarcinoma of the Gastroesophageal Junction,Pembrolizumab,Pembrolizumab,SENSITIVE,1,Inferential,E,a4bc988a8bc7,ALL,,1
+MOAlmanac,CDK4,CDK4 Amplification,Well-Differentiated Liposarcoma,Palbociclib,Palbociclib,SENSITIVE,5,Guideline,A,239eb6c1afb1,ALL,,1
+MOAlmanac,CDK4,CDK4 Amplification,Dedifferentiated Lipsarcoma,Palbociclib,Palbociclib,SENSITIVE,5,Guideline,A,e98bc91414b4,ALL,,1
+MOAlmanac,CDK4,CDK4 Amplification,Liposarcoma,Palbociclib,Palbociclib,SENSITIVE,4,Clinical trial,B,fa9ce86ef101,ALL,,1
+MOAlmanac,CDK4,CDK4 Amplification,Pancreatic Adenocarcinoma,Palbociclib,Palbociclib,SENSITIVE,1,Inferential,E,95dc6978ac35,ALL,,1
+MOAlmanac,CDKN2A,CDKN2A Deletion,Any solid tumor,EPZ015666,EPZ015666,SENSITIVE,1,Inferential,E,6747781f7141,ALL,,1
+MOAlmanac,CDKN2A,CDKN2A Deletion,Pancreatic Adenocarcinoma,Palbociclib,Palbociclib,SENSITIVE,1,Inferential,E,82273502293f,ALL,,1
+MOAlmanac,CDKN2C,CDKN2C Deletion,Multiple Myeloma,Palbociclib,Palbociclib,SENSITIVE,1,Inferential,E,661fb8b55cd7,ALL,,1
+MOAlmanac,CRKL,CRKL Amplification,Non-Small Cell Lung Cancer,Gefitinib,Gefitinib,RESISTANT,4,Clinical evidence,B,5c18fef78498,ALL,,1
+MOAlmanac,EGFR,EGFR Amplification,Non-Small Cell Lung Cancer,Gefitinib,Gefitinib,SENSITIVE,4,Clinical evidence,B,a424693627f2,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Lapatinib + Trastuzumab,Lapatinib + Trastuzumab,SENSITIVE,4,Clinical trial,B,b6087caf9a1b,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Trastuzumab Emtansine,Trastuzumab Emtansine,SENSITIVE,5,FDA-Approved,A,93a7eaa0117c,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Lapatinib,Lapatinib,SENSITIVE,5,FDA-Approved,A,93a5c71cd7b6,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Neratinib,Neratinib,SENSITIVE,5,FDA-Approved,A,599ad2280994,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Pertuzumab + Trastuzumab,Pertuzumab + Trastuzumab,SENSITIVE,5,FDA-Approved,A,06a21b979d6e,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Trastuzumab,Trastuzumab,SENSITIVE,5,FDA-Approved,A,45f75c8ec73e,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Stomach Adenocarcinoma,Trastuzumab,Trastuzumab,SENSITIVE,5,FDA-Approved,A,933e4362da10,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Adenocarcinoma of the Gastroesophageal Junction,Trastuzumab,Trastuzumab,SENSITIVE,5,FDA-Approved,A,398010fc49f6,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Stomach Adenocarcinoma,Chemotherapy + Trastuzumab,Chemotherapy + Trastuzumab,SENSITIVE,1,Inferential,E,7cc9a7fa35e2,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Capecitabine + Trastuzumab + Tucatinib,Capecitabine + Trastuzumab + Tucatinib,SENSITIVE,5,FDA-Approved,A,82df573a04fe,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Radiation Therapy,Radiation Therapy,RESISTANT,2,Preclinical,D,1cdbd2aa4bf7,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Chemotherapy + Hyaluronidase-zzxf + Pertuzumab + Trastuzumab,Chemotherapy + Hyaluronidase-zzxf + Pertuzumab + Trastuzumab,SENSITIVE,5,FDA-Approved,A,4220b29c93f8,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Docetaxel + Hyaluronidase-zzxf + Pertuzumab + Trastuzumab,Docetaxel + Hyaluronidase-zzxf + Pertuzumab + Trastuzumab,SENSITIVE,5,FDA-Approved,A,01de6f4211da,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Chemotherapy + Margetuximab,Chemotherapy + Margetuximab,SENSITIVE,5,FDA-Approved,A,62d9af3c53d6,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Stomach Adenocarcinoma,Fluoropyrimidine + Pembrolizumab + Platinum Compound + Trastuzumab,Fluoropyrimidine + Pembrolizumab + Platinum Compound + Trastuzumab,SENSITIVE,5,FDA-Approved,A,1cb59c7ab641,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Adenocarcinoma of the Gastroesophageal Junction,Fluoropyrimidine + Pembrolizumab + Platinum Compound + Trastuzumab,Fluoropyrimidine + Pembrolizumab + Platinum Compound + Trastuzumab,SENSITIVE,5,FDA-Approved,A,0e8d083ed199,ALL,,1
+MOAlmanac,FBXW7,FBXW7 Deletion,Breast Invasive Ductal Carcinoma,Sirolimus,Sirolimus,SENSITIVE,2,Preclinical,D,07779c00dd83,ALL,,1
+MOAlmanac,FGFR1,FGFR1 Amplification,Colorectal Adenocarcinoma,Infigratinib,Infigratinib,SENSITIVE,2,Preclinical,D,946af586edc6,ALL,,1
+MOAlmanac,FGFR1,FGFR1 Amplification,Non-Small Cell Lung Cancer,Infigratinib,Infigratinib,SENSITIVE,2,Preclinical,D,2a91d0aa7123,ALL,,1
+MOAlmanac,FGFR1,FGFR1 Amplification,Osteosarcoma,Infigratinib,Infigratinib,SENSITIVE,2,Preclinical,D,9c466d3a5008,ALL,,1
+MOAlmanac,FGFR1,FGFR1 Amplification,Invasive Breast Carcinoma,Infigratinib,Infigratinib,SENSITIVE,2,Preclinical,D,67eb0726c69b,ALL,,1
+MOAlmanac,FGFR2,FGFR2 Amplification,Colorectal Adenocarcinoma,Infigratinib,Infigratinib,SENSITIVE,2,Preclinical,D,55371fb4c411,ALL,,1
+MOAlmanac,FGFR2,FGFR2 Amplification,Non-Small Cell Lung Cancer,Infigratinib,Infigratinib,SENSITIVE,2,Preclinical,D,6e9b582bbe18,ALL,,1
+MOAlmanac,FGFR2,FGFR2 Amplification,Osteosarcoma,Infigratinib,Infigratinib,SENSITIVE,2,Preclinical,D,df3423c010d2,ALL,,1
+MOAlmanac,FGFR2,FGFR2 Amplification,Invasive Breast Carcinoma,Infigratinib,Infigratinib,SENSITIVE,2,Preclinical,D,83e1655197f7,ALL,,1
+MOAlmanac,HIF1a,HIF1a Amplification,Bladder Urothelial Carcinoma,Carbogen + Radiation Therapy,Carbogen + Radiation Therapy,SENSITIVE,1,Inferential,E,b9ef92e0b715,ALL,,1
+MOAlmanac,KEAP1,KEAP1 Deletion,Lung Squamous Cell Carcinoma,Radiation Therapy,Radiation Therapy,RESISTANT,2,Preclinical,D,e6623e0d0059,ALL,,1
+MOAlmanac,MDM2,MDM2 Amplification,Gastric Remnant Adenocarcinoma,nutlin-3,nutlin-3,SENSITIVE,2,Preclinical,D,d87b46d82121,ALL,,1
+MOAlmanac,MET,MET Amplification,Non-Small Cell Lung Cancer,Crizotinib,Crizotinib,SENSITIVE,5,Guideline,A,5ee8761ff39c,ALL,,1
+MOAlmanac,MET,MET Amplification,Non-Small Cell Lung Cancer,Gefitinib,Gefitinib,RESISTANT,5,Guideline,A,d301d1d20eed,ALL,,1
+MOAlmanac,MIR17HG,MIR17HG Amplification,Rectal Adenocarcinoma,Chemotherapy + Surgery,Chemotherapy + Surgery,SENSITIVE,2,Preclinical,D,6b45abad4285,ALL,,1
+MOAlmanac,MIR17HG,MIR17HG Deletion,Rectal Adenocarcinoma,Chemotherapy + Surgery,Chemotherapy + Surgery,RESISTANT,2,Preclinical,D,46774a6a7372,ALL,,1
+MOAlmanac,MRE11,MRE11 Amplification,Bladder Urothelial Carcinoma,Radiation Therapy,Radiation Therapy,SENSITIVE,1,Inferential,E,b8e794e4fbb2,ALL,,1
+MOAlmanac,PBRM1,PBRM1 Deletion,Renal Clear Cell Carcinoma,Nivolumab,Nivolumab,SENSITIVE,4,Clinical evidence,B,9841ce8385b8,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA Amplification,"Ovarian Cancer, Other",Pictilisib,Pictilisib,SENSITIVE,4,Clinical trial,B,f30863d5629a,ALL,,1
+MOAlmanac,PTEN,PTEN Deletion,Prostate Adenocarcinoma,PI3Kbeta Inhibitor AZD8186,PI3Kbeta Inhibitor AZD8186,SENSITIVE,2,Preclinical,D,e76c1d8e8863,ALL,,1
+MOAlmanac,PTEN,PTEN Deletion,Uterine Leiomyoma,Pembrolizumab,Pembrolizumab,RESISTANT,4,Clinical evidence,B,bc73c69809a5,ALL,,1
+MOAlmanac,PTEN,PTEN Deletion,Pancreatic Adenocarcinoma,Everolimus,Everolimus,SENSITIVE,2,Preclinical,D,7b67884338bb,ALL,,1
+MOAlmanac,PTEN,PTEN Deletion,Renal Clear Cell Carcinoma,Everolimus,Everolimus,SENSITIVE,1,Inferential,E,3f2928755fe5,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Any solid tumor,Dabrafenib + Trametinib,Dabrafenib + Trametinib,SENSITIVE,5,FDA-Approved,A,1f963564a644,ALL,,1
+MOAlmanac,IDH1,IDH1 R132H,Acute Myeloid Leukemia,Azacitidine + Ivosidenib,Azacitidine + Ivosidenib,SENSITIVE,5,FDA-Approved,A,49c60b943ea2,ALL,,1
+MOAlmanac,IDH1,IDH1 R132C,Acute Myeloid Leukemia,Azacitidine + Ivosidenib,Azacitidine + Ivosidenib,SENSITIVE,5,FDA-Approved,A,814a5395f3aa,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,"Ovarian Cancer, Other",KU0058684,KU0058684,SENSITIVE,1,Inferential,E,17fecb583d94,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,"Ovarian Cancer, Other",KU0058948,KU0058948,SENSITIVE,1,Inferential,E,8fc98760e193,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,"Ovarian Cancer, Other",KU0058948,KU0058948,SENSITIVE,1,Inferential,E,d9d0217e63f8,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,"Ovarian Cancer, Other",KU0058684,KU0058684,SENSITIVE,1,Inferential,E,4ea187d048ca,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Uterine Leiomyosarcoma,Olaparib,Olaparib,SENSITIVE,4,Clinical evidence,B,0e415b63ee8f,ALL,,1
+MOAlmanac,RB1,RB1 Mutation,Prostate Adenocarcinoma,Olaparib + Talazoparib,Olaparib + Talazoparib,SENSITIVE,2,Preclinical,D,078170fe3178,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Deletion,"Ovarian Cancer, Other",KU0058684,KU0058684,SENSITIVE,1,Inferential,E,2baeae83bd03,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Deletion,"Ovarian Cancer, Other",KU0058948,KU0058948,SENSITIVE,1,Inferential,E,f8cbbabf8d08,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Deletion,Uterine Leiomyosarcoma,Olaparib,Olaparib,SENSITIVE,4,Clinical evidence,B,fe71c172b7f5,ALL,,1
+MOAlmanac,CDKN2A,CDKN2A Deletion,Uterine Leiomyosarcoma,Palbociclib,Palbociclib,SENSITIVE,4,Clinical evidence,B,50555bb7f90a,ALL,,1
+MOAlmanac,CDKN2C,CDKN2C Deletion,Uterine Leiomyosarcoma,Palbociclib,Palbociclib,SENSITIVE,1,Inferential,E,9e10f9ac2bdb,ALL,,1
+MOAlmanac,PTEN,PTEN Deletion,Uterine Leiomyosarcoma,Alpelisib + Sapanisertib,Alpelisib + Sapanisertib,SENSITIVE,1,Inferential,E,86b771870767,ALL,,1
+MOAlmanac,RB1,RB1 Deletion,Prostate Adenocarcinoma,Olaparib + Talazoparib,Olaparib + Talazoparib,SENSITIVE,2,Preclinical,D,e6208391e61f,ALL,,1
+MOAlmanac,FGFR1,FGFR1::None Fusion,Myeloid/Lymphoid Neoplasms,Pemigatinib,Pemigatinib,SENSITIVE,5,FDA-Approved,A,e73e303e14df,ALL,,1
+MOAlmanac,FGFR2,FGFR2::None Fusion,Intrahepatic Cholangiocarcinoma,Futibatinib,Futibatinib,SENSITIVE,5,FDA-Approved,A,a17790818b8f,ALL,,1
+MOAlmanac,RET,RET::None Fusion,Any solid tumor,Selpercatinib,Selpercatinib,SENSITIVE,5,FDA-Approved,A,025898a6dd3b,ALL,,1
+MOAlmanac,IDH1,IDH1 R132C,Acute Myeloid Leukemia,Olutasidenib,Olutasidenib,SENSITIVE,5,FDA-Approved,A,4dd397a93848,ALL,,1
+MOAlmanac,IDH1,IDH1 R132H,Acute Myeloid Leukemia,Olutasidenib,Olutasidenib,SENSITIVE,5,FDA-Approved,A,3f6f1de7d2b7,ALL,,1
+MOAlmanac,IDH1,IDH1 R132G,Acute Myeloid Leukemia,Olutasidenib,Olutasidenib,SENSITIVE,5,FDA-Approved,A,f9d5cbfd017e,ALL,,1
+MOAlmanac,IDH1,IDH1 R132S,Acute Myeloid Leukemia,Olutasidenib,Olutasidenib,SENSITIVE,5,FDA-Approved,A,738dff3f3e9a,ALL,,1
+MOAlmanac,IDH1,IDH1 R132L,Acute Myeloid Leukemia,Olutasidenib,Olutasidenib,SENSITIVE,5,FDA-Approved,A,5bd2b7cb3e82,ALL,,1
+MOAlmanac,KRAS,KRAS G12C,Non-Small Cell Lung Cancer,Adagrasib,Adagrasib,SENSITIVE,5,FDA-Approved,A,60141f7dbbd3,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Colorectal Adenocarcinoma,Trastuzumab + Tucatinib,Trastuzumab + Tucatinib,SENSITIVE,5,FDA-Approved,A,aebf763f5663,ALL,,1
+MOAlmanac,ESR1,ESR1 Mutation,Invasive Breast Carcinoma,Elacestrant,Elacestrant,SENSITIVE,5,FDA-Approved,A,9ed370db8ca5,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,"Low-Grade Glioma, NOS",Dabrafenib + Trametinib,Dabrafenib + Trametinib,SENSITIVE,5,FDA-Approved,A,0235cc4f1688,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Prostate Adenocarcinoma,Abiraterone + Olaparib + Prednisone,Abiraterone + Olaparib + Prednisone,SENSITIVE,5,FDA-Approved,A,4f3a01d09c61,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Prostate Adenocarcinoma,Abiraterone + Olaparib + Prednisone,Abiraterone + Olaparib + Prednisone,SENSITIVE,5,FDA-Approved,A,ec925975bb0a,ALL,,1
+MOAlmanac,ATM,ATM Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,a2f96e79274e,ALL,,1
+MOAlmanac,ATR,ATR Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,8d334c5138fe,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,20e0c5e2280b,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,8cf8d2f3cda8,ALL,,1
+MOAlmanac,CDK12,CDK12 Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,c56b30a6a00b,ALL,,1
+MOAlmanac,CHEK2,CHEK2 Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,c6a414d193a6,ALL,,1
+MOAlmanac,FANCA,FANCA Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,5e585eb66708,ALL,,1
+MOAlmanac,MLH1,MLH1 Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,a446b7cbc26f,ALL,,1
+MOAlmanac,NBN,NBN Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,a422d9d23005,ALL,,1
+MOAlmanac,PALB2,PALB2 Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,908754d479ba,ALL,,1
+MOAlmanac,RAD51C,RAD51C Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,0f261ce883c9,ALL,,1
+MOAlmanac,BRCA1,BRCA1 Mutation,Prostate Adenocarcinoma,Abiraterone acetate + Niraparib,Abiraterone acetate + Niraparib,SENSITIVE,5,FDA-Approved,A,cb3af6ded16c,ALL,,1
+MOAlmanac,BRCA2,BRCA2 Mutation,Prostate Adenocarcinoma,Abiraterone acetate + Niraparib,Abiraterone acetate + Niraparib,SENSITIVE,5,FDA-Approved,A,4587eaebe92f,ALL,,1
+MOAlmanac,TP53,TP53 Mutation,Osteosarcoma,NSC59984,NSC59984,SENSITIVE,2,Preclinical,D,ce46193be5fc,ALL,,1
+MOAlmanac,RB1,RB1 Mutation,Osteosarcoma,Palbociclib,Palbociclib,RESISTANT,2,Preclinical,D,6b19193a521a,ALL,,1
+MOAlmanac,FGFR1,FGFR1 Amplification,Osteosarcoma,Fexagratinib,Fexagratinib,SENSITIVE,2,Preclinical,D,2e9a36e4d209,ALL,,1
+MOAlmanac,FGFR1,FGFR1 Amplification,Osteosarcoma,PD173074,PD173074,SENSITIVE,2,Preclinical,D,ba2bf0405485,ALL,,1
+MOAlmanac,RB1,RB1 Mutation,Osteosarcoma,Olaparib,Olaparib,SENSITIVE,2,Preclinical,D,8868e1e15674,ALL,,1
+MOAlmanac,MYC,MYC Amplification,Osteosarcoma,CDK Inhibitor AT7519,CDK Inhibitor AT7519,SENSITIVE,2,Preclinical,D,ae7543bc6afb,ALL,,1
+MOAlmanac,CCNE1,CCNE1 Amplification,Osteosarcoma,Dinaciclib,Dinaciclib,SENSITIVE,2,Preclinical,D,fab9e8deb713,ALL,,1
+MOAlmanac,CDK4,CDK4 Amplification,Osteosarcoma,Palbociclib,Palbociclib,SENSITIVE,2,Preclinical,D,24e004d9f99c,ALL,,1
+MOAlmanac,PTEN,PTEN Deletion,Osteosarcoma,Akt Inhibitor MK2206,Akt Inhibitor MK2206,SENSITIVE,2,Preclinical,D,ba18b3bad67f,ALL,,1
+MOAlmanac,PTEN,PTEN Deletion,Osteosarcoma,Sirolimus,Sirolimus,SENSITIVE,2,Preclinical,D,27da56e49929,ALL,,1
+MOAlmanac,BAP1,BAP1 Deletion,Osteosarcoma,Talazoparib,Talazoparib,SENSITIVE,2,Preclinical,D,91118587a9f5,ALL,,1
+MOAlmanac,FANCA,FANCA Deletion,Osteosarcoma,Talazoparib,Talazoparib,SENSITIVE,2,Preclinical,D,b26e7feaf51c,ALL,,1
+MOAlmanac,BARD1,BARD1 Deletion,Osteosarcoma,Talazoparib,Talazoparib,SENSITIVE,2,Preclinical,D,2ab89e42c6b6,ALL,,1
+MOAlmanac,CHEK2,CHEK2 Deletion,Osteosarcoma,Talazoparib,Talazoparib,SENSITIVE,2,Preclinical,D,c64d80b91788,ALL,,1
+MOAlmanac,TP53,TP53 Deletion,Osteosarcoma,Talazoparib,Talazoparib,SENSITIVE,2,Preclinical,D,5e56e316c7d1,ALL,,1
+MOAlmanac,ATM,ATM Deletion,Osteosarcoma,Talazoparib,Talazoparib,SENSITIVE,2,Preclinical,D,1724606e3390,ALL,,1
+MOAlmanac,IDH1,IDH1 Mutation,Myelodysplastic Syndromes,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,f62120093ae8,ALL,,1
+MOAlmanac,IDH1,IDH1 R132H,Myelodysplastic Syndromes,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,f82eddba7cdf,ALL,,1
+MOAlmanac,IDH1,IDH1 R132C,Myelodysplastic Syndromes,Ivosidenib,Ivosidenib,SENSITIVE,5,FDA-Approved,A,1a3397d7c16e,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Non-Small Cell Lung Cancer,Binimetinib + Encorafenib,Binimetinib + Encorafenib,SENSITIVE,5,FDA-Approved,A,517ea8d38cf8,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA Mutation,Invasive Breast Carcinoma,Capivasertib + Fulvestrant,Capivasertib + Fulvestrant,SENSITIVE,5,FDA-Approved,A,c4f704a2a2c2,ALL,,1
+MOAlmanac,AKT1,AKT1 Mutation,Invasive Breast Carcinoma,Capivasertib + Fulvestrant,Capivasertib + Fulvestrant,SENSITIVE,5,FDA-Approved,A,78d68437f9be,ALL,,1
+MOAlmanac,PTEN,PTEN Mutation,Invasive Breast Carcinoma,Capivasertib + Fulvestrant,Capivasertib + Fulvestrant,SENSITIVE,5,FDA-Approved,A,98cddbb6f00f,ALL,,1
+MOAlmanac,PTEN,PTEN Deletion,Invasive Breast Carcinoma,Capivasertib + Fulvestrant,Capivasertib + Fulvestrant,SENSITIVE,5,FDA-Approved,A,2146d5c09f75,ALL,,1
+MOAlmanac,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Capecitabine + Neratinib,Capecitabine + Neratinib,SENSITIVE,5,FDA-Approved,A,293155562a56,ALL,,1
+MOAlmanac,BRAF,BRAF V600K,Non-Langerhans Cell Histiocytosis/Erdheim-Chester Disease,Vemurafenib,Vemurafenib,SENSITIVE,5,FDA-Approved,A,35d6ef097cd0,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Amivantamab + Carboplatin + Pemetrexed,Amivantamab + Carboplatin + Pemetrexed,SENSITIVE,5,FDA-Approved,A,155afb13d15e,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Cisplatin + Osimertinib + Pemetrexed,Cisplatin + Osimertinib + Pemetrexed,SENSITIVE,5,FDA-Approved,A,7d1d207111e6,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Cisplatin + Osimertinib + Pemetrexed,Cisplatin + Osimertinib + Pemetrexed,SENSITIVE,5,FDA-Approved,A,518d23e50bf8,ALL,,1
+MOAlmanac,MET,MET Mutation,Non-Small Cell Lung Cancer,Tepotinib,Tepotinib,SENSITIVE,5,FDA-Approved,A,cd1d8f2e2184,ALL,,1
+MOAlmanac,ALK,ALK::None Fusion,Anaplastic Large Cell Lymphoma,Crizotinib,Crizotinib,SENSITIVE,5,FDA-Approved,A,7b2c130ab7bd,ALL,,1
+MOAlmanac,ROS1,ROS1::None Fusion,Non-Small Cell Lung Cancer,Entrectinib,Entrectinib,SENSITIVE,5,FDA-Approved,A,9dad5546e0d0,ALL,,1
+MOAlmanac,ROS1,ROS1::None Fusion,Non-Small Cell Lung Cancer,Repotrectinib,Repotrectinib,SENSITIVE,5,FDA-Approved,A,af90cfe3d76e,ALL,,1
+MOAlmanac,MRE11,MRE11 Mutation,Prostate Adenocarcinoma,Enzalutamide + Talazoparib,Enzalutamide + Talazoparib,SENSITIVE,5,FDA-Approved,A,d4a877b4811e,ALL,,1
+MOAlmanac,BCR,BCR::ABL1 Fusion,Acute Lymphoid Leukemia,Chemotherapy + Ponatinib,Chemotherapy + Ponatinib,SENSITIVE,5,FDA-Approved,A,0e5ee7bcf6f4,ALL,,1
+MOAlmanac,BCR,BCR::ABL1 Fusion,Acute Lymphoid Leukemia,Ponatinib,Ponatinib,SENSITIVE,5,FDA-Approved,A,332421dd9232,ALL,,1
+MOAlmanac,ABL1,ABL1 T315I,Acute Lymphoid Leukemia,Ponatinib,Ponatinib,SENSITIVE,5,FDA-Approved,A,cf12e4901179,ALL,,1
+MOAlmanac,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Ponatinib,Ponatinib,SENSITIVE,5,FDA-Approved,A,d3fe50e1cb3e,ALL,,1
+MOAlmanac,BRAF,BRAF V600K,"Low-Grade Glioma, NOS",Tovorafenib,Tovorafenib,SENSITIVE,5,FDA-Approved,A,e19eff753619,ALL,,1
+MOAlmanac,BRAF,BRAF::None Fusion,"Low-Grade Glioma, NOS",Tovorafenib,Tovorafenib,SENSITIVE,5,FDA-Approved,A,3aee82322218,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Erlotinib,Erlotinib,SENSITIVE,5,FDA-Approved,A,7d104a4f66ba,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Gefitinib,Gefitinib,SENSITIVE,5,FDA-Approved,A,76d28fb9cac9,ALL,,1
+MOAlmanac,NTRK1,NTRK1::None Fusion,Any solid tumor,Repotrectinib,Repotrectinib,SENSITIVE,5,FDA-Approved,A,34533b149409,ALL,,1
+MOAlmanac,NTRK2,NTRK2::None Fusion,Any solid tumor,Repotrectinib,Repotrectinib,SENSITIVE,5,FDA-Approved,A,33c94d18f388,ALL,,1
+MOAlmanac,NTRK3,NTRK3::None Fusion,Any solid tumor,Repotrectinib,Repotrectinib,SENSITIVE,5,FDA-Approved,A,2ac49e6e657b,ALL,,1
+MOAlmanac,KRAS,KRAS G12C,Colorectal Adenocarcinoma,Adagrasib + Cetuximab,Adagrasib + Cetuximab,SENSITIVE,5,FDA-Approved,A,57966f40332c,ALL,,1
+MOAlmanac,IDH1,IDH1 Mutation,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,094836a82157,ALL,,1
+MOAlmanac,IDH1,IDH1 R132C,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,c525516be56e,ALL,,1
+MOAlmanac,IDH1,IDH1 R132G,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,c9485b2f057f,ALL,,1
+MOAlmanac,IDH1,IDH1 R132H,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,72f85cfd16e0,ALL,,1
+MOAlmanac,IDH1,IDH1 R132L,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,6b2bae615f9a,ALL,,1
+MOAlmanac,IDH1,IDH1 R132S,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,10ad0f8b42e0,ALL,,1
+MOAlmanac,IDH2,IDH2 Mutation,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,3452ee0ef6a8,ALL,,1
+MOAlmanac,IDH2,IDH2 R172K,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,e8df3d5c32e7,ALL,,1
+MOAlmanac,IDH2,IDH2 R172G,Astrocytoma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,63d0533d374f,ALL,,1
+MOAlmanac,IDH1,IDH1 Mutation,Oligodendroglioma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,744fe08a2a72,ALL,,1
+MOAlmanac,IDH1,IDH1 R132C,Oligodendroglioma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,680057ea606d,ALL,,1
+MOAlmanac,IDH1,IDH1 R132G,Oligodendroglioma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,b46ba54aa8ba,ALL,,1
+MOAlmanac,IDH1,IDH1 R132H,Oligodendroglioma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,fc5a7c0223d2,ALL,,1
+MOAlmanac,IDH1,IDH1 R132L,Oligodendroglioma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,83639fe3db51,ALL,,1
+MOAlmanac,IDH1,IDH1 R132S,Oligodendroglioma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,edc32c3323b1,ALL,,1
+MOAlmanac,IDH2,IDH2 Mutation,Oligodendroglioma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,77d5dad2ef05,ALL,,1
+MOAlmanac,IDH2,IDH2 R172K,Oligodendroglioma,Vorasidenib,Vorasidenib,SENSITIVE,5,FDA-Approved,A,0a9bdf643bb3,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Amivantamab + Lazertinib,Amivantamab + Lazertinib,SENSITIVE,5,FDA-Approved,A,016f934f14df,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Amivantamab + Lazertinib,Amivantamab + Lazertinib,SENSITIVE,5,FDA-Approved,A,d9715d9e2cea,ALL,,1
+MOAlmanac,EGFR,EGFR L858R,Non-Small Cell Lung Cancer,Amivantamab + Carboplatin + Pemetrexed,Amivantamab + Carboplatin + Pemetrexed,SENSITIVE,5,FDA-Approved,A,077253fa5248,ALL,,1
+MOAlmanac,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Asciminib,Asciminib,SENSITIVE,5,FDA-Approved,A,31bd22e8d74d,ALL,,1
+MOAlmanac,PIK3CA,PIK3CA Mutation,Invasive Breast Carcinoma,Fulvestrant + Inavolisib + Palbociclib,Fulvestrant + Inavolisib + Palbociclib,SENSITIVE,5,FDA-Approved,A,a696e3d30c71,ALL,,1
+MOAlmanac,KMT2A,KMT2A::None Fusion,Acute Myeloid Leukemia,Revumenib,Revumenib,SENSITIVE,5,FDA-Approved,A,d3fcf7ab1adc,ALL,,1
+MOAlmanac,KMT2A,KMT2A::None Fusion,Acute Lymphoid Leukemia,Revumenib,Revumenib,SENSITIVE,5,FDA-Approved,A,6269257e816c,ALL,,1
+MOAlmanac,NRG1,NRG1::None Fusion,Non-Small Cell Lung Cancer,Zenocutuzumab,Zenocutuzumab,SENSITIVE,5,FDA-Approved,A,277ddfacfd34,ALL,,1
+MOAlmanac,NRG1,NRG1::None Fusion,Pancreatic Adenocarcinoma,Zenocutuzumab,Zenocutuzumab,SENSITIVE,5,FDA-Approved,A,c076b158f38e,ALL,,1
+MOAlmanac,ALK,ALK::None Fusion,Non-Small Cell Lung Cancer,Ensartinib,Ensartinib,SENSITIVE,5,FDA-Approved,A,f6675e80c4b1,ALL,,1
+MOAlmanac,BRAF,BRAF V600E,Colorectal Adenocarcinoma,Cetuximab + Encorafenib + Fluorouracil + Oxaliplatin,Cetuximab + Encorafenib + Fluorouracil + Oxaliplatin,SENSITIVE,5,FDA-Approved,A,271bdd9661d1,ALL,,1
+MOAlmanac,KRAS,KRAS G12C,Colorectal Adenocarcinoma,Panitumumab + Sotorasib,Panitumumab + Sotorasib,SENSITIVE,5,FDA-Approved,A,f164e171d5ed,ALL,,1
+MOAlmanac,ROS1,ROS1::None Fusion,Non-Small Cell Lung Cancer,Taletrectinib,Taletrectinib,SENSITIVE,5,FDA-Approved,A,4a4a00fe91b4,ALL,,1
+MOAlmanac,KRAS,KRAS G12C,Low-Grade Serous Ovarian Cancer,Avutometinib + Defactinib,Avutometinib + Defactinib,SENSITIVE,5,FDA-Approved,A,31a6d15bc5da,ALL,,1
+MOAlmanac,KRAS,KRAS G12V,Low-Grade Serous Ovarian Cancer,Avutometinib + Defactinib,Avutometinib + Defactinib,SENSITIVE,5,FDA-Approved,A,f2f1343e9472,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Datopotamab deruxtecan,Datopotamab deruxtecan,SENSITIVE,5,FDA-Approved,A,c9ad03013eed,ALL,,1
+MOAlmanac,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Sunvozertinib,Sunvozertinib,SENSITIVE,5,FDA-Approved,A,aa2cc108e19e,ALL,,1
+MOAlmanac,H3-3A,H3-3A K28M,Diffuse Glioma,Dordaviprone,Dordaviprone,SENSITIVE,5,FDA-Approved,A,b620a1594d22,ALL,,1
+MOAlmanac,NPM1,NPM1 W288Cfs*12,Acute Myeloid Leukemia,Ziftomenib,Ziftomenib,SENSITIVE,5,FDA-Approved,A,cc4bacd92946,ALL,,1
+MOAlmanac,NPM1,NPM1 W288Cfs*12,Acute Myeloid Leukemia,Revumenib,Revumenib,SENSITIVE,5,FDA-Approved,A,16b63b2a8d35,ALL,,1
+MOAlmanac,NPM1,NPM1 W288Cfs*12,Acute Lymphoid Leukemia,Revumenib,Revumenib,SENSITIVE,5,FDA-Approved,A,9510bc43abcf,ALL,,1
+MOAlmanac,NPM1,NPM1 W288Cfs*12,Burkitt Lymphoma,Revumenib,Revumenib,SENSITIVE,5,FDA-Approved,A,c8089b0bb81e,ALL,,1
+MOAlmanac,NPM1,NPM1 W288Cfs*12,Acute Leukemias of Ambiguous Lineage,Revumenib,Revumenib,SENSITIVE,5,FDA-Approved,A,2d2546f237a2,ALL,,1

@@ -1,0 +1,1053 @@
+gene,molecular_profile,disease,therapy,best_lvl,n_items,n_sources,mean_rating,pmids,best_level
+ABCB1,ABCB1 S893T,Ovarian Cancer,Paclitaxel,4,1,1,3.0,16467099,B
+ABL1,ABL1 R351W,Lung Non-small Cell Carcinoma,Dasatinib,2,1,1,4.0,26758680,D
+ABL1,ABL1 R351W,Lung Non-small Cell Carcinoma,Imatinib,2,1,1,5.0,26758680,D
+ABL1,BCR::ABL1 Fusion,Acute Lymphoblastic Leukemia,Dasatinib,3,1,1,3.0,16775234,C
+ABL1,BCR::ABL1 Fusion,Acute Myeloid Leukemia,Imatinib,5,1,1,5.0,12476305,A
+ABL1,BCR::ABL1 Fusion,Chronic Myeloid Leukemia,Dasatinib,3,1,1,4.0,16775234,C
+ABL1,BCR::ABL1 Fusion,Chronic Myeloid Leukemia,Imatinib,5,2,1,5.0,20537386,A
+ABL1,BCR::ABL1 Fusion AND ABL1 D276G,Chronic Myeloid Leukemia,Nilotinib,2,1,1,2.0,19075254,D
+ABL1,BCR::ABL1 Fusion AND ABL1 D363G,Chronic Myeloid Leukemia,Dasatinib,3,1,1,3.0,16775234,C
+ABL1,BCR::ABL1 Fusion AND ABL1 D421G,Chronic Myeloid Leukemia,Bosutinib,3,1,1,1.0,21865346,C
+ABL1,BCR::ABL1 Fusion AND ABL1 E279K,Chronic Myeloid Leukemia,Axitinib,2,1,1,2.0,25686603,D
+ABL1,BCR::ABL1 Fusion AND ABL1 F317L,Chronic Myeloid Leukemia,Ponatinib,2,1,1,3.0,24236021,D
+ABL1,BCR::ABL1 Fusion AND ABL1 F486S,Chronic Myeloid Leukemia,Nilotinib,2,1,1,3.0,19075254,D
+ABL1,BCR::ABL1 Fusion AND ABL1 G250E,Cancer,Dasatinib,2,1,1,3.0,18191450,D
+ABL1,BCR::ABL1 Fusion AND ABL1 G398R,Chronic Myeloid Leukemia,Dasatinib,2,1,1,2.0,19075254,D
+ABL1,BCR::ABL1 Fusion AND ABL1 G398R,Chronic Myeloid Leukemia,Nilotinib,2,1,1,3.0,19075254,D
+ABL1,BCR::ABL1 Fusion AND ABL1 H396P,Cancer,Dasatinib,2,1,1,3.0,18191450,D
+ABL1,BCR::ABL1 Fusion AND ABL1 M244V,Cancer,Imatinib,2,1,1,3.0,15930265,D
+ABL1,BCR::ABL1 Fusion AND ABL1 M351T,Chronic Myeloid Leukemia,Imatinib,2,2,2,2.5,"15930265,19075254",D
+ABL1,BCR::ABL1 Fusion AND ABL1 M351T,Chronic Myeloid Leukemia,Nilotinib,2,1,1,3.0,19075254,D
+ABL1,BCR::ABL1 Fusion AND ABL1 Q252H,Chronic Myeloid Leukemia,Imatinib,2,1,1,3.0,19075254,D
+ABL1,BCR::ABL1 Fusion AND ABL1 T315A,Chronic Myeloid Leukemia,Axitinib,2,1,1,2.0,25686603,D
+ABL1,BCR::ABL1 Fusion AND ABL1 T315I,Chronic Myeloid Leukemia,Axitinib,3,2,2,3.0,"25686603,26582647",C
+ABL1,BCR::ABL1 Fusion AND ABL1 T315I,Chronic Myeloid Leukemia,Ponatinib,4,2,2,4.5,"23190221,25349473",B
+ABL1,BCR::ABL1 Fusion AND ABL1 T315V,Chronic Myeloid Leukemia,Axitinib,2,1,1,2.0,25686603,D
+ABL1,BCR::ABL1 Fusion AND ABL1 V299L,Chronic Myeloid Leukemia,Axitinib,2,2,2,2.0,"25686603,26582647",D
+ABL1,BCR::ABL1 Fusion AND ABL1 V299L,Chronic Myeloid Leukemia,Nilotinib,2,1,1,3.0,19075254,D
+ABL1,ETV6::ABL1 Fusion,B-lymphoblastic Leukemia/lymphoma,Dasatinib,3,1,1,2.0,25207766,C
+ABL1,ETV6::ABL1 Fusion,B-lymphoblastic Leukemia/lymphoma,Imatinib,3,1,1,3.0,30028819,C
+ABL1,FOXP1::ABL1 Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Dasatinib,3,1,1,1.0,30938769,C
+ABL1,NUP214::ABL1 Fusion,B-lymphoblastic Leukemia/lymphoma,Imatinib Mesylate,3,1,1,4.0,36172171,C
+ABL1,RANBP2::ABL1 Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Dasatinib,3,1,1,2.0,31434701,C
+ABL1,RCSD1::ABL1 Fusion,B-lymphoblastic Leukemia/lymphoma,Dasatinib,3,3,3,2.6666666666666665,"19794096,26600955,28057740",C
+ABL1,RCSD1::ABL1 Fusion,B-lymphoblastic Leukemia/lymphoma,Imatinib,3,1,1,3.0,27125982,C
+ABL1,RCSD1::ABL1 Fusion,B-lymphoblastic Leukemia/lymphoma,Ponatinib,3,1,1,3.0,25768406,C
+ABL1,RCSD1::ABL1 Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Dasatinib,2,1,1,3.0,25207766,D
+ABL1,RCSD1::ABL1 Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Imatinib,3,1,1,3.0,25207766,C
+ABL1,RCSD1::ABL1 Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Tyrosine Kinase Inhibitor,3,1,1,2.0,27855558,C
+ABL2,RCSD1::ABL2 Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Dasatinib,2,1,1,3.0,25207766,D
+AKT1,AKT1 E17K,Breast Cancer,Capivasertib,3,1,1,3.0,26351323,C
+AKT1,AKT1 E17K,Cancer,Capivasertib,4,1,1,4.0,28489509,B
+AKT1,AKT1 E17K,Melanoma,Uprosertib,2,1,1,2.0,24735930,D
+AKT2,AKT2 EXPRESSION,Breast Cancer,Trastuzumab,4,1,1,3.0,22842582,B
+AKT3,AKT3 Overexpression,Triple-negative Breast Cancer,Pan-AKT Kinase Inhibitor GSK690693,1,1,1,4.0,24335962,E
+ALDH1A2,ALDH1A2 Underexpression,Head And Neck Squamous Cell Carcinoma,Tretinoin,2,1,1,2.0,26634247,D
+ALK,ALK Alternative Transcript (ATI),Skin Melanoma,Crizotinib,3,1,1,4.0,26444240,C
+ALK,ALK Exon 4-11 Deletion,Neuroblastoma,Brigatinib,2,1,1,3.0,27049722,D
+ALK,ALK F1174L,Neuroblastoma,ALK Inhibitor TAE684,2,1,1,4.0,18923525,D
+ALK,ALK F1174L,Neuroblastoma,AZD3463,2,1,1,3.0,26786851,D
+ALK,ALK F1174L,Neuroblastoma,Alectinib,2,1,1,3.0,21575866,D
+ALK,ALK F1174L,Neuroblastoma,Crizotinib,2,1,1,3.0,21948233,D
+ALK,ALK F1174L,Neuroblastoma,Lorlatinib,2,1,1,4.0,26554404,D
+ALK,ALK F1245C,Neuroblastoma,Lorlatinib,2,1,1,3.0,26554404,D
+ALK,ALK F1245V,Neuroblastoma,Entrectinib,3,1,1,3.0,28183697,C
+ALK,ALK G1269A AND v::ALK Fusion,Cancer,Brigatinib,2,1,1,2.0,25727400,D
+ALK,ALK G1269A AND v::ALK Fusion,Cancer,Ceritinib,2,1,1,2.0,25727400,D
+ALK,ALK G1269A AND v::ALK Fusion,Lung Non-small Cell Carcinoma,Ceritinib,2,1,1,3.0,24675041,D
+ALK,ALK I1171,Lung Non-small Cell Carcinoma,ALK Inhibitor TAE684,2,1,1,3.0,25228534,D
+ALK,ALK I1171,Lung Non-small Cell Carcinoma,Ceritinib,3,3,3,3.6666666666666665,"24675041,25228534,25736571",C
+ALK,ALK I1171T,Neuroblastoma,Ceritinib,3,1,1,4.0,29907598,C
+ALK,ALK Mutation,Lung Non-small Cell Carcinoma,Ceritinib,4,1,1,4.0,24670165,B
+ALK,ALK R1275Q,Neuroblastoma,ALK Inhibitor TAE684,2,1,1,2.0,18923525,D
+ALK,ALK R1275Q,Neuroblastoma,Crizotinib,3,3,2,2.3333333333333335,"22072639,23598171",C
+ALK,ALK R1275Q,Neuroblastoma,Lorlatinib,2,1,1,4.0,26554404,D
+ALK,CAD::ALK Fusion,Colorectal Cancer,Entrectinib,3,1,1,3.0,26633560,C
+ALK,CLTC::ALK Fusion,Diffuse Large B-cell Lymphoma,ALK Inhibitor TAE684,2,1,1,4.0,21494621,D
+ALK,CLTC::ALK Fusion,Diffuse Large B-cell Lymphoma,Crizotinib,3,1,1,3.0,26221234,C
+ALK,DCTN1::ALK Fusion,Inflammatory Myofibroblastic Tumor,Entrectinib,3,1,1,3.0,35395680,C
+ALK,EML4::ALK Fusion,Lung Adenocarcinoma,Crizotinib,3,1,1,4.0,20979473,C
+ALK,EML4::ALK Fusion,Lung Non-small Cell Carcinoma,Crizotinib,3,1,1,4.0,20979469,C
+ALK,EML4::ALK Fusion,Lung Non-small Cell Carcinoma,Lorlatinib,2,1,1,2.0,26554404,D
+ALK,EML4::ALK Fusion,Lung Non-small Cell Carcinoma,WHI-P154,2,1,1,5.0,17625570,D
+ALK,EML4::ALK Fusion,Malignant Pleural Mesothelioma,Alectinib,3,1,1,4.0,32600123,C
+ALK,EML4::ALK Fusion AND ALK C1156Y,Lung Non-small Cell Carcinoma,Lorlatinib,3,1,1,3.0,26698910,C
+ALK,EML4::ALK Fusion AND ALK F1245C,Lung Non-small Cell Carcinoma,Ceritinib,3,1,1,3.0,26775591,C
+ALK,EML4::ALK Fusion AND ALK G1202R,Lung Non-small Cell Carcinoma,Tanespimycin,2,1,1,2.0,22277784,D
+ALK,EML4::ALK Fusion AND ALK I1171N AND ALK L1196M,Malignant Pleural Mesothelioma,Lorlatinib,3,1,1,3.0,32600123,C
+ALK,EML4::ALK Fusion AND ALK L1196M,Lung Non-small Cell Carcinoma,Alectinib,2,1,1,3.0,21575866,D
+ALK,EML4::ALK Fusion AND ALK L1196M,Lung Non-small Cell Carcinoma,Ceritinib,2,1,1,4.0,24675041,D
+ALK,EML4::ALK Fusion AND ALK L1198F AND ALK C1156Y,Lung Non-small Cell Carcinoma,Crizotinib,3,1,1,4.0,26698910,C
+ALK,EML4::ALK Fusion AND ALK S1206Y,Lung Non-small Cell Carcinoma,Ceritinib,2,1,1,2.0,24675041,D
+ALK,EML4::ALK Fusion AND ALK T1151dup,Lung Non-small Cell Carcinoma,Tanespimycin,2,1,1,2.0,22277784,D
+ALK,EML4::ALK Fusion AND ALK V1180L,Lung Non-small Cell Carcinoma,ALK Inhibitor TAE684,2,1,1,3.0,25228534,D
+ALK,EML4::ALK Fusion AND ALK V1180L,Lung Non-small Cell Carcinoma,Brigatinib,2,1,1,2.0,25228534,D
+ALK,EML4::ALK Fusion AND ALK V1180L,Lung Non-small Cell Carcinoma,Ceritinib,2,1,1,3.0,25228534,D
+ALK,EML4::ALK e20::e20,Lung Non-small Cell Carcinoma,Crizotinib,3,2,2,2.0,"20979469,22912387",C
+ALK,EML4::ALK e2::e20,Lung Non-small Cell Carcinoma,Crizotinib,1,1,1,4.0,18927303,E
+ALK,EML4::ALK e6::e20,Cancer,Crizotinib,3,1,1,3.0,25408655,C
+ALK,EML4::ALK e6::e20,Lung Non-small Cell Carcinoma,ALK Inhibitor TAE684,2,1,1,2.0,18451166,D
+ALK,EML4::ALK e6::e20,Lung Non-small Cell Carcinoma,Ceritinib,2,1,1,3.0,24675041,D
+ALK,EML4::ALK e6::e20,Lung Non-small Cell Carcinoma,Crizotinib,3,1,1,4.0,20979469,C
+ALK,KANK4::ALK Fusion,Pancreatic Acinar Cell Adenocarcinoma,Alectinib,3,1,1,3.0,35005993,C
+ALK,NPM1::ALK Fusion,Anaplastic Large Cell Lymphoma,Crizotinib,4,2,2,4.5,"18089725,23598171",B
+ALK,NPM1::ALK Fusion,Cancer,Crizotinib,2,1,1,2.0,25727400,D
+ALK,RANBP2::ALK Fusion,Inflammatory Myofibroblastic Tumor,Crizotinib,3,1,1,4.0,20979472,C
+ALK,STRN::ALK Fusion,Colon Adenocarcinoma,Ceritinib,3,1,1,3.0,26933125,C
+ALK,v::ALK Fusion,Anaplastic Large Cell Lymphoma,Crizotinib,5,3,2,3.6666666666666665,"21345110,28787259",A
+ALK,v::ALK Fusion,Anaplastic Thyroid Carcinoma,Crizotinib,3,1,1,3.0,24687827,C
+ALK,v::ALK Fusion,Breast Cancer,Crizotinib,1,1,1,1.0,19737969,E
+ALK,v::ALK Fusion,Cancer,Entrectinib,4,1,1,3.0,28183697,B
+ALK,v::ALK Fusion,Colorectal Adenocarcinoma,Crizotinib,1,1,1,1.0,19737969,E
+ALK,v::ALK Fusion,Diffuse Large B-cell Lymphoma,Crizotinib,3,1,1,2.0,24330038,C
+ALK,v::ALK Fusion,Epithelioid Inflammatory Myofibroblastic Sarcoma,Crizotinib,3,1,1,2.0,25028698,C
+ALK,v::ALK Fusion,Inflammatory Myofibroblastic Tumor,Crizotinib,5,3,3,3.0,"23598171,28787259,29352732",A
+ALK,v::ALK Fusion,Lung Adenocarcinoma,Crizotinib,3,1,1,3.0,25922291,C
+ALK,v::ALK Fusion,Lung Non-small Cell Carcinoma,Alectinib,5,7,7,4.285714285714286,"23639470,25153538,26708155,26938871,28501140,28586279,38598794",A
+ALK,v::ALK Fusion,Lung Non-small Cell Carcinoma,Brigatinib,5,2,2,4.5,"28475456,32780660",A
+ALK,v::ALK Fusion,Lung Non-small Cell Carcinoma,Ceritinib,5,2,2,4.5,"26973324,28602779",A
+ALK,v::ALK Fusion,Lung Non-small Cell Carcinoma,Crizotinib,5,7,7,4.142857142857143,"20979469,21933749,23724913,24478318,25470694,26466010,27022118",A
+ALK,v::ALK Fusion,Lung Non-small Cell Carcinoma,Lorlatinib,4,1,1,4.0,30413378,B
+ALK,v::ALK Fusion,Lung Non-small Cell Carcinoma,Pemetrexed,4,1,1,3.0,21642865,B
+ALK,v::ALK Fusion,Lung Non-small Cell Carcinoma,Retaspimycin Hydrochloride,3,1,1,2.0,20940188,C
+ALK,v::ALK Fusion,Vagina Sarcoma,Crizotinib,3,1,1,2.0,26942346,C
+ALK,v::ALK Fusion OR v::ROS1 Fusion,Cancer,Crizotinib,4,1,1,2.0,35233056,B
+APC,APC Mutation,Colon Carcinoma,JW55,2,1,1,3.0,22440753,D
+APC,APC Mutation,Colorectal Cancer,G007-LK,2,1,1,4.0,23539443,D
+AR,AR OVEREXPRESSION,Breast Cancer,Dactolisib,2,1,1,3.0,24356815,D
+ARAF,ARAF S214C,Lung Non-small Cell Carcinoma,Sorafenib,3,2,1,2.5,24569458,C
+ARAF,ARAF S214C,Lung Non-small Cell Carcinoma,Trametinib,2,1,1,3.0,24569458,D
+AREG,AREG Expression,Colorectal Cancer,Cetuximab,4,1,1,3.0,23374602,B
+AREG,AREG Expression,Colorectal Cancer,Panitumumab,4,1,1,4.0,26867820,B
+ARID1A,ARID1A Loss,Ovarian Clear Cell Carcinoma,Dasatinib,2,1,1,3.0,27364904,D
+ARID1A,ARID1A Loss,Ovarian Clear Cell Carcinoma,GSK126,2,1,1,4.0,25686104,D
+ARID1A,ARID1A P1175FS*5,Ovarian Clear Cell Carcinoma,Dasatinib,2,1,1,2.0,27364904,D
+ARID1A,ARID1A Q456*,Colorectal Cancer,Dasatinib,2,1,1,3.0,27364904,D
+ATM,ATM Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,4.0,32343890,A
+ATM,ATM Mutation,Glioblastoma,Temozolomide,2,1,1,3.0,23960094,D
+ATM,ATM Mutation,Hematologic Cancer,Olaparib,2,1,1,5.0,20739657,D
+ATM,ATM Mutation,Mantle Cell Lymphoma,Olaparib,2,1,1,3.0,20124459,D
+ATM,ATM Mutation,Melanoma,Temozolomide,2,1,1,3.0,23960094,D
+ATM,ATM Mutation,Prostate Cancer,Olaparib,3,1,1,3.0,26510020,C
+ATM,ATM N2875H,Prostate Cancer,Olaparib,3,1,1,3.0,26510020,C
+ATM,ATM S2289*,Prostate Cancer,Olaparib,3,1,1,3.0,26510020,C
+ATM,ATM Underexpression,Gastric Adenocarcinoma,Olaparib,2,1,1,4.0,24841718,D
+ATXN7L1,MET::ATXN7L1 Fusion,Lung Non-small Cell Carcinoma,Crizotinib,3,1,1,3.0,30339198,C
+BAIAP2L1,FGFR3::BAIAP2L1 Fusion,Bladder Carcinoma,PD173074,2,1,1,3.0,23558953,D
+BARD1,BARD1 Loss-of-function,Colorectal Cancer,Olaparib,2,1,1,3.0,27197561,D
+BARD1,BARD1 Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,2.0,32343890,A
+BICC1,FGFR2::BICC1 Fusion,Endometrial Cancer,Erdafitinib,3,1,1,3.0,26324363,C
+BICC1,FGFR2::BICC1 Fusion,Transitional Cell Carcinoma,Erdafitinib,3,1,1,3.0,26324363,C
+BRAF,AGK::BRAF Fusion,Melanoma,Sorafenib,3,1,1,2.0,23890088,C
+BRAF,BRAF D594G,Skin Melanoma,Sorafenib,2,1,1,3.0,18794803,D
+BRAF,BRAF G469E,Skin Melanoma,Sorafenib,2,1,1,3.0,18794803,D
+BRAF,BRAF L485_P490del,Cancer,Pan-RAF Inhibitor LY3009120,2,1,1,3.0,26732095,D
+BRAF,BRAF L597Q,Skin Melanoma,Trametinib,3,1,1,3.0,24933606,C
+BRAF,BRAF L597R,Melanoma,Vemurafenib,3,1,1,4.0,23715574,C
+BRAF,BRAF L597S,Skin Melanoma,MEK Inhibitor REC-4881,3,1,1,3.0,22798288,C
+BRAF,BRAF L597V,Skin Melanoma,Trametinib,3,1,1,3.0,22805292,C
+BRAF,BRAF Mutation,Cancer,Trametinib,2,1,1,4.0,22169769,D
+BRAF,BRAF N486_P490del,Pancreatic Cancer,Trametinib,3,1,1,3.0,29903880,C
+BRAF,BRAF V600,Cholangiocarcinoma,Vemurafenib,4,1,1,4.0,26287849,B
+BRAF,BRAF V600,Histiocytic Sarcoma,Dabrafenib/Trametinib Regimen,3,1,1,2.0,40057687,C
+BRAF,BRAF V600,Langerhans-cell Histiocytosis,Vemurafenib,4,1,1,3.0,26287849,B
+BRAF,BRAF V600,Lung Non-small Cell Carcinoma,Vemurafenib,4,1,1,3.0,26287849,B
+BRAF,BRAF V600,Melanoma,Dabrafenib,4,1,1,4.0,22608338,B
+BRAF,BRAF V600,Melanoma,Trametinib,4,1,1,3.0,22663011,B
+BRAF,BRAF V600 OR v::BRAF Fusion,Childhood Low-grade Glioma,Tovorafenib,5,1,1,5.0,37978284,A
+BRAF,BRAF V600D,Melanoma,BRAF Inhibitor,3,1,1,3.0,31580757,C
+BRAF,BRAF V600D,Melanoma,Dabrafenib,4,1,1,5.0,23463675,B
+BRAF,BRAF V600D,Melanoma,Vemurafenib,2,2,2,3.5,"18287029,20551065",D
+BRAF,BRAF V600E,Anaplastic Thyroid Carcinoma,Vemurafenib,4,1,1,3.0,26287849,B
+BRAF,BRAF V600E,Cancer,Cobimetinib,2,1,1,3.0,23934108,D
+BRAF,BRAF V600E,Childhood Pilocytic Astrocytoma,Vemurafenib,3,1,1,3.0,25524464,C
+BRAF,BRAF V600E,Colorectal Cancer,Vemurafenib,3,2,2,2.0,"22180495,29320312",C
+BRAF,BRAF V600E,Hairy Cell Leukemia,Vemurafenib,4,1,1,2.0,26352686,B
+BRAF,BRAF V600E,Langerhans Cell Sarcoma,Vemurafenib,4,1,1,4.0,31513482,B
+BRAF,BRAF V600E,Laryngeal Squamous Cell Carcinoma,Vemurafenib,3,1,1,3.0,29320312,C
+BRAF,BRAF V600E,Low Grade Glioma,Vemurafenib,4,1,1,3.0,32523649,B
+BRAF,BRAF V600E,Lung Non-small Cell Carcinoma,Vemurafenib,4,1,1,4.0,29320312,B
+BRAF,BRAF V600E,Melanoma,Pictilisib,3,1,1,2.0,25370471,C
+BRAF,BRAF V600E,Melanoma,Trametinib,4,1,1,4.0,22663011,B
+BRAF,BRAF V600E,Melanoma,Vemurafenib,4,5,5,3.8,"20818844,23569304,24508103,25524477,26557775",B
+BRAF,BRAF V600E,Multiple Myeloma,Vemurafenib,3,2,1,2.5,24997557,C
+BRAF,BRAF V600E,Ovarian Cancer,Vemurafenib,4,1,1,3.0,29320312,B
+BRAF,BRAF V600E,Ovarian Serous Carcinoma,Vemurafenib,3,1,1,3.0,26490654,C
+BRAF,BRAF V600E,Papillary Thyroid Carcinoma,Vemurafenib,4,3,2,3.6666666666666665,"24987354,27460442",B
+BRAF,BRAF V600E,Skin Melanoma,Vemurafenib,5,1,1,5.0,21639808,A
+BRAF,BRAF V600E AND BRAF V600M,Melanoma,Dabrafenib,3,1,1,1.0,23031422,C
+BRAF,BRAF V600E AND EZH2 Y646F,Melanoma,JQEZ5,2,1,1,4.0,27135738,D
+BRAF,BRAF V600E OR BRAF V600K,Melanoma,Vemurafenib,4,1,1,3.0,22356324,B
+BRAF,BRAF V600E OR KIAA1549::BRAF Fusion,Childhood Low-grade Glioma,Tovorafenib,5,1,1,5.0,37978284,A
+BRAF,BRAF V600K,Melanoma,Dabrafenib,4,1,1,,21343559,B
+BRAF,BRAF V600K,Melanoma,Trametinib,4,1,1,2.0,22663011,B
+BRAF,BRAF V600K,Melanoma,Vemurafenib,4,3,3,3.3333333333333335,"24508103,25524477,26989536",B
+BRAF,CUX1::BRAF Fusion,Pancreatic Cancer,Vemurafenib,3,1,1,2.0,29320312,C
+BRAF,KIAA1549::BRAF Fusion,Childhood Pilocytic Astrocytoma,Selumetinib,2,1,1,2.0,28002790,D
+BRAF,KIAA1549::BRAF Fusion,Childhood Pilocytic Astrocytoma,Trametinib,2,1,1,3.0,28002790,D
+BRAF,KIAA1549::BRAF Fusion,Skin Melanoma,Trametinib,3,1,1,1.0,26072686,C
+BRAF,NRF1::BRAF Fusion,Transitional Cell Carcinoma,Trametinib,3,1,1,3.0,31010895,C
+BRAF,PAPSS1::BRAF Fusion,Melanoma,Trametinib,2,1,1,3.0,24345920,D
+BRAF,PPFIBP2::BRAF Fusion,Skin Melanoma,Trametinib,3,1,1,2.0,26072686,C
+BRAF,TRIM24::BRAF Fusion,Melanoma,Trametinib,2,1,1,3.0,24345920,D
+BRAF,ZKSCAN1::BRAF Fusion,Melanoma,Trametinib,3,1,1,3.0,26314551,C
+BRCA1,BRCA1 Expression,Malignant Mesothelioma,Vinorelbine,2,1,1,2.0,22190288,D
+BRCA1,BRCA1 Loss-of-function,Breast Cancer,Talazoparib,4,1,1,4.0,28242752,B
+BRCA1,BRCA1 Loss-of-function,HER2 Negative Breast Cancer,Olaparib,5,2,2,5.0,"28578601,34081848",A
+BRCA1,BRCA1 Loss-of-function,Ovarian Cancer,Olaparib,4,1,1,4.0,23346317,B
+BRCA1,BRCA1 Loss-of-function,Ovarian Cancer,Talazoparib,4,1,1,3.0,28242752,B
+BRCA1,BRCA1 Loss-of-function,Pancreatic Adenocarcinoma,Olaparib,5,1,1,5.0,31157963,A
+BRCA1,BRCA1 Loss-of-function,Prostate Cancer,Olaparib,3,1,1,2.0,26510020,C
+BRCA1,BRCA1 Loss-of-function,Triple-negative Breast Cancer,Olaparib,5,1,1,5.0,34081848,A
+BRCA1,BRCA1 Loss-of-function OR BAP1 Loss-of-function,Malignant Mesothelioma,Rucaparib,4,1,1,3.0,33515503,B
+BRCA1,BRCA1 Mutation,Cancer,Olaparib,4,1,1,4.0,19553641,B
+BRCA1,BRCA1 Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,4.0,32343890,A
+BRCA1,BRCA1 Mutation,HER2 Negative Breast Cancer,Olaparib,4,1,1,4.0,28792849,B
+BRCA1,BRCA1 Mutation,Ovarian Cancer,Olaparib,5,3,2,3.0,"21862407,30345884",A
+BRCA1,BRCA1 Mutation,Ovarian Cancer,Rucaparib,5,4,2,4.0,"27908594,28882436",A
+BRCA1,BRCA1 Mutation,Ovarian Carcinoma,Platinum Compound,4,2,1,3.0,24240112,B
+BRCA1,BRCA1 Mutation,Pancreatic Cancer,Olaparib,4,1,1,3.0,25366685,B
+BRCA1,BRCA1 Mutation OR BRCA2 Mutation,Biliary Tract Cancer,Olaparib,4,1,1,4.0,41100773,B
+BRCA1,BRCA1 Mutation OR BRCA2 Mutation,Breast Carcinoma,Olaparib,4,1,1,4.0,41100773,B
+BRCA1,BRCA1 Mutation OR BRCA2 Mutation,Epithelial Ovarian Cancer,Niraparib,5,1,1,4.0,27717299,A
+BRCA1,BRCA1 Mutation OR BRCA2 Mutation,Lung Carcinoma,Olaparib,4,1,1,2.0,41100773,B
+BRCA1,BRCA1 Mutation OR BRCA2 Mutation,Prostate Cancer,Olaparib,4,1,1,3.0,36753688,B
+BRCA1,BRCA1 Mutation OR BRCA2 Mutation,Solid Tumor,Olaparib,4,1,1,2.0,41100773,B
+BRCA1,BRCA1 Mutation OR BRCA2 Mutation,Uterine Cancer,Olaparib,4,1,1,2.0,41100773,B
+BRCA1,BRCA1 Q1467*,Ovarian Cancer,Rucaparib,3,1,1,,27908594,C
+BRCA1,BRCA1 W1815X,Endometrioid Ovary Carcinoma,Olaparib,2,1,1,2.0,23415752,D
+BRCA2,BRCA2 Loss-of-function,Breast Cancer,Talazoparib,4,1,1,4.0,28242752,B
+BRCA2,BRCA2 Loss-of-function,HER2 Negative Breast Cancer,Olaparib,5,2,2,4.0,"28578601,34081848",A
+BRCA2,BRCA2 Loss-of-function,Ovarian Cancer,Olaparib,4,1,1,4.0,23346317,B
+BRCA2,BRCA2 Loss-of-function,Ovarian Cancer,Talazoparib,4,1,1,3.0,28242752,B
+BRCA2,BRCA2 Loss-of-function,Pancreatic Adenocarcinoma,Olaparib,5,1,1,5.0,31157963,A
+BRCA2,BRCA2 Loss-of-function,Pancreatic Cancer,Mitomycin,2,1,1,2.0,16243825,D
+BRCA2,BRCA2 Loss-of-function,Prostate Cancer,Olaparib,4,1,1,4.0,26510020,B
+BRCA2,BRCA2 Loss-of-function,Triple-negative Breast Cancer,Olaparib,5,1,1,5.0,34081848,A
+BRCA2,BRCA2 M1I,Ovarian Cancer,Rucaparib,3,1,1,,27908594,C
+BRCA2,BRCA2 M1R,Ovarian Cancer,Rucaparib,3,1,1,,27908594,C
+BRCA2,BRCA2 Mutation,Breast Cancer,Olaparib,4,1,1,4.0,28792849,B
+BRCA2,BRCA2 Mutation,Cancer,Olaparib,4,1,1,4.0,19553641,B
+BRCA2,BRCA2 Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,5.0,32343890,A
+BRCA2,BRCA2 Mutation,Ovarian Cancer,Olaparib,5,2,2,4.0,"21862407,30345884",A
+BRCA2,BRCA2 Mutation,Ovarian Cancer,Rucaparib,5,4,2,3.75,"27908594,28882436",A
+BRCA2,BRCA2 Mutation,Ovarian Carcinoma,Platinum Compound,4,2,1,3.0,24240112,B
+BRCA2,BRCA2 Mutation,Pancreatic Cancer,Iniparib,3,1,1,3.0,21508395,C
+BRCA2,BRCA2 Mutation,Pancreatic Cancer,Olaparib,4,1,1,4.0,25366685,B
+BRCA2,BRCA2 Mutation,Pancreatic Cancer,Platinum Compound,4,1,1,4.0,25072261,B
+BRCA2,BRCA2 R2336P,Ovarian Cancer,Rucaparib,3,1,1,,27908594,C
+BRCA2,BRCA2 V159M,Ovarian Cancer,Rucaparib,3,1,1,,27908594,C
+BRCA2,BRCA2 V211I,Ovarian Cancer,Rucaparib,3,1,1,,27908594,C
+BRCA2,BRCA2 V211L,Ovarian Cancer,Rucaparib,3,1,1,,27908594,C
+BRIP1,BRIP1 Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,2.0,32343890,A
+CALR,CALR EXON 9 FRAMESHIFT,Essential Thrombocythemia,Peginterferon Alfa-2a,4,1,1,4.0,26486786,B
+CASP8,CASP8 Overexpression,Ewing Sarcoma Of Bone,Conatumumab,2,1,1,3.0,26291055,D
+CCND1,CCND1 Amplification,Breast Cancer,Palbociclib,2,1,1,2.0,19874578,D
+CCND1,CCND1 Overexpression,Mantle Cell Lymphoma,Palbociclib,2,1,1,1.0,16690963,D
+CCND3,CCND3 Loss,T-cell Lymphoblastic Leukemia/lymphoma,Palbociclib,2,1,1,3.0,23079656,D
+CCNE1,CCNE1 Overexpression,Ovarian Cancer,CDK Inhibitor SNS-032,2,1,1,2.0,26204491,D
+CD274,CD274 Expression,Cancer,Nivolumab,4,1,1,2.0,22658127,B
+CD274,CD274 Expression,Lung Non-small Cell Carcinoma,Atezolizumab,4,1,1,4.0,26970723,B
+CD274,CD274 Expression,Lung Non-small Cell Carcinoma,Pembrolizumab,4,2,2,3.5,"25891174,27718847",B
+CD28,CTLA4::CD28 Fusion,Sezary's Disease,Ipilimumab,3,1,1,2.0,25802883,C
+CD44,CD44 CD44s Expression,Cancer,RG7356,2,1,1,3.0,25762343,D
+CDK12,CDK12 Loss-of-function,Ovarian Serous Carcinoma,Olaparib,2,1,1,4.0,24240700,D
+CDK12,CDK12 Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,4.0,32343890,A
+CDK4,CDK4 Amplification,Liposarcoma,Palbociclib,4,2,2,3.0,"23569312,27124835",B
+CDK4,CDK4 EXPRESSION,Estrogen Receptor-positive Breast Cancer,Alpelisib,2,1,1,4.0,25002028,D
+CDK4,CDK4 EXPRESSION,Sarcoma,Palbociclib,2,1,1,4.0,26528855,D
+CDK4,CDK4 R24C,Skin Melanoma,Palbociclib,2,1,1,1.0,24495407,D
+CDK6,CDK6 Overexpression,Glioblastoma Proneural Subtype,Palbociclib,2,1,1,2.0,28903422,D
+CDKN2A,CDKN2A Loss,Dermatofibrosarcoma Protuberans,Palbociclib,2,1,1,2.0,25852058,D
+CDKN2A,CDKN2A Loss,Ovarian Cancer,Palbociclib,2,1,1,3.0,21278246,D
+CDKN2A,CDKN2A Loss,Renal Cell Carcinoma,Palbociclib,2,1,1,3.0,23898052,D
+CDKN2A,CDKN2A Loss,Skin Melanoma,Alvocidib,2,1,1,2.0,12777976,D
+CDKN2A,CDKN2A Loss,Skin Melanoma,Palbociclib,2,1,1,3.0,24495407,D
+CDKN2A,CDKN2A p16 Expression,Head And Neck Squamous Cell Carcinoma,Panitumumab,4,1,1,3.0,23746666,B
+CDKN2B,CDKN2B Loss,Renal Cell Carcinoma,Palbociclib,2,1,1,3.0,23898052,D
+CEBPA,CEBPA N-TERMINAL FRAME SHIFT,Acute Myeloid Leukemia,OICR-9429,2,1,1,3.0,26167872,D
+CHEK1,CHEK1 Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,2.0,32343890,A
+CHEK2,CHEK2 mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,3.0,32343890,A
+CIP2A,CIP2A Underexpression,Pancreatic Ductal Adenocarcinoma,Gemcitabine,2,1,1,3.0,26894380,D
+CSF1R,MEF2D::CSF1R Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Imatinib,3,1,1,3.0,31434701,C
+CSF3R,CSF3R T618I,Chronic Neutrophilic Leukemia,Ruxolitinib,3,2,2,4.0,"24081659,25180155",C
+CTAG1B,CTAG1B Expression,Myxoid Liposarcoma,Letetresgene Autoleucel,4,1,1,3.0,39836945,B
+CTAG1B,CTAG1B Overexpression,Multiple Myeloma,Letetresgene Autoleucel,4,1,1,3.0,26193344,B
+CTAG2,CTAG2 Overexpression,Multiple Myeloma,Letetresgene Autoleucel,4,1,1,3.0,26193344,B
+CUL1,BRAF::CUL1 Fusion,Ovarian Serous Carcinoma,Mitogen-Activated Protein Kinase Kinase Inhibitor,3,1,1,2.0,26324360,C
+DDR2,DDR2 G253C,Cancer,Dasatinib,2,1,1,3.0,22328973,D
+DDR2,DDR2 G505S,Lung Non-small Cell Carcinoma,Dasatinib,2,1,1,4.0,22328973,D
+DDR2,DDR2 G774V,Lung Non-small Cell Carcinoma,Dasatinib,2,1,1,4.0,22328973,D
+DDR2,DDR2 I638F,Lung Non-small Cell Carcinoma,Dasatinib,2,1,1,4.0,22328973,D
+DDR2,DDR2 L239R,Lung Non-small Cell Carcinoma,Dasatinib,2,1,1,4.0,22328973,D
+DDR2,DDR2 L63V,Lung Non-small Cell Carcinoma,Dasatinib,2,1,1,4.0,22328973,D
+DEFA1,DEFA1 EXPRESSION,Prostate Cancer,Docetaxel,4,1,1,2.0,26261420,B
+DNMT1,DNMT1 EXPRESSION,Ovarian Cancer,Decitabine,2,1,1,3.0,25968887,D
+DNMT3A,DNMT3A Mutation,Acute Myeloid Leukemia,Decitabine,4,1,1,3.0,22124213,B
+DNMT3A,DNMT3A R882,Acute Myeloid Leukemia,Idarubicin,4,1,1,4.0,22081665,B
+DUSP6,DUSP6 EXPRESSION,Cancer,Trametinib,2,1,1,3.0,22169769,D
+EGFR,EGFR A289V,High Grade Glioma,Erlotinib,2,1,1,3.0,17177598,D
+EGFR,EGFR A763_Y764insFQEA,Lung Non-small Cell Carcinoma,Erlotinib,2,1,1,,24353160,D
+EGFR,EGFR A763_Y764insFQEA,Lung Non-small Cell Carcinoma,Osimertinib,3,1,1,2.0,31208370,C
+EGFR,EGFR A767_V769dupASV,Lung Non-small Cell Carcinoma,Osimertinib,3,1,1,3.0,31208370,C
+EGFR,EGFR A864T,Lung Non-small Cell Carcinoma,Erlotinib,2,1,1,,19147750,D
+EGFR,EGFR Amplification,Colorectal Cancer,Cetuximab,4,1,1,3.0,18794099,B
+EGFR,EGFR Amplification,Lung Non-small Cell Carcinoma,Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,4,1,1,4.0,20826716,B
+EGFR,EGFR Amplification AND EGFR EGFRVIII,Glioblastoma,Afatinib,3,1,1,2.0,26423602,C
+EGFR,EGFR Amplification AND EGFR::SEPTIN14 Fusion,Colon Adenocarcinoma,Erlotinib,3,1,1,2.0,32162810,C
+EGFR,EGFR C797Y,Cancer,Erlotinib,2,1,1,3.0,20942962,D
+EGFR,EGFR D770_N771insG,Lung Non-small Cell Carcinoma,Osimertinib,3,1,1,3.0,31208370,C
+EGFR,EGFR D770_N771insGT OR EGFR D770_N771insD OR EGFR D770_N771insF OR EGFR D770_N771insGD OR EGFR D770_N771insT OR EGFR N771delinsCH OR EGFR N771delinsGF OR EGFR N771delinsRD OR EGFR N771delinsSQRGH OR EGFR N771_P772insDN,Lung Non-small Cell Carcinoma,Sunvozertinib,5,1,1,4.0,40923280,A
+EGFR,EGFR D770delinsGY OR EGFR D770_N771insY OR EGFR N771_P772insT OR EGFR H773_V774insGNPH OR EGFR A767_S768insTLA OR EGFR S768_V769insLDS OR EGFR V769_D770insCV OR EGFR V769_D770insGA OR EGFR V769_D770insGVASV OR EGFR D770delinsAS,Lung Non-small Cell Carcinoma,Sunvozertinib,5,1,1,4.0,40923280,A
+EGFR,EGFR E734Q,Cancer,Erlotinib,2,1,1,3.0,20942962,D
+EGFR,EGFR E746G,Lung Adenocarcinoma,Erlotinib,3,1,1,1.0,26773740,C
+EGFR,EGFR E746_A750del,Bronchiolo-alveolar Adenocarcinoma,Erlotinib,3,1,1,3.0,15329413,C
+EGFR,EGFR E746_A750del,Lung Non-small Cell Carcinoma,Gefitinib,3,2,2,3.0,"15329413,24893891",C
+EGFR,EGFR E746_T751>I,Lung Adenocarcinoma,Gefitinib,3,1,1,2.0,15329413,C
+EGFR,EGFR E868G,Cancer,Erlotinib,2,1,1,3.0,20942962,D
+EGFR,EGFR Exon 19 Deletion,Lung Adenocarcinoma,Afatinib,4,4,4,3.75,"22452895,23816960,24439929,25589191",B
+EGFR,EGFR Exon 19 Deletion,Lung Adenocarcinoma,Erlotinib,3,1,1,,27566387,C
+EGFR,EGFR Exon 19 Deletion,Lung Adenocarcinoma,Gefitinib,4,2,2,3.0,"22370314,27022112",B
+EGFR,EGFR Exon 19 Deletion,Lung Non-small Cell Carcinoma,Afatinib,5,3,3,3.0,"23982599,25862853,26515464",A
+EGFR,EGFR Exon 19 Deletion,Lung Non-small Cell Carcinoma,Erlotinib,5,2,2,4.0,"22285168,24868098",A
+EGFR,EGFR Exon 19 Deletion,Lung Non-small Cell Carcinoma,Gefitinib,4,2,2,3.5,"16730237,18509184",B
+EGFR,EGFR Exon 20 Insertion,Lung Non-small Cell Carcinoma,Amivantamab,5,1,1,4.0,34339292,A
+EGFR,EGFR Exon 20 Insertion,Lung Non-small Cell Carcinoma,Mobocertinib,5,1,1,4.0,34647988,A
+EGFR,EGFR Exon 20 Insertion,Lung Non-small Cell Carcinoma,Osimertinib,4,1,1,2.0,31208370,B
+EGFR,EGFR Exon 20 Insertion,Lung Non-small Cell Carcinoma,Sunvozertinib,5,1,1,4.0,40923280,A
+EGFR,EGFR Expression,Chordoma,Lapatinib,4,1,1,2.0,23559153,B
+EGFR,EGFR Expression,Colorectal Cancer,Cetuximab,4,2,2,2.5,"14993230,18003960",B
+EGFR,EGFR Expression,Colorectal Cancer,Panitumumab,4,1,1,2.0,17470858,B
+EGFR,EGFR Expression,Lung Non-small Cell Carcinoma,Gefitinib,4,1,1,3.0,12748244,B
+EGFR,EGFR G465R,Colorectal Cancer,Futuximab/Modotuximab Mixture,3,1,1,4.0,26888827,C
+EGFR,EGFR G598V,Cancer,Erlotinib,2,1,1,3.0,17177598,D
+EGFR,EGFR G719,Lung Adenocarcinoma,Erlotinib,4,1,1,2.0,26773740,B
+EGFR,EGFR G719A,Lung Non-small Cell Carcinoma,Gefitinib,3,1,1,,20038723,C
+EGFR,EGFR G719S,Colorectal Cancer,Cetuximab,2,1,1,4.0,24894453,D
+EGFR,EGFR G719S,Lung Non-small Cell Carcinoma,Erlotinib,2,1,1,,19147750,D
+EGFR,EGFR G719S,Lung Non-small Cell Carcinoma,Gefitinib,2,1,1,4.0,15118125,D
+EGFR,EGFR G724S,Colorectal Cancer,Cetuximab,2,1,1,4.0,24894453,D
+EGFR,EGFR Gain-of-function,Lung Non-small Cell Carcinoma,Gefitinib,4,1,1,4.0,15118073,B
+EGFR,EGFR H773_V774insH OR EGFR D770_N771insG OR EGFR H773_V774insNPH OR EGFR A763_Y764insFQEA OR EGFR V774_C775insHV OR EGFR H773_V774insPH OR EGFR H773_V774insAH OR EGFR D770_N771insH OR EGFR N771dup,Lung Non-small Cell Carcinoma,Sunvozertinib,5,1,1,4.0,40923280,A
+EGFR,EGFR H773delinsYNPY OR EGFR H773delinsYPNPY OR EGFR H773_V774insHPH OR EGFR H773_V774insTH OR EGFR C775_R776insNPHVC,Lung Non-small Cell Carcinoma,Sunvozertinib,5,1,1,4.0,40923280,A
+EGFR,EGFR K757R,Lung Adenocarcinoma,Erlotinib,3,1,1,3.0,26773740,C
+EGFR,EGFR L747_P753delinsS,Lung Non-small Cell Carcinoma,Erlotinib,2,1,1,,19147750,D
+EGFR,EGFR L747_P753delinsS,Pancreatic Adenocarcinoma,Erlotinib,3,1,1,3.0,28874593,C
+EGFR,EGFR L747_S752delinsQ,Lung Adenocarcinoma,Erlotinib,3,1,1,3.0,15329413,C
+EGFR,EGFR L838P,Lung Non-small Cell Carcinoma,Gefitinib,3,1,1,3.0,21531810,C
+EGFR,EGFR L858R,Cancer,Erlotinib,2,1,1,3.0,20942962,D
+EGFR,EGFR L858R,High Grade Glioma,Erlotinib,2,1,1,3.0,17177598,D
+EGFR,EGFR L858R,Lung Adenocarcinoma,Afatinib,4,3,3,3.6666666666666665,"22452895,23816960,24439929",B
+EGFR,EGFR L858R,Lung Adenocarcinoma,Erlotinib,4,2,2,2.0,"27032107,27102076",B
+EGFR,EGFR L858R,Lung Adenocarcinoma,Gefitinib,4,3,3,2.0,"15329413,22370314,27022112",B
+EGFR,EGFR L858R,Lung Non-small Cell Carcinoma,Afatinib,5,3,3,3.0,"18408761,23982599,26515464",A
+EGFR,EGFR L858R,Lung Non-small Cell Carcinoma,Canertinib,2,1,1,3.0,18408761,D
+EGFR,EGFR L858R,Lung Non-small Cell Carcinoma,Dacomitinib,4,2,2,4.0,"18089823,26768165",B
+EGFR,EGFR L858R,Lung Non-small Cell Carcinoma,Erlotinib,5,7,7,2.7142857142857144,"15329413,17877814,18408761,22285168,24353160,24868098,27612423",A
+EGFR,EGFR L858R,Lung Non-small Cell Carcinoma,Gefitinib,4,3,3,3.6666666666666665,"15118125,18509184,20038723",B
+EGFR,EGFR L858R,Lung Non-small Cell Carcinoma,Lapatinib,2,1,1,3.0,18408761,D
+EGFR,EGFR L858R,Lung Non-small Cell Carcinoma,Neratinib,2,1,1,3.0,16818618,D
+EGFR,EGFR L858R,Lung Non-small Cell Carcinoma,Osimertinib,2,1,1,2.0,24893891,D
+EGFR,EGFR L858R,Lung Small Cell Carcinoma,Erlotinib,2,1,1,2.0,24893891,D
+EGFR,EGFR L858R AND EGFR T790M,Lung Non-small Cell Carcinoma,Osimertinib,5,1,1,4.0,27959700,A
+EGFR,EGFR L858R OR EGFR Exon 19 Deletion,Lung Adenocarcinoma,Erlotinib,4,1,1,4.0,22285168,B
+EGFR,EGFR L858R OR EGFR Exon 19 Deletion,Lung Non-small Cell Carcinoma,Dacomitinib,5,1,1,5.0,28958502,A
+EGFR,EGFR L858R OR EGFR Exon 19 Deletion,Lung Non-small Cell Carcinoma,Gefitinib,5,2,2,4.0,"24263064,24755888",A
+EGFR,EGFR L858R OR EGFR Exon 19 Deletion,Lung Non-small Cell Carcinoma,Osimertinib,5,1,1,5.0,32955177,A
+EGFR,EGFR L861Q,High Grade Glioma,Erlotinib,2,1,1,3.0,17177598,D
+EGFR,EGFR L861Q,Lung Non-small Cell Carcinoma,Gefitinib,3,1,1,3.0,21531810,C
+EGFR,EGFR L861R,Lung Non-small Cell Carcinoma,Gefitinib,3,1,1,3.0,21531810,C
+EGFR,EGFR Mutation,Lung Cancer,Erlotinib,4,1,1,2.0,22025157,B
+EGFR,EGFR Mutation,Lung Cancer,Gefitinib,4,1,1,2.0,17409929,B
+EGFR,EGFR Mutation,Lung Non-small Cell Carcinoma,Afatinib,4,2,2,4.0,"22452896,27083334",B
+EGFR,EGFR Mutation,Lung Non-small Cell Carcinoma,Datopotamab Deruxtecan,5,1,1,4.0,39250535,A
+EGFR,EGFR Mutation,Lung Non-small Cell Carcinoma,Datopotamab Deruxtecan Regimen,5,1,1,4.0,39761483,A
+EGFR,EGFR Mutation,Lung Non-small Cell Carcinoma,Erlotinib,4,3,3,3.6666666666666665,"15329413,21783417,21969500",B
+EGFR,EGFR Mutation,Lung Non-small Cell Carcinoma,Gefitinib,4,4,4,4.0,"15329413,19692680,20022809,20038723",B
+EGFR,EGFR N771_P772insL,Lung Non-small Cell Carcinoma,Osimertinib,3,1,1,1.0,31208370,C
+EGFR,EGFR N771delinsGY OR EGFR P772_H773insYNP OR EGFR N771_P772insRH OR EGFR N771_P772insVDN OR EGFR P772delinsHR OR EGFR P772_H773insDNP OR EGFR P772_H773insPHP OR EGFR P772_H773insQ OR EGFR P772_H773insRNP OR EGFR H773delinsNPY OR EGFR H773delinsPNPY,Lung Non-small Cell Carcinoma,Sunvozertinib,5,1,1,4.0,40923280,A
+EGFR,EGFR Overexpression,Lung Non-small Cell Carcinoma,Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,4,2,2,3.5,"22056021,26439803",B
+EGFR,EGFR Overexpression,Lung Non-small Cell Carcinoma,Gefitinib,4,1,1,3.0,16707605,B
+EGFR,EGFR R108K,High Grade Glioma,Erlotinib,2,1,1,3.0,17177598,D
+EGFR,EGFR R776C,Lung Non-small Cell Carcinoma,Erlotinib,2,1,1,,19147750,D
+EGFR,EGFR R831H,Cancer,Erlotinib,2,1,1,3.0,20942962,D
+EGFR,EGFR Rare Mutation,Lung Adenocarcinoma,Gefitinib,3,1,1,2.0,27022112,C
+EGFR,EGFR S492R,Colorectal Cancer,Panitumumab,3,1,1,2.0,22270724,C
+EGFR,EGFR S768I,Lung Adenocarcinoma,Erlotinib,3,1,1,3.0,25521405,C
+EGFR,EGFR S768I,Lung Adenocarcinoma,Gefitinib,3,1,1,2.0,20522446,C
+EGFR,EGFR S768I OR EGFR G719A OR EGFR L861Q,Lung Adenocarcinoma,Afatinib,5,1,1,3.0,22452895,A
+EGFR,EGFR S768_D770dup,Lung Non-small Cell Carcinoma,Osimertinib,3,1,1,3.0,31208370,C
+EGFR,EGFR S768_D770dup OR EGFR A767_V769dupASV,Lung Non-small Cell Carcinoma,Sunvozertinib,5,1,1,4.0,40923280,A
+EGFR,EGFR T263P,High Grade Glioma,Erlotinib,2,1,1,3.0,17177598,D
+EGFR,EGFR T785A,Cancer,Erlotinib,2,1,1,3.0,20942962,D
+EGFR,EGFR T790M,Lung Adenocarcinoma,Osimertinib,3,1,1,2.0,26269204,C
+EGFR,EGFR T790M,Lung Non-small Cell Carcinoma,Afatinib,2,2,2,2.0,"18408761,21732342",D
+EGFR,EGFR T790M,Lung Non-small Cell Carcinoma,Canertinib,2,1,1,2.0,18408761,D
+EGFR,EGFR T790M,Lung Non-small Cell Carcinoma,Dacomitinib,2,1,1,3.0,18089823,D
+EGFR,EGFR T790M,Lung Non-small Cell Carcinoma,Neratinib,2,1,1,2.0,16818618,D
+EGFR,EGFR T790M,Lung Non-small Cell Carcinoma,Osimertinib,5,5,5,4.0,"24893891,25923549,26720284,26729184,27959700",A
+EGFR,EGFR T790M,Lung Non-small Cell Carcinoma,Rociletinib,4,2,2,3.5,"24065731,25923550",B
+EGFR,EGFR T790M,Lung Non-small Cell Carcinoma,Staurosporine,1,1,1,1.0,24658966,E
+EGFR,EGFR T790M AND EGFR Exon 19 Deletion,Lung Adenocarcinoma,Osimertinib,3,1,1,1.0,26181354,C
+EGFR,EGFR T790M AND EGFR Exon 19 Deletion,Lung Non-small Cell Carcinoma,Osimertinib,5,1,1,4.0,27959700,A
+EGFR,EGFR T790M AND EGFR Exon 19 del,Lung Adenocarcinoma,Osimertinib,3,1,1,3.0,38074875,C
+EGFR,EGFR V742A,Lung Non-small Cell Carcinoma,Erlotinib,2,1,1,,19147750,D
+EGFR,EGFR V769_D770insASV,Lung Adenocarcinoma,Erlotinib,3,1,1,3.0,26773740,C
+EGFR,EGFR V774A,Lung Non-small Cell Carcinoma,Gefitinib,3,1,1,3.0,21531810,C
+EGFR,EGFR V834I,Lung Non-small Cell Carcinoma,Gefitinib,3,1,1,3.0,21531810,C
+EGFR,EGFR VIII,Brain Glioma,Nimotuzumab,2,1,1,1.0,26778701,D
+EGFR,EGFR VIII,Glioblastoma,Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,4,1,1,4.0,16282176,B
+EGFR,EGFR VIII,Glioblastoma,Rindopepimut,4,1,1,3.0,25586468,B
+EGFR,EGFR VIII,High Grade Glioma,Erlotinib,2,1,1,3.0,17177598,D
+EGFR,EGFR W731L,Cancer,Erlotinib,2,1,1,3.0,20942962,D
+EGFR,EGFR Y801H,Cancer,Erlotinib,2,1,1,3.0,20942962,D
+EGFR,KIF5B::EGFR Fusion,Lung Adenocarcinoma,Afatinib,3,1,1,3.0,34163176,C
+EIF4EBP1,EIF4EBP1 PHOSPHORYLATION,Gastric Adenocarcinoma,Everolimus,2,1,1,2.0,23340172,D
+ERBB2,ERBB2 A775_G776insTVMA,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,2.0,37694347,A
+ERBB2,ERBB2 A775_G776insV,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,2.0,37694347,A
+ERBB2,ERBB2 A775_G776insVVMA,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,2.0,37694347,A
+ERBB2,ERBB2 A775_G776insYVMA,Lung Non-small Cell Carcinoma,Zongertinib,5,1,1,4.0,40293180,A
+ERBB2,ERBB2 Amplification,Breast Cancer,AKTi-1/2,2,1,1,3.0,18725974,D
+ERBB2,ERBB2 Amplification,Breast Cancer,MTOR Kinase Inhibitor PP242,2,1,1,2.0,21358673,D
+ERBB2,ERBB2 Amplification,Breast Cancer,Margetuximab,5,1,1,5.0,33480963,A
+ERBB2,ERBB2 Amplification,Breast Cancer,Pictilisib,2,1,1,3.0,20453058,D
+ERBB2,ERBB2 Amplification,Childhood Ependymoma,Lapatinib,4,1,1,1.0,20713864,B
+ERBB2,ERBB2 Amplification,Colorectal Cancer,Afatinib,2,1,1,3.0,26296355,D
+ERBB2,ERBB2 Amplification,Endometrial Serous Adenocarcinoma,Trastuzumab,3,1,1,4.0,18555254,C
+ERBB2,ERBB2 Amplification,Gastric Adenocarcinoma,Lapatinib,4,1,1,3.0,24868024,B
+ERBB2,ERBB2 Amplification,Gastric Adenocarcinoma,Trastuzumab,5,2,1,4.0,20728210,A
+ERBB2,ERBB2 Amplification,HER2 Positive Breast Cancer,A66,2,1,1,2.0,22802530,D
+ERBB2,ERBB2 Amplification,HER2 Positive Breast Cancer,Afatinib,4,2,2,3.0,"22418700,26596672",B
+ERBB2,ERBB2 Amplification,HER2 Positive Breast Cancer,Neratinib,4,1,1,3.0,20142587,B
+ERBB2,ERBB2 Amplification,HER2 Positive Breast Cancer,Pictilisib,2,1,1,3.0,22802530,D
+ERBB2,ERBB2 Amplification,HER2 Positive Breast Cancer,Trastuzumab,5,3,3,4.666666666666667,"11248153,15911866,16236737",A
+ERBB2,ERBB2 Amplification,HER2 Positive Breast Cancer,Trastuzumab Emtansine,4,4,4,3.75,"21172893,23020162,23382472,24793816",B
+ERBB2,ERBB2 Amplification,Lung Non-small Cell Carcinoma,Trastuzumab Emtansine,2,1,1,4.0,24898067,D
+ERBB2,ERBB2 Amplification,Pancreatic Adenocarcinoma,Afatinib,2,1,1,2.0,26668065,D
+ERBB2,ERBB2 Amplification,Scrotum Paget's Disease,Trastuzumab,3,1,1,2.0,25692060,C
+ERBB2,ERBB2 Amplification,Stomach Cancer,Trastuzumab Deruxtecan,4,1,1,3.0,31047804,B
+ERBB2,ERBB2 Amplification,Uterine Corpus Endometrial Carcinoma,Afatinib,2,1,1,2.0,25268372,D
+ERBB2,ERBB2 D769Y,Breast Cancer,Neratinib,2,1,1,4.0,23220880,D
+ERBB2,ERBB2 D769Y,Extramammary Paget Disease,Afatinib,3,1,1,3.0,35939768,C
+ERBB2,ERBB2 D769Y,Peritoneal Carcinoma,Afatinib,3,1,1,1.0,35939768,C
+ERBB2,ERBB2 Exon 20 Insertion,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,2,2,4.5,"34534430,37694347",A
+ERBB2,ERBB2 G309A,Breast Cancer,Neratinib,2,1,1,5.0,23220880,D
+ERBB2,ERBB2 G776L,Lung Adenocarcinoma,Afatinib,3,1,1,3.0,22325357,C
+ERBB2,ERBB2 G776_V777delinsVCD,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,2.0,37694347,A
+ERBB2,ERBB2 G776delinsCV,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,3,1,1,2.0,37694347,C
+ERBB2,ERBB2 G776delinsLC,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,2.0,37694347,A
+ERBB2,ERBB2 G776delinsVC,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,4.0,37694347,A
+ERBB2,ERBB2 G778_P780dup,Breast Cancer,Neratinib,2,1,1,4.0,23220880,D
+ERBB2,ERBB2 G778_P780dup,Lung Adenocarcinoma,Afatinib,3,1,1,3.0,22325357,C
+ERBB2,ERBB2 G778_P780dup,Lung Adenocarcinoma,Dacomitinib,3,1,1,3.0,25899785,C
+ERBB2,ERBB2 G778_P780dup,Lung Non-small Cell Carcinoma,Dacomitinib,3,1,1,3.0,25899785,C
+ERBB2,ERBB2 G778_P780dup,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,3.0,37694347,A
+ERBB2,ERBB2 G778_S779insLPS,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,2.0,37694347,A
+ERBB2,ERBB2 H878Y,Cancer,Lapatinib,2,1,1,2.0,22046346,D
+ERBB2,ERBB2 Kinase Domain Mutation,Lung Adenocarcinoma,Afatinib,3,1,1,3.0,22325357,C
+ERBB2,ERBB2 Kinase Domain Mutation,Lung Adenocarcinoma,Trastuzumab,3,1,1,4.0,26598547,C
+ERBB2,ERBB2 Kinase Domain Mutation OR ERBB2 Exon 20 Insertion,Lung Non-small Cell Carcinoma,Sevabertinib,5,1,1,2.0,41104928,A
+ERBB2,ERBB2 L755A,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,3.0,37694347,A
+ERBB2,ERBB2 L755M,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,2.0,37694347,A
+ERBB2,ERBB2 L755P,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,2.0,37694347,A
+ERBB2,ERBB2 L755P OR ERBB2 G776V OR ERBB2 G776delinsVC OR ERBB2 P780_Y781insGSP,Lung Non-small Cell Carcinoma,Zongertinib,5,1,1,4.0,40293180,A
+ERBB2,ERBB2 L755S,Breast Cancer,Neratinib,2,1,1,5.0,23220880,D
+ERBB2,ERBB2 L755W,Breast Cancer,Neratinib,2,1,1,5.0,23220880,D
+ERBB2,ERBB2 L755_T759del,Breast Cancer,Neratinib,2,1,1,2.0,23220880,D
+ERBB2,ERBB2 M774DELINSWLV,Lung Non-small Cell Carcinoma,Dacomitinib,3,1,1,3.0,25899785,C
+ERBB2,ERBB2 Mutation,Bladder Carcinoma,Platinum Compound,3,1,1,3.0,25636205,C
+ERBB2,ERBB2 Mutation,Breast Cancer,Neratinib,4,1,1,4.0,28679771,B
+ERBB2,ERBB2 Mutation,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,4.0,37694347,A
+ERBB2,ERBB2 Mutation,Lung Non-small Cell Carcinoma,Zongertinib,5,1,1,4.0,40293180,A
+ERBB2,ERBB2 N857S,Cancer,Lapatinib,2,1,1,2.0,22046346,D
+ERBB2,ERBB2 Overexpression,HER2 Positive Breast Cancer,Trastuzumab Emtansine,4,1,1,4.0,28526536,B
+ERBB2,ERBB2 Overexpression,Head And Neck Squamous Cell Carcinoma,Lapatinib,3,1,1,2.0,28061634,C
+ERBB2,ERBB2 Overexpression,Solid Tumor,Trastuzumab Deruxtecan,5,1,1,5.0,37870536,A
+ERBB2,ERBB2 R896C,Breast Cancer,Neratinib,2,1,1,5.0,23220880,D
+ERBB2,ERBB2 S310F,Breast Cancer,Afatinib,3,1,1,2.0,35939768,C
+ERBB2,ERBB2 S310F,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,3.0,37694347,A
+ERBB2,ERBB2 SERUM LEVELS,Breast Cancer,Lapatinib,4,1,1,4.0,26811533,B
+ERBB2,ERBB2 T862A,Cancer,Lapatinib,2,1,1,1.0,22046346,D
+ERBB2,ERBB2 V773A,Cancer,Lapatinib,2,1,1,2.0,22046346,D
+ERBB2,ERBB2 V777L,Breast Cancer,Afatinib,3,1,1,1.0,35939768,C
+ERBB2,ERBB2 V777L,Breast Cancer,Neratinib,2,1,1,5.0,23220880,D
+ERBB2,ERBB2 V777L,Cancer,Lapatinib,2,1,1,2.0,22046346,D
+ERBB2,ERBB2 V842I,Breast Cancer,Neratinib,2,1,1,5.0,23220880,D
+ERBB2,ERBB2 Y772_A775DUP,Lung Adenocarcinoma,Afatinib,3,2,2,3.5,"22325357,26559459",C
+ERBB2,ERBB2 Y772_A775DUP,Lung Adenocarcinoma,Trastuzumab Emtansine,3,1,1,3.0,25789838,C
+ERBB2,ERBB2 Y772_A775DUP,Lung Carcinoma,Afatinib,2,1,1,4.0,19122144,D
+ERBB2,ERBB2 Y772_A775DUP,Lung Non-small Cell Carcinoma,Trastuzumab Deruxtecan,5,1,1,4.0,37694347,A
+ERBB2,ERBB2 Y772_A775dup OR ERBB2 G778_P780dup OR ERBB2 G776delinsVC OR ERBB2 V659E OR ERBB2 S310F OR ERBB2 G776delinsLC,Lung Non-small Cell Carcinoma,Sevabertinib,5,1,1,4.0,41104928,A
+ERBB3,ERBB3 G284R,Transitional Cell Carcinoma,Afatinib,4,1,1,3.0,27044931,B
+ERBB3,ERBB3 R103G,Transitional Cell Carcinoma,Afatinib,4,1,1,3.0,27044931,B
+ERBB3,ERBB3 V104M,Transitional Cell Carcinoma,Afatinib,4,1,1,3.0,27044931,B
+ERBB4,ERBB4 Mutation,Melanoma,Lapatinib,2,1,1,4.0,19718025,D
+ERCC1,ERCC1 Underexpression,Epithelial Ovarian Cancer,Platinum Compound,4,1,1,3.0,30797591,B
+EREG,EREG EXPRESSION,Colorectal Cancer,Cetuximab,4,1,1,3.0,23374602,B
+EREG,EREG EXPRESSION,Colorectal Cancer,Panitumumab,4,1,1,4.0,26867820,B
+ERRFI1,ERRFI1 E384*,Cholangiocarcinoma,Erlotinib,3,1,1,2.0,24550739,C
+ESR1,ESR1 Mutation,Breast Cancer,Elacestrant,5,1,1,4.0,35584336,A
+EZH2,EZH2 Activating Mutation,Follicular Lymphoma,Tazemetostat,5,2,2,2.0,"33035457,33492746",A
+EZH2,EZH2 Y646,Skin Melanoma,GSK126,2,1,1,2.0,26304929,D
+EZH2,EZH2 Y646H,Diffuse Large B-cell Lymphoma,Tazemetostat,3,1,1,2.0,29650362,C
+EZH2,EZH2 Y646S OR EZH2 Y646F OR EZH2 Y646H OR EZH2 Y646C OR EZH2 Y646N OR EZH2 A692V OR EZH2 A682G,B-cell Non-Hodgkin Lymphoma,Tazemetostat,5,1,1,2.0,29650362,A
+EZH2,EZH2 Y646S OR EZH2 Y646F OR EZH2 Y646H OR EZH2 Y646C OR EZH2 Y646N OR EZH2 A692V OR EZH2 A682G,Diffuse Large B-cell Lymphoma,Tazemetostat,4,1,1,3.0,34159682,B
+EZH2,EZH2 Y646S OR EZH2 Y646F OR EZH2 Y646H OR EZH2 Y646C OR EZH2 Y646N OR EZH2 A692V OR EZH2 A682G,Follicular Lymphoma,Tazemetostat,4,1,1,4.0,34159682,B
+EZH2,EZH2 expression,Diffuse Large B-cell Lymphoma Germinal Center B-cell Type,Tazemetostat,3,1,1,1.0,33492746,C
+FBXW7,FBXW7 Loss-of-function,Cancer,Sirolimus,2,1,1,4.0,18787170,D
+FBXW7,FBXW7 Loss-of-function,Renal Cell Carcinoma,Everolimus,1,1,1,2.0,24253377,E
+FBXW7,FBXW7 Mutation,Cancer,MTOR Inhibitor,4,1,1,2.0,24586741,B
+FGF19,FGF19 Overexpression,Hepatocellular Carcinoma,Fisogatinib,4,1,1,4.0,31575541,B
+FGF3,FGF3 Amplification,Breast Cancer,Dovitinib,4,1,1,2.0,23658459,B
+FGFR1,FGFR1 Amplification,Breast Cancer,Dovitinib,4,2,2,2.0,"23658459,28183331",B
+FGFR1,FGFR1 Amplification,Breast Cancer,Erdafitinib,4,1,1,2.0,38603651,B
+FGFR1,FGFR1 Amplification,Breast Cancer,Fexagratinib,3,1,1,2.0,27179038,C
+FGFR1,FGFR1 Amplification,Breast Cancer,Futibatinib,2,1,1,3.0,32973082,D
+FGFR1,FGFR1 Amplification,Breast Cancer,Lucitanib,4,1,1,3.0,25193991,B
+FGFR1,FGFR1 Amplification,Breast Cancer,Pazopanib,3,1,1,2.0,29223982,C
+FGFR1,FGFR1 Amplification,Estrogen Receptor-positive Breast Cancer,Ponatinib,2,1,1,3.0,22238366,D
+FGFR1,FGFR1 Amplification,Ewing Sarcoma Of Bone,Ponatinib,2,1,1,3.0,26179511,D
+FGFR1,FGFR1 Amplification,Lung Non-small Cell Carcinoma,Dovitinib,4,1,1,2.0,27315356,B
+FGFR1,FGFR1 Amplification,Lung Non-small Cell Carcinoma,PD173074,2,1,1,4.0,21666749,D
+FGFR1,FGFR1 Amplification,Lung Squamous Cell Carcinoma,Infigratinib,4,1,1,3.0,27870574,B
+FGFR1,FGFR1 Amplification,Lung Squamous Cell Carcinoma,PD173074,2,1,1,5.0,21160078,D
+FGFR1,FGFR1 Amplification AND MYC Overexpression,Lung Squamous Cell Carcinoma,Pazopanib,3,1,1,2.0,24302556,C
+FGFR1,FGFR1 Expression,Colorectal Cancer,Infigratinib,2,1,1,2.0,24135816,D
+FGFR1,FGFR1 Expression,Gastric Adenocarcinoma,Infigratinib,2,1,1,2.0,26637881,D
+FGFR1,FGFR1 Expression,Head And Neck Squamous Cell Carcinoma,Infigratinib,2,1,1,3.0,26015511,D
+FGFR1,FGFR1 Expression,Lung Cancer,Ponatinib,2,1,1,4.0,24771645,D
+FGFR1,FGFR1 N546K,Ewing Sarcoma Of Bone,Ponatinib,1,1,1,2.0,26179511,E
+FGFR1,FGFR1 N546K,Pilocytic Astrocytoma,Pemigatinib,3,1,1,3.0,35507888,C
+FGFR1,FGFR1OP2::FGFR1 Fusion,Acute Myeloid Leukemia,Ponatinib,2,1,1,2.0,21482694,D
+FGFR1,ZMYM2::FGFR1 Fusion,Myeloproliferative Neoplasm,Midostaurin,3,1,1,4.0,15448205,C
+FGFR1,ZMYM2::FGFR1 Fusion OR BCR::FGFR1 Fusion OR CEP43::FGFR1 Fusion OR TRIM24::FGFR1 Fusion OR FGFR1 Translocation,Myeloid Neoplasm,Pemigatinib,5,1,1,3.0,,A
+FGFR2,FGFR2 Amplification,Breast Cancer,Dovitinib,4,1,1,2.0,23658459,B
+FGFR2,FGFR2 Amplification,Stomach Carcinoma,Fexagratinib,4,1,1,3.0,27179038,B
+FGFR2,FGFR2 Mutation,Cholangiocarcinoma,Infigratinib,4,2,2,3.0,"27870574,29182496",B
+FGFR2,FGFR2 Mutation,Endometrial Cancer,Ponatinib,2,1,1,3.0,26574622,D
+FGFR2,FGFR2 Mutation OR FGFR2::v Fusion OR FGFR2::? Fusion,Transitional Cell Carcinoma,Erdafitinib,5,1,1,4.0,,A
+FGFR2,FGFR2 N550K,Endometrial Cancer,PD173074,2,1,1,3.0,18757403,D
+FGFR2,FGFR2 P253R,Head And Neck Squamous Cell Carcinoma,Pazopanib,3,1,1,3.0,23786770,C
+FGFR2,FGFR2::v Fusion,Cancer,Erdafitinib,4,1,1,3.0,26324363,B
+FGFR2,FGFR2::v Fusion OR FGFR2::? Fusion,Cholangiocarcinoma,Infigratinib,5,3,3,3.3333333333333335,"27870574,29182496,34358484",A
+FGFR2,FGFR2::v Fusion OR FGFR2::? Fusion,Cholangiolocellular Carcinoma,Pemigatinib,5,1,1,4.0,32203698,A
+FGFR2,FGFR2::v Fusion OR FGFR2::? Fusion,Intrahepatic Cholangiocarcinoma,Derazantinib,4,1,1,3.0,30420614,B
+FGFR3,FGFR3 Mutation,Bladder Carcinoma,Infigratinib,4,1,1,3.0,27870574,B
+FGFR3,FGFR3 Mutation,Transitional Cell Carcinoma,Erdafitinib,5,1,1,4.0,31340094,A
+FGFR3,FGFR3 Overexpression,Cancer,R3Mab,2,1,1,3.0,19381019,D
+FGFR3,FGFR3 S249C,Transitional Cell Carcinoma,Pazopanib,3,1,1,2.0,25766722,C
+FGFR3,FGFR3 S249C,Urinary Bladder Cancer,Erdafitinib,2,1,1,3.0,17384684,D
+FLCN,FLCN c.1285dupC,Renal Cell Carcinoma,Everolimus,3,1,1,1.0,23995526,C
+FLI1,EWSR1::FLI1 Fusion,Ewing Sarcoma,HCI-2509,2,1,1,2.0,24963049,D
+FLT3,FLT3 D835H,Acute Myeloid Leukemia,Gilteritinib,2,1,1,2.0,27908881,D
+FLT3,FLT3 D835I,Acute Myeloid Leukemia,Gilteritinib,2,1,1,2.0,27908881,D
+FLT3,FLT3 D835V,Acute Myeloid Leukemia,Gilteritinib,2,1,1,2.0,27908881,D
+FLT3,FLT3 D835V,Acute Myeloid Leukemia,Sunitinib,3,1,1,,15459012,C
+FLT3,FLT3 D835Y,Acute Myeloid Leukemia,Gilteritinib,2,1,1,2.0,27908881,D
+FLT3,FLT3 D835Y,Acute Myeloid Leukemia,Lestaurtinib,2,1,1,4.0,28077790,D
+FLT3,FLT3 D835Y,Cancer,Gilteritinib,2,1,1,4.0,28516360,D
+FLT3,FLT3 ITD,Acute Myeloid Leukemia,Gilteritinib,2,2,2,3.5,"27908881,28516360",D
+FLT3,FLT3 ITD,Acute Myeloid Leukemia,Lestaurtinib,4,1,1,4.0,14726387,B
+FLT3,FLT3 ITD,Acute Myeloid Leukemia,Ponatinib,2,1,1,5.0,21482694,D
+FLT3,FLT3 ITD,Acute Myeloid Leukemia,Sorafenib,4,3,3,2.3333333333333335,"18230792,22368270,23969938",B
+FLT3,FLT3 ITD,Acute Myeloid Leukemia,Tyrphostin AG 1296,2,1,1,4.0,12357354,D
+FLT3,FLT3 ITD OR FLT3 D835 OR FLT3 I836,Acute Myeloid Leukemia,Gilteritinib,5,1,1,5.0,31665578,A
+FLT3,FLT3 Mutation,Acute Myeloid Leukemia,Gilteritinib,4,1,1,4.0,28645776,B
+FLT3,FLT3 Mutation,Acute Myeloid Leukemia,Midostaurin,5,1,1,3.0,28546144,A
+FLT3,FLT3 N841I,Acute Myeloid Leukemia,Midostaurin,2,1,1,3.0,15178581,D
+FLT3,FLT3 Overexpression,B-cell Adult Acute Lymphocytic Leukemia,Sunitinib,3,1,1,3.0,27181063,C
+FLT3,FLT3 TKD MUTATION,Acute Myeloid Leukemia,Midostaurin,4,1,1,3.0,20733134,B
+FLT3,FLT3 Y842C,Acute Myeloid Leukemia,Lestaurtinib,2,1,1,4.0,22858906,D
+FLT3,FLT3 Y842C,Acute Myeloid Leukemia,Midostaurin,2,1,1,3.0,22858906,D
+FOS,FOS Overexpression,Colon Adenocarcinoma,Irbesartan,3,1,1,2.0,27022066,C
+FOXO1,PAX3::FOXO1 Fusion,Alveolar Rhabdomyosarcoma,BET Inhibitor,2,1,1,3.0,28446439,D
+FOXP3,FOXP3 EXPRESSION,Breast Cancer,Epirubicin,4,1,1,4.0,22431701,B
+GNA11,GNA11 Mutation,Uveal Melanoma,Cabozantinib,4,1,1,3.0,28103611,B
+GNA11,GNA11 Mutation,Uveal Melanoma,JQ1,2,1,1,1.0,26397223,D
+GNA11,GNA11 Mutation,Uveal Melanoma,Trametinib,3,1,1,2.0,22805292,C
+GNAQ,GNAQ Mutation,Uveal Melanoma,Cabozantinib,4,1,1,2.0,28103611,B
+GNAQ,GNAQ Mutation,Uveal Melanoma,JQ1,2,1,1,2.0,26397223,D
+GNAQ,GNAQ Mutation,Uveal Melanoma,Trametinib,4,1,1,2.0,22805292,B
+GNAQ,GNAQ Q209,Uveal Melanoma,Refametinib,3,1,1,2.0,23434733,C
+GNAS,GNAS R201H,Follicular Thyroid Carcinoma,Radioactive Iodine,3,1,1,3.0,26788326,C
+GSTP1,GSTP1 I105V,Colorectal Cancer,FOLFOX Regimen,4,1,1,4.0,19922504,B
+H3-3A,H3-3A K28M,"Diffuse Midline Glioma, H3 K27-altered",Dordaviprone,5,1,1,4.0,38335473,A
+H3-3A,H3-3A K28M,Glioma,Dordaviprone,4,1,1,4.0,,B
+HGF,HGF EXPRESSION,Glioblastoma,MET Tyrosine Kinase Inhibitor SGX523,2,1,1,2.0,22203985,D
+HRAS,HRAS Mutation,Bladder Urothelial Carcinoma,Tipifarnib,4,1,1,2.0,32636318,B
+HRAS,HRAS Mutation,Head And Neck Squamous Cell Carcinoma,Tipifarnib,4,1,1,2.0,33750196,B
+HSPA5,HSPA5 EXPRESSION,Colorectal Cancer,Fluorouracil,4,1,1,4.0,23456958,B
+HSPB1,HSPB1 EXPRESSION,Pancreatic Ductal Adenocarcinoma,Gemcitabine,2,1,1,2.0,22004109,D
+IDH1,IDH1 Mutation,Acute Myeloid Leukemia,Ivosidenib,5,1,1,3.0,29860938,A
+IDH1,IDH1 Mutation,Acute Myeloid Leukemia,Venetoclax,3,1,1,3.0,30725494,C
+IDH1,IDH1 Mutation,Brain Glioma,Olaparib,2,1,1,3.0,28148839,D
+IDH1,IDH1 Mutation,Cholangiocarcinoma,Ivosidenib,4,1,1,3.0,31300360,B
+IDH1,IDH1 R132,Cholangiocarcinoma,Ivosidenib,5,1,1,5.0,32416072,A
+IDH1,IDH1 R132,Intrahepatic Cholangiocarcinoma,Dasatinib,2,1,1,4.0,27231123,D
+IDH1,IDH1 R132C,Acute Myeloid Leukemia,BPTES,2,1,1,3.0,24333121,D
+IDH1,IDH1 R132C,Acute Myeloid Leukemia,GSK321,2,1,1,3.0,26436839,D
+IDH1,IDH1 R132C,Acute Myeloid Leukemia,Ivosidenib,4,1,1,2.0,25583779,B
+IDH1,IDH1 R132C,Brain Glioma,Temozolomide,4,1,1,2.0,20975057,B
+IDH1,IDH1 R132C,Cancer,Olaparib,2,1,1,3.0,28148839,D
+IDH1,IDH1 R132C,High Grade Glioma,AGI-5198,2,1,1,2.0,23558169,D
+IDH1,IDH1 R132C OR IDH1 R132H,Acute Myeloid Leukemia,Ivosidenib,2,1,1,4.0,29670690,D
+IDH1,IDH1 R132C OR IDH1 R132H OR IDH1 R132L OR IDH1 R132G OR IDH1 R132S,Low Grade Glioma,Vorasidenib,5,1,1,5.0,37272516,A
+IDH1,IDH1 R132H,Oligodendroglioma,AGI-5198,2,1,1,4.0,23558169,D
+IDH2,IDH2 Mutation,Acute Myeloid Leukemia,Enasidenib,5,2,2,4.0,"28193778,28588020",A
+IDH2,IDH2 Mutation,Acute Myeloid Leukemia,Venetoclax,3,1,1,3.0,30725494,C
+IDH2,IDH2 Mutation OR IDH1 Mutation,Glioma,Vorasidenib,5,1,1,4.0,37272516,A
+IDH2,IDH2 R172K OR IDH2 R172G OR IDH2 R172W,Low Grade Glioma,Vorasidenib,5,1,1,5.0,37272516,A
+IGF1R,IGF1R NUCLEAR EXPRESSION,Sarcoma,IGF1R Monoclonal Antibody,4,1,1,2.0,22682017,B
+JAK1,JAK1 OVEREXPRESSION,Lung Non-small Cell Carcinoma,Enzastaurin,2,1,1,4.0,22333600,D
+JAK1,JAK1 OVEREXPRESSION,Sarcoma,Ruxolitinib,3,1,1,3.0,31372595,C
+JAK1,JAK1 S703I,Hepatocellular Carcinoma,Ruxolitinib,2,1,1,4.0,26701727,D
+JAK2,GOLGA5::JAK2 Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Ruxolitinib,3,1,1,3.0,29773603,C
+JAK2,JAK2 F694L,B-cell Acute Lymphoblastic Leukemia,Ruxolitinib,3,1,1,2.0,27860260,C
+JAK2,JAK2 V617F,Polycythemia Vera,Fedratinib,2,1,1,3.0,18394554,D
+JAK2,JAK2 V617F,Polycythemia Vera,Peginterferon Alfa-2b,4,1,1,4.0,16709929,B
+JAK2,SSBP2::JAK2 Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Ruxolitinib,3,1,1,3.0,25207766,C
+JUN,JUN Overexpression,Colorectal Adenocarcinoma,Irbesartan,3,1,1,2.0,27022066,C
+KDR,KDR R961W,Colorectal Adenocarcinoma,Regorafenib Anhydrous,3,1,1,1.0,27004155,C
+KEAP1,KEAP1 Mutation,Lung Non-small Cell Carcinoma,NSC84167,2,1,1,2.0,34247201,D
+KIT,KIT A502_Y503insAY,Cancer,Sunitinib,2,1,1,2.0,25239608,D
+KIT,KIT D816V,Systemic Mastocytosis,Midostaurin,4,1,1,4.0,27355533,B
+KIT,KIT D820Y,Gastrointestinal Stromal Tumor,Regorafenib Anhydrous,3,1,1,2.0,22614970,C
+KIT,KIT D820Y,Melanoma,Sunitinib,2,1,1,2.0,19035443,D
+KIT,KIT EXPRESSION,Endometrial Cancer,Imatinib,3,2,2,2.0,"16487996,18607592",C
+KIT,KIT EXPRESSION,Gastrointestinal Stromal Tumor,Imatinib,4,1,1,2.0,18955451,B
+KIT,KIT EXPRESSION,Glioblastoma,Sunitinib,4,1,1,3.0,24311637,B
+KIT,KIT Exon 11 Mutation,Gastrointestinal Stromal Tumor,Imatinib,5,2,2,4.0,"14645423,18955451",A
+KIT,KIT Exon 11 Mutation,Gastrointestinal Stromal Tumor,Regorafenib Anhydrous,4,3,3,2.3333333333333335,"22614970,23177515,27371698",B
+KIT,KIT Exon 11 Mutation,Melanoma,Imatinib,4,1,1,3.0,23775962,B
+KIT,KIT Exon 11 Mutation,Melanoma,Sunitinib,3,1,1,3.0,22261812,C
+KIT,KIT Exon 13 Mutation,Gastrointestinal Stromal Tumor,Imatinib,3,1,1,2.0,14645423,C
+KIT,KIT Exon 9 Mutation,Gastrointestinal Stromal Tumor,Imatinib,5,2,2,3.5,"14645423,16624552",A
+KIT,KIT Exon 9 Mutation,Gastrointestinal Stromal Tumor,Regorafenib Anhydrous,4,1,1,2.0,23177515,B
+KIT,KIT Exon 9 Mutation,Gastrointestinal Stromal Tumor,Sunitinib,4,2,2,3.0,"18955458,22439647",B
+KIT,KIT Internal Duplication,Malignant Anus Melanoma,Imatinib,3,1,1,3.0,18421059,C
+KIT,KIT K484_G487DEL,Gastrointestinal Stromal Tumor,Imatinib,3,1,1,1.0,18955451,C
+KIT,KIT K642E,Melanoma,Dasatinib,3,1,1,,21523734,C
+KIT,KIT K642E,Mucosal Melanoma,Imatinib,3,1,1,2.0,18510589,C
+KIT,KIT L576P,Melanoma,Dasatinib,2,1,1,3.0,19671763,D
+KIT,KIT M541L,Chronic Leukemia,Imatinib,3,1,1,2.0,25015329,C
+KIT,KIT M541L,Colon Signet Ring Adenocarcinoma,Imatinib,1,1,1,2.0,28595259,E
+KIT,KIT Mutation,Melanoma,Imatinib,4,1,1,3.0,21690468,B
+KIT,KIT N822K,Acute Myeloid Leukemia,Ponatinib,2,1,1,2.0,21482694,D
+KIT,KIT N822K,Gastrointestinal Stromal Tumor,Regorafenib Anhydrous,3,1,1,2.0,22614970,C
+KIT,KIT P551_E554delPMYE,Gastrointestinal Stromal Tumor,Ponatinib,2,1,1,2.0,25239608,D
+KIT,KIT RS3733542,Acute Myeloid Leukemia,Selumetinib,4,1,1,1.0,24178622,B
+KIT,KIT T417_D419delinsY,Gastrointestinal Stromal Tumor,Imatinib,3,1,1,2.0,18955451,C
+KIT,KIT V559D,Gastrointestinal Stromal Tumor,Imatinib,3,1,1,3.0,22114577,C
+KIT,KIT V560D,Cancer,Imatinib Mesylate,2,1,1,2.0,18955458,D
+KIT,KIT V560DEL,Thymic Carcinoma,Imatinib,3,1,1,5.0,15201427,C
+KIT,KIT V560_L576del,Gastrointestinal Stromal Tumor,Regorafenib Anhydrous,2,1,1,2.0,25239608,D
+KIT,KIT V654A,Gastrointestinal Stromal Tumor,Sunitinib,4,1,1,3.0,16638875,B
+KIT,KIT Wildtype,Gastrointestinal Stromal Tumor,Regorafenib Anhydrous,4,1,1,2.0,27371698,B
+KMT2C,KMT2C Mutation OR KMT2A Mutation,Cancer,Immunotherapy,4,1,1,4.0,33298164,B
+KRAS,KRAS A146V,Lung Non-small Cell Carcinoma,Abemaciclib,3,1,1,2.0,24836576,C
+KRAS,KRAS G12C,Lung Non-small Cell Carcinoma,Divarasib,4,1,1,4.0,37611121,B
+KRAS,KRAS G12C,Lung Non-small Cell Carcinoma,Sotorasib,5,1,1,5.0,34096690,A
+KRAS,KRAS G12C,Solid Tumor,Adagrasib,2,1,1,3.0,,D
+KRAS,KRAS G12D,Colorectal Cancer,Therapeutic Tumor Infiltrating Lymphocytes,3,1,1,3.0,27959684,C
+KRAS,KRAS G12D,Pancreatic Carcinoma,Akt Inhibitor MK2206,3,1,1,2.0,22025163,C
+KRAS,KRAS G12V,Lung Non-small Cell Carcinoma,Palbociclib,2,1,1,1.0,20609353,D
+KRAS,KRAS G13D,Colorectal Cancer,Cetuximab,4,2,1,4.0,20978259,B
+KRAS,KRAS Mutation,Cancer,AZD5438,2,1,1,3.0,26881434,D
+KRAS,KRAS Mutation,Cancer,Trametinib,2,1,1,4.0,22169769,D
+KRAS,KRAS Mutation,Lung Non-small Cell Carcinoma,Abemaciclib,4,1,1,3.0,27217383,B
+KRAS,KRAS Mutation,Lung Non-small Cell Carcinoma,Immune Checkpoint Inhibitor,1,1,1,2.0,28259530,E
+KRAS,KRAS Mutation,Lung Non-small Cell Carcinoma,Trametinib,4,1,1,2.0,22805291,B
+KRAS,KRAS Mutation,Ovarian Cancer,Decitabine,2,1,1,3.0,25968887,D
+KRAS,KRAS Mutation,Ovary Serous Adenocarcinoma,Binimetinib,4,1,1,3.0,32822286,B
+LRP1B,LRP1B Loss-of-function,Lung Adenocarcinoma,Immune Checkpoint Inhibitor,4,1,1,3.0,37057124,B
+LRP1B,LRP1B Loss-of-function,Solid Tumor,Immune Checkpoint Inhibitor,4,1,1,3.0,33653800,B
+MAP2K1,MAP2K1 K57N,Lung Adenocarcinoma,Selumetinib,2,1,1,2.0,18632602,D
+MAP2K1,MAP2K1 Q56_V60del,Ovarian Serous Carcinoma,Selumetinib,3,1,1,4.0,26324360,C
+MAPK1,MAPK1 E322K,Head And Neck Squamous Cell Carcinoma,Erlotinib,3,1,1,4.0,26181029,C
+MERTK,MERTK OVEREXPRESSION,Melanoma,UNC1062,2,1,1,3.0,23585477,D
+MET,MET Amplification,Cancer,Crizotinib,3,1,1,3.0,25232318,C
+MET,MET Amplification,Gastric Adenocarcinoma,Onartuzumab,3,1,1,3.0,22389872,C
+MET,MET Amplification,Glioblastoma,Crizotinib,3,1,1,3.0,22162573,C
+MET,MET Amplification,Lung Adenocarcinoma,Crizotinib,3,2,2,2.5,"25922291,26724472",C
+MET,MET Amplification,Lung Non-small Cell Carcinoma,Crizotinib,3,3,3,3.0,"21623265,21716144,27664533",C
+MET,MET Amplification,Lung Squamous Cell Carcinoma,Crizotinib,3,1,1,2.0,24192513,C
+MET,MET Amplification AND MET Splice Site (c.3028G>A),Lung Non-small Cell Carcinoma,Crizotinib,3,1,1,3.0,26729443,C
+MET,MET D1228V,Lung Non-small Cell Carcinoma,Cabozantinib,3,1,1,4.0,27694386,C
+MET,MET Exon 14 Skipping Mutation,Cancer,Capmatinib,2,1,1,3.0,25971938,D
+MET,MET Exon 14 Skipping Mutation,Cancer,Crizotinib,2,1,1,3.0,26547802,D
+MET,MET Exon 14 Skipping Mutation,Histiocytic And Dendritic Cell Cancer,Crizotinib,3,1,1,3.0,25971938,C
+MET,MET Exon 14 Skipping Mutation,Lung Adenocarcinoma,Capmatinib,3,1,1,3.0,25971938,C
+MET,MET Exon 14 Skipping Mutation,Lung Adenocarcinoma,Crizotinib,3,4,4,2.25,"25769807,25971939,26729443,26845194",C
+MET,MET Exon 14 Skipping Mutation,Lung Non-small Cell Carcinoma,Capmatinib,5,1,1,4.0,32877583,A
+MET,MET Exon 14 Skipping Mutation,Lung Non-small Cell Carcinoma,Crizotinib,4,2,2,1.5,26892698,B
+MET,MET Exon 14 Skipping Mutation,Lung Non-small Cell Carcinoma,Tepotinib,4,1,1,3.0,,B
+MET,MET Mutation,Papillary Renal Cell Carcinoma,Foretinib,4,1,1,3.0,23213094,B
+MET,MET Overexpression,Uveal Melanoma,Crizotinib,2,1,1,1.0,24140933,D
+MET,MET R1004G,Head And Neck Cancer,Crizotinib,3,1,1,3.0,31391294,C
+MGMT,MGMT Promoter Methylation,Glioblastoma,Carmustine,4,1,1,4.0,11070098,B
+MGMT,MGMT Promoter Methylation,Glioblastoma,O6-Benzylguanine,1,1,1,4.0,11070098,E
+MGMT,MGMT Promoter Methylation,Glioblastoma,Temozolomide,5,1,1,5.0,15758010,A
+MGMT,MGMT RS16906252,Glioblastoma,Temozolomide,4,1,1,3.0,25910840,B
+MGMT,MGMT Underexpression,Glioblastoma,Temozolomide,4,2,2,3.0,"17442989,21331613",B
+MGMT,MGMT Underexpression,High Grade Glioma,Temozolomide,4,1,1,3.0,21365007,B
+MGMT,MGMT Underexpression,Neuroendocrine Tumor,Temozolomide,4,1,1,2.0,19118063,B
+MGMT,MGMT Underexpression,Oligodendroglioma,Temozolomide,4,1,1,2.0,16541434,B
+MMP2,MMP2 SERUM LEVELS,Brain Glioma,Bevacizumab,4,1,1,2.0,24327581,B
+MMP2,MMP2 SERUM LEVELS,Inflammatory Breast Carcinoma,Bevacizumab,4,1,1,3.0,26921265,B
+MRE11,MRE11 Frameshift,Prostate Cancer,Olaparib,4,1,1,2.0,26510020,B
+MRE11,MRE11 Loss,Endometrial Cancer,Talazoparib,2,1,1,2.0,24927325,D
+MSH2,MSH2 Loss OR MLH1 Loss,Cancer,Nivolumab,4,1,1,4.0,31765263,B
+MSI,MSI High,Colorectal Cancer,Ipilimumab/Nivolumab Regimen,5,2,2,4.0,"39602630,39874977",A
+MTAP,MTAP Deletion,Solid Tumor,Anvumetostat,4,1,1,3.0,39293516,B
+MTAP,MTAP Underexpression,Breast Cancer,Pyrimidine Antagonist,2,1,1,1.0,26751376,D
+MTHFR,MTHFR A222V,Rectum Cancer,Fluorouracil,4,1,1,4.0,26693073,B
+MTHFR,MTHFR A222V,Stomach Cancer,Fluorouracil,4,1,1,3.0,18704422,B
+MTOR,MTOR C1483Y,Cancer,Sirolimus,2,1,1,2.0,24631838,D
+MTOR,MTOR E1799K,Cancer,Sirolimus,2,1,1,2.0,24631838,D
+MTOR,MTOR Mutation OR PIK3CA Mutation OR PTEN Mutation OR AKT1 Mutation OR AKT2 Mutation,Solid Tumor,Sapanisertib,4,1,1,2.0,38126764,B
+MTOR,MTOR S2215Y,Cancer,Sirolimus,2,1,1,2.0,24631838,D
+MYC,MYC Overexpression,Multiple Myeloma,JQ-1,2,1,1,5.0,21889194,D
+MYCN,MYCN Amplification,Neuroblastoma,FACT Complex-targeting Curaxin CBL0137,2,1,1,3.0,26537256,D
+MYD88,MYD88 L265P,Lymphoplasmacytic Lymphoma,Ibrutinib,4,1,1,4.0,25853747,B
+NAPRT,NAPRT Promoter Hypermethylation,Cancer,GNE-617,2,1,1,3.0,24097869,D
+NCOA2,HEY1::NCOA2 Fusion,Mesenchymal Chondrosarcoma,Trabectedin,3,1,1,2.0,27418251,C
+NF1,NF1 Loss,Malignant Peripheral Nerve Sheath Tumor,JQ1 Compound,2,1,1,3.0,24373973,D
+NF1,NF1 Mutation,Childhood Low-grade Glioma,Selumetinib,4,1,1,3.0,31151904,B
+NF1,NF1 Mutation,Plexiform Neurofibroma,Selumetinib,5,2,2,3.5,"28029918,32187457",A
+NF2,NF2 K159fs,Breast Cancer,Temsirolimus,3,1,1,3.0,25878190,C
+NF2,NF2 Loss,Thyroid Gland Carcinoma,Selumetinib,2,1,1,4.0,26359368,D
+NFE2L2,NFE2L2 Mutation,Lung Squamous Cell Carcinoma,Sapanisertib,4,1,1,3.0,,B
+NOT,NOT KIT D816V,Systemic Mastocytosis,Imatinib,4,1,1,3.0,19193436,B
+NOTCH1,NOTCH1 Amplification,Colorectal Cancer,NOTCH1 Antibody (PF-06293622),2,1,1,2.0,26152787,D
+NOTCH1,NOTCH1 Loss-of-function,Head And Neck Squamous Cell Carcinoma,Porcupine Inhibitor WNT974,2,1,1,2.0,24277854,D
+NPM1,NPM1 EXON 11 MUTATION,Acute Myeloid Leukemia,Anti-CD33,1,1,1,2.0,24927407,E
+NPM1,NPM1 EXON 11 MUTATION,Acute Myeloid Leukemia,Daunorubicin,4,1,1,2.0,22417203,B
+NPM1,NPM1 EXON 11 MUTATION,Acute Myeloid Leukemia,Tretinoin,4,1,1,2.0,19059939,B
+NPM1,NPM1 EXON 11 MUTATION,Acute Myeloid Leukemia,Valproic Acid,4,1,1,2.0,24797300,B
+NPM1,NPM1 W288FS,Acute Myeloid Leukemia,NSC348884,2,1,1,3.0,21719597,D
+NQO1,NQO1 Overexpression,Pancreatic Ductal Adenocarcinoma,NSC84167,2,1,1,2.0,34247201,D
+NQO1,NQO1 P187S,Lung Cancer,Amrubicin,2,1,1,2.0,21964527,D
+NR4A3,EWSR1::NR4A3 Fusion OR TAF15::NR4A3 Fusion,Extraskeletal Myxoid Chondrosarcoma,Trabectedin,3,1,1,2.0,27418251,C
+NRAS,NRAS G13D,Melanoma,Tanespimycin,3,1,1,2.0,18375819,C
+NRAS,NRAS Mutation,Melanoma,Binimetinib,2,1,1,3.0,24588908,D
+NRAS,NRAS Mutation,Skin Melanoma,Amuvatinib,2,1,1,1.0,24950457,D
+NRAS,NRAS Mutation,Skin Melanoma,Binimetinib,4,2,2,3.5,"23414587,28284557",B
+NRAS,NRAS Q61,Skin Melanoma,Binimetinib,4,1,1,2.0,23414587,B
+NRAS,NRAS Q61,Skin Melanoma,Selumetinib,3,1,1,2.0,18390968,C
+NRAS,NRAS Q61K,Ovary Serous Adenocarcinoma,Trametinib,3,1,1,2.0,30809568,C
+NRAS,NRAS Q61K,Skin Melanoma,Selumetinib,2,1,1,2.0,22194965,D
+NRAS,NRAS Q61L,Melanoma,Temozolomide,3,1,1,2.0,21576590,C
+NRAS,NRAS Q61R,Melanoma,Temozolomide,3,1,1,2.0,21576590,C
+NRG1,APP::NRG1 Fusion,Pancreatic Ductal Adenocarcinoma,Afatinib,3,1,1,3.0,31068372,C
+NRG1,ATP1B1::NRG1 Fusion,Cholangiocarcinoma,Afatinib,3,1,1,3.0,28950338,C
+NRG1,ATP1B1::NRG1 Fusion,Pancreatic Ductal Adenocarcinoma,Afatinib,3,1,1,3.0,31068372,C
+NRG1,NRG1 Expression,Cancer,Anti-ErbB3 Monoclonal Antibody AV-203,2,1,1,3.0,25542901,D
+NRG1,NRG1 Expression,Head And Neck Squamous Cell Carcinoma,Lapatinib,2,1,1,4.0,21840482,D
+NRG1,NRG1 Expression,Lung Non-small Cell Carcinoma,Patritumab,4,1,1,4.0,26137564,B
+NRG1,NRG1 Expression,Ovarian Cancer,Seribantumab,2,1,1,3.0,20227043,D
+NRG1,SDC4::NRG1 Fusion,Lung Adenocarcinoma,Afatinib,3,1,1,3.0,28950338,C
+NRG1,v::NRG1 Fusion,Lung Non-small Cell Carcinoma,Zenocutuzumab-zbco,5,1,1,4.0,39908431,A
+NRG1,v::NRG1 Fusion,Pancreatic Adenocarcinoma,Afatinib,3,1,1,4.0,29802158,C
+NRG1,v::NRG1 Fusion,Pancreatic Adenocarcinoma,Zenocutuzumab-zbco,5,1,1,4.0,39908431,A
+NT5E,NT5E Overexpression,Colorectal Cancer,Cetuximab,4,1,1,3.0,25520391,B
+NTRK1,DDR2::NTRK1 Fusion,Melanoma,Larotrectinib,1,1,1,2.0,29683819,E
+NTRK1,ETV6::NTRK1 Fusion,Cancer,Entrectinib,2,1,1,3.0,26884591,D
+NTRK1,GON4L::NTRK1 Fusion,Melanoma,Larotrectinib,1,1,1,2.0,29683819,E
+NTRK1,LMNA::NTRK1 Fusion,Cancer,Entrectinib,2,2,2,3.0,"26884591,34625502",D
+NTRK1,LMNA::NTRK1 Fusion,Cancer,Larotrectinib,2,1,1,2.0,34625502,D
+NTRK1,LMNA::NTRK1 Fusion,Cancer,Repotrectinib,2,1,1,3.0,34625502,D
+NTRK1,LMNA::NTRK1 Fusion,Colorectal Adenocarcinoma,Entrectinib,3,1,1,3.0,26546295,C
+NTRK1,LMNA::NTRK1 Fusion,Colorectal Cancer,Entrectinib,3,1,1,4.0,26563355,C
+NTRK1,LMNA::NTRK1 Fusion,Congenital Fibrosarcoma,Crizotinib,3,1,1,3.0,30709876,C
+NTRK1,LMNA::NTRK1 Fusion,Lipofibromatosis-like Neural Tumor,Entrectinib,3,1,1,3.0,32782782,C
+NTRK1,LMNA::NTRK1 Fusion,Sarcoma,Larotrectinib,3,2,2,2.5,"26216294,29606586",C
+NTRK1,LMNA::NTRK1 Fusion,Solid Tumor,Larotrectinib,3,1,1,3.0,30624546,C
+NTRK1,LMNA::NTRK1 Fusion,Spindle Cell Sarcoma,TRK Inhibitor,3,1,1,3.0,32050835,C
+NTRK1,LMNA::NTRK1 Fusion AND NTRK1 F589L,Cancer,Entrectinib,2,1,1,3.0,34625502,D
+NTRK1,LMNA::NTRK1 Fusion AND NTRK1 F589L,Cancer,Repotrectinib,2,1,1,3.0,34625502,D
+NTRK1,LMNA::NTRK1 Fusion AND NTRK1 G595R,Cancer,Repotrectinib,2,1,1,3.0,34625502,D
+NTRK1,NTRK1 Amplification,Esophageal Carcinoma,Larotrectinib,3,1,1,3.0,32323889,C
+NTRK1,NTRK1 Amplification,Solid Tumor,Larotrectinib,3,1,1,2.0,30624546,C
+NTRK1,PDE4DIP::NTRK1 Fusion,Sarcoma,Larotrectinib,3,2,2,2.5,"29606586,30204247",C
+NTRK1,SQSTM1::NTRK1 Fusion,Congenital Fibrosarcoma,Larotrectinib,3,2,2,3.0,"29606586,30204247",C
+NTRK1,SQSTM1::NTRK1 Fusion,Lung Adenocarcinoma,Larotrectinib,3,1,1,3.0,35085007,C
+NTRK1,SQSTM1::NTRK1 Fusion,Lung Non-small Cell Carcinoma,Entrectinib,3,2,2,3.0,"26565381,28183697",C
+NTRK1,SQSTM1::NTRK1 Fusion,Papillary Thyroid Carcinoma,Larotrectinib,3,1,1,3.0,35118995,C
+NTRK1,TPM3::NTRK1 Fusion,Cancer,Entrectinib,2,1,1,2.0,26884591,D
+NTRK1,TPM3::NTRK1 Fusion,Lung Carcinoma,Larotrectinib,3,1,1,3.0,35085007,C
+NTRK1,TPM3::NTRK1 Fusion,Myofibroma,Entrectinib,3,1,1,1.0,35395680,C
+NTRK1,TPM3::NTRK1 Fusion,Papillary Thyroid Carcinoma,Larotrectinib,3,1,1,3.0,29610391,C
+NTRK1,TPM3::NTRK1 Fusion,Sarcoma,Larotrectinib,3,1,1,4.0,29606586,C
+NTRK1,TPM3::NTRK1 Fusion,Solid Tumor,Larotrectinib Regimen,5,1,1,5.0,29466156,A
+NTRK1,TPM3::NTRK1 Fusion,Spindle Cell Sarcoma,Larotrectinib,3,1,1,3.0,30204247,C
+NTRK1,TPR::NTRK1 Fusion,Colorectal Cancer,Larotrectinib,3,1,1,4.0,35815302,C
+NTRK1,TPR::NTRK1 Fusion,Gliosarcoma,Larotrectinib,3,1,1,4.0,35034013,C
+NTRK1,TPR::NTRK1 Fusion,High Grade Glioma,Entrectinib,3,1,1,3.0,35395680,C
+NTRK1,TPR::NTRK1 Fusion,Lung Non-small Cell Carcinoma,Larotrectinib,3,1,1,3.0,33004339,C
+NTRK1,TPR::NTRK1 Fusion,Papillary Thyroid Carcinoma,Larotrectinib,3,1,1,3.0,32457407,C
+NTRK1,TPR::NTRK1 Fusion,Solid Tumor,Larotrectinib,3,1,1,3.0,30624546,C
+NTRK1,TPR::NTRK1 Fusion,Thyroid Cancer,Larotrectinib,3,1,1,4.0,34237031,C
+NTRK1,TRIM63::NTRK1 Fusion,Melanoma,Larotrectinib,1,1,1,2.0,29683819,E
+NTRK1,v::NTRK1 Fusion,Cancer,Larotrectinib,3,1,1,2.0,26603524,C
+NTRK1,v::NTRK1 Fusion,Sarcoma,Larotrectinib,4,1,1,4.0,29606586,B
+NTRK1,v::NTRK1 Fusion,Solid Tumor,Entrectinib,5,2,2,4.0,"28183697,31838007",A
+NTRK1,v::NTRK1 Fusion,Solid Tumor,Larotrectinib,5,1,1,4.0,29466156,A
+NTRK1,v::NTRK1 Fusion OR v::NTRK3 Fusion OR v::NTRK2 Fusion,Solid Tumor,Entrectinib,4,1,1,4.0,35395680,B
+NTRK2,AFAP1::NTRK2 Fusion,Cancer,Entrectinib,2,1,1,3.0,26884591,D
+NTRK2,BCR::NTRK2 Fusion,Brain Glioblastoma Multiforme,Entrectinib,3,1,1,1.0,35673607,C
+NTRK2,EML1::NTRK2 Fusion,Ganglioglioma,Entrectinib,3,1,1,3.0,35395680,C
+NTRK2,ETV6::NTRK2 Fusion,Acute Myeloid Leukemia,Larotrectinib,3,1,1,4.0,29920189,C
+NTRK2,ETV6::NTRK2 Fusion,Cancer,Entrectinib,2,1,1,3.0,26884591,D
+NTRK2,KANK1::NTRK2 Fusion,Anaplastic Ependymoma,Larotrectinib,3,1,1,4.0,34651095,C
+NTRK2,KANK1::NTRK2 Fusion,Ganglioneuroblastoma,Entrectinib,3,1,1,1.0,35395680,C
+NTRK2,KANK1::NTRK2 Fusion,Glioblastoma,Larotrectinib,3,1,1,3.0,34041811,C
+NTRK2,STRN::NTRK2 Fusion,Sarcoma,Larotrectinib,3,1,1,3.0,29606586,C
+NTRK2,VCL::NTRK2 Fusion,Cancer,Entrectinib,2,1,1,3.0,26884591,D
+NTRK2,v::NTRK2 Fusion,Solid Tumor,Entrectinib,5,1,1,1.0,31838007,A
+NTRK2,v::NTRK2 Fusion,Solid Tumor,Larotrectinib,5,1,1,2.0,32105622,A
+NTRK3,EML4::NTRK3 Fusion,Congenital Fibrosarcoma,Entrectinib,3,1,1,2.0,35395680,C
+NTRK3,EML4::NTRK3 Fusion,High Grade Glioma,Larotrectinib,3,1,1,3.0,33403813,C
+NTRK3,EML4::NTRK3 Fusion,Lung Adenocarcinoma,Entrectinib,3,1,1,4.0,36419889,C
+NTRK3,EML4::NTRK3 Fusion,Lung Non-small Cell Carcinoma,Entrectinib,3,1,1,2.0,34625502,C
+NTRK3,EML4::NTRK3 Fusion,Papillary Thyroid Carcinoma,Entrectinib,3,1,1,2.0,32457407,C
+NTRK3,ETV6::NTRK3 Fusion,Acute Myeloid Leukemia,Entrectinib,2,1,1,3.0,29237803,D
+NTRK3,ETV6::NTRK3 Fusion,Anaplastic Astrocytoma,Entrectinib,3,1,1,2.0,35395680,C
+NTRK3,ETV6::NTRK3 Fusion,B-lymphoblastic Leukemia/lymphoma,Larotrectinib,3,3,3,3.3333333333333335,"29880614,31725893,31905241",C
+NTRK3,ETV6::NTRK3 Fusion,Breast Secretory Carcinoma,Larotrectinib,3,1,1,3.0,29623306,C
+NTRK3,ETV6::NTRK3 Fusion,Congenital Fibrosarcoma,Larotrectinib,5,4,4,3.0,"27093299,29606586,30204247,32223937",A
+NTRK3,ETV6::NTRK3 Fusion,Congenital Mesoblastic Nephroma,Larotrectinib,3,1,1,4.0,29893456,C
+NTRK3,ETV6::NTRK3 Fusion,Glioblastoma,Entrectinib,3,1,1,3.0,35395680,C
+NTRK3,ETV6::NTRK3 Fusion,Mammary Analogue Secretory Carcinoma,Entrectinib,3,1,1,3.0,26884591,C
+NTRK3,ETV6::NTRK3 Fusion,Melanoma,Entrectinib,3,1,1,3.0,35395680,C
+NTRK3,ETV6::NTRK3 Fusion,Solid Tumor,Larotrectinib,5,1,1,3.0,30624546,A
+NTRK3,NTRK3 G623R AND EML4::NTRK3 Fusion,Lung Non-small Cell Carcinoma,Repotrectinib,3,1,1,2.0,34625502,C
+NTRK3,v::NTRK3 Fusion,Cancer,Entrectinib,4,1,1,3.0,28183697,B
+NTRK3,v::NTRK3 Fusion,Solid Tumor,Entrectinib,5,1,1,5.0,31838007,A
+NTRK3,v::NTRK3 Fusion,Solid Tumor,Larotrectinib,5,1,1,4.0,29466156,A
+NUTM1,BRD4::NUTM1 Fusion,NUT Midline Carcinoma,Birabresib,3,1,1,3.0,26976114,C
+NUTM1,BRD4::NUTM1 Fusion,NUT Midline Carcinoma,JQ1,2,1,1,3.0,20871596,D
+NUTM1,BRD4::NUTM1 Fusion,NUT Midline Carcinoma,Panobinostat,2,1,1,3.0,21447744,D
+OGA,FGFR2::OGA Fusion,Cholangiocarcinoma,Ponatinib,3,1,1,2.0,24550739,C
+PALB2,PALB2 Biallelic Inactivation,Pancreatic Cancer,Mitomycin,3,1,1,4.0,21135251,C
+PALB2,PALB2 Biallelic Inactivation,Prostate Cancer,Olaparib,3,1,1,3.0,26510020,C
+PALB2,PALB2 Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,4.0,32343890,A
+PARP1,PARP1 OVEREXPRESSION,Malignant Peripheral Nerve Sheath Tumor,Olaparib,2,1,1,3.0,26650448,D
+PDCD4,PDCD4 EXPRESSION,Lung Cancer,Paclitaxel,4,1,1,4.0,25928036,B
+PDGFB,COL1A1::PDGFB Fusion,Dermatofibrosarcoma Protuberans,Sunitinib,3,1,1,3.0,29760553,C
+PDGFRA,BCR::PDGFRA Fusion,B-cell Acute Lymphoblastic Leukemia,Imatinib,3,1,1,3.0,12944919,C
+PDGFRA,FIP1L1::PDGFRA Fusion,"Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1",Imatinib,5,3,3,3.3333333333333335,"12660384,14504092,24456122",A
+PDGFRA,FIP1L1::PDGFRA Fusion AND PDGFRA T674I,"Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1",Ponatinib,2,1,1,3.0,24407160,D
+PDGFRA,PDGFRA Amplification,Lung Non-small Cell Carcinoma,Sunitinib,2,1,1,3.0,19366796,D
+PDGFRA,PDGFRA D842I,Gastrointestinal Stromal Tumor,Crenolanib,2,1,1,4.0,22745105,D
+PDGFRA,PDGFRA D842V,Gastrointestinal Stromal Tumor,Crenolanib,2,1,1,4.0,22745105,D
+PDGFRA,PDGFRA D842Y,Gastrointestinal Stromal Tumor,Crenolanib,2,1,1,4.0,22745105,D
+PDGFRA,PDGFRA D842_I843delinsVM,Gastrointestinal Stromal Tumor,Crenolanib,2,1,1,4.0,22745105,D
+PDGFRA,PDGFRA I843DEL,Gastrointestinal Stromal Tumor,Crenolanib,2,1,1,3.0,22745105,D
+PDGFRA,PDGFRA I843DEL,Gastrointestinal Stromal Tumor,Imatinib,2,1,1,2.0,14645423,D
+PDGFRA,PDGFRA Mutation,Gastrointestinal Stromal Tumor,Imatinib,3,1,1,3.0,14645423,C
+PDGFRA,PDGFRA Overexpression,Rhabdomyosarcoma,Sunitinib,2,1,1,3.0,19366796,D
+PDGFRA,PDGFRA V561A,Gastrointestinal Stromal Tumor,Imatinib,2,1,1,3.0,12949711,D
+PDGFRA,PDGFRA V561D,Gastrointestinal Stromal Tumor,Imatinib,3,1,1,1.0,18955451,C
+PDGFRA,TNKS2::PDGFRA Fusion,"Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1",Imatinib,3,1,1,3.0,25658984,C
+PDGFRB,AGGF1::PDGFRB Fusion AND PDGFRB C843G,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",CHZ868,2,1,1,3.0,29434033,D
+PDGFRB,EBF1::PDGFRB Fusion,"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like",Imatinib,3,1,1,3.0,23835704,C
+PDGFRB,EBF1::PDGFRB Fusion,Childhood B-cell Acute Lymphoblastic Leukemia,Imatinib,3,2,2,2.5,"24186319,26872634",C
+PDGFRB,PDGFRB Overexpression,Dermatofibrosarcoma Protuberans,Sunitinib,3,1,1,3.0,29760553,C
+PDGFRB,v::PDGFRB Fusion,Myeloproliferative Neoplasm,Imatinib,5,1,1,4.0,16960151,A
+PIK3CA,PIK3CA Amplification,Epithelial Ovarian Cancer,Pictilisib,3,1,1,2.0,25370471,C
+PIK3CA,PIK3CA Amplification,Head And Neck Squamous Cell Carcinoma,Taselisib,2,1,1,1.0,26589432,D
+PIK3CA,PIK3CA Amplification,Stomach Carcinoma,Alpelisib,2,1,1,3.0,24608574,D
+PIK3CA,PIK3CA C420R,HER2 Positive Breast Cancer,Pictilisib,2,1,1,3.0,20453058,D
+PIK3CA,PIK3CA E542K,Breast Cancer,Izorlisib,2,1,1,4.0,21558396,D
+PIK3CA,PIK3CA E542K,Breast Cancer,PI3Ka/Di,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA E542K,Breast Cancer,Pictilisib,2,1,1,2.0,20453058,D
+PIK3CA,PIK3CA E542K,Breast Cancer,Sirolimus,2,1,1,3.0,15647370,D
+PIK3CA,PIK3CA E542K,HER2 Positive Breast Cancer,PI-103,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA E542K,HER2 Positive Breast Cancer,PI3Ka/Di,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA E542K,HER2 Positive Breast Cancer,Pictilisib,2,1,1,2.0,20453058,D
+PIK3CA,PIK3CA E542K,Head And Neck Squamous Cell Carcinoma,Apitolisib,3,1,1,2.0,26787751,C
+PIK3CA,PIK3CA E545K,Breast Cancer,PI3Ka/Di,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA E545K,Breast Cancer,Pictilisib,2,1,1,2.0,20453058,D
+PIK3CA,PIK3CA E545K,Cancer,Apitolisib,3,1,1,1.0,26787751,C
+PIK3CA,PIK3CA E545K,HER2 Positive Breast Cancer,PI3Ka/Di,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA E545K,HER2 Positive Breast Cancer,Pictilisib,2,1,1,4.0,20453058,D
+PIK3CA,PIK3CA E545K,Lung Non-small Cell Carcinoma,PI103,2,1,1,2.0,19513541,D
+PIK3CA,PIK3CA Exon 21 Mutation AND PIK3CA Exon 10 Mutation,Colorectal Cancer,Aspirin,4,1,1,3.0,40961426,B
+PIK3CA,PIK3CA H1047L,Breast Cancer,PI-103,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA H1047L,Breast Cancer,PI3Ka/Di,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA H1047L,Breast Cancer,Pictilisib,2,1,1,3.0,20453058,D
+PIK3CA,PIK3CA H1047R,Breast Cancer,Izorlisib,2,1,1,4.0,21558396,D
+PIK3CA,PIK3CA H1047R,Breast Cancer,Pictilisib,2,1,1,2.0,20453058,D
+PIK3CA,PIK3CA H1047R,HER2 Positive Breast Cancer,Pictilisib,2,1,1,4.0,20453058,D
+PIK3CA,PIK3CA H1047R,Head And Neck Cancer,Alpelisib,2,1,1,1.0,25550549,D
+PIK3CA,PIK3CA H1047R,Head And Neck Cancer,Dactolisib,2,2,2,1.5,"23619167,25855885",D
+PIK3CA,PIK3CA H1047R,Head And Neck Squamous Cell Carcinoma,Taselisib,2,1,1,2.0,26589432,D
+PIK3CA,PIK3CA H1047R,Lung Adenocarcinoma,Dactolisib,2,1,1,3.0,19029981,D
+PIK3CA,PIK3CA K111N,HER2 Positive Breast Cancer,PI-103,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA K111N,HER2 Positive Breast Cancer,PI3Ka/Di,2,1,1,1.0,20453058,D
+PIK3CA,PIK3CA K111N,HER2 Positive Breast Cancer,Pictilisib,2,1,1,4.0,20453058,D
+PIK3CA,PIK3CA Mutation,Cancer,Alpelisib,2,1,1,4.0,24608574,D
+PIK3CA,PIK3CA Mutation,Cancer,Capivasertib,4,2,2,3.5,"22294718,28489509",B
+PIK3CA,PIK3CA Mutation,Cancer,Copanlisib,4,1,1,3.0,35133871,B
+PIK3CA,PIK3CA Mutation,Colorectal Cancer,Aspirin,4,1,1,3.0,23094721,B
+PIK3CA,PIK3CA Mutation,Colorectal Cancer,Cabozantinib,2,1,1,3.0,25242168,D
+PIK3CA,PIK3CA Mutation,Endometrial Cancer,Pictilisib,2,1,1,3.0,23674493,D
+PIK3CA,PIK3CA Mutation,HER2 Positive Breast Cancer,Capivasertib,2,1,1,2.0,22294718,D
+PIK3CA,PIK3CA Mutation,HER2 Positive Breast Cancer,Everolimus,4,1,1,4.0,27091708,B
+PIK3CA,PIK3CA Mutation,Head And Neck Cancer,Dactolisib,2,1,1,3.0,23619167,D
+PIK3CA,PIK3CA Mutation,Stomach Cancer,Capivasertib,2,1,1,3.0,24088382,D
+PIK3CA,PIK3CA Mutation OR PTEN Mutation OR PIK3R1 Mutation,Colorectal Cancer,Aspirin,4,1,1,4.0,40961426,B
+PIK3CA,PIK3CA Overexpression,HER2 Positive Breast Cancer,Dactolisib,2,1,1,2.0,19010894,D
+PIK3CA,PIK3CA Overexpression,HER2 Positive Breast Cancer,Lapatinib,2,1,1,2.0,19010894,D
+PIK3CA,PIK3CA P471L,Merkel Cell Carcinoma,Idelalisib,3,1,1,3.0,26466009,C
+PIK3R1,PIK3R1 Mutation,Breast Cancer,MTOR Kinase Inhibitor PP242,2,1,1,2.0,21358673,D
+PMS2,PMS2 K706FS*19,Glioblastoma,Nivolumab,3,1,1,4.0,27001570,C
+POLD1,POLD1 C284Y,Lung Adenocarcinoma,Pembrolizumab,3,1,1,3.0,25765070,C
+POLD1,POLD1 E374K,Lung Non-small Cell Carcinoma,Pembrolizumab,3,1,1,2.0,25765070,C
+POLE,POLE Mutation,Endometrial Cancer,Pembrolizumab,3,1,1,3.0,27159395,C
+POLE,POLE Mutation,Glioblastoma,Pembrolizumab,3,1,1,3.0,27683556,C
+PRKAA2,PRKAA2 T172 PHOSPHORYLATION,Cancer,ACLY SiRNA,1,1,1,2.0,23506848,E
+PRPS1,PRPS1 L191F,B-lymphoblastic Leukemia/lymphoma,Cytarabine,2,1,1,2.0,25962120,D
+PRPS1,PRPS1 N144S,B-lymphoblastic Leukemia/lymphoma,Cytarabine,2,1,1,2.0,25962120,D
+PTCH1,PTCH1 LOH,Medulloblastoma,Vismodegib,4,1,1,2.0,26169613,B
+PTCH1,PTCH1 Mutation,Cancer,Vismodegib,4,1,1,1.0,29320312,B
+PTCH1,PTCH1 Mutation,Medulloblastoma,Sonidegib,4,1,1,4.0,24651015,B
+PTEN,PTEN Deletion,Prostate Cancer,Everolimus,4,1,1,3.0,23582881,B
+PTEN,PTEN Expression,Breast Cancer,Trastuzumab,4,1,1,3.0,16404430,B
+PTEN,PTEN Expression,Glioblastoma,Dacomitinib,2,1,1,2.0,25939761,D
+PTEN,PTEN Expression,Glioblastoma,Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,4,1,1,4.0,16282176,B
+PTEN,PTEN Loss,Breast Cancer,PI3Kbeta Inhibitor AZD8186,2,1,1,2.0,25398829,D
+PTEN,PTEN Loss,Cancer,Capivasertib,2,1,1,3.0,22294718,D
+PTEN,PTEN Loss,Endometrial Cancer,Temsirolimus,2,1,1,3.0,23674493,D
+PTEN,PTEN Loss,HER2 Positive Breast Cancer,Everolimus,4,1,1,4.0,27091708,B
+PTEN,PTEN Loss,HER2 Positive Breast Cancer,PI-103,2,1,1,1.0,20453058,D
+PTEN,PTEN Loss,HER2 Positive Breast Cancer,Pictilisib,2,1,1,3.0,20453058,D
+PTEN,PTEN Loss,Melanoma,Uprosertib,2,1,1,2.0,24735930,D
+PTEN,PTEN Loss,Pancreatic Carcinoma,Akt Inhibitor MK2206,3,1,1,2.0,22025163,C
+PTEN,PTEN Loss,Prostate Cancer,Temsirolimus,2,1,1,4.0,11504908,D
+PTEN,PTEN Mutation,Cancer,Ipatasertib,2,1,1,3.0,23287563,D
+PTEN,PTEN R233*,Breast Cancer,MTOR Inhibitor,2,1,1,4.0,20085938,D
+PTP4A3,PTP4A3 OVEREXPRESSION,Colorectal Cancer,Cetuximab,2,1,1,3.0,23867504,D
+PTPRD,PTPRD Mutation,Head And Neck Carcinoma,JSI-124,2,1,1,3.0,26267899,D
+PURB,EGFR::PURB Fusion,Lung Adenocarcinoma,Erlotinib,3,1,1,3.0,27102076,C
+RAD23B,RAD23B EXPRESSION,Sarcoma,Vorinostat,2,1,1,2.0,27499916,D
+RAD51,EGFR::RAD51 Fusion,Lung Adenocarcinoma,Erlotinib,3,2,2,3.5,"27102076,29290255",C
+RAD51,EGFR::RAD51 Fusion,Lung Adenocarcinoma,Icotinib,3,1,1,2.0,31064887,C
+RAD51,EGFR::RAD51 Fusion,Lung Adenocarcinoma,Osimertinib,3,2,2,3.0,"35245845,38525318",C
+RAD51,EGFR::RAD51 Fusion,Lung Non-small Cell Carcinoma,Gefitinib,3,1,1,3.0,35399574,C
+RAD51,EGFR::RAD51 e24::e4,Lung Adenocarcinoma,Afatinib,3,1,1,3.0,29472054,C
+RAD51,EGFR::RAD51 e24::e4,Lung Non-small Cell Carcinoma,Erlotinib,3,1,1,4.0,29290255,C
+RAD51B,RAD51B Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,2.0,32343890,A
+RAD51D,RAD51D Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,2.0,32343890,A
+RAD54L,RAD54L Mutation,Castration-resistant Prostate Carcinoma,Olaparib,5,1,1,3.0,32343890,A
+RAF1,ANO10::RAF1 Fusion,Melanoma,Trametinib,3,1,1,4.0,35135096,C
+RAF1,QKI::RAF1 Fusion,Spindle Cell Sarcoma,Trametinib,3,1,1,3.0,35050712,C
+RARA,PML::RARA Fusion,Acute Promyelocytic Leukemia,Tretinoin,4,2,2,4.0,"21505136,8674046",B
+RASA1,RASA1 Loss-of-function,Lung Non-small Cell Carcinoma,Trametinib,2,1,1,3.0,29127119,D
+RB1,RB1 Mutation,Lung Small Cell Carcinoma,Chemotherapy,4,1,1,2.0,26802149,B
+RB1,RB1 Wildtype AND ( CDKN2A Loss OR CDKN2A Mutation ),Lung Non-small Cell Carcinoma,Palbociclib,4,1,1,3.0,35050752,B
+RET,CCDC6::RET Fusion,Colorectal Cancer,Agerafenib,3,1,1,3.0,29538669,C
+RET,CCDC6::RET Fusion,Lung Non-small Cell Carcinoma,Nintedanib,3,1,1,2.0,26787234,C
+RET,KIF5B::RET Fusion,Lung Adenocarcinoma,Vandetanib,3,1,1,2.0,23584301,C
+RET,RET C618R,Cancer,Selpercatinib,2,1,1,2.0,37376747,D
+RET,RET E632_L633del,Medullary Thyroid Carcinoma,Selpercatinib,4,1,1,3.0,37376747,B
+RET,RET M918T,Cancer,Selpercatinib,2,1,1,2.0,37376747,D
+RET,RET M918T,Medullary Thyroid Carcinoma,Cabozantinib,4,1,1,4.0,27525386,B
+RET,RET M918T,Medullary Thyroid Carcinoma,JAK2 Inhibitor AZD1480,2,1,1,3.0,23056499,D
+RET,RET M918T,Medullary Thyroid Carcinoma,Selpercatinib,5,1,1,5.0,37870969,A
+RET,RET M918T,Medullary Thyroid Carcinoma,Sorafenib,4,1,1,3.0,20368568,B
+RET,RET M918T AND RET V804M,Medullary Thyroid Carcinoma,Selpercatinib,3,1,1,4.0,29912274,C
+RET,RET Mutation,Medullary Thyroid Carcinoma,Selpercatinib,5,3,3,4.0,"32846061,37870969",A
+RET,RET Overexpression,Breast Cancer,Vandetanib,2,1,1,2.0,26686064,D
+RET,RET Overexpression,Papillary Adenocarcinoma,Sunitinib,3,1,1,3.0,20696054,C
+RET,RET V804M,Medullary Thyroid Carcinoma,Selpercatinib,3,1,1,3.0,,C
+RET,v::RET Fusion,Lung Adenocarcinoma,Cabozantinib,4,1,1,3.0,27825636,B
+RET,v::RET Fusion,Lung Non-small Cell Carcinoma,Alectinib,3,1,1,3.0,27544060,C
+RET,v::RET Fusion,Lung Non-small Cell Carcinoma,Pralsetinib,5,1,1,4.0,34118197,A
+RET,v::RET Fusion,Lung Non-small Cell Carcinoma,Selpercatinib,4,2,2,4.0,32846060,B
+RET,v::RET Fusion,Lung Non-small Cell Carcinoma,Vandetanib,4,2,2,3.0,"27803005,27825616",B
+RET,v::RET Fusion,Papillary Thyroid Carcinoma,Selpercatinib,4,1,1,4.0,,B
+RET,v::RET Fusion,Thyroid Cancer,Pralsetinib,5,1,1,4.0,34118198,A
+RET,v::RET Fusion,Thyroid Cancer,Selpercatinib,5,1,1,4.0,32846061,A
+RET,v::RET Fusion OR RET Mutation,Solid Tumor,Selpercatinib,5,2,1,4.5,,A
+ROS1,CD72::ROS1 Fusion,Lung Adenocarcinoma,Ceritinib,3,1,1,1.0,26917690,C
+ROS1,EEF1G::ROS1 Fusion,Desmoplastic Infantile Ganglioglioma / Desmoplastic Infantile Astrocytoma,Entrectinib,3,1,1,3.0,35395680,C
+ROS1,GOPC::ROS1 Fusion,"Diffuse Midline Glioma, H3 K27-altered",Entrectinib,3,1,1,3.0,35395680,C
+ROS1,GOPC::ROS1 Fusion,Low Grade Glioma,Entrectinib,3,1,1,1.0,35395680,C
+ROS1,GOPC::ROS1 Fusion,Melanoma,Entrectinib,3,1,1,4.0,28183697,C
+ROS1,GOPC::ROS1 e7::e35,Glioblastoma,Lorlatinib,2,1,1,3.0,30171048,D
+ROS1,ROS1 G2032R AND CD74::ROS1 Fusion,Lung Non-small Cell Carcinoma,Cabozantinib,2,1,1,3.0,25351743,D
+ROS1,ROS1 G2032R AND CD74::ROS1 Fusion,Lung Non-small Cell Carcinoma,Foretinib,2,1,1,2.0,25688157,D
+ROS1,ROS1 G2032R AND SLC4A4::ROS1 Fusion,Lung Adenocarcinoma,DS-6501b,2,1,1,3.0,31399568,D
+ROS1,ROS1 G2032R AND v::ROS1 Fusion,Lung Non-small Cell Carcinoma,Lorlatinib,2,1,1,3.0,25733882,D
+ROS1,ROS1 G2101A AND CD74::ROS1 Fusion,Lung Non-small Cell Carcinoma,Foretinib,2,1,1,2.0,25688157,D
+ROS1,ROS1 L2026M AND CD74::ROS1 Fusion,Lung Non-small Cell Carcinoma,Foretinib,2,1,1,2.0,25688157,D
+ROS1,ROS1 L2026M AND CD74::ROS1 Fusion,Lung Non-small Cell Carcinoma,Lorlatinib,2,1,1,3.0,25733882,D
+ROS1,SDC4::ROS1 Fusion,Lung Adenocarcinoma,Crizotinib,3,1,1,3.0,25922291,C
+ROS1,TFG::ROS1 Fusion,Inflammatory Myofibroblastic Tumor,Crizotinib,3,1,1,3.0,24875859,C
+ROS1,TFG::ROS1 Fusion,Inflammatory Myofibroblastic Tumor,Entrectinib,3,2,1,1.5,35395680,C
+ROS1,v::ROS1 Fusion,Bronchiolo-alveolar Adenocarcinoma,Crizotinib,3,1,1,3.0,22215748,C
+ROS1,v::ROS1 Fusion,Colorectal Adenocarcinoma,Crizotinib,1,1,1,2.0,24296758,E
+ROS1,v::ROS1 Fusion,Lung Non-small Cell Carcinoma,Crizotinib,5,4,4,4.0,"25264305,25667280,29596029,30980071",A
+ROS1,v::ROS1 Fusion,Lung Non-small Cell Carcinoma,Entrectinib,5,2,2,4.0,"28183697,31838015",A
+RPS6,RPS6 PHOSPHORYLATION,Gastric Adenocarcinoma,Everolimus,2,1,1,2.0,22343617,D
+RRM1,RRM1 Underexpression,Lung Non-small Cell Carcinoma,Gemcitabine,4,1,1,4.0,24647522,B
+RRM1,RRM1 Underexpression,Pancreatic Cancer,Gemcitabine,4,2,2,3.0,"17131328,19543324",B
+SF3B1,SF3B1 K666N,Breast Cancer,Spliceostatin A,2,1,1,2.0,25424858,D
+SF3B1,SF3B1 K700E,Breast Cancer,Spliceostatin A,2,1,1,2.0,25424858,D
+SLC29A1,SLC29A1 Overexpression,Pancreatic Adenocarcinoma,Gemcitabine,4,1,1,4.0,22705007,B
+SLFN11,SLFN11 EXPRESSION,Colorectal Cancer,7-Ethyl-10-Hydroxycamptothecin,2,1,1,2.0,25089570,D
+SMARCB1,SMARCB1 Deletion,Rhabdoid Cancer,Tazemetostat,2,1,1,3.0,23620515,D
+SMARCB1,SMARCB1 Underexpression,Synovial Sarcoma,Tazemetostat,2,1,1,2.0,27391784,D
+SMO,SMO D473H,Medulloblastoma,Patidegib,2,1,1,3.0,22550175,D
+SRSF2,SRSF2 P95H,Myeloid Neoplasm,CTX-712,2,1,1,3.0,,D
+SRSF2,SRSF2 P95L,Myeloid Neoplasm,CTX-712,2,1,1,3.0,,D
+SSTR5,SSTR5 Overexpression,Neuroendocrine Tumor,Pasireotide,4,1,1,3.0,25376618,B
+STK11,STK11 D194E,Pancreatic Cancer,Everolimus,3,1,1,2.0,21189378,C
+STK11,STK11 Loss,Pancreatic Ductal Adenocarcinoma,Roflumilast,2,1,1,2.0,38461159,D
+STK11,STK11 Loss,Peutz-Jeghers Syndrome,Sirolimus,2,2,2,1.0,"18281551,19541609",D
+STK11,STK11 Underexpression,Prostate Cancer,SB202190,2,1,1,2.0,26391455,D
+TACC3,FGFR3::TACC3 Fusion,Cancer,Erdafitinib,4,1,1,3.0,26324363,B
+TACC3,FGFR3::TACC3 Fusion,Transitional Cell Carcinoma,Infigratinib,3,1,1,3.0,29848605,C
+TACC3,FGFR3::TACC3 Fusion AND FGFR2::CCDC6 Fusion,Adrenal Carcinoma,Erdafitinib,3,1,1,3.0,26324363,C
+TFCP2,FUS::TFCP2 Fusion AND ALK Exon 2-18 Deletion,Spindle Cell Rhabdomyosarcoma,Alectinib,3,1,1,2.0,39302072,C
+TMB,TMB H-bTMB,Lung Non-small Cell Carcinoma,Immune Checkpoint Inhibitor,4,1,1,4.0,30816954,B
+TMB,TMB High,Colorectal Cancer,Pembrolizumab,4,1,1,1.0,31038663,B
+TMB,TMB High,Head And Neck Squamous Cell Carcinoma,Durvalumab,4,1,1,3.0,36806911,B
+TMB,TMB High,Lung Adenocarcinoma,Ipilimumab/Nivolumab Regimen,4,1,1,4.0,29658845,B
+TMB,TMB High,Lung Non-small Cell Carcinoma,Atezolizumab,4,1,1,4.0,30082870,B
+TMB,TMB High,Lung Non-small Cell Carcinoma,Durvalumab/Tremelimumab Regimen,4,2,2,4.0,"32271377,33355200",B
+TMB,TMB High,Lung Non-small Cell Carcinoma,Ipilimumab/Nivolumab Regimen,4,1,1,3.0,30785829,B
+TMB,TMB High,Lung Non-small Cell Carcinoma,Pembrolizumab,4,1,1,4.0,25765070,B
+TMB,TMB High,Solid Tumor,Pembrolizumab,4,1,1,4.0,30309915,B
+TMB,TMB High,"Solid Tumors, Advanced",Immune Checkpoint Inhibitor,4,1,1,4.0,30643254,B
+TMB,TMB mTMB,Gastrointestinal Carcinoma,Immune Checkpoint Inhibitor,4,1,1,5.0,36681091,B
+TOP1,TOP1 Amplification,Colorectal Cancer,Irinotecan,4,1,1,1.0,24256029,B
+TOP1,TOP1 EXPRESSION,Colorectal Cancer,Irinotecan,4,1,1,3.0,19775480,B
+TOP2A,TOP2A EXPRESSION,Breast Cancer,Doxorubicin,4,1,1,2.0,15486187,B
+TP53,TP53 Deleterious Mutation,Sarcoma,Pazopanib,4,1,1,2.0,26646755,B
+TP53,TP53 Mutation,Breast Cancer,Doxorubicin,2,1,1,4.0,22698404,D
+TP53,TP53 Mutation,Cancer,VEGF/VEGFR Inhibitors,4,1,1,3.0,27466356,B
+TP53,TP53 Mutation,Chronic Lymphocytic Leukemia,Alemtuzumab,4,1,1,2.0,14726385,B
+TP53,TP53 Mutation,Gastric Adenocarcinoma,Chemotherapy,4,1,1,3.0,24740294,B
+TP53,TP53 R175H,Breast Cancer,Doxorubicin,2,1,1,3.0,22698404,D
+TP53,TP53 R175H,Stomach Carcinoma,EAP Protocol,3,1,1,,14514923,C
+TP53,TP53 R213P,Stomach Carcinoma,EAP Protocol,3,1,1,,14514923,C
+TP53,TP53 R249,Breast Cancer,Doxorubicin,4,1,1,3.0,9569050,B
+TP53,TP53 R282L,Stomach Carcinoma,EAP Protocol,3,1,1,,14514923,C
+TP53,TP53 Wildtype,Cancer,MDM2 Inhibitor AMGMDS3,2,1,1,4.0,25730903,D
+TP53,TP53 Wildtype,Cancer,Rebemadlin,2,1,1,4.0,17671205,D
+TP53,TP53 Wildtype,Esophageal Carcinoma,Chemotherapy,4,1,1,3.0,23515910,B
+TP53,TP53 Wildtype,Leukemia,RG7112,4,1,1,3.0,26459177,B
+TP53,TP53 Wildtype,Lung Non-small Cell Carcinoma,Adjuvant Chemotherapy,4,1,1,3.0,26899019,B
+TSC1,TSC1 Frameshift Truncation,Invasive Bladder Transitional Cell Carcinoma,Everolimus,4,1,1,3.0,22923433,B
+TSC1,TSC1 Frameshift Truncation,Lung Non-small Cell Carcinoma,Sirolimus,2,1,1,3.0,19966866,D
+TSC1,TSC1 Loss-of-function,Bladder Carcinoma,Everolimus,4,1,1,3.0,22923433,B
+TSC2,TSC2 Q1178*,Thyroid Gland Carcinoma,Everolimus,3,1,1,5.0,25295501,C
+TUBB3,TUBB3 EXPRESSION,Breast Cancer,Taxane Compound,4,1,1,2.0,23218766,B
+TYMS,TYMS Underexpression,Lung Non-small Cell Carcinoma,Pemetrexed,4,1,1,3.0,21367480,B
+TYMS,TYMS Underexpression,Prostate Cancer,Pemetrexed,3,1,1,2.0,24782778,C
+VHL,VHL Loss,Renal Carcinoma,Temsirolimus,2,1,1,3.0,16341243,D
+VHL,VHL Mutation,Renal Cell Carcinoma,Everolimus,4,1,1,4.0,26951309,B
+VHL,VHL R200W (c.598C>T),Chuvash Polycythemia,Ruxolitinib,3,1,1,4.0,27518686,C

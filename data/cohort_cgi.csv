@@ -1,0 +1,1017 @@
+source,gene,molecular_profile,disease,therapy,therapies,label,best_level,best_lvl,uid,split,n_gene,n_items
+CGI,BRCA1,BRCA1 oncogenic mutation,breast adenocarcinoma,VELIPARIB,VELIPARIB,SENSITIVE,C,3,a400033e713a,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,cancer,WEE1,WEE1,SENSITIVE,C,3,caf166305dde,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,breast adenocarcinoma,VELIPARIB,VELIPARIB,SENSITIVE,C,3,d41fa25e62e3,ALL,,1
+CGI,BRCA2,BRCA2 deletion,ovarian cancer,OLAPARIB,OLAPARIB,SENSITIVE,D,2,226a1019caba,ALL,,1
+CGI,CBL,"CBL (Y371H,C384R)",Myelodisplasic proliferative syndrome,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,8c6d4493bd93,ALL,,1
+CGI,CCND1,CCND1 amplification,lung cancer,PALBOCICLIB,PALBOCICLIB,RESISTANT,C,3,937262fabcba,ALL,,1
+CGI,CCND1,CCND1 amplification,cancer,CDK4,CDK4,SENSITIVE,D,2,2106ad2832b3,ALL,,1
+CGI,CCND2,CCND2 amplification,cancer,CDK4,CDK4,SENSITIVE,D,2,2c362699da79,ALL,,1
+CGI,CCNE1,CCNE1 amplification,cancer,CDK2,CDK2,SENSITIVE,D,2,6e45d7312e17,ALL,,1
+CGI,CD274,CD274 overexpression,"Renal,R",NIVOLUMAB,NIVOLUMAB,SENSITIVE,C,3,d5e4280d2bcd,ALL,,1
+CGI,CD274,CD274 overexpression,"childhood bladder carcinoma,childhood bladder carcinoma",PEMBROLIZUMAB,PEMBROLIZUMAB,SENSITIVE,C,3,3e6d49e1195c,ALL,,1
+CGI,CDK12,CDK12 amplification,ovarian cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,6cec1b6e4e59,ALL,,1
+CGI,CDK4,CDK4 oncogenic mutation,Liposarcoma;Lymphoma;Any cancer type,Ribociclib,Ribociclib,SENSITIVE,C,3,9e9b7db79513,ALL,,1
+CGI,CDKN2A,CDKN2A oncogenic mutation,cancer,ILORASERTIB,ILORASERTIB,SENSITIVE,C,3,7174ff23025a,ALL,,1
+CGI,ABL1,"ABL1 (T315A,F317L,F317V,F317I,F317C,V299L)","chronic myelogenous leukemia, BCR-ABL1 positive",NILOTINIB,NILOTINIB,SENSITIVE,A,5,b8a07d37f35b,ALL,,1
+CGI,ABL1,ABL1 (T315I),Chronic myeloid leukemia;Acute lymphoblastic leukemia,PONATINIB,PONATINIB,SENSITIVE,A,5,4f0e0c67a22e,ALL,,1
+CGI,ABL1,ABL1 (V299L),cancer,CABOZANTINIB,CABOZANTINIB,SENSITIVE,D,2,2dd7ede73f66,ALL,,1
+CGI,ABL1,ABL1 (V299L),cancer,FORETINIB,FORETINIB,SENSITIVE,D,2,8842e6ef555a,ALL,,1
+CGI,AKT1,AKT1 (E17K),Head an neck squamous,PI3k,PI3k,SENSITIVE,C,3,91dc3b09efd3,ALL,,1
+CGI,AKT3,AKT3 fusion,breast adenocarcinoma,Adenosine triphosphate,Adenosine triphosphate,SENSITIVE,D,2,b559bcb9d13b,ALL,,1
+CGI,ALK,ALK oncogenic mutation,non-small cell lung carcinoma,CRIZOTINIB,CRIZOTINIB,RESISTANT,D,2,f671ac108f6a,ALL,,1
+CGI,ALK,"ALK (C1156Y,L1196M)",non-small cell lung carcinoma,CRIZOTINIB,CRIZOTINIB,RESISTANT,C,3,538e5db0e047,ALL,,1
+CGI,ALK,ALK (G1123S),lung adenocarcinoma,CERITINIB,CERITINIB,RESISTANT,C,3,9755a425d9dc,ALL,,1
+CGI,ALK,"ALK (L1196M,L1152R,C1156Y,F1174L,G1202R,S1206Y,G1269A,I1171T)",lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,RESISTANT,C,3,644584b2fd45,ALL,,1
+CGI,ALK,ALK fusion,non-small cell lung carcinoma,ALECTINIB,ALECTINIB,SENSITIVE,A,5,ba722ebd069d,ALL,,1
+CGI,ALK,ALK fusion,lung adenocarcinoma,alanylleucyllysine,alanylleucyllysine,SENSITIVE,D,2,05210ef60930,ALL,,1
+CGI,AR,AR (F877L),"prostate adenocarcinoma,prostate cancer",5-iminopentanamide,5-iminopentanamide,RESISTANT,C,3,67bac1ca0f9e,ALL,,1
+CGI,AR,AR (F877L) + AR (T878A),prostate adenocarcinoma,ENZALUTAMIDE,ENZALUTAMIDE,SENSITIVE,D,2,520905c3ad3d,ALL,,1
+CGI,ARAF,ARAF (S214C),lung adenocarcinoma,Sorafenib,Sorafenib,SENSITIVE,C,3,88ba58032744,ALL,,1
+CGI,ARID1A,ARID1A oncogenic mutation,ovarian cancer,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,D,2,afcb73d50aa1,ALL,,1
+CGI,ATM,ATM oncogenic mutation,colorectal adenocarcinoma,ATR,ATR,SENSITIVE,C,3,22cd2b511171,ALL,,1
+CGI,ATM,ATM deletion,colorectal adenocarcinoma,ATR,ATR,SENSITIVE,C,3,633f5de5f302,ALL,,1
+CGI,ATM,ATM deletion,lymphoma,DNAn,DNAn,SENSITIVE,D,2,c9a3bf12531b,ALL,,1
+CGI,BCOR,BCOR oncogenic mutation,gastric carcinoma,ENZASTAURIN,ENZASTAURIN,SENSITIVE,D,2,5ed76dcb2a34,ALL,,1
+CGI,BRAF,"BRAF (D594G,G469E)",cutaneous melanoma,Sorafenib,Sorafenib,SENSITIVE,D,2,197a35b07d20,ALL,,1
+CGI,BRAF,BRAF (G469A) + EGFR oncogenic mutation,lung adenocarcinoma,2-Butanone,2-Butanone,SENSITIVE,D,2,8580496ad443,ALL,,1
+CGI,BRAF,"BRAF (V600D,V600K,V600M,V600G,V600R)",cutaneous melanoma,VEMURAFENIB,VEMURAFENIB,SENSITIVE,A,5,3dcd45e9f483,ALL,,1
+CGI,BRAF,BRAF (V600E),cutaneous melanoma,DABRAFENIB,DABRAFENIB,SENSITIVE,A,5,5eb6ada8964a,ALL,,1
+CGI,BRAF,BRAF (V600E),Lung adenocarcinoma;Thyroid,DABRAFENIB,DABRAFENIB,SENSITIVE,C,3,e7e2c82d5e9d,ALL,,1
+CGI,BRAF,BRAF (V600E),thyroid cancer,2-Butanone,2-Butanone,SENSITIVE,C,3,a63bfcb91f62,ALL,,1
+CGI,BRAF,BRAF (V600E),malignant glioma,BRAF,BRAF,SENSITIVE,D,2,302538b601b6,ALL,,1
+CGI,BRAF,BRAF (V600E),lung adenocarcinoma,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,C,3,8a3aebe565c3,ALL,,1
+CGI,BRAF,BRAF (V600E),ovarian cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,eb1570bae39c,ALL,,1
+CGI,BRAF,BRAF (V600E),cutaneous melanoma,RAFFINOSE,RAFFINOSE,SENSITIVE,C,3,061259473b9b,ALL,,1
+CGI,BRAF,"BRAF (V600E,V600K)",cutaneous melanoma,TRAMETINIB,TRAMETINIB,SENSITIVE,A,5,4169ea3fd41e,ALL,,1
+CGI,BRAF,BRAF fusion,ovarian cancer,SELUMETINIB,SELUMETINIB,SENSITIVE,C,3,f4c4d11d4b42,ALL,,1
+CGI,BRAF,BRAF fusion,lung adenocarcinoma,2-Butanone,2-Butanone,SENSITIVE,C,3,c63ace36198e,ALL,,1
+CGI,ERBB2,ERBB2 oncogenic mutation,non-small cell lung carcinoma,DACOMITINIB,DACOMITINIB,SENSITIVE,C,3,0dfddb4e83c6,ALL,,1
+CGI,ERBB2,ERBB2 proximal exon 20,lung adenocarcinoma,Lapatinib,Lapatinib,SENSITIVE,C,3,aabb15520c98,ALL,,1
+CGI,ERBB2,ERBB2 proximal exon 20,lung adenocarcinoma,NERATINIB,NERATINIB,SENSITIVE,C,3,2c393e86815f,ALL,,1
+CGI,ERBB2,"ERBB2 (S310,L755,V777)",cancer,NERATINIB,NERATINIB,SENSITIVE,C,3,7fafb0f7fd11,ALL,,1
+CGI,ERBB2,ERBB2 amplification,breast adenocarcinoma,NERATINIB,NERATINIB,SENSITIVE,B,4,932ade443c99,ALL,,1
+CGI,ERBB2,ERBB2 amplification,colorectal adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,B,4,b505b6989adc,ALL,,1
+CGI,ERBB2,ERBB2 overexpression,breast adenocarcinoma,Lapatinib,Lapatinib,SENSITIVE,A,5,4302b736552b,ALL,,1
+CGI,ERBB3,ERBB3 amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,C,3,824aa5af7b11,ALL,,1
+CGI,ERCC1,ERCC1 oncogenic mutation,lung cancer,CISPLATIN,CISPLATIN,SENSITIVE,D,2,2c68e472afd0,ALL,,1
+CGI,ERCC1,ERCC1 oncogenic mutation,lung cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,ef81bb82cf51,ALL,,1
+CGI,ERCC4,ERCC4 oncogenic mutation,ovarian cancer,CISPLATIN,CISPLATIN,SENSITIVE,D,2,da621884fdff,ALL,,1
+CGI,ESR1,"ESR1 (E380Q,537,538,L536,P535H)",breast adenocarcinoma,GDC,GDC,SENSITIVE,C,3,5a49e231011c,ALL,,1
+CGI,ESR1,ESR1 (Y537S),breast adenocarcinoma,FULVESTRANT,FULVESTRANT,RESISTANT,D,2,3fadf0858663,ALL,,1
+CGI,FGFR2,"FGFR2 (W290C,S320C,K660N)",squamous cell lung carcinoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,878f2c4267de,ALL,,1
+CGI,FGFR2,FGFR2 amplification,gastric carcinoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,ab941e80de61,ALL,,1
+CGI,FGFR3,FGFR3 oncogenic mutation,childhood bladder carcinoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,5d7e9f8d8bfd,ALL,,1
+CGI,FGFR3,FGFR3 (Y373C),myeloid neoplasm,BORTEZOMIB,BORTEZOMIB,RESISTANT,D,2,c356f6c7f269,ALL,,1
+CGI,FLT3,FLT3-ITD,acute myeloid leukemia,Sorafenib,Sorafenib,SENSITIVE,C,3,01ae71ec5bad,ALL,,1
+CGI,FRS2,FRS2 amplification,liposarcoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,54b014406197,ALL,,1
+CGI,GNA11,"GNA11 (Q209L,Q209P)",cutaneous melanoma,VORINOSTAT,VORINOSTAT,SENSITIVE,D,2,aac5eb70135b,ALL,,1
+CGI,GNA11,"GNA11 (Q209L,Q209P)",cutaneous melanoma,2-Butanone,2-Butanone,SENSITIVE,D,2,38e29b396a1e,ALL,,1
+CGI,GNAQ,GNAQ (Q209),cutaneous melanoma,257879-35-9,257879-35-9,SENSITIVE,D,2,71eb45c23fab,ALL,,1
+CGI,IDH2,IDH2 oncogenic mutation,cholangiocarcinoma,DASATINIB,DASATINIB,SENSITIVE,C,3,06d2c7dec235,ALL,,1
+CGI,IL7R,IL7R (S185C) + SH2B3 deletion,acute lymphoblastic leukemia,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,3c0541f65a05,ALL,,1
+CGI,INPP4B,INPP4B deletion,breast adenocarcinoma,PI3k,PI3k,SENSITIVE,D,2,b942a6132cf0,ALL,,1
+CGI,JAK1,JAK1 oncogenic mutation,cutaneous melanoma,GILVETMAB,GILVETMAB,RESISTANT,C,3,ea09def014c3,ALL,,1
+CGI,JAK2,JAK2 (V617F),acute myeloid leukemia,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,bfe98310f5f4,ALL,,1
+CGI,JAK2,JAK2 amplification,breast adenocarcinoma,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,f783689e1428,ALL,,1
+CGI,KDR,KDR (A1065T),cancer,VEGFR inhibitors,VEGFR inhibitors,SENSITIVE,D,2,f26cffb7a5e0,ALL,,1
+CGI,KIT,"KIT mutation in exon 9,11,13,14 or 17",gastrointestinal stromal tumor,Imatinib,Imatinib,SENSITIVE,A,5,eedea3a3b5bf,ALL,,1
+CGI,KIT,KIT mutation in exon 11,gastrointestinal stromal tumor,hsp90,hsp90,SENSITIVE,C,3,ecb98ef73b8a,ALL,,1
+CGI,KIT,KIT mutation in exon 17,gastrointestinal stromal tumor,NILOTINIB,NILOTINIB,SENSITIVE,C,3,0b621c55f0ef,ALL,,1
+CGI,KIT,KIT inframe deletion (V560),Thymic,Imatinib,Imatinib,SENSITIVE,C,3,b7f0db993fa8,ALL,,1
+CGI,KIT,KIT wildtype,gastrointestinal stromal tumor,DASATINIB,DASATINIB,SENSITIVE,D,2,345b8821d75d,ALL,,1
+CGI,KIT,KIT (D816V),acute myeloid leukemia,DASATINIB,DASATINIB,SENSITIVE,C,3,e5d195563f21,ALL,,1
+CGI,KIT,KIT (D820E),Thymic,Sorafenib,Sorafenib,SENSITIVE,C,3,4eb013c14eb2,ALL,,1
+CGI,KIT,KIT (H697Y),Thymic,SUNITINIB,SUNITINIB,SENSITIVE,D,2,2e2ee177304e,ALL,,1
+CGI,KIT,KIT (Y553N),Thymic,SUNITINIB,SUNITINIB,SENSITIVE,C,3,423eb65bbefb,ALL,,1
+CGI,KIT,KIT amplification,cutaneous melanoma,SUNITINIB,SUNITINIB,RESISTANT,C,3,17910e951cf7,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung adenocarcinoma,TRAMETINIB,TRAMETINIB,SENSITIVE,D,2,8915a5f6f068,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,2-Butanone,2-Butanone,SENSITIVE,C,3,abb8608a242e,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,Phe-ala-lys,Phe-ala-lys,SENSITIVE,D,2,075f04c1080c,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,ARABINO-FLAVIN-ADENINE DINUCLEOTIDE,ARABINO-FLAVIN-ADENINE DINUCLEOTIDE,SENSITIVE,C,3,ae082b6ba0bc,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,2-Butanone,2-Butanone,SENSITIVE,D,2,6032fedd3b28,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,Borane,Borane,SENSITIVE,D,2,0c812dae2d6e,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,endometrial cancer,RAFFINOSE,RAFFINOSE,SENSITIVE,C,3,c213552db52a,ALL,,1
+CGI,CDKN2A,CDKN2A oncogenic mutation,Glioma;Any cancer type,CDK4,CDK4,SENSITIVE,D,2,5c46bd02ef24,ALL,,1
+CGI,CDKN2A,CDKN2A deletion,cutaneous melanoma,CDK4,CDK4,SENSITIVE,C,3,abe1096aa3c4,ALL,,1
+CGI,CRBN,CRBN oncogenic mutation,myeloid neoplasm,POMALIDOMIDE,POMALIDOMIDE,RESISTANT,C,3,e3c4d5910b9f,ALL,,1
+CGI,CRLF2,CRLF2 fusion,acute lymphoblastic leukemia,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,654eecdad536,ALL,,1
+CGI,CTNNB1,"CTNNB1 (H36Y,S37C,S37Y,D32V)",endometrial cancer,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,e823ecbb80c8,ALL,,1
+CGI,CYP17A1,CYP17A1 expression,"prostate adenocarcinoma,prostate cancer",ENZALUTAMIDE,ENZALUTAMIDE,SENSITIVE,C,3,daadd565f4b4,ALL,,1
+CGI,EGFR,EGFR exon 19 deletions,lung cancer,OSIMERTINIB,OSIMERTINIB,SENSITIVE,C,3,a2aca278a993,ALL,,1
+CGI,EGFR,EGFR exon 19 deletions,non-small cell lung carcinoma,GEFITINIB,GEFITINIB,SENSITIVE,A,5,70920580f743,ALL,,1
+CGI,EGFR,"EGFR inframe deletion (L747),inframe insertion (P753PS)",Head an neck,GEFITINIB,GEFITINIB,RESISTANT,C,3,dc675af313fe,ALL,,1
+CGI,EGFR,EGFR exon 19 insertions,lung cancer,AFATINIB,AFATINIB,SENSITIVE,C,3,0dadd16d3efc,ALL,,1
+CGI,EGFR,EGFR exon 20 insertions,lung cancer,OSIMERTINIB,OSIMERTINIB,SENSITIVE,D,2,733ff2b710e0,ALL,,1
+CGI,EGFR,EGFR exon 20 insertions,lung cancer,hsp90,hsp90,SENSITIVE,C,3,dd52b82556ba,ALL,,1
+CGI,EGFR,EGFR (L858R),lung cancer,OSIMERTINIB,OSIMERTINIB,SENSITIVE,C,3,b73caf719c9a,ALL,,1
+CGI,EGFR,"EGFR (L858R,L861Q,G719A,G719S,G719C,G719D,L747S,S768I,L861P,L861Q,L861R)",non-small cell lung carcinoma,GEFITINIB,GEFITINIB,SENSITIVE,A,5,0a1054bdc0fb,ALL,,1
+CGI,EGFR,"EGFR (L861Q,G719A,G719S,G719C,G719D,L747S,S768I,L861P,L861Q,L861R)",non-small cell lung carcinoma,GEFITINIB,GEFITINIB,SENSITIVE,A,5,bd6bc80f5c58,ALL,,1
+CGI,EGFR,EGFR (S720),lung cancer,Erlotinib,Erlotinib,RESISTANT,C,3,c717f07a4374,ALL,,1
+CGI,EGFR,EGFR (T790M),non-small cell lung carcinoma,2'-Deoxyinosine,2'-Deoxyinosine,RESISTANT,B,4,93029a677b6e,ALL,,1
+CGI,EGFR,EGFR (T790M),lung cancer,AFATINIB,AFATINIB,RESISTANT,A,5,8f7c12a0ec6c,ALL,,1
+CGI,EGFR,EGFR (T790M),lung cancer,Erlotinib,Erlotinib,RESISTANT,A,5,cc767c6c0dbb,ALL,,1
+CGI,EGFR,EGFR amplification,lung cancer,Erlotinib,Erlotinib,RESISTANT,C,3,81505e807a77,ALL,,1
+CGI,EGFR,EGFR amplification,malignant glioma,2'-Deoxyinosine,2'-Deoxyinosine,RESISTANT,C,3,de7febd198e6,ALL,,1
+CGI,EGFR,EGFR-RAD51 fusion,lung cancer,Erlotinib,Erlotinib,SENSITIVE,C,3,7615dadf47fb,ALL,,1
+CGI,STK11,STK11 deletion + KRAS oncogenic mutation,lung adenocarcinoma,GILVETMAB,GILVETMAB,RESISTANT,C,3,d5823c430d10,ALL,,1
+CGI,TMPRSS2,TMPRSS2 fusion,prostate adenocarcinoma,DNAn,DNAn,SENSITIVE,D,2,87a23e535833,ALL,,1
+CGI,TMPRSS2,TMPRSS2 fusion,prostate adenocarcinoma,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,bd31b0b66664,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,liposarcoma,MDM2,MDM2,RESISTANT,C,3,0e2c8f187972,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,Acute myeloid leukemia;Myelodisplasic proliferative syndrome,DECITABINE,DECITABINE,SENSITIVE,C,3,6f33815bcc65,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,breast adenocarcinoma,3'-azido-3'-deoxythymidine-5'-monophosphate,3'-azido-3'-deoxythymidine-5'-monophosphate,SENSITIVE,D,2,9e9f9cd58924,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,endometrial cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,C,3,141cc6da3bef,ALL,,1
+CGI,PALB2,PALB2 deletion,exocrine pancreatic carcinoma,Platinum,Platinum,SENSITIVE,C,3,014d75cfe953,ALL,,1
+CGI,PALB2,PALB2 deletion,exocrine pancreatic carcinoma,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,2145ccf7b347,ALL,,1
+CGI,PDGFRA,"PDGFRA (552-596,631-668,814-854)",gastrointestinal stromal tumor,Imatinib,Imatinib,SENSITIVE,A,5,51425c94c1f0,ALL,,1
+CGI,PDGFRA,PDGFRA inframe deletion (I843),gastrointestinal stromal tumor,Imatinib,Imatinib,SENSITIVE,A,5,af2e40013aef,ALL,,1
+CGI,PDGFRA,PDGFRA wildtype,gastrointestinal stromal tumor,Imatinib,Imatinib,RESISTANT,B,4,cf0217e931f8,ALL,,1
+CGI,PDGFRA,PDGFRA (D842V),gastrointestinal stromal tumor,hsp90,hsp90,SENSITIVE,D,2,1e8777aee4dc,ALL,,1
+CGI,PDGFRA,"PDGFRA (V658A,P577S,R841K,H845Y,G853D)",cutaneous melanoma,CRENOLANIB,CRENOLANIB,SENSITIVE,D,2,4ac2cf6443aa,ALL,,1
+CGI,PDGFRA,PDGFRA amplification,malignant glioma,PDGFR inhibitors,PDGFR inhibitors,RESISTANT,D,2,8fc11b0f6963,ALL,,1
+CGI,PDGFRA,PDGFRA overexpression,Renal,SUNITINIB,SUNITINIB,SENSITIVE,D,2,138f90e41859,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,Lung;Colorectal adenocarcinoma,PI3k,PI3k,SENSITIVE,D,2,fc9cf17625a6,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,breast adenocarcinoma,PIK3CA,PIK3CA,SENSITIVE,C,3,2dbe1a411446,ALL,,1
+CGI,PIK3CB,PIK3CB (D1067Y),breast adenocarcinoma,10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),SENSITIVE,D,2,12e913c4bf3b,ALL,,1
+CGI,PML,PML-RARA fusion,acute myeloid leukemia,TRETINOIN,TRETINOIN,SENSITIVE,A,5,d4e6e1c6ab43,ALL,,1
+CGI,POLE,POLE oncogenic mutation,colorectal adenocarcinoma,GILVETMAB,GILVETMAB,SENSITIVE,C,3,7ee7bb052b8c,ALL,,1
+CGI,PTCH1,PTCH1 oncogenic mutation,Basal cell carcinoma;Medulloblastoma,VISMODEGIB,VISMODEGIB,SENSITIVE,A,5,2a2d652a4755,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,B,4,bd8001778db2,ALL,,1
+CGI,KRAS,"KRAS (12,13,59,61,117,146)",colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,RESISTANT,A,5,9da1dbf80216,ALL,,1
+CGI,KRAS,KRAS (G12),gastrointestinal stromal tumor,Imatinib,Imatinib,RESISTANT,C,3,b9a4deb0e3e3,ALL,,1
+CGI,KRAS,KRAS amplification,colorectal adenocarcinoma,2-Butanone,2-Butanone,RESISTANT,C,3,f7e247f1aabe,ALL,,1
+CGI,MAP2K1,MAP2K1 oncogenic mutation,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,C,3,6340c2bc6cd2,ALL,,1
+CGI,MAP2K1,"MAP2K1 (P124S,I111S) + BRAF oncogenic mutation",cutaneous melanoma,BRAF,BRAF,SENSITIVE,C,3,c75baa58f27e,ALL,,1
+CGI,MAP2K1,MAP2K1 (Q56P),cancer,TRAMETINIB,TRAMETINIB,SENSITIVE,D,2,4d90a1a0ae5b,ALL,,1
+CGI,MAP2K1,"MAP2K1 (Q56P,P124S,P124L)",cutaneous melanoma,2-Butanone,2-Butanone,RESISTANT,C,3,86f4e4dba098,ALL,,1
+CGI,MAP2K2,"MAP2K2 (V35M,L46F,N126D,C125S)",cutaneous melanoma,BRAF,BRAF,RESISTANT,D,2,1b229d3ac7a7,ALL,,1
+CGI,MET,MET mutation in exon 16-19,Renal,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,97f25b85ff09,ALL,,1
+CGI,MET,MET amplification,lung adenocarcinoma,OSIMERTINIB,OSIMERTINIB,RESISTANT,C,3,00201c2345b4,ALL,,1
+CGI,MET,MET amplification,non-small cell lung carcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,ee1ae6eb588f,ALL,,1
+CGI,MET,MET amplification,colorectal adenocarcinoma,CABOZANTINIB,CABOZANTINIB,SENSITIVE,C,3,4a8155e1c09b,ALL,,1
+CGI,MET,MET amplification,malignant glioma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,3356fe0fe464,ALL,,1
+CGI,MET,MET amplification + BRAF (V600E),colorectal adenocarcinoma,VEMURAFENIB,VEMURAFENIB,RESISTANT,C,3,675042700e3b,ALL,,1
+CGI,MKI67,MKI67 overexpression,Renal,SUNITINIB,SUNITINIB,SENSITIVE,D,2,21606f0f125b,ALL,,1
+CGI,MLL,MLL fusion,acute myeloid leukemia,BELINOSTAT,BELINOSTAT,SENSITIVE,C,3,23b72b42732d,ALL,,1
+CGI,MLL,MLL fusion,Acute myeloid leukemia;Acute lymphoblastic leukemia;Myelodisplasic syndrome,5676,5676,SENSITIVE,C,3,503bf899224b,ALL,,1
+CGI,MTOR,"MTOR (E2014K,E2419K,N1421D)",childhood bladder carcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,902343785542,ALL,,1
+CGI,MTOR,MTOR (F2108L),cancer,MTOR kinase inhibitors,MTOR kinase inhibitors,SENSITIVE,D,2,acd97edac75f,ALL,,1
+CGI,MTOR,MTOR (N1421D),gastric carcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,3856c0f89bcc,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,neuroblastoma,Acids,Acids,RESISTANT,D,2,46e543104329,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,Tamoxifen,Tamoxifen,SENSITIVE,D,2,3b482a3fb811,ALL,,1
+CGI,NF1,NF1 deletion,plexiform neurofibroma,CEDIRANIB,CEDIRANIB,RESISTANT,C,3,9a4135f16dd8,ALL,,1
+CGI,NF1,NF1 deletion,malignant peripheral nerve sheath tumor,EVEROLIMUS,EVEROLIMUS,RESISTANT,C,3,3dc31c23dc6b,ALL,,1
+CGI,NF1,NF1 deletion,lung cancer,DASATINIB,DASATINIB,RESISTANT,D,2,21c9ceb7eda5,ALL,,1
+CGI,NF1,NF1 deletion,Head an neck;Salivary glands,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,177b0b513565,ALL,,1
+CGI,NF1,NF1 deletion,malignant glioma,SIROLIMUS,SIROLIMUS,SENSITIVE,C,3,1aba2d60b1dc,ALL,,1
+CGI,NF1,NF1 deletion,malignant glioma,VINBLASTINE,VINBLASTINE,SENSITIVE,C,3,247295decbd4,ALL,,1
+CGI,NF1,NF1 deletion,Glioma;Leukemia,2-Butanone,2-Butanone,SENSITIVE,D,2,fed5405c839e,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,schwannoma,935881-37-1,935881-37-1,SENSITIVE,D,2,072d94191f6b,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,schwannoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,ff34486e5248,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,breast adenocarcinoma,Tensirolimus + Chemotherapy (MTOR inhibitor + Chemotherapy),Tensirolimus + Chemotherapy (MTOR inhibitor + Chemotherapy),SENSITIVE,C,3,b17f021fc0d8,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,pediatric meningioma,hsp90,hsp90,SENSITIVE,D,2,2979a684b138,ALL,,1
+CGI,NF2,NF2 deletion,pediatric meningioma,935881-37-1,935881-37-1,SENSITIVE,C,3,ec57036d19da,ALL,,1
+CGI,NF2,NF2 deletion + EGFR oncogenic mutation,lung cancer,Erlotinib,Erlotinib,RESISTANT,C,3,f1170d175d99,ALL,,1
+CGI,NOTCH1,NOTCH1 activating mutation in Cterm-PEST domain,acute lymphoblastic leukemia,foton,foton,SENSITIVE,D,2,cdc9bb0a21ab,ALL,,1
+CGI,NOTCH1,"NOTCH1 splice donor variant (2245-2536),splice acceptor variant (2245-2536),stop gained (2245-2536),stop lost (2245-2536),frameshift variant (2245-2536)",lung adenoid cystic carcinoma,NOTCH1,NOTCH1,SENSITIVE,C,3,aa481b1e624b,ALL,,1
+CGI,NOTCH1,NOTCH1 fusion,breast adenocarcinoma,foton,foton,SENSITIVE,D,2,2f253fcfa71c,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,cutaneous melanoma,VEMURAFENIB,VEMURAFENIB,RESISTANT,D,2,5ab4301249c1,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,colorectal adenocarcinoma,2-Butanone,2-Butanone,SENSITIVE,D,2,4881d3a3f404,ALL,,1
+CGI,NTRK1,NTRK1 fusion,lung adenocarcinoma,1-(2-Pyridylazo)-2-naphthol,1-(2-Pyridylazo)-2-naphthol,SENSITIVE,D,2,facb7f9a2ec9,ALL,,1
+CGI,PALB2,PALB2 oncogenic mutation,exocrine pancreatic carcinoma,mitomycin C,mitomycin C,SENSITIVE,C,3,e2bcef5db2ce,ALL,,1
+CGI,TSC1,TSC1 oncogenic mutation,Renal,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,3c3e3d7055a9,ALL,,1
+CGI,TSC2,TSC2 deletion,lymphangioleiomyomatosis,s13412,s13412,SENSITIVE,D,2,204c547a6e2e,ALL,,1
+CGI,U2AF1,U2AF1 oncogenic mutation,cancer,FLT3,FLT3,SENSITIVE,D,2,20224e94c150,ALL,,1
+CGI,PTEN,PTEN deletion,prostate adenocarcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,601ca4939138,ALL,,1
+CGI,PTEN,PTEN deletion,endometrial cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,C,3,1d1755709277,ALL,,1
+CGI,PTEN,PTEN deletion,Thyroid;Glioma;Lung;Ovary;Breast adenocarcinoma;Any cancer type;Endometrium,PI3k,PI3k,SENSITIVE,D,2,a19f54095c59,ALL,,1
+CGI,RAC1,RAC1 (P29S) + BRAF oncogenic mutation,cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,45ae6f495844,ALL,,1
+CGI,RAD50,RAD50 (L1237F) + ATM deletion,cancer,Irinotecan,Irinotecan,SENSITIVE,C,3,0e7365dc7238,ALL,,1
+CGI,RET,"RET (C634W,M918T)",thyroid cancer,SUNITINIB,SUNITINIB,SENSITIVE,D,2,a478ab93631e,ALL,,1
+CGI,RET,"RET (C634W,M918T)",thyroid cancer,retinal,retinal,SENSITIVE,D,2,15d648b86081,ALL,,1
+CGI,RET,RET fusion,lung adenocarcinoma,NINTEDANIB,NINTEDANIB,SENSITIVE,C,3,ebe023b467f0,ALL,,1
+CGI,RET,RET-TPCN1 fusion,thyroid cancer,retinal,retinal,SENSITIVE,D,2,d13118e32275,ALL,,1
+CGI,ROS1,ROS1 (G2032R),lung adenocarcinoma,CABOZANTINIB,CABOZANTINIB,SENSITIVE,D,2,faab1772edc0,ALL,,1
+CGI,ROS1,ROS1 fusion,lung adenocarcinoma,CABOZANTINIB,CABOZANTINIB,SENSITIVE,C,3,a8258430bdb1,ALL,,1
+CGI,ROS1,ROS1 fusion,lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,6e50c958377d,ALL,,1
+CGI,SLC44A4,SLC44A4 overexpression,Prostate adenocarcinoma;Pancreas adenocarcinoma,SLC44A4,SLC44A4,SENSITIVE,D,2,f4473bd00729,ALL,,1
+CGI,SMARCB1,SMARCB1 deletion,rhabdoid tumor,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,C,3,52d67f4d7553,ALL,,1
+CGI,SMO,SMO (D473H),medulloblastoma,VISMODEGIB,VISMODEGIB,RESISTANT,C,3,253f45ea56bb,ALL,,1
+CGI,STK11,STK11 oncogenic mutation,lung cancer,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,RESISTANT,D,2,6f5aa55503b2,ALL,,1
+CGI,STK11,STK11 oncogenic mutation,cancer,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,c5efbdd081b6,ALL,,1
+CGI,TP53,TP53 deletion,B cell lymphoma,AZD6738,AZD6738,SENSITIVE,C,3,48f35fb8f1e4,ALL,,1
+CGI,ABL1,"ABL1 (T315A,F317L,F317V,F317I,F317C,F317I,Y253H,E255K,E255V,F359V,F359C,F359I)","chronic myelogenous leukemia, BCR-ABL1 positive",BOSUTINIB MONOHYDRATE,BOSUTINIB MONOHYDRATE,SENSITIVE,A,5,a7d3eb5467da,ALL,,1
+CGI,ABL1,ABL1-BCR fusion,acute lymphoblastic leukemia,DASATINIB,DASATINIB,SENSITIVE,D,2,901c3a461d77,ALL,,1
+CGI,AKT1,AKT1 (H238Y),benign fibrous histiocytoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,e0e75520bf05,ALL,,1
+CGI,AKT2,AKT2 amplification,cancer,MK-2206,MK-2206,SENSITIVE,D,2,2559c4d6ef27,ALL,,1
+CGI,ALK,"ALK (L1196M,S1206Y,G1269A,I1171T)",lung adenocarcinoma,CERITINIB,CERITINIB,SENSITIVE,A,5,30aa9acffecd,ALL,,1
+CGI,ALK,ALK fusion,Inflammatory myofibroblastic;Thyroid carcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,d968d1d82535,ALL,,1
+CGI,AR,AR overexpression,breast adenocarcinoma,BICALUTAMIDE,BICALUTAMIDE,SENSITIVE,C,3,17e442ed768f,ALL,,1
+CGI,ARAF,ARAF oncogenic mutation,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,C,3,2893e097d9a4,ALL,,1
+CGI,AREG,AREG amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,SENSITIVE,C,3,b7157f6f8d0c,ALL,,1
+CGI,ATM,ATM oncogenic mutation,"childhood bladder carcinoma,childhood bladder carcinoma",CISPLATIN,CISPLATIN,SENSITIVE,C,3,3aaf49f83527,ALL,,1
+CGI,ATM,ATM oncogenic mutation,Stomach;Prostate adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,61b6c8e09f3c,ALL,,1
+CGI,ATR,ATR deletion,Ovary;Any cancer type,OLAPARIB,OLAPARIB,SENSITIVE,D,2,6ca457bcbfdf,ALL,,1
+CGI,BAP1,BAP1 oncogenic mutation,benign mesothelioma,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,D,2,41bee2bef403,ALL,,1
+CGI,BCL2,BCL2 amplification,lymphoma,Dichloroborane,Dichloroborane,SENSITIVE,D,2,d83a53e4678b,ALL,,1
+CGI,BCL2,BCL2 overexpression,plasma cell myeloma,VENETOCLAX,VENETOCLAX,SENSITIVE,C,3,65b59179d95d,ALL,,1
+CGI,BCL6,BCL6 overexpression,lymphoma,ONALESPIB,ONALESPIB,SENSITIVE,C,3,8684f4a56821,ALL,,1
+CGI,BRAF,"BRAF inframe deletion (L485),inframe deletion (P490)",cancer,RAFFINOSE,RAFFINOSE,SENSITIVE,D,2,2f27bd103502,ALL,,1
+CGI,BRAF,"BRAF (K601R,L597R,V600R)",cutaneous melanoma,TRAMETINIB,TRAMETINIB,SENSITIVE,C,3,e33cbd3fa856,ALL,,1
+CGI,BRAF,BRAF (V600),colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,SENSITIVE,C,3,573fa65a5423,ALL,,1
+CGI,BRAF,BRAF (V600E),non-small cell lung carcinoma,DABRAFENIB,DABRAFENIB,SENSITIVE,A,5,07544c51db71,ALL,,1
+CGI,BRAF,BRAF (V600E),anaplastic astrocytoma,VEMURAFENIB,VEMURAFENIB,SENSITIVE,C,3,d37ee541849e,ALL,,1
+CGI,BRAF,BRAF (V600E),colorectal adenocarcinoma,DABRAFENIB,DABRAFENIB,SENSITIVE,C,3,bbd2fb724465,ALL,,1
+CGI,BRAF,BRAF (V600E),cutaneous melanoma,BRAF,BRAF,SENSITIVE,D,2,913738baf117,ALL,,1
+CGI,BRAF,BRAF (V600E),ovarian cancer,BRAF,BRAF,SENSITIVE,C,3,e0f55174ed86,ALL,,1
+CGI,BRAF,"BRAF (V600E,V600D,V600K,V600M,V600G,V600R)",Non-small cell lung;Lagerhans cell histiocytosis;Erdheim-Chester histiocytosis,VEMURAFENIB,VEMURAFENIB,SENSITIVE,A,5,2e0fe3abff52,ALL,,1
+CGI,BRAF,BRAF (Y472C),lung adenocarcinoma,DASATINIB,DASATINIB,SENSITIVE,C,3,d390601b7374,ALL,,1
+CGI,BRAF,BRAF fusion,Lung adenocarcinoma;Cutaneous melanoma;Prostate adenocarcinoma,TRAMETINIB,TRAMETINIB,SENSITIVE,D,2,d299e5892b57,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,prostate adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,e52e0f101ea5,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,breast adenocarcinoma,Platinum,Platinum,SENSITIVE,C,3,a67c5412b3a4,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,exocrine pancreatic carcinoma,PARP inhibitors,PARP inhibitors,SENSITIVE,C,3,254e979aa860,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,breast adenocarcinoma,Platinum,Platinum,SENSITIVE,C,3,09eaaefc9c0e,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,ovarian cancer,RUCAPARIB,RUCAPARIB,SENSITIVE,A,5,502eca5328b9,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,cutaneous melanoma,GILVETMAB,GILVETMAB,SENSITIVE,C,3,b91517c23d8e,ALL,,1
+CGI,C15orf55,C15orf55 BRD4-C15orf55 fusion,nut midline carcinoma,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,SENSITIVE,C,3,6494e2ed6086,ALL,,1
+CGI,BTK,BTK (C481S),B-cell chronic lymphocytic leukemia,IBRUTINIB,IBRUTINIB,RESISTANT,C,3,54fb6ac0188f,ALL,,1
+CGI,CD274,CD274 amplification,cancer,B7 homolog 1,B7 homolog 1,SENSITIVE,D,2,73c2d29af055,ALL,,1
+CGI,CDK12,CDK12 oncogenic mutation,ovarian cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,6a465183df13,ALL,,1
+CGI,CDK6,CDK6 oncogenic mutation,Liposarcoma;Lymphoma;Any cancer type,Ribociclib,Ribociclib,SENSITIVE,C,3,80881fff0a52,ALL,,1
+CGI,CDKN2A,CDKN2A oncogenic mutation,cutaneous melanoma,CDK4,CDK4,SENSITIVE,C,3,96e28489182a,ALL,,1
+CGI,CDKN2B,CDKN2B oncogenic mutation,Glioma;Any cancer type,CDK4,CDK4,SENSITIVE,D,2,7a340aa3a237,ALL,,1
+CGI,CHEK2,CHEK2 oncogenic mutation,prostate adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,e17cac5a2993,ALL,,1
+CGI,DDR2,"DDR2 (I638F,L239R,G253C,G774V,L63V,G505S)",squamous cell lung carcinoma,DASATINIB,DASATINIB,SENSITIVE,D,2,7a429cbb4fb6,ALL,,1
+CGI,EGFR,EGFR inframe deletion (30-336),malignant glioma,2'-Deoxyinosine,2'-Deoxyinosine,RESISTANT,C,3,e7d9888b958e,ALL,,1
+CGI,EGFR,EGFR exon 19 deletions,non-small cell lung carcinoma,AFATINIB,AFATINIB,SENSITIVE,A,5,55ebeaf0c73c,ALL,,1
+CGI,EGFR,EGFR exon 19 deletions,non-small cell lung carcinoma,Erlotinib,Erlotinib,SENSITIVE,A,5,8155ff56c153,ALL,,1
+CGI,EGFR,EGFR inframe insertion (769-770),lung cancer,Erlotinib,Erlotinib,SENSITIVE,C,3,6c8e0a073e2f,ALL,,1
+CGI,EGFR,EGFR (D761Y),non-small cell lung carcinoma,1ST,1ST,RESISTANT,C,3,1dbe96742fe6,ALL,,1
+CGI,EGFR,EGFR (E690K),endometrial cancer,Lapatinib,Lapatinib,SENSITIVE,C,3,073ace36a5af,ALL,,1
+CGI,EGFR,EGFR (G465R),colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,RESISTANT,C,3,1a3073d82870,ALL,,1
+CGI,EGFR,EGFR (L798I),lung adenocarcinoma,ROCILETINIB,ROCILETINIB,RESISTANT,C,3,eb59097c6d60,ALL,,1
+CGI,EGFR,EGFR (T790M),non-small cell lung carcinoma,1ST,1ST,RESISTANT,B,4,89f1c092c33c,ALL,,1
+CGI,EGFR,EGFR amplification,malignant glioma,1ST,1ST,RESISTANT,C,3,303fac22e119,ALL,,1
+CGI,EGFR,EGFR amplification,Head an neck squamous,EGFR,EGFR,SENSITIVE,C,3,91c73b9bcf26,ALL,,1
+CGI,ERBB2,ERBB2 oncogenic mutation,lung adenocarcinoma,Tensirolimus (MTOR inhibitor),Tensirolimus (MTOR inhibitor),SENSITIVE,C,3,9929e94e7ff2,ALL,,1
+CGI,ERBB2,ERBB2 proximal exon 20,lung adenocarcinoma,AFATINIB,AFATINIB,SENSITIVE,C,3,5a0300386e4b,ALL,,1
+CGI,ERBB2,ERBB2 (G776L),lung adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,C,3,cd3c9791c06d,ALL,,1
+CGI,ERBB2,"ERBB2 (L755S,G309A,D769Y,D769H,R896C,V777L,V842I)",breast adenocarcinoma,NERATINIB,NERATINIB,SENSITIVE,D,2,8e9b4663f7df,ALL,,1
+CGI,ERBB2,ERBB2 (T798I),breast adenocarcinoma,AFATINIB,AFATINIB,SENSITIVE,D,2,89c0ee233297,ALL,,1
+CGI,ERBB2,ERBB2 amplification,lung adenocarcinoma,ROCILETINIB,ROCILETINIB,RESISTANT,C,3,8fa829017f4a,ALL,,1
+CGI,ERBB2,ERBB2 amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,C,3,a0fa20e5c740,ALL,,1
+CGI,ERBB2,ERBB2 amplification,childhood bladder carcinoma,AFATINIB,AFATINIB,SENSITIVE,C,3,fe166bb805f0,ALL,,1
+CGI,ERBB2,ERBB2 amplification,gastric carcinoma,Lapatinib,Lapatinib,SENSITIVE,C,3,a36179e2ad6c,ALL,,1
+CGI,ERBB2,ERBB2 amplification,ovarian cancer,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,C,3,a20c049827d3,ALL,,1
+CGI,ERBB2,ERBB2 amplification,endometrial cancer,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,D,2,9a9cec2fb561,ALL,,1
+CGI,ERBB2,ERBB2 expression + ESR1 overexpression,breast adenocarcinoma,ABEMACICLIB,ABEMACICLIB,SENSITIVE,C,3,8006fb2592af,ALL,,1
+CGI,ERBB2,ERBB2 expression + ESR1 overexpression,breast adenocarcinoma,Tamoxifen,Tamoxifen,SENSITIVE,A,5,e52a03998083,ALL,,1
+CGI,ERBB2,ERBB2 overexpression,breast adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,A,5,ea03dc58b62d,ALL,,1
+CGI,ERBB2,ERBB2 overexpression,cancer,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,C,3,4e6f923b8223,ALL,,1
+CGI,ERBB4,"ERBB4 (E317K,E452K,R544W,R393W,E872K)",cutaneous melanoma,Lapatinib,Lapatinib,SENSITIVE,D,2,c860fb4cf9aa,ALL,,1
+CGI,ERBB4,ERBB4 fusion,lung adenocarcinoma,Lapatinib,Lapatinib,SENSITIVE,D,2,a7f779a09c9b,ALL,,1
+CGI,ERCC1,ERCC1 deletion,lung cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,e12c85d860b5,ALL,,1
+CGI,ERCC6,ERCC6 oncogenic mutation,ovarian cancer,CISPLATIN,CISPLATIN,SENSITIVE,D,2,648c36b02ae5,ALL,,1
+CGI,ESR1,ESR1 oncogenic mutation,breast adenocarcinoma,EXEMESTANE,EXEMESTANE,RESISTANT,B,4,14723d2dd5ff,ALL,,1
+CGI,FGF3,FGF3 amplification,breast adenocarcinoma,LUCITANIB,LUCITANIB,SENSITIVE,C,3,18ba05131993,ALL,,1
+CGI,FGFR1,FGFR1 amplification,squamous cell lung carcinoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,d5ec6f2267ce,ALL,,1
+CGI,FGFR1,FGFR1 amplification,Head an neck,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,17b846289685,ALL,,1
+CGI,FGFR2,"FGFR2 inframe insertion (A266),inframe insertion (S267)",lung cancer,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,cb9b40334351,ALL,,1
+CGI,FGFR2,"FGFR2 (N549H,V564F,K659M,L617V,K641R,R565A) + FGFR2 fusion",cholangiocarcinoma,FGFR inhibitors,FGFR inhibitors,RESISTANT,C,3,7b9fb4d647c7,ALL,,1
+CGI,FGFR2,"FGFR2 (S252W,N550K)",endometrial cancer,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,bce7e4eafe52,ALL,,1
+CGI,FGFR2,FGFR2 fusion,colorectal adenocarcinoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,eef243cf72ee,ALL,,1
+CGI,FGFR3,FGFR3 (K650),myeloid neoplasm,BORTEZOMIB,BORTEZOMIB,SENSITIVE,D,2,35f5c6b6b77f,ALL,,1
+CGI,FGFR3,"FGFR3 (S249C,G691R)",lung adenocarcinoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,b365b8ee9837,ALL,,1
+CGI,FGFR4,"FGFR4 (N535,V550)",rhabdomyosarcoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,28d4ff82039b,ALL,,1
+CGI,FLCN,FLCN deletion,thyroid cancer,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,3717e417a491,ALL,,1
+CGI,FLT3,FLT3-ITD,acute myeloid leukemia,VENETOCLAX,VENETOCLAX,RESISTANT,C,3,91dac84d22bb,ALL,,1
+CGI,FLT3,FLT3 (D835),acute myeloid leukemia,MIDOSTAURIN,MIDOSTAURIN,SENSITIVE,C,3,b5664327d855,ALL,,1
+CGI,FLT3,"FLT3 (D835,Y842)",acute myeloid leukemia,PONATINIB,PONATINIB,RESISTANT,D,2,5a17e4c30a3a,ALL,,1
+CGI,FLT3,FLT3 (F691),acute myeloid leukemia,Novel,Novel,SENSITIVE,D,2,2915d6d0b6ac,ALL,,1
+CGI,FOXA1,FOXA1 amplification,colorectal adenocarcinoma,Dichloroborane,Dichloroborane,SENSITIVE,D,2,40f2cf73b4d1,ALL,,1
+CGI,GNAQ,GNAQ (Q209),cutaneous melanoma,HDAC inhibitors,HDAC inhibitors,SENSITIVE,D,2,b9a108582609,ALL,,1
+CGI,GNAQ,GNAQ (Q209),cutaneous melanoma,2-Butanone,2-Butanone,SENSITIVE,D,2,d9ee449f3c61,ALL,,1
+CGI,HRAS,HRAS oncogenic mutation,cancer,TIPIFARNIB,TIPIFARNIB,SENSITIVE,C,3,0081f1013eff,ALL,,1
+CGI,IDH1,IDH1 oncogenic mutation,acute myeloid leukemia,VENETOCLAX,VENETOCLAX,SENSITIVE,C,3,1fe27372a207,ALL,,1
+CGI,IDH1,IDH1 oncogenic mutation,malignant glioma,IDH1,IDH1,SENSITIVE,C,3,6da69e5b9f3f,ALL,,1
+CGI,JAK2,JAK2 (V617F),myelofibrosis,RUXOLITINIB,RUXOLITINIB,SENSITIVE,A,5,1e0b09700a0a,ALL,,1
+CGI,KCNJ5,KCNJ5 (L168R),adrenal cortex adenoma,Amiloride,Amiloride,SENSITIVE,D,2,6eca79b8625c,ALL,,1
+CGI,KCNJ5,KCNJ5 (L168R),adrenal cortex adenoma,Verapamil,Verapamil,SENSITIVE,D,2,9af2ecdb2137,ALL,,1
+CGI,KIT,KIT mutation in exon 11,gastrointestinal stromal tumor,SUNITINIB,SUNITINIB,RESISTANT,B,4,eb1c73f2e728,ALL,,1
+CGI,KIT,KIT mutation in exon 9 or 17,gastrointestinal stromal tumor,hsp90,hsp90,SENSITIVE,D,2,eb9c5cd76e0b,ALL,,1
+CGI,KIT,KIT mutation in exon 17 or 18,cutaneous melanoma,Imatinib,Imatinib,RESISTANT,C,3,bd824ec2a541,ALL,,1
+CGI,KIT,KIT inframe deletion (577-579),Thymic,Sorafenib,Sorafenib,SENSITIVE,C,3,be64cc2e31c3,ALL,,1
+CGI,KIT,KIT wildtype,gastrointestinal stromal tumor,Imatinib,Imatinib,RESISTANT,B,4,53b91551a83b,ALL,,1
+CGI,KIT,"KIT (A829P,V654A,T670I)",gastrointestinal stromal tumor,PONATINIB,PONATINIB,SENSITIVE,D,2,884ff2a76dbe,ALL,,1
+CGI,KIT,KIT (D820Y),cutaneous melanoma,Imatinib,Imatinib,SENSITIVE,C,3,21ea1eaa955c,ALL,,1
+CGI,KIT,"KIT (V559I,H697Y,T670,V654A,A829P,D816,N822,Y823D)",gastrointestinal stromal tumor,Imatinib,Imatinib,RESISTANT,D,2,e1c2544ac08a,ALL,,1
+CGI,KIT,KIT (Y553N),Thymic,Imatinib,Imatinib,SENSITIVE,C,3,c0e281dcf98b,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,ABEMACICLIB,ABEMACICLIB,SENSITIVE,C,3,ddd0d5d4821a,ALL,,1
+CGI,LRP1B,LRP1B oncogenic mutation,ovarian cancer,Doxorubicin,Doxorubicin,RESISTANT,C,3,8139645dbb38,ALL,,1
+CGI,MAP2K1,MAP2K1 (C121S),cutaneous melanoma,2-Butanone,2-Butanone,SENSITIVE,D,2,8fc1a60bda6a,ALL,,1
+CGI,MAP2K1,"MAP2K1 (F129L,L215P,I103N,P124)",cancer,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,D,2,38136031e932,ALL,,1
+CGI,MAP2K1,MAP2K1 (P124),cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,94f0fffeaad9,ALL,,1
+CGI,MAP2K2,"MAP2K2 (V35M,L46F,N126D,C125S)",cutaneous melanoma,2-Butanone,2-Butanone,RESISTANT,D,2,f29e98155c27,ALL,,1
+CGI,MET,MET amplification,Lung adenocarcinoma;Stomach,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,4974f1790cab,ALL,,1
+CGI,MET,MET fusion,malignant glioma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,4fce0660e4e9,ALL,,1
+CGI,MTOR,MTOR (K1771R),Stomach;Anaplastic oligodendroglioma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,755e239b723d,ALL,,1
+CGI,MYCN,MYCN amplification,medulloblastoma,DIOXOSULFIDOMOLYBDENUM(VI) ION,DIOXOSULFIDOMOLYBDENUM(VI) ION,RESISTANT,D,2,77df79bdc0d8,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,plexiform neurofibroma,Imatinib,Imatinib,SENSITIVE,C,3,879dec3e16e2,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,Plexiform neurofibroma;Malignant peripheral nerve sheat tumor,NILOTINIB,NILOTINIB,SENSITIVE,D,2,f014929cde5b,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,plexiform neurofibroma,Pexidartinib,Pexidartinib,SENSITIVE,D,2,92feaa059261,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,cutaneous melanoma,TRAMETINIB,TRAMETINIB,SENSITIVE,D,2,5eee92f82535,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,s7869,s7869,SENSITIVE,D,2,878f4cfd2468,ALL,,1
+CGI,NF1,NF1 deletion,Plexiform neurofibroma;Malignant peripheral nerve sheat tumor,NILOTINIB,NILOTINIB,SENSITIVE,D,2,4e22be9d6eae,ALL,,1
+CGI,NF1,NF1 deletion,plexiform neurofibroma,Pexidartinib,Pexidartinib,SENSITIVE,D,2,68f78bfdcb8e,ALL,,1
+CGI,NF1,NF1 deletion,plexiform neurofibroma,SIROLIMUS,SIROLIMUS,SENSITIVE,C,3,2fe8cc68625c,ALL,,1
+CGI,NF1,NF1 deletion,malignant peripheral nerve sheath tumor,s7869,s7869,SENSITIVE,D,2,fb0526d4aef4,ALL,,1
+CGI,NF1,NF1 deletion,malignant peripheral nerve sheath tumor,2-Butanone,2-Butanone,SENSITIVE,D,2,95fddc6a1c12,ALL,,1
+CGI,NF1,NF1 deletion + BRAF oncogenic mutation,cutaneous melanoma,SELUMETINIB,SELUMETINIB,RESISTANT,C,3,c0cff76e9f21,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,benign mesothelioma,Phe-ala-lys,Phe-ala-lys,SENSITIVE,C,3,832c1c675e15,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,thyroid cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,070e2e4c6931,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,pediatric meningioma,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,59f56bceca6e,ALL,,1
+CGI,NF2,NF2 deletion,schwannoma,935881-37-1,935881-37-1,SENSITIVE,D,2,f01fd1e372d9,ALL,,1
+CGI,NF2,NF2 deletion,breast adenocarcinoma,Tensirolimus + Chemotherapy (MTOR inhibitor + Chemotherapy),Tensirolimus + Chemotherapy (MTOR inhibitor + Chemotherapy),SENSITIVE,C,3,76c39293a9e8,ALL,,1
+CGI,NF2,NF2 deletion,Schwannoma;Meningioma,prolylalanyllysine,prolylalanyllysine,SENSITIVE,D,2,32c6f391cf82,ALL,,1
+CGI,NF2,NF2 deletion,Schwannoma;Neurofibroma,Lapatinib,Lapatinib,SENSITIVE,C,3,fd4dd48501de,ALL,,1
+CGI,NOTCH1,NOTCH1 oncogenic mutation,mantle cell lymphoma,foton,foton,SENSITIVE,D,2,505630872de3,ALL,,1
+CGI,NOTCH2,NOTCH2 activating mutation (missense in TAD or truncating in Cterm-PEST domain),Breast adenocarcinoma;Acute myeloid leukemia;Acute lymphoblastic leukemia,foton,foton,SENSITIVE,C,3,1ed7d4329643,ALL,,1
+CGI,NPM1,NPM1 oncogenic mutation,acute myeloid leukemia,DAUNORUBICIN,DAUNORUBICIN,SENSITIVE,A,5,d3d147660011,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,Acute myeloid leukemia;Lung adenocarcinoma;Acute lymphoblastic leukemia,2-Butanone,2-Butanone,SENSITIVE,D,2,a31179442688,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,myeloid neoplasm,2-Butanone,2-Butanone,SENSITIVE,D,2,e63ac96804d4,ALL,,1
+CGI,NRAS,"NRAS (12,13,59,61,117,146)",colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,A,5,5aaedec20a16,ALL,,1
+CGI,NRAS,NRAS (Q61),cutaneous melanoma,2-Butanone,2-Butanone,SENSITIVE,B,4,1eb444a59cdb,ALL,,1
+CGI,NTRK1,NTRK1 fusion,colorectal adenocarcinoma,ENTRECTINIB,ENTRECTINIB,SENSITIVE,C,3,763696378873,ALL,,1
+CGI,NTRK1,NTRK1 fusion,cancer,Thr-Lys-Arg,Thr-Lys-Arg,SENSITIVE,C,3,186a615dec04,ALL,,1
+CGI,NTRK3,NTRK3 fusion,breast adenocarcinoma,IGF1R,IGF1R,SENSITIVE,D,2,91d521892f18,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,A,5,86343ebf380e,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,RESISTANT,A,5,99b7682675f2,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,gastric carcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,D,2,0da9cedd88a9,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,ovarian cancer,DECITABINE,DECITABINE,SENSITIVE,D,2,967d00005b83,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,D,2,30e1a652b483,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,Thymic,PRAMLINTIDE,PRAMLINTIDE,SENSITIVE,D,2,c56af3e85596,ALL,,1
+CGI,TP53,TP53 wildtype,acute myeloid leukemia,HDM2 inhibitors,HDM2 inhibitors,SENSITIVE,C,3,b812ca588ec7,ALL,,1
+CGI,PDGFRA,PDGFRA (D842V),gastrointestinal stromal tumor,Imatinib,Imatinib,RESISTANT,B,4,b7046f03746f,ALL,,1
+CGI,PIK3CA,PIK3CA (E545*),cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,84a904c7446e,ALL,,1
+CGI,PIK3CB,PIK3CB oncogenic mutation,Head an neck squamous,10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),SENSITIVE,D,2,c31f1b620dd5,ALL,,1
+CGI,PIK3CB,PIK3CB (D1067Y),breast adenocarcinoma,MTORC1/2 inhibitors,MTORC1/2 inhibitors,SENSITIVE,D,2,8c907554f5ce,ALL,,1
+CGI,PIK3R1,PIK3R1 oncogenic mutation,endometrial cancer,PI3k,PI3k,SENSITIVE,C,3,fd419b4112cc,ALL,,1
+CGI,PIK3R2,"PIK3R2 (A171V,N561D)",endometrial cancer,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,49321b74fb97,ALL,,1
+CGI,PML,PML-RARA fusion,acute myeloid leukemia,VOLASERTIB,VOLASERTIB,SENSITIVE,C,3,391ad5733cfa,ALL,,1
+CGI,PRKCH,PRKCH amplification + ABL1-BCR fusion,"chronic myelogenous leukemia, BCR-ABL1 positive",TRAMETINIB,TRAMETINIB,SENSITIVE,D,2,edffd3d970fc,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,endometrial cancer,MTOR inhibitors,MTOR inhibitors,RESISTANT,C,3,6da5e15df234,ALL,,1
+CGI,TSC1,TSC1 oncogenic mutation,Giant cell astrocytoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,A,5,82643bb86889,ALL,,1
+CGI,TSC2,TSC2 (Q1178*),Thyroid carcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,3ce0eead67cd,ALL,,1
+CGI,TUBB3,TUBB3 overexpression,"childhood bladder carcinoma,childhood bladder carcinoma",PACLITAXEL,PACLITAXEL,RESISTANT,D,2,924a4d13f066,ALL,,1
+CGI,VEGFA,VEGFA amplification,Hepatic carcinoma,Sorafenib,Sorafenib,SENSITIVE,C,3,16175609b3a4,ALL,,1
+CGI,FLT1,FLT1 overexpression,Renal,SUNITINIB,SUNITINIB,SENSITIVE,D,2,68fe880f75dd,ALL,,1
+CGI,ZNRF3,ZNRF3 oncogenic mutation,colorectal adenocarcinoma,Porcupine inhibitors,Porcupine inhibitors,SENSITIVE,D,2,8ce2d5d74c38,ALL,,1
+CGI,STK11,STK11 oncogenic mutation + KRAS oncogenic mutation,lung adenocarcinoma,DOCETAXEL,DOCETAXEL,RESISTANT,D,2,619fc512544f,ALL,,1
+CGI,STK11,STK11 deletion,lung adenocarcinoma,2-Butanone,2-Butanone,SENSITIVE,D,2,ad7df7767515,ALL,,1
+CGI,STK11,STK11 deletion + KRAS oncogenic mutation,lung adenocarcinoma,DOCETAXEL,DOCETAXEL,RESISTANT,D,2,90981aa29d47,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation + BRAF oncogenic mutation,cutaneous melanoma,2-Butanone,2-Butanone,RESISTANT,D,2,432ad3c0d7fb,ALL,,1
+CGI,PTEN,PTEN deletion,endometrial cancer,MTOR inhibitors,MTOR inhibitors,RESISTANT,C,3,e15e6977860a,ALL,,1
+CGI,PTEN,PTEN deletion,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,B,4,3918fb3d21ef,ALL,,1
+CGI,PTEN,PTEN deletion,cancer,SIROLIMUS,SIROLIMUS,SENSITIVE,C,3,70f597d92c34,ALL,,1
+CGI,PTEN,PTEN deletion,prostate adenocarcinoma,PI3k,PI3k,SENSITIVE,D,2,6364d01f864a,ALL,,1
+CGI,PTEN,PTEN deletion,ovarian cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,20f161d08360,ALL,,1
+CGI,PTEN,PTEN deletion + BRAF oncogenic mutation,cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,5f9da6fab883,ALL,,1
+CGI,PTEN,PTEN deletion + BRAF oncogenic mutation,cutaneous melanoma,2-Butanone,2-Butanone,RESISTANT,D,2,b3246e7e3434,ALL,,1
+CGI,RAF1,"RAF1 (S257P,G361A,P261P) + BRAF oncogenic mutation",cutaneous melanoma,BRAF,BRAF,RESISTANT,D,2,e9d21039999a,ALL,,1
+CGI,RAF1,RAF1 overexpression,pediatric osteosarcoma,Sorafenib,Sorafenib,SENSITIVE,D,2,9faa3f3e20ff,ALL,,1
+CGI,RB1,RB1 oncogenic mutation,retinoblastoma,HDAC inhibitors,HDAC inhibitors,SENSITIVE,D,2,5f80c9199b22,ALL,,1
+CGI,RB1,RB1 deletion,retinoblastoma,HDAC inhibitors,HDAC inhibitors,SENSITIVE,D,2,cd63dda664d5,ALL,,1
+CGI,RET,"RET (C634W,M918T)",thyroid cancer,CABOZANTINIB,CABOZANTINIB,SENSITIVE,D,2,e497e4c7d2da,ALL,,1
+CGI,RET,RET (I788N),lung adenocarcinoma,PONATINIB,PONATINIB,RESISTANT,D,2,8ae863843256,ALL,,1
+CGI,RET,RET-TPCN1 fusion,Thyroid carcinoma,CABOZANTINIB,CABOZANTINIB,SENSITIVE,D,2,c69172ce5fd9,ALL,,1
+CGI,RET,RET-TPCN1 fusion,Thyroid carcinoma,SUNITINIB,SUNITINIB,SENSITIVE,D,2,f5f17e38c892,ALL,,1
+CGI,RNF43,RNF43 oncogenic mutation,colorectal adenocarcinoma,Porcupine inhibitors,Porcupine inhibitors,SENSITIVE,C,3,8851f4ba1545,ALL,,1
+CGI,ROS1,"ROS1 (S1986Y,S1986F)",lung adenocarcinoma,CERITINIB,CERITINIB,RESISTANT,C,3,63200223afbc,ALL,,1
+CGI,ROS1,"ROS1 (S1986Y,S1986F)",lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,RESISTANT,C,3,a6052d29690e,ALL,,1
+CGI,ROS1,"ROS1 (S1986Y,S1986F)",lung adenocarcinoma,LORLATINIB,LORLATINIB,SENSITIVE,C,3,8783f471843a,ALL,,1
+CGI,SMARCA1,SMARCA1 oncogenic mutation,cancer,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,D,2,7870f1af3321,ALL,,1
+CGI,SMO,"SMO (D473H,D473G,W535L,L412F,W281C,Q477E,G497W)",skin basal cell carcinoma,VISMODEGIB,VISMODEGIB,RESISTANT,C,3,5ad27d615de3,ALL,,1
+CGI,STK11,STK11 oncogenic mutation,lung adenocarcinoma,PHENFORMIN,PHENFORMIN,SENSITIVE,D,2,3f97e86e6f9c,ALL,,1
+CGI,STK11,STK11 oncogenic mutation,lung adenocarcinoma,2-Butanone,2-Butanone,SENSITIVE,D,2,57e1d52375fc,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,exocrine pancreatic carcinoma,10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),SENSITIVE,C,3,8afd8a46ba1b,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,cutaneous melanoma,GILVETMAB,GILVETMAB,SENSITIVE,C,3,fca0abbad718,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,ovarian cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,a7fceb47ac49,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,Thyroid;Glioma;Lung;Ovary;Breast adenocarcinoma;Any cancer type;Endometrium,PI3k,PI3k,SENSITIVE,D,2,f34bbc62f72e,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,ovarian cancer,PARP inhibitor + Chemotherapys,PARP inhibitor + Chemotherapys,SENSITIVE,C,3,f317aa1055c7,ALL,,1
+CGI,BRCA1,BRCA1 deletion,ovarian cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,710fb8a7b9a0,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,breast adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,b2c84a218827,ALL,,1
+CGI,CA9,CA9 overexpression,Renal,SUNITINIB,SUNITINIB,SENSITIVE,D,2,4d5423b46b6e,ALL,,1
+CGI,CCND1,CCND1 amplification,medulloblastoma,DIOXOSULFIDOMOLYBDENUM(VI) ION,DIOXOSULFIDOMOLYBDENUM(VI) ION,RESISTANT,D,2,5898ff570a8b,ALL,,1
+CGI,CCND1,CCND1 amplification,cutaneous melanoma,CDK4,CDK4,SENSITIVE,C,3,89e408ee290c,ALL,,1
+CGI,CDK4,CDK4 amplification + RB1 expression,liposarcoma,CDK4,CDK4,SENSITIVE,C,3,83b7d1b8b0d1,ALL,,1
+CGI,CDK6,CDK6 amplification,Liposarcoma;Lymphoma;Any cancer type,Ribociclib,Ribociclib,SENSITIVE,C,3,cd8da3f82e90,ALL,,1
+CGI,CDKN1A,CDKN1A oncogenic mutation,cancer,CDK2,CDK2,SENSITIVE,D,2,5b194b5685bd,ALL,,1
+CGI,CDKN1B,CDKN1B oncogenic mutation,cancer,CDK2,CDK2,SENSITIVE,D,2,fc43a8fc1c4a,ALL,,1
+CGI,CDKN2C,CDKN2C deletion,Glioma;Any cancer type,CDK2,CDK2,SENSITIVE,D,2,028190a1fecf,ALL,,1
+CGI,CRBN,CRBN oncogenic mutation,myeloid neoplasm,LENALIDOMIDE,LENALIDOMIDE,RESISTANT,C,3,79d9b7af68ab,ALL,,1
+CGI,CRBN,"CRBN (Q100*,R283K)",myeloid neoplasm,LENALIDOMIDE,LENALIDOMIDE,RESISTANT,C,3,400d3d97f30f,ALL,,1
+CGI,CRBN,"CRBN (Q100*,R283K)",myeloid neoplasm,POMALIDOMIDE,POMALIDOMIDE,RESISTANT,C,3,369ed64fbbc5,ALL,,1
+CGI,CSF1R,CSF1R (Y571D),Myelodisplasic proliferative syndrome,Imatinib,Imatinib,SENSITIVE,D,2,468cc9beaca1,ALL,,1
+CGI,CSF3R,"CSF3R frameshift variant (D771),frameshift variant (S783)",atypical chronic myeloid leukemia,DASATINIB,DASATINIB,SENSITIVE,D,2,9dcbc68eaca9,ALL,,1
+CGI,DDR2,DDR2 (S768R),squamous cell lung carcinoma,Erlotinib,Erlotinib,SENSITIVE,C,3,6ed858fbddbe,ALL,,1
+CGI,EGFR,EGFR exon 19 insertions,lung cancer,Erlotinib,Erlotinib,SENSITIVE,C,3,aac2bb964e23,ALL,,1
+CGI,EGFR,EGFR exon 19 insertions,lung cancer,hsp90,hsp90,SENSITIVE,C,3,4c41db4bd07e,ALL,,1
+CGI,EGFR,EGFR exon 20 insertions,lung cancer,1ST,1ST,RESISTANT,B,4,6802fdcfdc7e,ALL,,1
+CGI,EGFR,EGFR (L718),lung cancer,OSIMERTINIB,OSIMERTINIB,RESISTANT,C,3,51235d0549e5,ALL,,1
+CGI,EGFR,EGFR (L792),lung cancer,OSIMERTINIB,OSIMERTINIB,RESISTANT,C,3,73f1e020153e,ALL,,1
+CGI,EGFR,"EGFR (L858R,L861,G719,S768I)",non-small cell lung carcinoma,Erlotinib,Erlotinib,SENSITIVE,A,5,65691878dcdf,ALL,,1
+CGI,EGFR,"EGFR (L861Q,G719A,G719S,G719C,G719D,L747S,S768I,L861P,L861Q,L861R)",non-small cell lung carcinoma,AFATINIB,AFATINIB,SENSITIVE,A,5,5e38bdd734ac,ALL,,1
+CGI,EGFR,EGFR (T790M),non-small cell lung carcinoma,OSIMERTINIB,OSIMERTINIB,SENSITIVE,A,5,33ac2e3ff2f8,ALL,,1
+CGI,EGFR,EGFR (T790M),lung cancer,hsp90,hsp90,SENSITIVE,C,3,a71bec93901d,ALL,,1
+CGI,EGFR,EGFR amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,SENSITIVE,B,4,6ff9f246c9f8,ALL,,1
+CGI,EGFR,EGFR overexpression,colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,RESISTANT,A,5,f2a79a6b03ec,ALL,,1
+CGI,EGFR,EGFR overexpression,colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,SENSITIVE,A,5,200dad7d0227,ALL,,1
+CGI,EPHA2,EPHA2 amplification,cancer,DASATINIB,DASATINIB,SENSITIVE,D,2,7dcc6cde41c0,ALL,,1
+CGI,ERBB2,ERBB2 proximal exon 20,lung adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,C,3,98822d0de966,ALL,,1
+CGI,ERBB2,"ERBB2 (D769Y,D769H,R896C,G309E,S310F,S310Y,C311R)",Breast adenocarcinoma;Any cancer type,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,D,2,f08a167e444b,ALL,,1
+CGI,ERBB2,"ERBB2 (D769Y,D769H,R896C,V777L,V842I,G309A)",breast adenocarcinoma,Lapatinib,Lapatinib,SENSITIVE,D,2,15e2364ff035,ALL,,1
+CGI,ERBB2,ERBB2 (K753E),breast adenocarcinoma,Lapatinib,Lapatinib,RESISTANT,D,2,4bf11e90c319,ALL,,1
+CGI,ERBB2,ERBB2 (K753E),breast adenocarcinoma,NERATINIB,NERATINIB,SENSITIVE,D,2,48da98a3fd1b,ALL,,1
+CGI,ERBB2,ERBB2 (T798I),breast adenocarcinoma,NERATINIB,NERATINIB,RESISTANT,C,3,318cfd7fac42,ALL,,1
+CGI,ERBB2,ERBB2 (V659E),Breast adenocarcinoma;Lung adenocarcinoma,Lapatinib,Lapatinib,SENSITIVE,C,3,709b4abe4507,ALL,,1
+CGI,ERBB2,ERBB2 amplification,gastric carcinoma,AFATINIB,AFATINIB,SENSITIVE,C,3,bdffa385ec4a,ALL,,1
+CGI,ERBB2,ERBB2 amplification,breast adenocarcinoma,Lapatinib,Lapatinib,SENSITIVE,A,5,e68866b5f18d,ALL,,1
+CGI,ERBB2,ERBB2 amplification,breast adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,A,5,f9c079fb75e0,ALL,,1
+CGI,ERBB2,ERBB2 expression + ESR1 overexpression,breast adenocarcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,A,5,662d9ac8c71a,ALL,,1
+CGI,ERBB3,"ERBB3 (G284R,R103G)",childhood bladder carcinoma,AFATINIB,AFATINIB,SENSITIVE,C,3,5d0a2cd178f9,ALL,,1
+CGI,ERBB3,"ERBB3 (G284R,V104M,R103G)",childhood bladder carcinoma,AFATINIB,AFATINIB,SENSITIVE,C,3,878d7222678f,ALL,,1
+CGI,ERBB3,"ERBB3 (P262H,G284R)",cancer,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,SENSITIVE,D,2,6fa8eab6e5b9,ALL,,1
+CGI,ERBB3,"ERBB3 (P262H,G284R,Q809R)",cancer,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,D,2,5baa29572334,ALL,,1
+CGI,ERBB3,"ERBB3 (P262H,G284R,Q809R)",cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,bf7aae49e6ad,ALL,,1
+CGI,EREG,EREG amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,SENSITIVE,C,3,984e22f77f2e,ALL,,1
+CGI,ESR1,ESR1 oncogenic mutation,breast adenocarcinoma,Fulvestrant,Fulvestrant,SENSITIVE,B,4,50ac38001e96,ALL,,1
+CGI,FBXW7,FBXW7 oncogenic mutation,acute lymphoblastic leukemia,Steroids,Steroids,SENSITIVE,B,4,bcb6decb3e7e,ALL,,1
+CGI,FBXW7,FBXW7 deletion,colorectal adenocarcinoma,SIROLIMUS,SIROLIMUS,SENSITIVE,D,2,447cf8e8da0c,ALL,,1
+CGI,FGF4,FGF4 amplification,breast adenocarcinoma,LUCITANIB,LUCITANIB,SENSITIVE,C,3,678f2985f748,ALL,,1
+CGI,FGFR1,FGFR1 amplification,endometrial cancer,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,cbb889cc75ca,ALL,,1
+CGI,FGFR2,FGFR2 amplification,breast adenocarcinoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,ba2c37ba571b,ALL,,1
+CGI,FGFR2,FGFR2 fusion,biliary tract neoplasm,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,e383fd3a8456,ALL,,1
+CGI,FGFR3,FGFR3 fusion,childhood bladder carcinoma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,f15015bd0c8c,ALL,,1
+CGI,FLT3,FLT3 (D835),acute myeloid leukemia,LESTAURTINIB,LESTAURTINIB,SENSITIVE,C,3,c048f099c2e5,ALL,,1
+CGI,FLT3,FLT3 (N676),acute myeloid leukemia,CRENOLANIB,CRENOLANIB,SENSITIVE,D,2,13e9dc62d01a,ALL,,1
+CGI,FLT3,FLT3 (N676),acute myeloid leukemia,MIDOSTAURIN,MIDOSTAURIN,SENSITIVE,D,2,398903bbf700,ALL,,1
+CGI,GNA11,"GNA11 (Q209L,Q209P)",cutaneous melanoma,SELUMETINIB,SELUMETINIB,SENSITIVE,C,3,5833adf8fc9e,ALL,,1
+CGI,HDAC2,HDAC2 biallelic inactivation,prostate adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,037534827f78,ALL,,1
+CGI,HRAS,HRAS oncogenic mutation,uterine cervix neoplasm,2-Butanone,2-Butanone,SENSITIVE,D,2,5d49fc1bd725,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,non-small cell lung carcinoma,EGFR,EGFR,RESISTANT,D,2,530d899db679,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,RESISTANT,B,4,7c6c20c04ce6,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,endometrial cancer,PI3k,PI3k,RESISTANT,D,2,91946620c72d,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,exocrine pancreatic carcinoma,Gemcitabine,Gemcitabine,SENSITIVE,C,3,1373f259f046,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,CDK4,CDK4,SENSITIVE,D,2,922760150169,ALL,,1
+CGI,ABL1,ABL1 (T315I),"chronic myelogenous leukemia, BCR-ABL1 positive",PONATINIB,PONATINIB,SENSITIVE,A,5,8966c797fc79,ALL,,1
+CGI,ABL1,ABL1 (V299L),cancer,CRIZOTINIB,CRIZOTINIB,SENSITIVE,D,2,6e51854c35fc,ALL,,1
+CGI,ABL1,ABL1 (V299L),cancer,VANDETANIB,VANDETANIB,SENSITIVE,D,2,a0e7079e79bc,ALL,,1
+CGI,ABL1,ABL1-BCR fusion,Chronic myeloid leukemia;Acute lymphoblastic leukemia,DASATINIB,DASATINIB,SENSITIVE,A,5,07fb37600838,ALL,,1
+CGI,ABL1,ABL1-BCR fusion,"chronic myelogenous leukemia, BCR-ABL1 positive",NILOTINIB,NILOTINIB,SENSITIVE,A,5,aa5cf113d2f3,ALL,,1
+CGI,AKT1,AKT1 (E17K),cancer,10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),SENSITIVE,D,2,81f179204b57,ALL,,1
+CGI,AKT1,AKT1 (E17K),cancer,Decanoic acid,Decanoic acid,SENSITIVE,C,3,c3ad4f772b66,ALL,,1
+CGI,ALK,ALK (L1196M),lung adenocarcinoma,BRIGATINIB,BRIGATINIB,SENSITIVE,C,3,6eaddb52c216,ALL,,1
+CGI,ALK,ALK (L1198F),lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,6db1e8886fad,ALL,,1
+CGI,ALK,"ALK (R1275Q,G1128A,I1171N,R1192P,F1245C)",malignant glioma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,D,2,f31cf35983eb,ALL,,1
+CGI,ALK,ALK amplification,lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,RESISTANT,C,3,492e1586959a,ALL,,1
+CGI,ALK,ALK fusion,Non-small cell lung;Lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,A,5,d524fdf00ed2,ALL,,1
+CGI,ALK,ALK fusion,Lymphoma;Glioblastoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,3c29ba53500c,ALL,,1
+CGI,ALK,ALK fusion,Colorectal adenocarcinoma;Inflammatory myofibroblastic,CERITINIB,CERITINIB,SENSITIVE,C,3,049008449c99,ALL,,1
+CGI,ALK,ALK fusion,colorectal adenocarcinoma,alanylleucyllysine,alanylleucyllysine,SENSITIVE,C,3,5a84be9d0d6b,ALL,,1
+CGI,ALK,ALK fusion,lung adenocarcinoma,hsp90,hsp90,SENSITIVE,C,3,d3520fdfc71f,ALL,,1
+CGI,ALK,ALK fusion,non-small cell lung carcinoma,BRIGATINIB,BRIGATINIB,SENSITIVE,A,5,5b8025ca12d3,ALL,,1
+CGI,ALK,ALK fusion,non-small cell lung carcinoma,LORLATINIB,LORLATINIB,SENSITIVE,C,3,a22553e3d774,ALL,,1
+CGI,AR,AR (F877L),"prostate adenocarcinoma,prostate cancer",ENZALUTAMIDE,ENZALUTAMIDE,RESISTANT,C,3,b8807a2d36e1,ALL,,1
+CGI,ARAF,ARAF oncogenic mutation,colorectal adenocarcinoma,2-Butanone,2-Butanone,RESISTANT,C,3,ba147e4068bd,ALL,,1
+CGI,ARID1A,ARID1A oncogenic mutation,cancer,ATR,ATR,SENSITIVE,D,2,319772d5b814,ALL,,1
+CGI,ARID1A,ARID1A oncogenic mutation,cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,859b1f01648c,ALL,,1
+CGI,ARID1A,ARID1A oncogenic mutation + ANXA1 overexpression,breast adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,RESISTANT,C,3,5b2dc5e0e589,ALL,,1
+CGI,ATM,ATM oncogenic mutation,malignant glioma,TEMOZOLOMIDE,TEMOZOLOMIDE,SENSITIVE,D,2,0efb314201ee,ALL,,1
+CGI,ATM,ATM oncogenic mutation,gastric carcinoma,PARP inhibitors,PARP inhibitors,SENSITIVE,C,3,96ecb374c661,ALL,,1
+CGI,ATM,ATM deletion,"childhood bladder carcinoma,childhood bladder carcinoma",CISPLATIN,CISPLATIN,SENSITIVE,C,3,be6025185070,ALL,,1
+CGI,ATR,ATR oncogenic mutation,Ovary;Any cancer type,OLAPARIB,OLAPARIB,SENSITIVE,D,2,5dd93cddd61f,ALL,,1
+CGI,AURKA,AURKA amplification,Prostate adenocarcinoma;Any cancer type,AURK inhibitors,AURK inhibitors,SENSITIVE,D,2,56ca35f3dca8,ALL,,1
+CGI,BAP1,BAP1 deletion,cutaneous melanoma,HDAC inhibitors,HDAC inhibitors,SENSITIVE,D,2,5f35ca4c239a,ALL,,1
+CGI,BRAF,"BRAF inframe deletion (L485),inframe deletion (P490)",cancer,VEMURAFENIB,VEMURAFENIB,RESISTANT,D,2,011c48862931,ALL,,1
+CGI,BRAF,BRAF (V600),colorectal adenocarcinoma,VEMURAFENIB,VEMURAFENIB,RESISTANT,C,3,136a062c7544,ALL,,1
+CGI,BRAF,BRAF (V600E),colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,RESISTANT,B,4,43285477f15b,ALL,,1
+CGI,BRAF,BRAF (V600E),Pediatric glioma,SELUMETINIB,SELUMETINIB,SENSITIVE,C,3,6202a1f72cd6,ALL,,1
+CGI,BRAF,BRAF (V600E),lung adenocarcinoma,DABRAFENIB,DABRAFENIB,SENSITIVE,A,5,308ae177959c,ALL,,1
+CGI,BRAF,BRAF (V600E),cutaneous melanoma,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,D,2,d42a126a8247,ALL,,1
+CGI,BRAF,"BRAF (V600E,V600K)",cutaneous melanoma,DABRAFENIB,DABRAFENIB,SENSITIVE,A,5,52a5be696d94,ALL,,1
+CGI,IDH1,IDH1 (R132),cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,5d763b3d5c46,ALL,,1
+CGI,IDH2,IDH2 oncogenic mutation,acute myeloid leukemia,VENETOCLAX,VENETOCLAX,SENSITIVE,C,3,ead19ce15ffc,ALL,,1
+CGI,INPP4B,INPP4B oncogenic mutation,breast adenocarcinoma,PI3k,PI3k,SENSITIVE,D,2,e503f32671e5,ALL,,1
+CGI,JAK2,JAK2 (V617F),acute myeloid leukemia,RUXOLITINIB,RUXOLITINIB,SENSITIVE,C,3,28e35e30b5e4,ALL,,1
+CGI,JAK3,"JAK3 (R657Q,I87T,Q501H)",Megakaryoblastic leukemia,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,47844983f1ea,ALL,,1
+CGI,KIT,"KIT mutation in exon 9,11,13,14 or 17",gastrointestinal stromal tumor,SUNITINIB,SUNITINIB,SENSITIVE,A,5,97a5ae355166,ALL,,1
+CGI,KIT,"KIT mutation in exon 9,11,13,14 or 17",cutaneous melanoma,NILOTINIB,NILOTINIB,SENSITIVE,C,3,f223a1c98ee9,ALL,,1
+CGI,KIT,"KIT mutation in exon 9,11,13,14 or 17",cutaneous melanoma,SUNITINIB,SUNITINIB,SENSITIVE,B,4,9e92ff9fbd94,ALL,,1
+CGI,KIT,"KIT (627-664,664-714,449-514)",gastrointestinal stromal tumor,Imatinib,Imatinib,RESISTANT,B,4,4dd0eb855904,ALL,,1
+CGI,KIT,KIT mutation in exon 17,gastrointestinal stromal tumor,Sorafenib,Sorafenib,SENSITIVE,D,2,9f454e3ef077,ALL,,1
+CGI,KIT,KIT (D816),Gastrointestinal stromal;Myelodisplasic syndrome;Myelodisplasic proliferative syndrome;Hyper eosinophilic advanced snydrome;Eosinophilic chronic leukemia;Chronic myeloid leukemia;Acute lymphoblastic leukemia;Systemic mastocytosis,Imatinib,Imatinib,RESISTANT,A,5,be23b5f465eb,ALL,,1
+CGI,KIT,KIT (D816V),systemic mastocytosis,DASATINIB,DASATINIB,SENSITIVE,C,3,5ff4768697c2,ALL,,1
+CGI,KIT,KIT (N822K),acute myeloid leukemia,DASATINIB,DASATINIB,SENSITIVE,D,2,621b768f4a32,ALL,,1
+CGI,KIT,KIT amplification,cutaneous melanoma,Imatinib,Imatinib,RESISTANT,C,3,af78acf1344b,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,childhood bladder carcinoma,Gemcitabine,Gemcitabine,SENSITIVE,D,2,452aca7fa60b,ALL,,1
+CGI,TP53,"TP53 (R248Q,R175H)",cancer,hsp90,hsp90,SENSITIVE,D,2,fbf91b478a69,ALL,,1
+CGI,TP53,TP53 deletion,Thymic,PRAMLINTIDE,PRAMLINTIDE,SENSITIVE,D,2,8242b8d98465,ALL,,1
+CGI,PALB2,PALB2 deletion,exocrine pancreatic carcinoma,mitomycin C,mitomycin C,SENSITIVE,C,3,df24df600f8c,ALL,,1
+CGI,PBRM1,PBRM1 oncogenic mutation,cancer,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,D,2,c04c892ef597,ALL,,1
+CGI,PDGFB,PDGFB-COL1A1 fusion,dermatofibrosarcoma protuberans,Imatinib,Imatinib,SENSITIVE,A,5,668bac366aa6,ALL,,1
+CGI,PDGFRA,PDGFRA wildtype,gastrointestinal stromal tumor,SUNITINIB,SUNITINIB,SENSITIVE,B,4,36d4a400b070,ALL,,1
+CGI,PDGFRA,"PDGFRA (P577S,R841K,H845Y,G853D)",cutaneous melanoma,Imatinib,Imatinib,SENSITIVE,D,2,0daecb561712,ALL,,1
+CGI,PDGFRA,PDGFRA-FIP1L1 fusion,Hyper eosinophilic advanced snydrome;Eosinophilic chronic leukemia,Imatinib,Imatinib,SENSITIVE,A,5,616ecf4b27e9,ALL,,1
+CGI,PDPK1,PDPK1 amplification,breast adenocarcinoma,PI3k,PI3k,SENSITIVE,D,2,44ce975c38f3,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,lung cancer,PI3k,PI3k,RESISTANT,C,3,ae42cf2b7000,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,breast adenocarcinoma,10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),SENSITIVE,C,3,7411b516aca3,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,Breast adenocarcinoma;Ovary;Cervix squamous cell;Endometrium,PI3k,PI3k,SENSITIVE,C,3,5e12b72e22fc,ALL,,1
+CGI,PIK3CA,PIK3CA amplification,breast adenocarcinoma,PI3k,PI3k,RESISTANT,D,2,b936559a93ef,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,prostate adenocarcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,c38ab6fedf65,ALL,,1
+CGI,TSC1,TSC1 oncogenic mutation,Sarcoma;Stomach,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,838f5b3b557f,ALL,,1
+CGI,TSC1,TSC1 oncogenic mutation,kidney angiomyolipoma,MTOR inhibitors,MTOR inhibitors,SENSITIVE,C,3,81f292442323,ALL,,1
+CGI,TSC2,TSC2 oncogenic mutation,kidney angiomyolipoma,MTOR inhibitors,MTOR inhibitors,SENSITIVE,C,3,70291b2068d2,ALL,,1
+CGI,VHL,VHL oncogenic mutation,Renal,Sorafenib,Sorafenib,SENSITIVE,D,2,c80d1aa9a3c4,ALL,,1
+CGI,ZBTB16,ZBTB16 undexpression,"prostate adenocarcinoma,PR",Dirigestran,Dirigestran,RESISTANT,D,2,c2d0a4a64db9,ALL,,1
+CGI,KRAS,KRAS (G12),acute lymphoblastic leukemia,2-Butanone,2-Butanone,SENSITIVE,D,2,8f9bf995bd7a,ALL,,1
+CGI,KRAS,KRAS amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,C,3,ce6b5658b3cc,ALL,,1
+CGI,LRP1B,LRP1B deletion,ovarian cancer,Doxorubicin,Doxorubicin,RESISTANT,C,3,231486ceac03,ALL,,1
+CGI,MAP2K1,MAP2K1 inframe deletion (56-60),ovarian cancer,SELUMETINIB,SELUMETINIB,SENSITIVE,C,3,70add4bb1b63,ALL,,1
+CGI,MAP2K1,MAP2K1 (P124),cutaneous melanoma,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,D,2,5554ae603738,ALL,,1
+CGI,MAP2K2,MAP2K2 (Q60P),cutaneous melanoma,2-Butanone,2-Butanone,RESISTANT,C,3,733cd969af65,ALL,,1
+CGI,MDM2,MDM2 amplification,Male germ cell tumor,CISPLATIN,CISPLATIN,RESISTANT,C,3,d01ef4fcace5,ALL,,1
+CGI,MDM4,MDM4 amplification,sarcoma,MDM2,MDM2,SENSITIVE,D,2,d8e6e95f315f,ALL,,1
+CGI,MET,MET (D1246V),lung adenocarcinoma,MET,MET,RESISTANT,C,3,55a7742dafdd,ALL,,1
+CGI,MET,MET (H1112R),Renal,MET,MET,SENSITIVE,C,3,5b9b98ab9ad0,ALL,,1
+CGI,MET,MET (Y1230C;Y1235D),cancer,CRIZOTINIB,CRIZOTINIB,RESISTANT,D,2,ed315694a56e,ALL,,1
+CGI,MET,MET amplification,Hepatic carcinoma,MET,MET,SENSITIVE,C,3,19da23f73828,ALL,,1
+CGI,MET,MET amplification + BRAF (V600E),colorectal adenocarcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,bf7550928c49,ALL,,1
+CGI,MET,MET amplification + ERBB2 amplification,gastric carcinoma,Lapatinib,Lapatinib,RESISTANT,D,2,8e8fbd17afe4,ALL,,1
+CGI,MET,MET amplification + ERBB2 amplification,breast adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,RESISTANT,C,3,5a62c031cb95,ALL,,1
+CGI,MET,MET amplification + ERBB2 amplification,Breast adenocarcinoma;Stomach,TRASTUZUMAB,TRASTUZUMAB,RESISTANT,C,3,76a8ef4b240a,ALL,,1
+CGI,MITF,MITF amplification,cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,d5c6a90422fd,ALL,,1
+CGI,MSH3,MSH3 oncogenic mutation,cancer,DNAn,DNAn,SENSITIVE,D,2,c59f5a1b7361,ALL,,1
+CGI,MTOR,"MTOR (L1460P,S2215Y,R2505P)",cancer,SIROLIMUS,SIROLIMUS,SENSITIVE,D,2,536dafe78095,ALL,,1
+CGI,MYC,MYC amplification,neuroblastoma,FACT inhibitors,FACT inhibitors,SENSITIVE,D,2,615b89063b66,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,EVEROLIMUS,EVEROLIMUS,RESISTANT,C,3,f4931a073305,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,pediatric osteosarcoma,TRAMETINIB,TRAMETINIB,RESISTANT,C,3,5bc1acbe49d5,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,plexiform neurofibroma,SIROLIMUS,SIROLIMUS,SENSITIVE,C,3,73c8bf7ba0a3,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant glioma,TRAMETINIB,TRAMETINIB,SENSITIVE,C,3,4934f5c1789f,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,Glioma;Leukemia,2-Butanone,2-Butanone,SENSITIVE,D,2,031b9fee7f5a,ALL,,1
+CGI,NF1,NF1 (D1644A),Head an neck,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,b4525bf8f6a8,ALL,,1
+CGI,NF1,NF1 deletion,plexiform neurofibroma,TIPIFARNIB,TIPIFARNIB,RESISTANT,C,3,3ddbd51e2e1b,ALL,,1
+CGI,NF1,NF1 deletion,malignant glioma,BEVACIZUMAB,BEVACIZUMAB,SENSITIVE,C,3,0ee3611f85b6,ALL,,1
+CGI,NF1,NF1 deletion,plexiform neurofibroma,Imatinib,Imatinib,SENSITIVE,C,3,cc973d0af689,ALL,,1
+CGI,NF1,NF1 deletion,malignant peripheral nerve sheath tumor,Tamoxifen,Tamoxifen,SENSITIVE,D,2,71420f7fbfa7,ALL,,1
+CGI,NF1,NF1 deletion,malignant glioma,TRAMETINIB,TRAMETINIB,SENSITIVE,C,3,6f2cf2e483ba,ALL,,1
+CGI,NF1,NF1 deletion,malignant peripheral nerve sheath tumor,hsp90,hsp90,SENSITIVE,D,2,224ddc444057,ALL,,1
+CGI,NF1,NF1 deletion,cutaneous melanoma,GILVETMAB,GILVETMAB,SENSITIVE,C,3,08f6024e7918,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,schwannoma,BEVACIZUMAB,BEVACIZUMAB,SENSITIVE,C,3,c08b971c46fa,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,Schwannoma;Meningioma,prolylalanyllysine,prolylalanyllysine,SENSITIVE,D,2,c7a282371cc7,ALL,,1
+CGI,NF2,NF2 deletion,benign mesothelioma,Phe-ala-lys,Phe-ala-lys,SENSITIVE,C,3,957d635d90da,ALL,,1
+CGI,NF2,NF2 deletion,Mesothelioma;Ovary,Phe-ala-lys,Phe-ala-lys,SENSITIVE,D,2,5959c3f35d96,ALL,,1
+CGI,NF2,NF2 deletion,thyroid cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,1b4a7c56cca8,ALL,,1
+CGI,NF2,NF2 deletion,pediatric meningioma,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,483a757789ee,ALL,,1
+CGI,NF2,NF2 deletion,schwannoma,PDK1,PDK1,SENSITIVE,D,2,77e670d190c7,ALL,,1
+CGI,NOTCH2,NOTCH2 activating mutation (missense in TAD or truncating in Cterm-PEST domain),cancer,ROSMANTUZUMAB,ROSMANTUZUMAB,SENSITIVE,C,3,5c435cf8cd37,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,cutaneous melanoma,2-Butanone,2-Butanone,SENSITIVE,C,3,e394b96fdec5,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,cutaneous melanoma,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,C,3,33420f18a585,ALL,,1
+CGI,NTRK1,NTRK1 fusion,lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,95c411c61d99,ALL,,1
+CGI,NTRK3,NTRK3 (G623R),cancer,LAROTRECTINIB,LAROTRECTINIB,RESISTANT,D,2,d7ee1ab795c5,ALL,,1
+CGI,NTRK3,NTRK3 fusion,breast adenocarcinoma,MIDOSTAURIN,MIDOSTAURIN,SENSITIVE,D,2,95d39ba57a0c,ALL,,1
+CGI,NTRK3,NTRK3 fusion,breast adenocarcinoma,PI3k,PI3k,SENSITIVE,D,2,d28a5b1283ff,ALL,,1
+CGI,PALB2,PALB2 oncogenic mutation,exocrine pancreatic carcinoma,Platinum,Platinum,SENSITIVE,C,3,3baeeb6640ea,ALL,,1
+CGI,STK11,STK11 oncogenic mutation + KRAS oncogenic mutation,lung adenocarcinoma,GILVETMAB,GILVETMAB,RESISTANT,C,3,4f4cd7647246,ALL,,1
+CGI,STK11,STK11 (D194E),exocrine pancreatic carcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,65ab9aa2eb0c,ALL,,1
+CGI,SUZ12,SUZ12 oncogenic mutation,cancer,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,SENSITIVE,D,2,5937543e0d17,ALL,,1
+CGI,SUZ12,SUZ12 deletion,cancer,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,SENSITIVE,D,2,40fa3f36ea02,ALL,,1
+CGI,RAF1,RAF1 fusion,prostate adenocarcinoma,RAFFINOSE,RAFFINOSE,SENSITIVE,D,2,130a4bc4c77d,ALL,,1
+CGI,RET,RET fusion,lung adenocarcinoma,retinal,retinal,SENSITIVE,D,2,5bb66db873be,ALL,,1
+CGI,RICTOR,RICTOR amplification,lung cancer,MTORC1/2 inhibitors,MTORC1/2 inhibitors,SENSITIVE,C,3,a5352ec52b61,ALL,,1
+CGI,ROS1,ROS1 fusion,non-small cell lung carcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,A,5,2664b71e7c66,ALL,,1
+CGI,ROS1,ROS1 fusion,Inflammatory myofibroblastic,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,27de42098866,ALL,,1
+CGI,SF3B1,"SF3B1 (K700E,K666N)",cancer,Spliceosome inhibitors,Spliceosome inhibitors,SENSITIVE,D,2,5d89a5304021,ALL,,1
+CGI,SH2B3,SH2B3 deletion,Myelodisplasic proliferative syndrome,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,4ff0e027a697,ALL,,1
+CGI,SMARCB1,SMARCB1 oncogenic mutation,rhabdoid tumor,HDAC inhibitors,HDAC inhibitors,SENSITIVE,D,2,09b8e79f55b4,ALL,,1
+CGI,SMO,SMO (P641A),lung cancer,VISMODEGIB,VISMODEGIB,SENSITIVE,C,3,3d58c80871e1,ALL,,1
+CGI,CDKN2A,CDKN2A deletion,Glioma;Any cancer type,CDK4,CDK4,SENSITIVE,D,2,c09fc142ebd4,ALL,,1
+CGI,CDKN2B,CDKN2B deletion,Glioma;Any cancer type,CDK4,CDK4,SENSITIVE,D,2,91b8f06003b7,ALL,,1
+CGI,CDKN2C,CDKN2C oncogenic mutation,Glioma;Any cancer type,CDK2,CDK2,SENSITIVE,D,2,7a5c8ad1b40c,ALL,,1
+CGI,CHEK2,CHEK2 deletion,prostate adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,64690b82931c,ALL,,1
+CGI,CRBN,CRBN undexpression,myeloid neoplasm,LENALIDOMIDE,LENALIDOMIDE,RESISTANT,C,3,2e9bc31fcf84,ALL,,1
+CGI,CRBN,CRBN undexpression,myeloid neoplasm,POMALIDOMIDE,POMALIDOMIDE,RESISTANT,C,3,957c9d3a2971,ALL,,1
+CGI,CRLF2,CRLF2 fusion,acute lymphoblastic leukemia,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,SENSITIVE,D,2,6bb148e703a4,ALL,,1
+CGI,CYP17A1,CYP17A1 expression,"prostate adenocarcinoma,prostate cancer",ABIRATERONE,ABIRATERONE,SENSITIVE,C,3,f16b3fa24d1b,ALL,,1
+CGI,EGFR,EGFR inframe deletion (6-273),classical glioblastoma,RINDOPEPIMUT,RINDOPEPIMUT,SENSITIVE,B,4,714073c44e5a,ALL,,1
+CGI,EGFR,EGFR (C797S),lung cancer,OSIMERTINIB,OSIMERTINIB,RESISTANT,C,3,be8bfdfdef65,ALL,,1
+CGI,EGFR,"EGFR (K757R,E746G)",lung cancer,Erlotinib,Erlotinib,SENSITIVE,C,3,2607b5fdef63,ALL,,1
+CGI,EGFR,EGFR (L858R),non-small cell lung carcinoma,Erlotinib,Erlotinib,SENSITIVE,A,5,7e78a0a8fa9b,ALL,,1
+CGI,EGFR,"EGFR (L858R,L861Q,G719A,G719S,G719C,G719D,L747S,S768I,L861P,L861Q,L861R)",non-small cell lung carcinoma,AFATINIB,AFATINIB,SENSITIVE,A,5,e09acc29c255,ALL,,1
+CGI,EGFR,"EGFR (L858R,L861Q,G719A,G719S,G719C,G719D,L747S,S768I,L861P,L861R)",lung cancer,AFATINIB,AFATINIB,SENSITIVE,C,3,6a1cdb7040a3,ALL,,1
+CGI,EGFR,EGFR (P546S),Head an neck,CETUXIMAB,CETUXIMAB,SENSITIVE,C,3,6dcfe0c58cbc,ALL,,1
+CGI,EGFR,EGFR (T790M),lung cancer,AFATINIB,AFATINIB,SENSITIVE,C,3,d2383d464609,ALL,,1
+CGI,EGFR,EGFR amplification,Head an neck,GEFITINIB,GEFITINIB,RESISTANT,C,3,eb1256782767,ALL,,1
+CGI,ERBB2,ERBB2 oncogenic mutation,lung adenocarcinoma,NERATINIB,NERATINIB,SENSITIVE,C,3,ff65a50e2ce0,ALL,,1
+CGI,ERBB2,"ERBB2 inframe insertion (A775YVMA),inframe insertion (G776VC)",lung cancer,Ado,Ado,SENSITIVE,C,3,ed084ac65b2b,ALL,,1
+CGI,ERBB2,"ERBB2 (G309E,S310F,S310Y,C311R,E321G,C334S)",cancer,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,D,2,31432d572cd8,ALL,,1
+CGI,ERBB2,ERBB2 (L869R),breast adenocarcinoma,NERATINIB,NERATINIB,SENSITIVE,C,3,13cf45f86ce1,ALL,,1
+CGI,ERBB2,ERBB2 amplification,lung adenocarcinoma,OSIMERTINIB,OSIMERTINIB,RESISTANT,C,3,1843163843ab,ALL,,1
+CGI,ERBB2,ERBB2 amplification,breast adenocarcinoma,Ado,Ado,SENSITIVE,A,5,d33d8dca8f55,ALL,,1
+CGI,ERBB2,ERBB2 amplification,biliary tract neoplasm,PERTUZUMAB,PERTUZUMAB,SENSITIVE,C,3,73f49dc29254,ALL,,1
+CGI,ERBB2,ERBB2 amplification,gastric carcinoma,PERTUZUMAB,PERTUZUMAB,SENSITIVE,C,3,bb34944c8f86,ALL,,1
+CGI,ERBB2,ERBB2 amplification,Head an neck,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,C,3,16506c027b4e,ALL,,1
+CGI,ERBB2,ERBB2 amplification,breast adenocarcinoma,ERBB2,ERBB2,SENSITIVE,D,2,f36ab30a2a72,ALL,,1
+CGI,ERBB2,ERBB2 amplification,breast adenocarcinoma,PERTUZUMAB,PERTUZUMAB,SENSITIVE,A,5,50739a241230,ALL,,1
+CGI,ERBB3,"ERBB3 (P262H,G284R)",cancer,PERTUZUMAB,PERTUZUMAB,SENSITIVE,D,2,abf08c491981,ALL,,1
+CGI,ERCC1,ERCC1 deletion,lung cancer,CISPLATIN,CISPLATIN,SENSITIVE,D,2,21baad63b7ac,ALL,,1
+CGI,ERCC2,ERCC2 oncogenic mutation,childhood bladder carcinoma,CISPLATIN,CISPLATIN,SENSITIVE,C,3,892864c6dc4e,ALL,,1
+CGI,ESR1,"ESR1 (E380Q,537,538,L536,P535H)",breast adenocarcinoma,Tamoxifen,Tamoxifen,RESISTANT,C,3,9f7754421867,ALL,,1
+CGI,ESR1,ESR1-YAP1 fusion,breast adenocarcinoma,estrogen receptor 1,estrogen receptor 1,RESISTANT,D,2,9a17d540caab,ALL,,1
+CGI,FANCA,FANCA oncogenic mutation,prostate adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,5b0145b312e1,ALL,,1
+CGI,FANCA,FANCA deletion,prostate adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,9d1d6bad503f,ALL,,1
+CGI,FANCC,FANCC oncogenic mutation,"childhood bladder carcinoma,childhood bladder carcinoma",CISPLATIN,CISPLATIN,SENSITIVE,C,3,5d89e6a2127a,ALL,,1
+CGI,FANCC,FANCC deletion,"childhood bladder carcinoma,childhood bladder carcinoma",CISPLATIN,CISPLATIN,SENSITIVE,C,3,ff710c8637d0,ALL,,1
+CGI,FBXW7,FBXW7 oncogenic mutation,cancer,Tubulin inhibitors,Tubulin inhibitors,RESISTANT,D,2,e32415d67553,ALL,,1
+CGI,FBXW7,FBXW7 deletion,cancer,Tubulin inhibitors,Tubulin inhibitors,RESISTANT,D,2,4a48fd0cbcf5,ALL,,1
+CGI,FGFR1,FGFR1 amplification,breast adenocarcinoma,LUCITANIB,LUCITANIB,SENSITIVE,C,3,a6e92522fa66,ALL,,1
+CGI,FGFR3,"FGFR3 (K650,Y373C)",myeloid neoplasm,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,3015580ffd5e,ALL,,1
+CGI,FGFR3,FGFR3 (V555M),myeloid neoplasm,FGFR inhibitors,FGFR inhibitors,RESISTANT,D,2,b726c56c785f,ALL,,1
+CGI,FLCN,FLCN oncogenic mutation,Renal,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,9ae92ea6abda,ALL,,1
+CGI,FLT3,FLT3-ITD,acute myeloid leukemia,QUIZARTINIB,QUIZARTINIB,SENSITIVE,C,3,61f78090ebeb,ALL,,1
+CGI,FLT3,FLT3-ITD,acute myeloid leukemia,FLT3,FLT3,SENSITIVE,C,3,a652b6d40434,ALL,,1
+CGI,FLT3,"FLT3 (F691,D835,N676,Y842)",acute myeloid leukemia,QUIZARTINIB,QUIZARTINIB,RESISTANT,D,2,a0dd2a2a382b,ALL,,1
+CGI,GATA3,GATA3 oncogenic mutation,breast adenocarcinoma,Aromatase,Aromatase,SENSITIVE,D,2,b2d524008e90,ALL,,1
+CGI,HGF,HGF amplification + ERBB2 amplification,breast adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,RESISTANT,C,3,f87520d0f2e6,ALL,,1
+CGI,HRAS,HRAS oncogenic mutation,acute myeloid leukemia,2-Butanone,2-Butanone,SENSITIVE,D,2,ba383cc251f5,ALL,,1
+CGI,HRAS,HRAS oncogenic mutation,Cervix squamous cell,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,2c2957288eff,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,exocrine pancreatic carcinoma,2-Butanone,2-Butanone,RESISTANT,C,3,c439c7dbb3eb,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,EGFR,EGFR,RESISTANT,A,5,e56e9924cac2,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,non-small cell lung carcinoma,SELUMETINIB,SELUMETINIB,SENSITIVE,C,3,52143d8a5eb9,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,Hepatic carcinoma,Sorafenib,Sorafenib,SENSITIVE,C,3,9b59e3f93222,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,SENSITIVE,D,2,1e5ccc7f88dd,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,Cervix squamous cell,2-Butanone,2-Butanone,SENSITIVE,D,2,861efe556edc,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,SENSITIVE,D,2,e462d5ae37fa,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,hsp90,hsp90,SENSITIVE,D,2,c96ce85f01bd,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,8f2d1235254f,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,Lung;Billiary tract,2-Butanone,2-Butanone,SENSITIVE,C,3,8eba73875e96,ALL,,1
+CGI,ABL1,ABL1 (T315I),"chronic myelogenous leukemia, BCR-ABL1 positive",BOSUTINIB MONOHYDRATE,BOSUTINIB MONOHYDRATE,RESISTANT,A,5,83eca1f77c46,ALL,,1
+CGI,ABL1,"ABL1 (V299L,T315A,F317L,F317V,F317I,F317C)","chronic myelogenous leukemia, BCR-ABL1 positive",DASATINIB,DASATINIB,RESISTANT,A,5,d212274b26a7,ALL,,1
+CGI,AKT1,AKT1 (E17K),endometrial cancer,Tensirolimus (MTOR inhibitor),Tensirolimus (MTOR inhibitor),SENSITIVE,C,3,ca1a2cd95bf1,ALL,,1
+CGI,ALK,ALK (C1156Y),lung adenocarcinoma,LORLATINIB,LORLATINIB,SENSITIVE,D,2,aeca6805d205,ALL,,1
+CGI,ALK,ALK (E1408V),lung adenocarcinoma,BRIGATINIB,BRIGATINIB,SENSITIVE,C,3,7ed42f456b56,ALL,,1
+CGI,ALK,ALK (F1174L),malignant glioma,CRIZOTINIB,CRIZOTINIB,RESISTANT,D,2,3819b1e71a60,ALL,,1
+CGI,ALK,"ALK (F856S,A348D)",acute myeloid leukemia,CRIZOTINIB,CRIZOTINIB,SENSITIVE,D,2,446b54389548,ALL,,1
+CGI,ALK,ALK amplification,non-small cell lung carcinoma,CRIZOTINIB,CRIZOTINIB,RESISTANT,D,2,b8b1765301af,ALL,,1
+CGI,ALK,ALK amplification,lung adenocarcinoma,BRIGATINIB,BRIGATINIB,SENSITIVE,C,3,26cb6b27b940,ALL,,1
+CGI,ALK,ALK fusion,Hematologic malignancies,CERITINIB,CERITINIB,SENSITIVE,C,3,e68e6269827d,ALL,,1
+CGI,ALK,ALK fusion,colorectal adenocarcinoma,1-(2-Pyridylazo)-2-naphthol,1-(2-Pyridylazo)-2-naphthol,SENSITIVE,C,3,50612897ec80,ALL,,1
+CGI,AR,"AR (L702H,T878A)",prostate adenocarcinoma,ABIRATERONE,ABIRATERONE,RESISTANT,C,3,3b2ba44a66d0,ALL,,1
+CGI,AR,AR (T878A),"prostate adenocarcinoma,prostate cancer",FLUTAMIDE,FLUTAMIDE,RESISTANT,C,3,a655a0e6d0f5,ALL,,1
+CGI,B2M,B2M oncogenic mutation,cutaneous melanoma,GILVETMAB,GILVETMAB,RESISTANT,C,3,9eeb1dbe410c,ALL,,1
+CGI,BAP1,BAP1 oncogenic mutation,cutaneous melanoma,HDAC inhibitors,HDAC inhibitors,SENSITIVE,D,2,cf946e7084c5,ALL,,1
+CGI,BRAF,BRAF (L597R),cutaneous melanoma,BRAF,BRAF,SENSITIVE,C,3,9fce37f3392a,ALL,,1
+CGI,BRAF,BRAF (V600),colorectal adenocarcinoma,Irinotecan,Irinotecan,SENSITIVE,C,3,24c8757bf18c,ALL,,1
+CGI,BRAF,BRAF (V600E),colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,B,4,679e10be86e2,ALL,,1
+CGI,BRAF,BRAF (V600E),cutaneous melanoma,VEMURAFENIB,VEMURAFENIB,SENSITIVE,A,5,cc1caf3f11c1,ALL,,1
+CGI,BRAF,BRAF (V600E),colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,SENSITIVE,C,3,0c52fef0ef39,ALL,,1
+CGI,BRAF,BRAF (V600E),Lung adenocarcinoma;Hairy-Cell leukemia;Myeloma,VEMURAFENIB,VEMURAFENIB,SENSITIVE,C,3,ecde843c4349,ALL,,1
+CGI,BRAF,BRAF (V600E),cutaneous melanoma,CDK2,CDK2,SENSITIVE,D,2,efa7f17ffbe5,ALL,,1
+CGI,BRAF,BRAF (V600E),anaplastic astrocytoma,PLX-4720,PLX-4720,SENSITIVE,D,2,b9527b334d90,ALL,,1
+CGI,BRAF,"BRAF (V600E,G469A)",lung adenocarcinoma,EGFR,EGFR,RESISTANT,C,3,ccab0345d1df,ALL,,1
+CGI,BRAF,BRAF fusion,Cutaneous melanoma;Lung adenocarcinoma;Prostate adenocarcinoma,Sorafenib,Sorafenib,SENSITIVE,D,2,fa207a49e26c,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,ovarian cancer,OLAPARIB,OLAPARIB,SENSITIVE,A,5,295e8dad759c,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,exocrine pancreatic carcinoma,Platinum,Platinum,SENSITIVE,C,3,2e1d7b02a2f8,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,ovarian cancer,Platinum,Platinum,SENSITIVE,B,4,1526e6d4aa2f,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,ovarian cancer,PARP inhibitor + Chemotherapys,PARP inhibitor + Chemotherapys,SENSITIVE,C,3,90781da34817,ALL,,1
+CGI,BRCA2,BRCA2 oncogenic mutation,prostate adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,6320105ff95f,ALL,,1
+CGI,CBL,"CBL (Y371H,C384R)",Myelodisplasic proliferative syndrome,DASATINIB,DASATINIB,SENSITIVE,D,2,6b8e14fdd05a,ALL,,1
+CGI,CCND2,CCND2 amplification,lung cancer,PALBOCICLIB,PALBOCICLIB,SENSITIVE,C,3,61ef1a7c0741,ALL,,1
+CGI,CD274,CD274 amplification,skin basal cell carcinoma,GILVETMAB,GILVETMAB,SENSITIVE,C,3,80347525b815,ALL,,1
+CGI,CD274,CD274 overexpression,"Cutaneous melanoma;Renal;Any cancer type,childhood bladder carcinoma",ATEZOLIZUMAB,ATEZOLIZUMAB,SENSITIVE,C,3,caefdb5aa6a2,ALL,,1
+CGI,CDK4,CDK4 amplification,lung cancer,PALBOCICLIB,PALBOCICLIB,RESISTANT,C,3,f1d2f0dbdca7,ALL,,1
+CGI,CDK6,CDK6 amplification,cancer,CDK6,CDK6,SENSITIVE,D,2,33184a2279fe,ALL,,1
+CGI,IDH1,IDH1 oncogenic mutation,cholangiocarcinoma,DASATINIB,DASATINIB,SENSITIVE,C,3,a7052cebd3de,ALL,,1
+CGI,IDH1,IDH1 oncogenic mutation,acute myeloid leukemia,Dichloroborane,Dichloroborane,SENSITIVE,D,2,1ac667dda5b1,ALL,,1
+CGI,IDH1,IDH1 oncogenic mutation,acute myeloid leukemia,IDH1,IDH1,SENSITIVE,C,3,c46e38b9cdad,ALL,,1
+CGI,IDH1,IDH1 (R132),biliary tract neoplasm,DASATINIB,DASATINIB,SENSITIVE,D,2,4cc419486362,ALL,,1
+CGI,IGF1R,IGF1R amplification,lung adenocarcinoma,Erlotinib,Erlotinib,RESISTANT,D,2,b8fc20849904,ALL,,1
+CGI,IGF2,IGF2 amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,C,3,55ff742ff032,ALL,,1
+CGI,IL7R,"IL7R inframe insertion (237-255),inframe deletion (237-255) + SH2B3 deletion",acute lymphoblastic leukemia,RUXOLITINIB,RUXOLITINIB,SENSITIVE,D,2,78535808ff9f,ALL,,1
+CGI,IL7R,"IL7R inframe insertion (237-255),inframe deletion (237-255) + SH2B3 deletion",acute lymphoblastic leukemia,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,e8d114cf8d82,ALL,,1
+CGI,IL7R,IL7R (S185C) + SH2B3 deletion,acute lymphoblastic leukemia,RUXOLITINIB,RUXOLITINIB,SENSITIVE,D,2,8437b17d21da,ALL,,1
+CGI,JAK1,JAK1 oncogenic mutation,colorectal adenocarcinoma,GILVETMAB,GILVETMAB,RESISTANT,C,3,c2bdabb5003e,ALL,,1
+CGI,JAK2,JAK2-BRAF fusion,acute lymphoblastic leukemia,RUXOLITINIB,RUXOLITINIB,SENSITIVE,D,2,1da626b66bb8,ALL,,1
+CGI,JAK3,"JAK3 (A572V,A573V)",lymphoma,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,d280bf074ed4,ALL,,1
+CGI,KIT,"KIT mutation in exon 9,11,13,14 or 17",cutaneous melanoma,Imatinib,Imatinib,SENSITIVE,B,4,2ba80a11db02,ALL,,1
+CGI,KIT,"KIT (550-592,627-664,788-828,829-860)",cutaneous melanoma,Sorafenib,Sorafenib,SENSITIVE,C,3,3141c3d8e8f5,ALL,,1
+CGI,KIT,KIT mutation in exon 17,gastrointestinal stromal tumor,Imatinib,Imatinib,RESISTANT,D,2,87f925780de0,ALL,,1
+CGI,KIT,KIT mutation in exon 17,gastrointestinal stromal tumor,SUNITINIB,SUNITINIB,RESISTANT,D,2,6c43d2c01bac,ALL,,1
+CGI,KIT,"KIT (788-828,829-860,550-592)",gastrointestinal stromal tumor,PONATINIB,PONATINIB,SENSITIVE,C,3,c81ba26566aa,ALL,,1
+CGI,KIT,KIT wildtype,gastrointestinal stromal tumor,Sorafenib,Sorafenib,SENSITIVE,C,3,55b002969666,ALL,,1
+CGI,KIT,KIT (D820Y),cutaneous melanoma,NILOTINIB,NILOTINIB,SENSITIVE,C,3,531aa63578e0,ALL,,1
+CGI,PTEN,PTEN deletion,cutaneous melanoma,GILVETMAB,GILVETMAB,SENSITIVE,C,3,17e5271ffb30,ALL,,1
+CGI,PTEN,PTEN deletion,prostate adenocarcinoma,PIK3CB,PIK3CB,SENSITIVE,C,3,6910b29058c6,ALL,,1
+CGI,PTPRD,PTPRD oncogenic mutation,sarcoma,IGF1R,IGF1R,SENSITIVE,C,3,d3badc93cd00,ALL,,1
+CGI,RAD51C,RAD51C oncogenic mutation,ovarian cancer,PARP inhibitors,PARP inhibitors,SENSITIVE,C,3,a336354e9371,ALL,,1
+CGI,RAF1,RAF1 fusion,prostate adenocarcinoma,Sorafenib,Sorafenib,SENSITIVE,D,2,82d60af2e554,ALL,,1
+CGI,RB1,RB1 oncogenic mutation,"childhood bladder carcinoma,childhood bladder carcinoma",CISPLATIN,CISPLATIN,SENSITIVE,C,3,7e7d7103d3f3,ALL,,1
+CGI,RB1,RB1 deletion,retinoblastoma,MDM2,MDM2,SENSITIVE,D,2,ad9d8377a24c,ALL,,1
+CGI,RET,RET fusion,lung adenocarcinoma,CABOZANTINIB,CABOZANTINIB,SENSITIVE,C,3,0fac4d950e36,ALL,,1
+CGI,RET,RET fusion,lung adenocarcinoma,SUNITINIB,SUNITINIB,SENSITIVE,C,3,2adf870cb2bc,ALL,,1
+CGI,ROS1,ROS1 fusion,lung adenocarcinoma,hsp90,hsp90,SENSITIVE,D,2,ac112f22a18d,ALL,,1
+CGI,SERPINB3,SERPINB3 oncogenic mutation,cutaneous melanoma,CTLA4,CTLA4,SENSITIVE,C,3,bc6e7fab0e76,ALL,,1
+CGI,SETD2,SETD2 oncogenic mutation,cancer,WEE1,WEE1,SENSITIVE,D,2,364bf7bd5351,ALL,,1
+CGI,SETD2,SETD2 deletion,cancer,WEE1,WEE1,SENSITIVE,D,2,cb98aa40044e,ALL,,1
+CGI,SLC29A1,SLC29A1 oncogenic mutation,"childhood bladder carcinoma,childhood bladder carcinoma",Gemcitabine,Gemcitabine,RESISTANT,D,2,95fc1d20cec5,ALL,,1
+CGI,SMARCA4,SMARCA4 deletion,ovarian cancer,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,C,3,3de095dbfbed,ALL,,1
+CGI,SMARCB1,SMARCB1 oncogenic mutation,rhabdoid tumor,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,C,3,118ca1278338,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,childhood bladder carcinoma,MITOMYCIN,MITOMYCIN,SENSITIVE,D,2,cc36d30fbe44,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,Head an neck,WEE1,WEE1,SENSITIVE,D,2,d52e881298a3,ALL,,1
+CGI,STK11,STK11 deletion,lung adenocarcinoma,PHENFORMIN,PHENFORMIN,SENSITIVE,D,2,4179df4ece17,ALL,,1
+CGI,STK11,STK11 deletion,cancer,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,cd0db84900c8,ALL,,1
+CGI,TERT,TERT promoters core,glioma susceptibility 1,ERIBULIN,ERIBULIN,SENSITIVE,D,2,ad2c5d024a93,ALL,,1
+CGI,TOP2A,TOP2A amplification,breast adenocarcinoma,Anthracyclines,Anthracyclines,SENSITIVE,B,4,da2b2fd82f41,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,breast adenocarcinoma,ABEMACICLIB,ABEMACICLIB,RESISTANT,C,3,b0b03f5c319a,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,Female germ cell tumor;Male germ cell tumor,CISPLATIN,CISPLATIN,RESISTANT,C,3,26f12ac67954,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,B cell lymphoma,AZD6738,AZD6738,SENSITIVE,C,3,2613fdfe71a3,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,ovarian cancer,WEE1,WEE1,SENSITIVE,C,3,4fd9680851f7,ALL,,1
+CGI,TSC2,TSC2 oncogenic mutation,"Renal angiomyolipoma;Giant cell astrocytoma,RA",EVEROLIMUS,EVEROLIMUS,SENSITIVE,A,5,1f4e3a271c28,ALL,,1
+CGI,TSC2,TSC2 oncogenic mutation,childhood bladder carcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,7136f95556fc,ALL,,1
+CGI,TSC2,TSC2 oncogenic mutation,lymphangioleiomyomatosis,s13412,s13412,SENSITIVE,D,2,61528bff8321,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,RAFFINOSE,RAFFINOSE,SENSITIVE,C,3,b882aebeca77,ALL,,1
+CGI,KRAS,"KRAS (12,13)",colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,A,5,7d2b97ff6991,ALL,,1
+CGI,KRAS,KRAS (G13D),colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,B,4,11b9b4f4f586,ALL,,1
+CGI,MAP2K1,"MAP2K1 (I99T,L115,G128D,F129L,V211D,L215P,I103N,K104N,I111N,H119P,E120D,F133L,P124,D67N)",cancer,2-Butanone,2-Butanone,RESISTANT,D,2,59cb29b87577,ALL,,1
+CGI,MAP2K1,"MAP2K1 (P124L,K57N,C121S)",cutaneous melanoma,2-Butanone,2-Butanone,RESISTANT,C,3,db86bec416d9,ALL,,1
+CGI,MAP2K2,MAP2K2 (Q60P),cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,fad8222c9996,ALL,,1
+CGI,MDM2,MDM2 amplification,liposarcoma,MDM2,MDM2,SENSITIVE,C,3,a3f63b99843e,ALL,,1
+CGI,MET,MET kinase domain mutation,Renal,SAVOLITINIB,SAVOLITINIB,SENSITIVE,C,3,6cae53cd0088,ALL,,1
+CGI,MET,MET (M1268T),Renal,MET,MET,SENSITIVE,C,3,7781cc3743c6,ALL,,1
+CGI,MET,MET amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,RESISTANT,C,3,c4a6ae187283,ALL,,1
+CGI,MET,MET amplification,colorectal adenocarcinoma,Dichloroborane,Dichloroborane,SENSITIVE,D,2,2548bd0fab52,ALL,,1
+CGI,MET,MET amplification,Renal,MET,MET,SENSITIVE,C,3,70475eef2411,ALL,,1
+CGI,MET,MET amplification,gastric carcinoma,MET,MET,SENSITIVE,D,2,5fa454077299,ALL,,1
+CGI,MET,MET amplification + EGFR oncogenic mutation,lung adenocarcinoma,EGFR,EGFR,RESISTANT,C,3,3b4ac8ec5c17,ALL,,1
+CGI,MLL2,MLL2 oncogenic mutation,squamous cell lung carcinoma,BICALUTAMIDE,BICALUTAMIDE,SENSITIVE,D,2,ffe9bc7b8b54,ALL,,1
+CGI,MLL,MLL fusion,acute myeloid leukemia,DAUNORUBICIN,DAUNORUBICIN,SENSITIVE,A,5,7e1f3539312f,ALL,,1
+CGI,MPL,MPL (W515F),Myelodisplasic proliferative syndrome,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,0e93bf1924ac,ALL,,1
+CGI,MTOR,MTOR (Q2223K),Renal,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,b3d2a69c236d,ALL,,1
+CGI,MYC,MYC amplification,Myeloma;Neuroblastoma,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,SENSITIVE,D,2,44b06fa0c343,ALL,,1
+CGI,MYC,MYC amplification,prostate adenocarcinoma,4-Phenylimidazole,4-Phenylimidazole,SENSITIVE,D,2,730cade5c722,ALL,,1
+CGI,NF1,NF1 biallelic inactivation,cutaneous melanoma,VEMURAFENIB,VEMURAFENIB,RESISTANT,D,2,ec93c13c5757,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant glioma,EVEROLIMUS,EVEROLIMUS,RESISTANT,C,3,f9b07e2e8be2,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,plexiform neurofibroma,TIPIFARNIB,TIPIFARNIB,RESISTANT,C,3,410fffbdfabe,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,lung cancer,Erlotinib,Erlotinib,RESISTANT,D,2,f516ee701b92,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,Hepatic carcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,f3898ff86471,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,Sorafenib,Sorafenib,SENSITIVE,D,2,b2e3d595573b,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,AURK inhibitors,AURK inhibitors,SENSITIVE,D,2,3eaee532ab49,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,cutaneous melanoma,GILVETMAB,GILVETMAB,SENSITIVE,C,3,f78a6366d7db,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,cutaneous melanoma,RAFFINOSE,RAFFINOSE,SENSITIVE,D,2,d79ed3b555b4,ALL,,1
+CGI,NF1,NF1 oncogenic mutation + BRAF oncogenic mutation,cutaneous melanoma,SELUMETINIB,SELUMETINIB,RESISTANT,C,3,36a82723ee53,ALL,,1
+CGI,NF1,NF1 deletion,lung cancer,Erlotinib,Erlotinib,RESISTANT,D,2,229b8db71cc0,ALL,,1
+CGI,NF1,NF1 deletion,neuroblastoma,Acids,Acids,RESISTANT,D,2,b570fd726e97,ALL,,1
+CGI,NF1,NF1 deletion,malignant peripheral nerve sheath tumor,BRD4,BRD4,SENSITIVE,D,2,4dcfc738a39f,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,pediatric meningioma,935881-37-1,935881-37-1,SENSITIVE,C,3,5cdb3b97c61f,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,schwannoma,Imatinib,Imatinib,SENSITIVE,D,2,71cf69ec4796,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,Mesothelioma;Ovary,Phe-ala-lys,Phe-ala-lys,SENSITIVE,D,2,bc06c442e1ac,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,schwannoma,PDK1,PDK1,SENSITIVE,D,2,b23372af1a8a,ALL,,1
+CGI,NF2,NF2 oncogenic mutation + EGFR oncogenic mutation,lung cancer,Erlotinib,Erlotinib,RESISTANT,C,3,cffadc23d1d7,ALL,,1
+CGI,NF2,NF2 deletion,pediatric meningioma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,D,2,da840f358336,ALL,,1
+CGI,NF2,NF2 deletion,schwannoma,Imatinib,Imatinib,SENSITIVE,D,2,67cd21cffb1b,ALL,,1
+CGI,NF2,NF2 deletion,pediatric meningioma,hsp90,hsp90,SENSITIVE,D,2,fbdd6fe57aca,ALL,,1
+CGI,NOTCH1,NOTCH1 activating mutation in Cterm-PEST domain,cancer,RO4929097,RO4929097,SENSITIVE,C,3,3b04f2a419ab,ALL,,1
+CGI,NOTCH1,NOTCH1 fusion,acute lymphoblastic leukemia,foton,foton,SENSITIVE,D,2,cd4575c86727,ALL,,1
+CGI,NOTCH2,NOTCH2 fusion,breast adenocarcinoma,foton,foton,SENSITIVE,D,2,3d459888e941,ALL,,1
+CGI,NPM1,NPM1 oncogenic mutation,acute myeloid leukemia,DOT1L,DOT1L,SENSITIVE,D,2,a2bb99c23b2f,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,Hepatic carcinoma,Sorafenib,Sorafenib,SENSITIVE,C,3,6af8ded2961b,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,cutaneous melanoma,hsp90,hsp90,SENSITIVE,D,2,bbea2f3f9fb3,ALL,,1
+CGI,NRAS,"NRAS (12,13,59,61,117,146)",colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,RESISTANT,A,5,f5c2588ae840,ALL,,1
+CGI,NRG1,NRG1 fusion,lung adenocarcinoma,AFATINIB,AFATINIB,SENSITIVE,C,3,586e526599f6,ALL,,1
+CGI,NTRK1,NTRK1 (G595R),cancer,LAROTRECTINIB,LAROTRECTINIB,RESISTANT,D,2,34a906eba6b5,ALL,,1
+CGI,NTRK1,"NTRK1 (G595R,G667C)",colorectal adenocarcinoma,ENTRECTINIB,ENTRECTINIB,RESISTANT,C,3,e721297fd944,ALL,,1
+CGI,PAK1,PAK1 amplification,cutaneous melanoma,prolylalanyllysine,prolylalanyllysine,SENSITIVE,D,2,d0a4c19d9dfe,ALL,,1
+CGI,PALB2,PALB2 oncogenic mutation,prostate adenocarcinoma,PARP inhibitors,PARP inhibitors,SENSITIVE,C,3,11712b665753,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation + ERBB2 amplification,breast adenocarcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,B,4,c05c37f5d637,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,prostate adenocarcinoma,PI3k,PI3k,SENSITIVE,D,2,b4df3582c803,ALL,,1
+CGI,PALB2,PALB2 oncogenic mutation,exocrine pancreatic carcinoma,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,6f9eb92c608d,ALL,,1
+CGI,PBRM1,PBRM1 deletion,cancer,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,D,2,dd7349f76bc1,ALL,,1
+CGI,PDGFRA,PDGFRA wildtype,gastrointestinal stromal tumor,DASATINIB,DASATINIB,SENSITIVE,D,2,b5ac383c147e,ALL,,1
+CGI,PDGFRA,PDGFRA (D842V),gastrointestinal stromal tumor,CRENOLANIB,CRENOLANIB,SENSITIVE,C,3,f496d111fec1,ALL,,1
+CGI,PDGFRA,PDGFRA (D842V),gastrointestinal stromal tumor,DASATINIB,DASATINIB,SENSITIVE,D,2,0f1a0352e964,ALL,,1
+CGI,PDGFRA,PDGFRA (T674I),Hyper eosinophilic advanced snydrome,Imatinib,Imatinib,RESISTANT,C,3,3237f87f0d13,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,Bladder;Head an neck;Lung,PI3k,PI3k,SENSITIVE,C,3,0cbad93f5348,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation + ERBB2 amplification,breast adenocarcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,B,4,384bcc6e8768,ALL,,1
+CGI,PIK3CB,PIK3CB oncogenic mutation,Head an neck squamous,PI3k,PI3k,SENSITIVE,D,2,ab34b8904961,ALL,,1
+CGI,PIK3CB,PIK3CB (D1067Y),breast adenocarcinoma,PI3k,PI3k,RESISTANT,C,3,7116410d6b8b,ALL,,1
+CGI,PML,PML-RARA fusion,acute promyelocytic leukemia,TRETINOIN,TRETINOIN,SENSITIVE,A,5,5745674d9814,ALL,,1
+CGI,POLE,POLE (268-471),Glioma;Endometrium,GILVETMAB,GILVETMAB,SENSITIVE,C,3,a70ca649a97b,ALL,,1
+CGI,ABL1,"ABL1 (E255K,E255V,Y253H,F359V,F359C,F359I)","chronic myelogenous leukemia, BCR-ABL1 positive",NILOTINIB,NILOTINIB,RESISTANT,A,5,34db83e0b886,ALL,,1
+CGI,ABL1,"ABL1 (F359V,F359C,F359I,Y253H,E255K,E255V)","chronic myelogenous leukemia, BCR-ABL1 positive",DASATINIB,DASATINIB,SENSITIVE,A,5,dba5fad675c0,ALL,,1
+CGI,ABL1,"ABL1 (I242T,M244V,K247R,L248V,G250E,G250R,Q252R,Q252H,Y253F,Y253H,E255K,E255V,M237V,E258D,W261L,L273M,E275K,E275Q,D276G,T277A,E279K,V280A,V289A,V289I,E292V,E292Q,I293V,L298V,V299L,F311L,F311I,T315I,F317L,F317V,F317I,F317C,Y320C,L324Q,Y342H,M343T,A344V,A350V,M351T,E355D,E355G,E355A,F359V,F359I,F359C,F359L,D363Y,L364I,A365V,A366G,L370P,V371A,E373K,V379I,A380T,F382L,L384M,L387M,L387F,L387V,M388L,Y393C,H396P,H396R,H396A,A397P,S417F,S417Y,I418S,I418V,A433T,S438C,E450K,E450G,E450A,E450V,E453K,E453G,E453A,E453V,E459K,E459G,E459A,E459V,M472I,P480L,F486S,E507G)","chronic myelogenous leukemia, BCR-ABL1 positive",Imatinib,Imatinib,RESISTANT,A,5,83a105530281,ALL,,1
+CGI,ABL1,ABL1 (T315I),"chronic myelogenous leukemia, BCR-ABL1 positive",NILOTINIB,NILOTINIB,RESISTANT,A,5,bb08c79c1724,ALL,,1
+CGI,ABL1,ABL1 (T315I),cancer,AXITINIB,AXITINIB,SENSITIVE,D,2,1b267f2f3a21,ALL,,1
+CGI,ABL1,ABL1-BCR fusion,"chronic myelogenous leukemia, BCR-ABL1 positive",BOSUTINIB MONOHYDRATE,BOSUTINIB MONOHYDRATE,SENSITIVE,A,5,a347a4d1c87a,ALL,,1
+CGI,ABL1,ABL1-BCR fusion,Chronic myeloid leukemia;Acute lymphoblastic leukemia,Imatinib,Imatinib,SENSITIVE,A,5,9e700e226d17,ALL,,1
+CGI,ABL1,ABL1-BCR fusion,Chronic myeloid leukemia;Acute lymphoblastic leukemia,PONATINIB,PONATINIB,SENSITIVE,A,5,9159cc229674,ALL,,1
+CGI,AKT1,"AKT1 (Q79K,E17K)",cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,775d75c85ad6,ALL,,1
+CGI,ALK,ALK inframe insertion (1151T),lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,RESISTANT,C,3,72063c75e6d8,ALL,,1
+CGI,ALK,ALK inframe insertion (1151T),lung adenocarcinoma,CERITINIB,CERITINIB,SENSITIVE,A,5,59ed9a4b61b0,ALL,,1
+CGI,ALK,ALK (F1174L),lung adenocarcinoma,alanylleucyllysine,alanylleucyllysine,SENSITIVE,D,2,abbab4f1366f,ALL,,1
+CGI,ALK,ALK (I1171T),lung adenocarcinoma,ALECTINIB,ALECTINIB,RESISTANT,C,3,e10f2ca68891,ALL,,1
+CGI,ALK,ALK fusion,Non-small cell lung;Lung adenocarcinoma,CERITINIB,CERITINIB,SENSITIVE,A,5,dc537d782e87,ALL,,1
+CGI,ALK,ALK fusion,lung adenocarcinoma,ALECTINIB,ALECTINIB,SENSITIVE,A,5,f8daf4319c8c,ALL,,1
+CGI,APC,APC oncogenic mutation,colorectal adenocarcinoma,Tankyrase inhibitors,Tankyrase inhibitors,SENSITIVE,D,2,9d2acc8d81a3,ALL,,1
+CGI,AR,AR amplification,prostate adenocarcinoma,ABIRATERONE,ABIRATERONE,RESISTANT,C,3,511e70ac1d3e,ALL,,1
+CGI,AR,AR amplification,prostate adenocarcinoma,LEVONORGESTREL,LEVONORGESTREL,SENSITIVE,D,2,fff47f54b4b1,ALL,,1
+CGI,AR,AR overexpression,"prostate adenocarcinoma,prostate cancer",ENZALUTAMIDE,ENZALUTAMIDE,SENSITIVE,C,3,62e6aa777bfa,ALL,,1
+CGI,ARID1A,ARID1A amplification + ANXA1 overexpression,breast adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,RESISTANT,C,3,01f3239fdd69,ALL,,1
+CGI,ATM,ATM biallelic inactivation,B cell lymphoma,AZD6738,AZD6738,SENSITIVE,C,3,de73d0648439,ALL,,1
+CGI,ATM,ATM oncogenic mutation,lymphoma,DNAn,DNAn,SENSITIVE,D,2,b216d29d576c,ALL,,1
+CGI,ATM,ATM deletion,gastric carcinoma,PARP inhibitors,PARP inhibitors,SENSITIVE,C,3,7d25fecec3ef,ALL,,1
+CGI,ATR,ATR oncogenic mutation,malignant glioma,TEMOZOLOMIDE,TEMOZOLOMIDE,SENSITIVE,D,2,d326ec77ed0d,ALL,,1
+CGI,BAP1,BAP1 oncogenic mutation,Renal;Any cancer type,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,c418587f510c,ALL,,1
+CGI,BAP1,BAP1 deletion,benign mesothelioma,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,D,2,c9046a1dc94d,ALL,,1
+CGI,BAP1,BAP1 deletion,Renal;Any cancer type,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,2be7e2a4da99,ALL,,1
+CGI,BRAF,BRAF (G466V),lung adenocarcinoma,DASATINIB,DASATINIB,SENSITIVE,D,2,b18f22fee839,ALL,,1
+CGI,BRAF,BRAF (G469A),Head an neck squamous,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,C,3,239e4bbf156e,ALL,,1
+CGI,BRAF,BRAF (L485W),biliary tract neoplasm,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,C,3,b496799e1c9c,ALL,,1
+CGI,BRAF,BRAF (V600),colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,SENSITIVE,C,3,ef9e0c51f767,ALL,,1
+CGI,BRAF,BRAF (V600E),gastrointestinal stromal tumor,DABRAFENIB,DABRAFENIB,SENSITIVE,C,3,0541c98ba55b,ALL,,1
+CGI,BRAF,BRAF (V600E),Neuroendocrine,DABRAFENIB,DABRAFENIB,SENSITIVE,C,3,a4cc730626ae,ALL,,1
+CGI,BRAF,BRAF (V600E),Thyroid carcinoma,VEMURAFENIB,VEMURAFENIB,SENSITIVE,C,3,27e2ae7f4005,ALL,,1
+CGI,BRAF,"BRAF (V600E,V600K)",cutaneous melanoma,VEMURAFENIB,VEMURAFENIB,SENSITIVE,A,5,c42e0e61ab52,ALL,,1
+CGI,BRAF,BRAF (V600R),cutaneous melanoma,DABRAFENIB,DABRAFENIB,SENSITIVE,C,3,477606ff565e,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,ovarian cancer,OLAPARIB,OLAPARIB,SENSITIVE,A,5,cb9c3614938a,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,ovarian cancer,Platinum,Platinum,SENSITIVE,B,4,e10d4a8052f1,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,ovarian cancer,RUCAPARIB,RUCAPARIB,SENSITIVE,A,5,86e3b5f7ec1a,ALL,,1
+CGI,BRCA1,BRCA1 oncogenic mutation,breast adenocarcinoma,OLAPARIB,OLAPARIB,SENSITIVE,C,3,50542c5dd1a2,ALL,,1
+CGI,BTK,BTK (C481),mantle cell lymphoma,IBRUTINIB,IBRUTINIB,RESISTANT,C,3,d98363443e96,ALL,,1
+CGI,CCND3,CCND3 amplification,cancer,CDK4,CDK4,SENSITIVE,D,2,2f55d131fb4c,ALL,,1
+CGI,CD69,CD69 undexpression,B-cell chronic lymphocytic leukemia,BENDAMUSTINE,BENDAMUSTINE,SENSITIVE,D,2,5466a01aeb17,ALL,,1
+CGI,CDH1,CDH1 oncogenic mutation,breast adenocarcinoma,BICALUTAMIDE,BICALUTAMIDE,SENSITIVE,D,2,fc3cf8edba35,ALL,,1
+CGI,CDK4,CDK4 amplification,Liposarcoma;Lymphoma;Any cancer type,Ribociclib,Ribociclib,SENSITIVE,C,3,fbc59a44ad35,ALL,,1
+CGI,CDKN1A,CDKN1A deletion,cancer,CDK2,CDK2,SENSITIVE,D,2,d99c18106487,ALL,,1
+CGI,CDKN1B,CDKN1B deletion,cancer,CDK2,CDK2,SENSITIVE,D,2,5dae615356ee,ALL,,1
+CGI,MAP2K1,"MAP2K1 (E203K,Q56P,K57E)",cutaneous melanoma,VEMURAFENIB,VEMURAFENIB,RESISTANT,C,3,058d3de4c3dd,ALL,,1
+CGI,MAP2K1,MAP2K1 (K57T),colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,SENSITIVE,C,3,a2cdd389f843,ALL,,1
+CGI,MAP2K1,"MAP2K1 (Q56P,P124S,P124L;C121S)",cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,126a45793aeb,ALL,,1
+CGI,MCL1,MCL1 amplification,cancer,Tubulin inhibitors,Tubulin inhibitors,RESISTANT,D,2,c4f5aa2bdc4e,ALL,,1
+CGI,MET,MET (H1112L),cancer,MET,MET,SENSITIVE,D,2,4072fe290bea,ALL,,1
+CGI,MET,"MET (V1110I,H1112R,M1268T,R988C,T1010I)",cancer,CRIZOTINIB,CRIZOTINIB,SENSITIVE,D,2,883004272946,ALL,,1
+CGI,MET,MET amplification,Non-small cell lung;Colorectal adenocarcinoma,1ST,1ST,RESISTANT,C,3,8ebab3dd9755,ALL,,1
+CGI,MET,MET amplification,lung adenocarcinoma,ROCILETINIB,ROCILETINIB,RESISTANT,C,3,754b245fa75c,ALL,,1
+CGI,MET,MET amplification + ERBB2 amplification,gastric carcinoma,CRIZOTINIB,CRIZOTINIB,SENSITIVE,C,3,5ab15478cdf5,ALL,,1
+CGI,MLL,MLL fusion,acute myeloid leukemia,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,SENSITIVE,D,2,2ce48af7c5f7,ALL,,1
+CGI,MTOR,MTOR (F2108L),Thyroid carcinoma,EVEROLIMUS,EVEROLIMUS,RESISTANT,C,3,96df084e4d6c,ALL,,1
+CGI,MTOR,MTOR (I1973F),Angiosarcoma;Renal,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,4d180d71b165,ALL,,1
+CGI,MYC,MYC amplification,colorectal adenocarcinoma,TEMOZOLOMIDE,TEMOZOLOMIDE,SENSITIVE,D,2,c289ee9e2ab6,ALL,,1
+CGI,MYC,MYC amplification,neuroblastoma,CDK7,CDK7,SENSITIVE,D,2,f1644540a329,ALL,,1
+CGI,MYD88,MYD88 (L265P),Waldenström macroglobulinemia,IBRUTINIB,IBRUTINIB,SENSITIVE,A,5,2f4e6544d0f3,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,plexiform neurofibroma,CEDIRANIB,CEDIRANIB,RESISTANT,C,3,1f38fc63cac9,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,lung cancer,DASATINIB,DASATINIB,RESISTANT,D,2,f248ce1fad00,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,neurofibroma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,B,4,8abad8cdff45,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant glioma,BEVACIZUMAB,BEVACIZUMAB,SENSITIVE,C,3,33fd33aeea67,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,Head an neck;Salivary glands,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,05c8366f6982,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,plexiform neurofibroma,SELUMETINIB,SELUMETINIB,SENSITIVE,C,3,0e3ad95d257c,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant glioma,SIROLIMUS,SIROLIMUS,SENSITIVE,C,3,b0763649ab40,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant glioma,VINBLASTINE,VINBLASTINE,SENSITIVE,C,3,23e6d9295ff9,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,BRD4,BRD4,SENSITIVE,D,2,e1b5379576cc,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,2-Butanone,2-Butanone,SENSITIVE,D,2,852d108639fd,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,hsp90,hsp90,SENSITIVE,D,2,c2493c523213,ALL,,1
+CGI,NF1,NF1 oncogenic mutation,Glioma;Malignant peripheral nerve sheat tumor;Leukemia,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,601ccc2fadb8,ALL,,1
+CGI,NF1,NF1 oncogenic mutation + BRAF oncogenic mutation,cutaneous melanoma,VEMURAFENIB,VEMURAFENIB,RESISTANT,C,3,715994d9b8a5,ALL,,1
+CGI,NF1,NF1 deletion,malignant glioma,EVEROLIMUS,EVEROLIMUS,RESISTANT,C,3,86154266a929,ALL,,1
+CGI,NF1,NF1 deletion,pediatric osteosarcoma,TRAMETINIB,TRAMETINIB,RESISTANT,C,3,02e0cc3770cb,ALL,,1
+CGI,NF1,NF1 deletion,plexiform neurofibroma,SELUMETINIB,SELUMETINIB,SENSITIVE,C,3,70da765b03a7,ALL,,1
+CGI,NF1,NF1 deletion,malignant peripheral nerve sheath tumor,Sorafenib,Sorafenib,SENSITIVE,D,2,34b45b98e675,ALL,,1
+CGI,NF1,NF1 deletion,cutaneous melanoma,TRAMETINIB,TRAMETINIB,SENSITIVE,D,2,b1bec4f7789d,ALL,,1
+CGI,NF1,NF1 deletion,malignant peripheral nerve sheath tumor,AURK inhibitors,AURK inhibitors,SENSITIVE,D,2,8c09c1a950a4,ALL,,1
+CGI,NF1,NF1 deletion,Glioma;Malignant peripheral nerve sheat tumor;Leukemia,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,0953d610de88,ALL,,1
+CGI,NF1,NF1 deletion,cutaneous melanoma,RAFFINOSE,RAFFINOSE,SENSITIVE,D,2,7d40c517ba0e,ALL,,1
+CGI,NF1,NF1 deletion + BRAF oncogenic mutation,cutaneous melanoma,VEMURAFENIB,VEMURAFENIB,RESISTANT,C,3,39efb153e379,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,schwannoma,Erlotinib,Erlotinib,RESISTANT,C,3,d1a82dbaeae8,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,pediatric meningioma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,D,2,81b2971dedaa,ALL,,1
+CGI,NF2,NF2 oncogenic mutation,Schwannoma;Neurofibroma,Lapatinib,Lapatinib,SENSITIVE,C,3,510bbd4218c6,ALL,,1
+CGI,NF2,NF2 deletion,schwannoma,Erlotinib,Erlotinib,RESISTANT,C,3,77dc73b71fa1,ALL,,1
+CGI,NF2,NF2 deletion,schwannoma,BEVACIZUMAB,BEVACIZUMAB,SENSITIVE,C,3,8335e834b31b,ALL,,1
+CGI,NF2,NF2 deletion,schwannoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,5af0d10ac7f0,ALL,,1
+CGI,NOTCH1,NOTCH1 activating mutation in Cterm-PEST domain,cancer,ROSMANTUZUMAB,ROSMANTUZUMAB,SENSITIVE,C,3,fa8eec94557d,ALL,,1
+CGI,NOTCH1,NOTCH1 activating mutation in Cterm-PEST domain,breast adenocarcinoma,foton,foton,SENSITIVE,D,2,4ad89d604453,ALL,,1
+CGI,NRAS,NRAS oncogenic mutation,cutaneous melanoma,RAFFINOSE,RAFFINOSE,SENSITIVE,C,3,dd43aea4665c,ALL,,1
+CGI,NRAS,NRAS (G12C),cancer,Glu-Arg-Lys,Glu-Arg-Lys,SENSITIVE,D,2,896425b471dc,ALL,,1
+CGI,NRAS,NRAS (Q61),cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,705bfc854961,ALL,,1
+CGI,NRG1,NRG1 fusion,lung adenocarcinoma,Lapatinib,Lapatinib,SENSITIVE,D,2,7ec5daeeec05,ALL,,1
+CGI,NTRK3,NTRK3 (G623R),cancer,TRK,TRK,SENSITIVE,C,3,ecb58ec85987,ALL,,1
+CGI,CDKN2A,CDKN2A deletion,cancer,ILORASERTIB,ILORASERTIB,SENSITIVE,C,3,edea140a54ad,ALL,,1
+CGI,CTNNB1,CTNNB1 oncogenic mutation,colorectal adenocarcinoma,Tankyrase inhibitors,Tankyrase inhibitors,RESISTANT,D,2,7b191c429b76,ALL,,1
+CGI,DDR2,DDR2 (S768R),squamous cell lung carcinoma,DASATINIB,DASATINIB,SENSITIVE,C,3,b330d8daa57b,ALL,,1
+CGI,DNMT3A,DNMT3A oncogenic mutation,acute myeloid leukemia,DAUNORUBICIN,DAUNORUBICIN,SENSITIVE,A,5,ca6158603692,ALL,,1
+CGI,EGFR,EGFR inframe deletion (30-336),malignant glioma,1ST,1ST,RESISTANT,C,3,7608e9a2f84b,ALL,,1
+CGI,EGFR,EGFR inframe deletion (30-336),malignant glioma,(2-AMINO-4-FORMYL-5-HYDROXY-6-METHYLPYRIDIN-3-YL)METHYL DIHYDROGEN PHOSPHATE,(2-AMINO-4-FORMYL-5-HYDROXY-6-METHYLPYRIDIN-3-YL)METHYL DIHYDROGEN PHOSPHATE,RESISTANT,C,3,962df19ba6a9,ALL,,1
+CGI,EGFR,EGFR exon 19 insertions,lung cancer,EGFR,EGFR,SENSITIVE,B,4,f0287849c011,ALL,,1
+CGI,EGFR,EGFR exon 19 insertions,lung cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,6fb9dfd547b3,ALL,,1
+CGI,EGFR,"EGFR (A289V,R108K,G598V,T263P)",malignant glioma,Erlotinib,Erlotinib,SENSITIVE,D,2,cd00d6091788,ALL,,1
+CGI,EGFR,"EGFR (L858R,L861Q,G719A,G719S,G719C,G719D,L747S,S768I,L861P,L861R)",lung cancer,EGFR,EGFR,SENSITIVE,B,4,222dc4e84fe2,ALL,,1
+CGI,EGFR,"EGFR (L858R,L861Q,G719A,G719S,G719C,G719D,L747S,S768I,L861P,L861R)",lung cancer,hsp90,hsp90,SENSITIVE,C,3,55c258d59de6,ALL,,1
+CGI,EGFR,"EGFR (L858R,L861Q,G719A,G719S,G719C,G719D,L747S,S768I,L861P,L861R,T790M)",lung cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,4241a1789850,ALL,,1
+CGI,EGFR,EGFR (P753S),Head an neck,CETUXIMAB,CETUXIMAB,SENSITIVE,C,3,aed874446a10,ALL,,1
+CGI,EGFR,"EGFR (S464L,G465R,I491M)",colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,D,2,a050acc1ffd9,ALL,,1
+CGI,EGFR,EGFR (S492R),colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,SENSITIVE,C,3,37cafc1b869f,ALL,,1
+CGI,EGFR,EGFR (S492R),colorectal adenocarcinoma,4-(Methylamino)azobenzene,4-(Methylamino)azobenzene,SENSITIVE,C,3,575e8996deec,ALL,,1
+CGI,EGFR,"EGFR (S492R,G465R,R451C,K467T)",colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,C,3,138941d92542,ALL,,1
+CGI,EGFR,EGFR (T790M),non-small cell lung carcinoma,ROCILETINIB,ROCILETINIB,SENSITIVE,B,4,0e5d77dd7a12,ALL,,1
+CGI,EGFR,EGFR (T790M),lung cancer,(2-AMINO-4-FORMYL-5-HYDROXY-6-METHYLPYRIDIN-3-YL)METHYL DIHYDROGEN PHOSPHATE,(2-AMINO-4-FORMYL-5-HYDROXY-6-METHYLPYRIDIN-3-YL)METHYL DIHYDROGEN PHOSPHATE,SENSITIVE,C,3,40809177d668,ALL,,1
+CGI,EGFR,EGFR (V843I),Head an neck,GEFITINIB,GEFITINIB,RESISTANT,C,3,539a32a9293d,ALL,,1
+CGI,EGFR,EGFR amplification,malignant glioma,(2-AMINO-4-FORMYL-5-HYDROXY-6-METHYLPYRIDIN-3-YL)METHYL DIHYDROGEN PHOSPHATE,(2-AMINO-4-FORMYL-5-HYDROXY-6-METHYLPYRIDIN-3-YL)METHYL DIHYDROGEN PHOSPHATE,RESISTANT,C,3,7776c56542c0,ALL,,1
+CGI,EGFR,EGFR amplification,endometrial cancer,GEFITINIB,GEFITINIB,SENSITIVE,B,4,9cf8a53ab17b,ALL,,1
+CGI,EGFR,EGFR-RAD51 fusion,non-small cell lung carcinoma,Erlotinib,Erlotinib,SENSITIVE,C,3,44b0c12c890d,ALL,,1
+CGI,EPHA2,EPHA2 (G391R),squamous cell lung carcinoma,DASATINIB,DASATINIB,SENSITIVE,D,2,c50cd95c4b46,ALL,,1
+CGI,EPHA2,EPHA2 (G391R),squamous cell lung carcinoma,MTOR inhibitors,MTOR inhibitors,SENSITIVE,D,2,3c1a5270e7fa,ALL,,1
+CGI,EPHA3,EPHA3 amplification,cancer,EPH receptor A3,EPH receptor A3,SENSITIVE,D,2,8d67dc1bc267,ALL,,1
+CGI,ERBB2,"ERBB2 inframe deletion (755-759),inframe insertion (780GSP),inframe insertion (781GSP)",breast adenocarcinoma,NERATINIB,NERATINIB,SENSITIVE,D,2,66a7522032ec,ALL,,1
+CGI,ERBB2,"ERBB2 inframe insertion (P780GSP),inframe insertion (781GSP),inframe insertion (A775YVMA),inframe insertion (G776YVMA)",cancer,NERATINIB,NERATINIB,SENSITIVE,C,3,3b2cc88253e0,ALL,,1
+CGI,ERBB2,"ERBB2 (V659E,S310F)",lung cancer,Ado,Ado,SENSITIVE,C,3,5f669979776c,ALL,,1
+CGI,ERBB2,ERBB2 amplification,endometrial cancer,TRASTUZUMAB,TRASTUZUMAB,RESISTANT,C,3,b31c0f4eb931,ALL,,1
+CGI,ERBB2,ERBB2 amplification,lung adenocarcinoma,EGFR,EGFR,RESISTANT,D,2,dd13d512cac6,ALL,,1
+CGI,ERBB2,ERBB2 amplification,Stomach;Gastroesophageal junction adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,A,5,1511b01b8e59,ALL,,1
+CGI,ERBB2,ERBB2 amplification,colorectal adenocarcinoma,Ado,Ado,SENSITIVE,C,3,8af30dba0e90,ALL,,1
+CGI,ERBB2,ERBB2 amplification,breast adenocarcinoma,AFATINIB,AFATINIB,SENSITIVE,B,4,e85c1ea9fbcc,ALL,,1
+CGI,ERBB2,ERBB2 amplification,biliary tract neoplasm,Lapatinib,Lapatinib,SENSITIVE,C,3,939ebbdc0cac,ALL,,1
+CGI,ERBB2,ERBB2 amplification,biliary tract neoplasm,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,C,3,01d51dc87191,ALL,,1
+CGI,ERBB2,ERBB2 expression + ESR1 overexpression,breast adenocarcinoma,PALBOCICLIB,PALBOCICLIB,SENSITIVE,A,5,172e64ed0ea2,ALL,,1
+CGI,ERBB2,ERBB2 overexpression,breast adenocarcinoma,Ado,Ado,SENSITIVE,A,5,24efb9522af6,ALL,,1
+CGI,ERBB2,ERBB2 overexpression,breast adenocarcinoma,PERTUZUMAB,PERTUZUMAB,SENSITIVE,A,5,b2a09c6efeb9,ALL,,1
+CGI,ERBB2,ERBB2 overexpression,Stomach;Gastroesophageal junction adenocarcinoma,TRASTUZUMAB,TRASTUZUMAB,SENSITIVE,A,5,fd38ba6e8835,ALL,,1
+CGI,ERBB3,"ERBB3 (P262H,G284R,Q809R)",cancer,Lapatinib,Lapatinib,SENSITIVE,D,2,d387f8d239d1,ALL,,1
+CGI,ERBB4,ERBB4 (H809G),breast adenocarcinoma,Lapatinib,Lapatinib,RESISTANT,C,3,3352a87221bf,ALL,,1
+CGI,ERCC1,ERCC1 overexpression,"childhood bladder carcinoma,childhood bladder carcinoma",CISPLATIN,CISPLATIN,RESISTANT,D,2,28b6cbed9ae3,ALL,,1
+CGI,EZH2,"EZH2 (Y641,A677)",lymphoma,UDP-N-acetylmuramic acid,UDP-N-acetylmuramic acid,SENSITIVE,D,2,381afbbb4a8b,ALL,,1
+CGI,FAT1,FAT1 oncogenic mutation,Head an neck squamous,TRIMETHYL GLYCINE,TRIMETHYL GLYCINE,SENSITIVE,D,2,fbb15d5d2d84,ALL,,1
+CGI,FGF3,FGF3 amplification,breast adenocarcinoma,DOVITINIB,DOVITINIB,SENSITIVE,C,3,1f2254cfdda7,ALL,,1
+CGI,FGF4,FGF4 amplification,breast adenocarcinoma,DOVITINIB,DOVITINIB,SENSITIVE,C,3,7171976c4a29,ALL,,1
+CGI,FGFR2,"FGFR2 (M536I,M538I,I548V,N550,E566G,L618M,K660E)",endometrial cancer,PONATINIB,PONATINIB,SENSITIVE,D,2,3b2bbc13f1f4,ALL,,1
+CGI,FGFR2,FGFR2 (V565I),endometrial cancer,FGFR inhibitors,FGFR inhibitors,SENSITIVE,D,2,9446656d10cf,ALL,,1
+CGI,FGFR2,"FGFR2 (V565I,M536I,M538I,I548V,N550,E566G,L618M,K660E)",endometrial cancer,DOVITINIB,DOVITINIB,RESISTANT,D,2,e567ad1ff0ea,ALL,,1
+CGI,FGFR3,FGFR3 fusion,malignant glioma,FGFR inhibitors,FGFR inhibitors,SENSITIVE,C,3,9c72c3dd1afd,ALL,,1
+CGI,FGFR3,FGFR3-TACC3 fusion,non-small cell lung carcinoma,Trichlorfon ethyl,Trichlorfon ethyl,SENSITIVE,D,2,50506d3e8f2e,ALL,,1
+CGI,GLI2,GLI2 amplification,medulloblastoma,DIOXOSULFIDOMOLYBDENUM(VI) ION,DIOXOSULFIDOMOLYBDENUM(VI) ION,RESISTANT,D,2,9884a9f97f99,ALL,,1
+CGI,GNAQ,GNAQ (Q209),cutaneous melanoma,SELUMETINIB,SELUMETINIB,SENSITIVE,C,3,5df90ec693f7,ALL,,1
+CGI,GNAS,GNAS (R201),cancer,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,1eb4aa840cef,ALL,,1
+CGI,HGF,HGF overexpression,Urinary tract carcinoma,CABOZANTINIB,CABOZANTINIB,SENSITIVE,D,2,6a467dc35d92,ALL,,1
+CGI,HIF1A,HIF1A overexpression,Renal,SUNITINIB,SUNITINIB,SENSITIVE,D,2,f19f16c442fa,ALL,,1
+CGI,IDH2,"IDH2 (R140K,R172K)",Hematologic malignancies,221,221,SENSITIVE,C,3,d27e01eb7259,ALL,,1
+CGI,IDH2,IDH2 (R172),biliary tract neoplasm,DASATINIB,DASATINIB,SENSITIVE,D,2,527ceca5ca12,ALL,,1
+CGI,JAK1,JAK1 (S646F;R683),acute lymphoblastic leukemia,RUXOLITINIB,RUXOLITINIB,SENSITIVE,D,2,d12213d24cee,ALL,,1
+CGI,JAK2,JAK2 oncogenic mutation,cutaneous melanoma,GILVETMAB,GILVETMAB,RESISTANT,C,3,c88546745efb,ALL,,1
+CGI,KIT,"KIT mutation in exon 9,11,13,14 or 17",gastrointestinal stromal tumor,REGORAFENIB,REGORAFENIB,SENSITIVE,A,5,a6a900d2f61a,ALL,,1
+CGI,KIT,KIT mutation in exon 9 or 11,gastrointestinal stromal tumor,Sorafenib,Sorafenib,SENSITIVE,C,3,f7f292f22b3b,ALL,,1
+CGI,KIT,"KIT mutation in exon 9,11,13,14 or 17",cutaneous melanoma,DASATINIB,DASATINIB,SENSITIVE,C,3,abb843f48b37,ALL,,1
+CGI,KIT,"KIT inframe deletion (416-422),inframe insertion (416-422)",acute myeloid leukemia,Imatinib,Imatinib,SENSITIVE,D,2,0187746e4858,ALL,,1
+CGI,KIT,KIT wildtype,gastrointestinal stromal tumor,SUNITINIB,SUNITINIB,SENSITIVE,B,4,694e6574779d,ALL,,1
+CGI,KIT,"KIT (D816Y,D816F,D816V)",cancer,DASATINIB,DASATINIB,SENSITIVE,D,2,ed5fad06ab48,ALL,,1
+CGI,KIT,KIT (T670I),gastrointestinal stromal tumor,Imatinib,Imatinib,RESISTANT,C,3,efd67f8b9966,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,lung cancer,SELUMETINIB,SELUMETINIB,RESISTANT,C,3,ce0629cfcfed,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,cancer,EZH2 [Homo sapiens],EZH2 [Homo sapiens],RESISTANT,D,2,8f6594eac2e9,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,Acute myeloid leukemia;Cervix;Ovary,2-Butanone,2-Butanone,SENSITIVE,D,2,07499b39a4e0,ALL,,1
+CGI,KRAS,KRAS oncogenic mutation,endometrial cancer,2-Butanone,2-Butanone,SENSITIVE,D,2,729f0e83ea56,ALL,,1
+CGI,PALB2,PALB2 deletion,prostate adenocarcinoma,PARP inhibitors,PARP inhibitors,SENSITIVE,C,3,42598a46c8ce,ALL,,1
+CGI,PBRM1,PBRM1 undexpression,Renal,EVEROLIMUS,EVEROLIMUS,SENSITIVE,D,2,394188b5bcea,ALL,,1
+CGI,PDGFRA,"PDGFRA (552-596,631-668,814-854)",gastrointestinal stromal tumor,REGORAFENIB,REGORAFENIB,SENSITIVE,A,5,da2bed37d010,ALL,,1
+CGI,PDGFRA,"PDGFRA (552-596,631-668,814-854)",gastrointestinal stromal tumor,SUNITINIB,SUNITINIB,SENSITIVE,A,5,0dc26eceb2b0,ALL,,1
+CGI,PDGFRA,PDGFRA wildtype,gastrointestinal stromal tumor,Sorafenib,Sorafenib,SENSITIVE,C,3,ecd565c8398b,ALL,,1
+CGI,PDGFRA,PDGFRA (D842V),gastrointestinal stromal tumor,SUNITINIB,SUNITINIB,RESISTANT,B,4,b976d8562575,ALL,,1
+CGI,PDGFRA,PDGFRA fusion,Myelodisplasic syndrome;Myelodisplasic proliferative syndrome,Imatinib,Imatinib,SENSITIVE,A,5,81d9737488ea,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,B,4,d7795924d9e8,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,Head an neck squamous,PI3k,PI3k,SENSITIVE,C,3,018195ffb132,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,Glioma;Thyroid carcinoma,PI3k,PI3k,SENSITIVE,D,2,8d289d86623e,ALL,,1
+CGI,PIK3CA,PIK3CA oncogenic mutation,gastric carcinoma,PIK3CA,PIK3CA,SENSITIVE,C,3,88f181730dce,ALL,,1
+CGI,PIK3CB,PIK3CB oncogenic mutation,Head an neck squamous,MTORC1/2 inhibitors,MTORC1/2 inhibitors,SENSITIVE,D,2,cd8c118b48e4,ALL,,1
+CGI,PIK3R1,PIK3R1 oncogenic mutation,malignant glioma,10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),SENSITIVE,D,2,34064782b807,ALL,,1
+CGI,PLCG2,"PLCG2 (R665W,L845F)",B-cell chronic lymphocytic leukemia,IBRUTINIB,IBRUTINIB,RESISTANT,C,3,69b06db538f4,ALL,,1
+CGI,PTCH1,PTCH1 oncogenic mutation,medulloblastoma,DIOXOSULFIDOMOLYBDENUM(VI) ION,DIOXOSULFIDOMOLYBDENUM(VI) ION,SENSITIVE,D,2,2a3a9e17d3b2,ALL,,1
+CGI,PTCH1,PTCH1 oncogenic mutation,medulloblastoma,FORETINIB,FORETINIB,SENSITIVE,D,2,504fd2d81e6a,ALL,,1
+CGI,PTEN,PTEN biallelic inactivation,breast adenocarcinoma,BYL-719,BYL-719,RESISTANT,C,3,8735210a8b86,ALL,,1
+CGI,PTEN,PTEN biallelic inactivation,colorectal adenocarcinoma,CETUXIMAB,CETUXIMAB,RESISTANT,C,3,98204460f0aa,ALL,,1
+CGI,PTEN,PTEN biallelic inactivation,colorectal adenocarcinoma,PANITUMUMAB,PANITUMUMAB,RESISTANT,C,3,367697e5545a,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,cancer,SIROLIMUS,SIROLIMUS,SENSITIVE,C,3,5e1838e2dfa9,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation + BRAF oncogenic mutation,cutaneous melanoma,BRAF,BRAF,RESISTANT,C,3,4279a51b6bd2,ALL,,1
+CGI,PTEN,PTEN deletion,exocrine pancreatic carcinoma,10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),10-DECARBOXYMETHYLACLACINOMYCIN T (DCMAT),SENSITIVE,C,3,9cb8238c8cb3,ALL,,1
+CGI,RAF1,RAF1 fusion,prostate adenocarcinoma,U-0126,U-0126,SENSITIVE,D,2,5b1af2b55a41,ALL,,1
+CGI,RB1,RB1 oncogenic mutation,retinoblastoma,MDM2,MDM2,SENSITIVE,D,2,9631daf87ac1,ALL,,1
+CGI,RB1,RB1 deletion,"childhood bladder carcinoma,childhood bladder carcinoma",CISPLATIN,CISPLATIN,SENSITIVE,C,3,ed0c8ccc0369,ALL,,1
+CGI,RB1,RB1 overexpression,prostate adenocarcinoma,PALBOCICLIB,PALBOCICLIB,SENSITIVE,D,2,4cc9b9458f1f,ALL,,1
+CGI,RET,"RET (618,620,634,768,791,891,918,C634W,M918T)",Thyroid carcinoma,VANDETANIB,VANDETANIB,SENSITIVE,A,5,67a9a3d1aa91,ALL,,1
+CGI,RET,RET fusion,lung adenocarcinoma,VANDETANIB,VANDETANIB,SENSITIVE,C,3,5090699f16de,ALL,,1
+CGI,RET,RET-TPCN1 fusion,Thyroid carcinoma,VANDETANIB,VANDETANIB,SENSITIVE,D,2,4c3b9282fee7,ALL,,1
+CGI,ROS1,ROS1 (G2032R),lung adenocarcinoma,CRIZOTINIB,CRIZOTINIB,RESISTANT,C,3,8d7cf09a240e,ALL,,1
+CGI,SH2B3,SH2B3 oncogenic mutation,Myelodisplasic proliferative syndrome,CHEMBL2159141,CHEMBL2159141,SENSITIVE,D,2,1c2ecfbb2130,ALL,,1
+CGI,SMARCA4,SMARCA4 oncogenic mutation,ovarian cancer,EZH2 [Homo sapiens],EZH2 [Homo sapiens],SENSITIVE,C,3,a8879d2141fb,ALL,,1
+CGI,SRSF2,SRSF2 oncogenic mutation,acute myeloid leukemia,Spliceosome inhibitors,Spliceosome inhibitors,SENSITIVE,D,2,6da2bbff6e20,ALL,,1
+CGI,STAG2,STAG2 oncogenic mutation,malignant glioma,PARP inhibitors,PARP inhibitors,SENSITIVE,D,2,5e288daae4b9,ALL,,1
+CGI,PTEN,PTEN oncogenic mutation,prostate adenocarcinoma,PIK3CB,PIK3CB,SENSITIVE,C,3,f34c802e7e24,ALL,,1
+CGI,TSC1,TSC1 oncogenic mutation,childhood bladder carcinoma,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,49b35b411d3d,ALL,,1
+CGI,TSC1,TSC1 deletion,Renal,EVEROLIMUS,EVEROLIMUS,SENSITIVE,C,3,952a20761664,ALL,,1
+CGI,TSC2,TSC2 (E66K),endometrial cancer,Tensirolimus (MTOR inhibitor),Tensirolimus (MTOR inhibitor),SENSITIVE,C,3,71f98f35457f,ALL,,1
+CGI,TSC1,TSC1 oncogenic mutation,"kidney angiomyolipoma,RA",EVEROLIMUS,EVEROLIMUS,SENSITIVE,A,5,5ffba4dc164e,ALL,,1
+CGI,SYK,SYK amplification,Mantle cell lymphoma;Chronic lymphocytic leukemia,seryltyrosyllysine,seryltyrosyllysine,SENSITIVE,D,2,8fedbc5fd8bc,ALL,,1
+CGI,TP53,TP53 oncogenic mutation,childhood bladder carcinoma,Doxorubicin,Doxorubicin,SENSITIVE,D,2,6d6ed866c9a5,ALL,,1

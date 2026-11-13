@@ -1,0 +1,8 @@
+{"uid": "6114bd9699af", "model": "gemini-2.5-flash", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "39464cb2adbb", "model": "gemini-2.5-flash", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 100}}
+{"uid": "3ffa214888cf", "model": "gemini-2.5-flash", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 100}}
+{"uid": "9ef0f9b97ca5", "model": "gemini-2.5-flash", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 85}}
+{"uid": "efb47feb5ac1", "model": "gemini-2.5-flash", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 100}}
+{"uid": "381ed4a07d90", "model": "gemini-2.5-flash", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 100}}
+{"uid": "17e6a4233384", "model": "gemini-2.5-flash", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "cdd74202ec3a", "model": "gemini-2.5-flash", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 100}}

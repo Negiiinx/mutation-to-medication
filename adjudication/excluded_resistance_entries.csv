@@ -1,0 +1,950 @@
+source,uid,gene,molecular_profile,disease,therapy,best_level,exclusion_reason
+CGI,937262fabcba,CCND1,CCND1 amplification,lung cancer,PALBOCICLIB,C,conditional qualifier in description
+CGI,f671ac108f6a,ALK,ALK oncogenic mutation,non-small cell lung carcinoma,CRIZOTINIB,D,conditional qualifier in description
+CGI,824aa5af7b11,ERBB3,ERBB3 amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,C,conditional qualifier in description
+CGI,ea09def014c3,JAK1,JAK1 oncogenic mutation,cutaneous melanoma,GILVETMAB,C,conditional qualifier in description
+CGI,17910e951cf7,KIT,KIT amplification,cutaneous melanoma,SUNITINIB,C,conditional qualifier in description
+CGI,e3c4d5910b9f,CRBN,CRBN oncogenic mutation,myeloid neoplasm,POMALIDOMIDE,C,conditional qualifier in description
+CGI,81505e807a77,EGFR,EGFR amplification,lung cancer,Erlotinib,C,conditional qualifier in description
+CGI,de7febd198e6,EGFR,EGFR amplification,malignant glioma,2'-Deoxyinosine,C,conditional qualifier in description
+CGI,d5823c430d10,STK11,STK11 deletion + KRAS oncogenic mutation,lung adenocarcinoma,GILVETMAB,C,conditional qualifier in description
+CGI,0e2c8f187972,TP53,TP53 oncogenic mutation,liposarcoma,MDM2,C,conditional qualifier in description
+CGI,cf0217e931f8,PDGFRA,PDGFRA wildtype,gastrointestinal stromal tumor,Imatinib,B,conditional qualifier in description
+CGI,8fc11b0f6963,PDGFRA,PDGFRA amplification,malignant glioma,PDGFR inhibitors,D,conditional qualifier in description
+CGI,bd8001778db2,PTEN,PTEN oncogenic mutation,colorectal adenocarcinoma,4-(Methylamino)azobenzene,B,conditional qualifier in description
+CGI,f7e247f1aabe,KRAS,KRAS amplification,colorectal adenocarcinoma,2-Butanone,C,conditional qualifier in description
+CGI,6340c2bc6cd2,MAP2K1,MAP2K1 oncogenic mutation,colorectal adenocarcinoma,4-(Methylamino)azobenzene,C,conditional qualifier in description
+CGI,00201c2345b4,MET,MET amplification,lung adenocarcinoma,OSIMERTINIB,C,conditional qualifier in description
+CGI,675042700e3b,MET,MET amplification + BRAF (V600E),colorectal adenocarcinoma,VEMURAFENIB,C,conditional qualifier in description
+CGI,46e543104329,NF1,NF1 oncogenic mutation,neuroblastoma,Acids,D,conditional qualifier in description
+CGI,f1170d175d99,NF2,NF2 deletion + EGFR oncogenic mutation,lung cancer,Erlotinib,C,conditional qualifier in description
+CGI,5ab4301249c1,NRAS,NRAS oncogenic mutation,cutaneous melanoma,VEMURAFENIB,D,conditional qualifier in description
+CGI,45ae6f495844,RAC1,RAC1 (P29S) + BRAF oncogenic mutation,cutaneous melanoma,BRAF,C,conditional qualifier in description
+CGI,6f5aa55503b2,STK11,STK11 oncogenic mutation,lung cancer,TRIMETHYL GLYCINE,D,conditional qualifier in description
+CGI,2893e097d9a4,ARAF,ARAF oncogenic mutation,colorectal adenocarcinoma,4-(Methylamino)azobenzene,C,conditional qualifier in description
+CGI,303fac22e119,EGFR,EGFR amplification,malignant glioma,1ST,C,conditional qualifier in description
+CGI,8fa829017f4a,ERBB2,ERBB2 amplification,lung adenocarcinoma,ROCILETINIB,C,conditional qualifier in description
+CGI,a0fa20e5c740,ERBB2,ERBB2 amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,C,conditional qualifier in description
+CGI,14723d2dd5ff,ESR1,ESR1 oncogenic mutation,breast adenocarcinoma,EXEMESTANE,B,conditional qualifier in description
+CGI,eb1c73f2e728,KIT,KIT mutation in exon 11,gastrointestinal stromal tumor,SUNITINIB,B,conditional qualifier in description
+CGI,bd824ec2a541,KIT,KIT mutation in exon 17 or 18,cutaneous melanoma,Imatinib,C,conditional qualifier in description
+CGI,53b91551a83b,KIT,KIT wildtype,gastrointestinal stromal tumor,Imatinib,B,conditional qualifier in description
+CGI,8139645dbb38,LRP1B,LRP1B oncogenic mutation,ovarian cancer,Doxorubicin,C,conditional qualifier in description
+CGI,77df79bdc0d8,MYCN,MYCN amplification,medulloblastoma,DIOXOSULFIDOMOLYBDENUM(VI) ION,D,conditional qualifier in description
+CGI,c0cff76e9f21,NF1,NF1 deletion + BRAF oncogenic mutation,cutaneous melanoma,SELUMETINIB,C,conditional qualifier in description
+CGI,86343ebf380e,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,CETUXIMAB,A,conditional qualifier in description
+CGI,99b7682675f2,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,PANITUMUMAB,A,conditional qualifier in description
+CGI,0da9cedd88a9,KRAS,KRAS oncogenic mutation,gastric carcinoma,4-(Methylamino)azobenzene,D,conditional qualifier in description
+CGI,6da5e15df234,PTEN,PTEN oncogenic mutation,endometrial cancer,MTOR inhibitors,C,conditional qualifier in description
+CGI,924a4d13f066,TUBB3,TUBB3 overexpression,"childhood bladder carcinoma,childhood bladder carcinoma",PACLITAXEL,D,conditional qualifier in description
+CGI,619fc512544f,STK11,STK11 oncogenic mutation + KRAS oncogenic mutation,lung adenocarcinoma,DOCETAXEL,D,conditional qualifier in description
+CGI,90981aa29d47,STK11,STK11 deletion + KRAS oncogenic mutation,lung adenocarcinoma,DOCETAXEL,D,conditional qualifier in description
+CGI,432ad3c0d7fb,PTEN,PTEN oncogenic mutation + BRAF oncogenic mutation,cutaneous melanoma,2-Butanone,D,conditional qualifier in description
+CGI,5f9da6fab883,PTEN,PTEN deletion + BRAF oncogenic mutation,cutaneous melanoma,BRAF,C,conditional qualifier in description
+CGI,b3246e7e3434,PTEN,PTEN deletion + BRAF oncogenic mutation,cutaneous melanoma,2-Butanone,D,conditional qualifier in description
+CGI,e9d21039999a,RAF1,"RAF1 (S257P,G361A,P261P) + BRAF oncogenic mutation",cutaneous melanoma,BRAF,D,conditional qualifier in description
+CGI,5898ff570a8b,CCND1,CCND1 amplification,medulloblastoma,DIOXOSULFIDOMOLYBDENUM(VI) ION,D,conditional qualifier in description
+CGI,79d9b7af68ab,CRBN,CRBN oncogenic mutation,myeloid neoplasm,LENALIDOMIDE,C,conditional qualifier in description
+CGI,f2a79a6b03ec,EGFR,EGFR overexpression,colorectal adenocarcinoma,PANITUMUMAB,A,conditional qualifier in description
+CGI,530d899db679,KRAS,KRAS oncogenic mutation,non-small cell lung carcinoma,EGFR,D,conditional qualifier in description
+CGI,7c6c20c04ce6,KRAS,KRAS oncogenic mutation,colorectal adenocarcinoma,TRASTUZUMAB,B,conditional qualifier in description
+CGI,91946620c72d,KRAS,KRAS oncogenic mutation,endometrial cancer,PI3k,D,conditional qualifier in description
+CGI,492e1586959a,ALK,ALK amplification,lung adenocarcinoma,CRIZOTINIB,C,conditional qualifier in description
+CGI,ba147e4068bd,ARAF,ARAF oncogenic mutation,colorectal adenocarcinoma,2-Butanone,C,conditional qualifier in description
+CGI,5b2dc5e0e589,ARID1A,ARID1A oncogenic mutation + ANXA1 overexpression,breast adenocarcinoma,TRASTUZUMAB,C,conditional qualifier in description
+CGI,af78acf1344b,KIT,KIT amplification,cutaneous melanoma,Imatinib,C,conditional qualifier in description
+CGI,ae42cf2b7000,PIK3CA,PIK3CA oncogenic mutation,lung cancer,PI3k,C,conditional qualifier in description
+CGI,b936559a93ef,PIK3CA,PIK3CA amplification,breast adenocarcinoma,PI3k,D,conditional qualifier in description
+CGI,c2d0a4a64db9,ZBTB16,ZBTB16 undexpression,"prostate adenocarcinoma,PR",Dirigestran,D,conditional qualifier in description
+CGI,ce6b5658b3cc,KRAS,KRAS amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,C,conditional qualifier in description
+CGI,d01ef4fcace5,MDM2,MDM2 amplification,Male germ cell tumor,CISPLATIN,C,conditional qualifier in description
+CGI,8e8fbd17afe4,MET,MET amplification + ERBB2 amplification,gastric carcinoma,Lapatinib,D,conditional qualifier in description
+CGI,5a62c031cb95,MET,MET amplification + ERBB2 amplification,breast adenocarcinoma,TRASTUZUMAB,C,conditional qualifier in description
+CGI,76a8ef4b240a,MET,MET amplification + ERBB2 amplification,Breast adenocarcinoma;Stomach,TRASTUZUMAB,C,conditional qualifier in description
+CGI,d5c6a90422fd,MITF,MITF amplification,cutaneous melanoma,BRAF,C,conditional qualifier in description
+CGI,f4931a073305,NF1,NF1 oncogenic mutation,malignant peripheral nerve sheath tumor,EVEROLIMUS,C,conditional qualifier in description
+CGI,5bc1acbe49d5,NF1,NF1 oncogenic mutation,pediatric osteosarcoma,TRAMETINIB,C,conditional qualifier in description
+CGI,4f4cd7647246,STK11,STK11 oncogenic mutation + KRAS oncogenic mutation,lung adenocarcinoma,GILVETMAB,C,conditional qualifier in description
+CGI,2e9bc31fcf84,CRBN,CRBN undexpression,myeloid neoplasm,LENALIDOMIDE,C,conditional qualifier in description
+CGI,957c9d3a2971,CRBN,CRBN undexpression,myeloid neoplasm,POMALIDOMIDE,C,conditional qualifier in description
+CGI,eb1256782767,EGFR,EGFR amplification,Head an neck,GEFITINIB,C,conditional qualifier in description
+CGI,1843163843ab,ERBB2,ERBB2 amplification,lung adenocarcinoma,OSIMERTINIB,C,conditional qualifier in description
+CGI,e32415d67553,FBXW7,FBXW7 oncogenic mutation,cancer,Tubulin inhibitors,D,conditional qualifier in description
+CGI,f87520d0f2e6,HGF,HGF amplification + ERBB2 amplification,breast adenocarcinoma,TRASTUZUMAB,C,conditional qualifier in description
+CGI,c439c7dbb3eb,KRAS,KRAS oncogenic mutation,exocrine pancreatic carcinoma,2-Butanone,C,conditional qualifier in description
+CGI,e56e9924cac2,KRAS,KRAS oncogenic mutation,lung cancer,EGFR,A,conditional qualifier in description
+CGI,b8b1765301af,ALK,ALK amplification,non-small cell lung carcinoma,CRIZOTINIB,D,conditional qualifier in description
+CGI,9eeb1dbe410c,B2M,B2M oncogenic mutation,cutaneous melanoma,GILVETMAB,C,conditional qualifier in description
+CGI,f1d2f0dbdca7,CDK4,CDK4 amplification,lung cancer,PALBOCICLIB,C,conditional qualifier in description
+CGI,b8fc20849904,IGF1R,IGF1R amplification,lung adenocarcinoma,Erlotinib,D,conditional qualifier in description
+CGI,55ff742ff032,IGF2,IGF2 amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,C,conditional qualifier in description
+CGI,c2bdabb5003e,JAK1,JAK1 oncogenic mutation,colorectal adenocarcinoma,GILVETMAB,C,conditional qualifier in description
+CGI,87f925780de0,KIT,KIT mutation in exon 17,gastrointestinal stromal tumor,Imatinib,D,conditional qualifier in description
+CGI,6c43d2c01bac,KIT,KIT mutation in exon 17,gastrointestinal stromal tumor,SUNITINIB,D,conditional qualifier in description
+CGI,95fc1d20cec5,SLC29A1,SLC29A1 oncogenic mutation,"childhood bladder carcinoma,childhood bladder carcinoma",Gemcitabine,D,conditional qualifier in description
+CGI,b0b03f5c319a,TP53,TP53 oncogenic mutation,breast adenocarcinoma,ABEMACICLIB,C,conditional qualifier in description
+CGI,26f12ac67954,TP53,TP53 oncogenic mutation,Female germ cell tumor;Male germ cell tumor,CISPLATIN,C,conditional qualifier in description
+CGI,c4a6ae187283,MET,MET amplification,colorectal adenocarcinoma,4-(Methylamino)azobenzene,C,conditional qualifier in description
+CGI,3b4ac8ec5c17,MET,MET amplification + EGFR oncogenic mutation,lung adenocarcinoma,EGFR,C,conditional qualifier in description
+CGI,f9b07e2e8be2,NF1,NF1 oncogenic mutation,malignant glioma,EVEROLIMUS,C,conditional qualifier in description
+CGI,410fffbdfabe,NF1,NF1 oncogenic mutation,plexiform neurofibroma,TIPIFARNIB,C,conditional qualifier in description
+CGI,f516ee701b92,NF1,NF1 oncogenic mutation,lung cancer,Erlotinib,D,conditional qualifier in description
+CGI,36a82723ee53,NF1,NF1 oncogenic mutation + BRAF oncogenic mutation,cutaneous melanoma,SELUMETINIB,C,conditional qualifier in description
+CGI,cffadc23d1d7,NF2,NF2 oncogenic mutation + EGFR oncogenic mutation,lung cancer,Erlotinib,C,conditional qualifier in description
+CGI,511e70ac1d3e,AR,AR amplification,prostate adenocarcinoma,ABIRATERONE,C,conditional qualifier in description
+CGI,01f3239fdd69,ARID1A,ARID1A amplification + ANXA1 overexpression,breast adenocarcinoma,TRASTUZUMAB,C,conditional qualifier in description
+CGI,c4f5aa2bdc4e,MCL1,MCL1 amplification,cancer,Tubulin inhibitors,D,conditional qualifier in description
+CGI,8ebab3dd9755,MET,MET amplification,Non-small cell lung;Colorectal adenocarcinoma,1ST,C,conditional qualifier in description
+CGI,754b245fa75c,MET,MET amplification,lung adenocarcinoma,ROCILETINIB,C,conditional qualifier in description
+CGI,1f38fc63cac9,NF1,NF1 oncogenic mutation,plexiform neurofibroma,CEDIRANIB,C,conditional qualifier in description
+CGI,f248ce1fad00,NF1,NF1 oncogenic mutation,lung cancer,DASATINIB,D,conditional qualifier in description
+CGI,715994d9b8a5,NF1,NF1 oncogenic mutation + BRAF oncogenic mutation,cutaneous melanoma,VEMURAFENIB,C,conditional qualifier in description
+CGI,39efb153e379,NF1,NF1 deletion + BRAF oncogenic mutation,cutaneous melanoma,VEMURAFENIB,C,conditional qualifier in description
+CGI,d1a82dbaeae8,NF2,NF2 oncogenic mutation,schwannoma,Erlotinib,C,conditional qualifier in description
+CGI,7b191c429b76,CTNNB1,CTNNB1 oncogenic mutation,colorectal adenocarcinoma,Tankyrase inhibitors,D,conditional qualifier in description
+CGI,7776c56542c0,EGFR,EGFR amplification,malignant glioma,(2-AMINO-4-FORMYL-5-HYDROXY-6-METHYLPYRIDIN-3-YL)METHYL DIHYDROGEN PHOSPHATE,C,conditional qualifier in description
+CGI,b31c0f4eb931,ERBB2,ERBB2 amplification,endometrial cancer,TRASTUZUMAB,C,conditional qualifier in description
+CGI,dd13d512cac6,ERBB2,ERBB2 amplification,lung adenocarcinoma,EGFR,D,conditional qualifier in description
+CGI,28b6cbed9ae3,ERCC1,ERCC1 overexpression,"childhood bladder carcinoma,childhood bladder carcinoma",CISPLATIN,D,conditional qualifier in description
+CGI,9884a9f97f99,GLI2,GLI2 amplification,medulloblastoma,DIOXOSULFIDOMOLYBDENUM(VI) ION,D,conditional qualifier in description
+CGI,c88546745efb,JAK2,JAK2 oncogenic mutation,cutaneous melanoma,GILVETMAB,C,conditional qualifier in description
+CGI,ce0629cfcfed,KRAS,KRAS oncogenic mutation,lung cancer,SELUMETINIB,C,conditional qualifier in description
+CGI,8f6594eac2e9,KRAS,KRAS oncogenic mutation,cancer,EZH2 [Homo sapiens],D,conditional qualifier in description
+CGI,d7795924d9e8,PIK3CA,PIK3CA oncogenic mutation,colorectal adenocarcinoma,CETUXIMAB,B,conditional qualifier in description
+CGI,4279a51b6bd2,PTEN,PTEN oncogenic mutation + BRAF oncogenic mutation,cutaneous melanoma,BRAF,C,conditional qualifier in description
+JAX-CKB,1a2bc4b22bf0,KRAS,KRAS mutant,colorectal cancer,SHP099,D,conditional qualifier in description
+JAX-CKB,f51d2027753e,KRAS,KRAS mutant,lung adenocarcinoma,SALIRASIB,C,conditional qualifier in description
+JAX-CKB,eedf1c0de50d,KRAS,KRAS Q61K,lung cancer,4550,D,conditional qualifier in description
+JAX-CKB,60539a94361c,KRAS,KRAS wild-type,non-small cell lung carcinoma,AZD4785,D,conditional qualifier in description
+JAX-CKB,d6ef97ce4f60,KRAS,KRAS wild-type,lung carcinoma,AZD4785,D,conditional qualifier in description
+JAX-CKB,03aa3ff3fe5a,KRAS,KRAS G13D,cancer,4550,D,conditional qualifier in description
+JAX-CKB,2099ea98d963,KRAS,KRAS G12A MET amp,lung cancer,1116743-46-4,D,conditional qualifier in description
+JAX-CKB,52e867895935,KRAS,KRAS amp MET del exon14,non-small cell lung carcinoma,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,ddb1a27f408d,KRAS,KRAS amp MET del exon14,non-small cell lung carcinoma,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,c61778267cbf,KRAS,KRAS amp MET del exon14,non-small cell lung carcinoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,98e86dea3216,KRAS,KRAS amp MET del exon14,non-small cell lung carcinoma,ALPELISIB,D,conditional qualifier in description
+JAX-CKB,362659813a33,KRAS,KRAS G12S,lung cancer,4550,D,conditional qualifier in description
+JAX-CKB,c606d7a83541,MET,MET amp,gastric carcinoma,Debio 1347,D,conditional qualifier in description
+JAX-CKB,2021f6e10f6c,MET,MET over exp MET Y1230C MET Y1230H,gastric carcinoma,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,348cb7ab8903,MET,MET N375S,oral cavity cancer,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,b581b6b9f07d,MYD88,MYD88 L265P,non-Hodgkin lymphoma,IBRUTINIB,D,conditional qualifier in description
+JAX-CKB,bb448f2b601c,NOTCH1,NOTCH1 wild-type,triple-negative breast carcinoma,PACLITAXEL,D,conditional qualifier in description
+JAX-CKB,4e71440efd20,NOTCH1,NOTCH1 mut RB1 wild-type,T-cell adult acute lymphocytic leukemia,METHOTREXATE,D,conditional qualifier in description
+JAX-CKB,cbfa69bf06f2,NOTCH1,NOTCH1 mut RB1 wild-type,T-cell adult acute lymphocytic leukemia,Mercaptopurine anhydrous,D,conditional qualifier in description
+JAX-CKB,25cd5dad81f6,NRAS,NRAS mutant,melanoma,VEMURAFENIB,D,conditional qualifier in description
+JAX-CKB,4f671d4121a9,NRAS,NRAS mutant,colorectal cancer,REGORAFENIB,C,conditional qualifier in description
+JAX-CKB,c8668cfec3d3,NRAS,NRAS mut STAG2 dec exp,melanoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,69d8d20d5f4a,PTEN,PTEN loss RB1 loss,triple-negative breast carcinoma,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,5e4a3a0f9833,PTEN,PTEN loss RB1 loss,triple-negative breast carcinoma,PICTILISIB,D,conditional qualifier in description
+JAX-CKB,7ce4e8570c76,PTEN,PTEN loss,breast cancer,PP242,D,conditional qualifier in description
+JAX-CKB,216ffee9e441,PTEN,PTEN loss,melanoma,PEMBROLIZUMAB,C,conditional qualifier in description
+JAX-CKB,eb92c399adf7,PTEN,PTEN loss,breast cancer,ALPELISIB,D,conditional qualifier in description
+JAX-CKB,a0be921358d3,PTEN,PTEN loss,prostate cancer,MK-2206,C,conditional qualifier in description
+JAX-CKB,8a3fd281e37b,PTEN,PTEN dec exp,renal cell adenocarcinoma,EVEROLIMUS,C,conditional qualifier in description
+JAX-CKB,71eee5ba8b69,RB1,RB1 H483Y,Her2-receptor negative breast cancer,LETROZOLE,C,conditional qualifier in description
+JAX-CKB,ab271ef76f71,RB1,RB1 E268* RB1 I101fs RB1 T738_R775del RB1 V654fs,Her2-receptor negative breast cancer,FULVESTRANT,C,conditional qualifier in description
+JAX-CKB,dbe69066108c,RB1,RB1 mutant,estrogen-receptor positive breast cancer,PALBOCICLIB,B,conditional qualifier in description
+JAX-CKB,cc1de0e4f017,RB1,RB1 loss,cancer,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,c9cbe31e6b7c,ROS1,ROS1 rearrange,non-small cell lung carcinoma,OSIMERTINIB,A,conditional qualifier in description
+JAX-CKB,055132db279e,SMAD4,SMAD4 dec exp,head and neck squamous cell carcinoma,U-0126,D,conditional qualifier in description
+JAX-CKB,7351667dba0b,SMO,SMO R168H,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,8b3f350b3aeb,SMO,SMO D473Y,skin basal cell carcinoma,VISMODEGIB,C,conditional qualifier in description
+JAX-CKB,aadb935debda,SMO,SMO G453D,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,80a650d86d10,SMO,SMO P698T,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,0c8f789f1326,SMO,SMO D506N,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,32b052f0ffd7,SMO,SMO E481G,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,da89983e67a6,SMO,SMO L353F,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,5e0ec6c0be88,SMO,SMO C390R,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,f36ac980e605,GATA1,GATA1 over exp,acute megakaryoblastic leukemia,CYTARABINE,D,conditional qualifier in description
+JAX-CKB,e08937f1d4b4,IDH1,IDH1 R132C SRC T341I,intrahepatic cholangiocarcinoma,DASATINIB,D,conditional qualifier in description
+JAX-CKB,8ac36d74d5dd,IDH1,IDH1 R132C IDH1 S280F,acute myeloid leukemia,ENASIDENIB,C,conditional qualifier in description
+JAX-CKB,300c572b7ee2,IDH1,IDH1 mutant,lung adenocarcinoma,DASATINIB,D,conditional qualifier in description
+JAX-CKB,d8ad886a8646,IDH2,IDH2 R140Q IDH2 Q316E,acute myeloid leukemia,ENASIDENIB,C,conditional qualifier in description
+JAX-CKB,337bb1228c22,KIT,KIT W557_K558del KIT T670I,cancer,Imatinib,D,conditional qualifier in description
+JAX-CKB,07461d7b7637,KIT,KIT V555_L576del KIT D820G KIT D820Y,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,d9447809c761,KIT,KIT V559D KIT Y823D,cancer,SUNITINIB,D,conditional qualifier in description
+JAX-CKB,893eea9235df,KIT,KIT W557_K558del KIT D816E KIT D820V,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,d96533a2b308,KIT,KIT D816G ROS1 fusion,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,122941646c5c,KIT,KIT positive,prostate neuroendocrine neoplasm,Imatinib,D,conditional qualifier in description
+JAX-CKB,a50fde8beff5,KRAS,KRAS G12D,lung cancer,4550,D,conditional qualifier in description
+JAX-CKB,492956d95502,KRAS,KRAS G12D MET amp,carcinoma of esophagus,3396-99-4,C,conditional qualifier in description
+JAX-CKB,9ba4ccb6caf9,KRAS,KRAS G12V,colon carcinoma,4550,D,conditional qualifier in description
+JAX-CKB,f210b30832f6,KRAS,KRAS mutant,exocrine pancreatic carcinoma,PICTILISIB,D,conditional qualifier in description
+JAX-CKB,35e5de48eb75,KRAS,KRAS mutant,cancer,EVEROLIMUS,B,conditional qualifier in description
+JAX-CKB,4df294a0bbf1,KRAS,KRAS mutant,non-small cell lung carcinoma,AFATINIB,A,conditional qualifier in description
+JAX-CKB,fc3f303d8eab,BRAF,BRAF wild-type,melanoma,GDC-0879,D,conditional qualifier in description
+JAX-CKB,37b9c02f496a,BRAF,BRAF wild-type,melanoma,SELUMETINIB,C,conditional qualifier in description
+JAX-CKB,c7fc933dd34e,BRAF,BRAF wild-type,non-small cell lung carcinoma,GDC-0879,D,conditional qualifier in description
+JAX-CKB,b24b40e7157c,BRAF,BRAF wild-type NRAS wild-type,melanoma,VEMURAFENIB,D,conditional qualifier in description
+JAX-CKB,17c2e424ae77,BRAF,BRAF V600E,colon neuroendocrine neoplasm,BINIMETINIB,C,conditional qualifier in description
+JAX-CKB,c96913c98915,BRAF,BRAF V600E MAP2K1 V211D,colorectal cancer,SCH772984,D,conditional qualifier in description
+JAX-CKB,d2024f029204,BRAF,BRAF V600E KRAS A146T KRAS A146V,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,75bf41adb1f6,BRAF,BRAF V600E KRAS G13D,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,afa2ca196c3d,BRAF,BRAF V600E NRAS over exp,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,b7e85336a03e,BRAF,BRAF V600E KRAS G12D,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,bd3daf1c4e1f,BRAF,BRAF V600E NRAS Q61K,colorectal cancer,PANITUMUMAB,C,conditional qualifier in description
+JAX-CKB,4032727a259a,BRAF,BRAF amp BRAF V600E,lung adenocarcinoma,SCH772984,D,conditional qualifier in description
+JAX-CKB,79b107343158,BRAF,BRAF mut PTEN wild-type,melanoma,ENCORAFENIB,D,conditional qualifier in description
+JAX-CKB,c0379bc6ae56,BRAF,BRAF mut RB1 loss,melanoma,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,d5deb54859d9,BRAF,BRAF mutant,cancer,CC-90003,C,conditional qualifier in description
+JAX-CKB,f770f05d6ab9,BRAF,BRAF mut STAG2 dec exp,melanoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,ac53f123f65a,BRAF,BRAF act mut,colorectal cancer,VENETOCLAX,D,conditional qualifier in description
+JAX-CKB,9fb22b9d73dc,BRCA1,BRCA1 E23Vfs*17,invasive ductal breast carcinoma,RUCAPARIB,D,conditional qualifier in description
+JAX-CKB,2134588aabff,BRCA2,BRCA2 D244Efs*10 BRCA2 D244Rfs*7 BRCA2 D252Vfs*24 BRCA2 E260Sfs*15 BRCA2 I247_E254del BRCA2 I247Yfs*8 BRCA2 N255Tfs*21 BRCA2 N257Efs*19 BRCA2 R245_D252del BRCA2 T256Kfs*19,breast cancer,CARBOPLATIN,C,conditional qualifier in description
+JAX-CKB,d5a9b9e59f17,CDH1,CDH1 over exp,non-small cell lung carcinoma,BI 2536,D,conditional qualifier in description
+JAX-CKB,d73e9cbaadc8,CDKN2A,CDKN2A loss,exocrine pancreatic carcinoma,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,8c4a1a6b172e,CDKN2A,CDKN2A over exp SMARCB1 negative,rhabdoid tumor,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,8fde11031906,ERBB2,ERBB2 over exp,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,78ccfa5b6c73,ERBB2,ERBB2 over exp MET amp,gastric carcinoma,TRASTUZUMAB,B,conditional qualifier in description
+JAX-CKB,e32ef1a12568,ERBB2,ERBB2 T798M,cancer,497839-62-0,D,conditional qualifier in description
+JAX-CKB,b229d462eea0,ERBB2,ERBB2 positive,colorectal cancer,ZW25,C,conditional qualifier in description
+JAX-CKB,10c698b236b9,ERBB2,ERBB2 positive,gastroesophageal junction adenocarcinoma,Ado,B,conditional qualifier in description
+JAX-CKB,85dd6a407afc,ERBB2,ERBB2 amp,esophageal adenocarcinoma,Lapatinib,B,conditional qualifier in description
+JAX-CKB,b2b6dfcfea16,ERBB2,ERBB2 amp,uterine cancer,PERTUZUMAB,C,conditional qualifier in description
+JAX-CKB,3fba743d3058,ERBB2,ERBB2 amp MET amp,gastric adenocarcinoma,BEVACIZUMAB,C,conditional qualifier in description
+JAX-CKB,4984a6d7a6ba,ERBB2,ERBB2 amp SRC E527K,gastroesophageal junction adenocarcinoma,Lapatinib,D,conditional qualifier in description
+JAX-CKB,ed79b6a9bd84,ERBB2,ERBB2 amp ERBB2 L755S,Her2-receptor positive breast cancer,Lapatinib,D,conditional qualifier in description
+JAX-CKB,700fed5a69fa,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,Poziotinib,D,conditional qualifier in description
+JAX-CKB,78760ee5421d,ERBB2,ERBB2 G776delinsVC,lung cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,ac77dd432dee,ERBB2,ERBB2 L755S,biliary tract cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,577fd9144e82,ERBB2,ERBB2 L755P,cancer,497839-62-0,D,conditional qualifier in description
+JAX-CKB,625acc6cba6b,ERBB2,ERBB2 V777L,urinary bladder cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,96fa81c4da84,ERBB2,ERBB2 V777L,endometrial cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,a6ebe7a612df,ERBB2,ERBB2 mutant,colorectal cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,368a51f529b5,ERBB2,ERBB2 mutant,ovarian cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,9d921157666a,ERBB2,ERBB2 Y772_A775dup ERBB2 C805S,cancer,Poziotinib,D,conditional qualifier in description
+JAX-CKB,2f1948c96163,ERBB2,ERBB2 Y772_A775dup ERBB2 C805S,cancer,TUCATINIB,D,conditional qualifier in description
+JAX-CKB,90166e9575b6,ERBB2,ERBB2 G660D,lung cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,926743d8f027,ERBB2,ERBB2 V659E,lung cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,9355451ad455,ERBB2,ERBB2 exon 20 ins,non-small cell lung carcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,2896ff011bdd,ERBB2,ERBB2 neg MET pos,esophageal adenocarcinoma,FLUOROURACIL,B,conditional qualifier in description
+JAX-CKB,a711ec38b626,ERBB2,ERBB2 neg MET pos,gastric adenocarcinoma,ONARTUZUMAB,B,conditional qualifier in description
+JAX-CKB,da97cf9aac96,ERBB2,ERBB2 neg MET pos,gastroesophageal junction adenocarcinoma,ONARTUZUMAB,B,conditional qualifier in description
+JAX-CKB,1d030a6113ef,ERBB2,ERBB2 L726I,breast cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,25ec7efd3f60,KRAS,KRAS G12D EZH2 pos,lung adenocarcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,2cfdec59cd43,KRAS,KRAS G12D EZH2 pos,exocrine pancreatic carcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,a5d1c709644a,EZH2,EZH2 F120L EZH2 Y111N,diffuse large B-cell lymphoma,1418308-27-6,D,conditional qualifier in description
+JAX-CKB,692b9c5add3b,FBXW7,FBXW7 R465C,T-cell adult acute lymphocytic leukemia,603107-76-2,D,conditional qualifier in description
+JAX-CKB,688cc0a2323b,FGFR1,FGFR1 dec exp KRAS mut,colorectal cancer,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,a28b31f4f5e6,FGFR1,FGFR1 amp,squamous cell lung carcinoma,AZD4547,C,conditional qualifier in description
+JAX-CKB,eaed01fd9440,FGFR1,FGFR1 amp,small cell lung carcinoma,RO4987655,D,conditional qualifier in description
+JAX-CKB,5eb8fb04fae4,TP53,TP53 loss,lung cancer,232,D,conditional qualifier in description
+JAX-CKB,d146c3922cd9,TP53,TP53 loss,ovarian cancer,ReACp53,D,conditional qualifier in description
+JAX-CKB,a0a611a56da4,TP53,TP53 loss,pediatric osteosarcoma,CPUY201112,D,conditional qualifier in description
+JAX-CKB,1796c2260ac9,ALK,ALK EML4-ALK ALK G1269A ALK I1171N,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,a36541ee5b94,ALK,ALK EML4-ALK ALK C1156Y ALK D1203N,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,d3e1af2d13a0,ALK,ALK EML4-ALK ALK C1156Y,non-small cell lung carcinoma,LUMINESPIB,C,conditional qualifier in description
+JAX-CKB,72d83260eb0c,ALK,ALK EML4-ALK ALK F1174V,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,b421bcd16eb6,APC,APC wild-type,colorectal cancer,TASIN-1,D,conditional qualifier in description
+JAX-CKB,f6fc12229710,APC,APC N1819fs,colorectal cancer,4-[(3aR,D,conditional qualifier in description
+JAX-CKB,c2b2e50aa6de,APC,APC E853* APC T1556fs,colorectal cancer,284028-89-3,D,conditional qualifier in description
+JAX-CKB,5742521a01ba,APC,APC E853* APC T1556fs,colorectal cancer,4-[(3aR,D,conditional qualifier in description
+JAX-CKB,547b74553524,ATM,ATM over exp,gastric carcinoma,Irinotecan,D,conditional qualifier in description
+JAX-CKB,6908d3e99d9d,ATM,ATM negative,gastric carcinoma,OLAPARIB,B,conditional qualifier in description
+JAX-CKB,78a502478b8f,FGFR1,FGFR1 amp MET amp,lung cancer,AZD4547,D,conditional qualifier in description
+JAX-CKB,d7c0973980c0,FGFR1,FGFR1 pos FGFR2 pos,hepatocellular carcinoma,PHENYLALANINAL,D,conditional qualifier in description
+JAX-CKB,2faa5419c4f3,FGFR1,FGFR1 positive,leiomyosarcoma of the corpus uteri,NVP-BGJ398,D,conditional qualifier in description
+JAX-CKB,c377efe7989e,FGFR2,FGFR2 amp,gastric carcinoma,RO4987655,D,conditional qualifier in description
+JAX-CKB,7d0eeebc8fff,FGFR2,FGFR2 M538I,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,5bb497cd530e,FGFR2,FGFR2 K310R FGFR2 N549K,endometrial carcinoma,RO4987655,D,conditional qualifier in description
+JAX-CKB,84c8ce95c998,FGFR2,FGFR2 K310R FGFR2 N549K,endometrial carcinoma,946128-88-7,D,conditional qualifier in description
+JAX-CKB,b8f9c5eaa457,FGFR2,FGFR2 K310R FGFR2 N549K,endometrial carcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,a6861d32830b,FGFR2,FGFR2 N549K,endometrial carcinoma,946128-88-7,D,conditional qualifier in description
+JAX-CKB,d3d71ad36978,FGFR2,FGFR2 wild-type,endometrial cancer,PONATINIB,D,conditional qualifier in description
+JAX-CKB,5d4ec07521c1,FGFR2,FGFR2 wild-type,endometrial carcinoma,FIIN-1,D,conditional qualifier in description
+JAX-CKB,6b6fabe7c53d,FGFR3,FGFR3 S249C,renal pelvis urothelial carcinoma,RO4987655,D,conditional qualifier in description
+JAX-CKB,950b6aa2fd69,FGFR3,FGFR3-TACC3,urinary bladder cancer,SELUMETINIB,D,"gene-level, no specific alteration"
+JAX-CKB,f5c9778657b6,FGFR3,FGFR3 dec exp KRAS mut,lung cancer,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,9be7866d9d5b,FGFR3,FGFR3 wild-type,urinary bladder cancer,PONATINIB,D,conditional qualifier in description
+JAX-CKB,93fa651f764f,FGFR3,FGFR3 D788N,head and neck squamous cell carcinoma,NVP-BGJ398,D,conditional qualifier in description
+JAX-CKB,95bf4263e346,ABL1,ABL1 G250R ABL1 G251D,oral cavity cancer,NILOTINIB,C,conditional qualifier in description
+JAX-CKB,ec192dface88,AKT1,AKT1 act mut,cancer,Triciribine,C,conditional qualifier in description
+JAX-CKB,28bd28e0ec84,AKT1,AKT1 E17K KRAS wild-type BRAF wild-type,colorectal cancer,CETUXIMAB,C,conditional qualifier in description
+JAX-CKB,90657b3c6564,ALK,ALK rearrange ALK I1171T,non-small cell lung carcinoma,BRIGATINIB,C,conditional qualifier in description
+JAX-CKB,090abd242000,ALK,ALK EML4-ALK ALK F1174C,non-small cell lung carcinoma,CERITINIB,C,conditional qualifier in description
+JAX-CKB,9c75a2ad01d1,ALK,ALK rearrange,non-small cell lung carcinoma,ATEZOLIZUMAB,A,conditional qualifier in description
+JAX-CKB,5b3554e0b9a9,ALK,ALK rearrange,non-small cell lung carcinoma,GEFITINIB,A,conditional qualifier in description
+JAX-CKB,88703edb46ee,ALK,ALK rearrange ALK E1210K,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,5ab739767864,ALK,ALK	wild-type TP53 mutant,neuroblastoma,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,e84d77bbbee6,ALK,ALK EML4-ALK ALK L1196M ALK I1179V,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,a6c859ec3282,KRAS,KRAS G13X,colorectal cancer,FLUOROURACIL,B,conditional qualifier in description
+JAX-CKB,1e643a18d7dc,KRAS,KRAS wild-type,non-small cell lung carcinoma,Sorafenib,B,conditional qualifier in description
+JAX-CKB,20e6e1b51372,KRAS,KRAS Q61H,colorectal cancer,PANITUMUMAB,C,conditional qualifier in description
+JAX-CKB,98294025a8fd,KRAS,KRAS Q61H,lung cancer,4550,D,conditional qualifier in description
+JAX-CKB,a87f301ca29d,MAP2K1,MAP2K1 Y134C KRAS Q61H,lung adenocarcinoma,REFAMETINIB,D,conditional qualifier in description
+JAX-CKB,61a2b0850d1c,KRAS,KRAS G12S,lung adenocarcinoma,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,c0fa8aa5f60c,MAP2K1,MAP2K1 Q56P,cancer,167869-21-8,D,conditional qualifier in description
+JAX-CKB,00f6ebfd2199,MAP2K1,MAP2K1 I111S,cancer,167869-21-8,D,conditional qualifier in description
+JAX-CKB,a82e1f3d9171,MET,MET amp,cancer,3396-99-4,B,conditional qualifier in description
+JAX-CKB,01542247cf6a,MET,MET amp,non-small cell lung carcinoma,OSIMERTINIB,C,conditional qualifier in description
+JAX-CKB,9b1e9c10abc5,MET,MET over exp,triple-negative breast carcinoma,RUCAPARIB,D,conditional qualifier in description
+JAX-CKB,1fc222196274,MET,MET over exp,colorectal cancer,PANITUMUMAB,D,conditional qualifier in description
+JAX-CKB,571985dcf4bd,MET,MET wild-type,cancer,GLESATINIB,D,conditional qualifier in description
+JAX-CKB,51fb845ff43d,MET,MET positive,cancer,AMG-208,C,conditional qualifier in description
+JAX-CKB,5ee046ba528e,NOTCH1,NOTCH1 wild-type RB1 loss,T-cell adult acute lymphocytic leukemia,Ribociclib,D,conditional qualifier in description
+JAX-CKB,5b8e5101d14f,NOTCH1,NOTCH1 wild-type RB1 wild-type,T-cell adult acute lymphocytic leukemia,Mercaptopurine anhydrous,D,conditional qualifier in description
+JAX-CKB,602f333e92b1,NOTCH1,NOTCH1 mut RB1 wild-type,T-cell adult acute lymphocytic leukemia,ASPARAGINASE,D,conditional qualifier in description
+JAX-CKB,0ab62d58eabf,NRAS,NRAS mutant,hematopoietic and lymphoid cell neoplasm,SHP099,D,conditional qualifier in description
+JAX-CKB,c751771efd7b,NRAS,NRAS mutant,non-Hodgkin lymphoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,a113d571c3c3,NRAS,NRAS wild-type,melanoma,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,0565e2653350,PTEN,PTEN loss,cancer,EVEROLIMUS,C,conditional qualifier in description
+JAX-CKB,b21d96d0eca1,PTEN,PTEN loss,glioma susceptibility 1,BLZ945,D,conditional qualifier in description
+JAX-CKB,7e82d09c357e,PTEN,PTEN G129R,ovarian mucinous neoplasm,(4e,D,conditional qualifier in description
+JAX-CKB,0a48397f19cb,PTEN,PTEN dec exp,renal cell adenocarcinoma,GDC,C,conditional qualifier in description
+JAX-CKB,07b16278b211,PTEN,PTEN mutant,endometrial cancer,1173900-33-8,D,conditional qualifier in description
+JAX-CKB,236ce1f877da,PTEN,PTEN mutant,endometrial cancer,221,D,conditional qualifier in description
+JAX-CKB,924c11fac48b,RB1,RB1 K240Sfs*22 TP53 R248W,Her2-receptor negative breast cancer,FULVESTRANT,C,conditional qualifier in description
+JAX-CKB,c2b5a17d63f0,SMAD4,SMAD4 dec exp,head and neck squamous cell carcinoma,CETUXIMAB,B,conditional qualifier in description
+JAX-CKB,1a4658bbbb09,SMO,SMO T349I,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,542087570cde,SMO,SMO L221P,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,7f5cdf00ad3e,SMO,SMO T466F,cancer,(5r,D,conditional qualifier in description
+JAX-CKB,a96327b091aa,SMO,SMO F605L,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,8439ac9a4357,SMO,SMO K519R,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,513ca283168c,SMO,SMO Q477E,skin basal cell carcinoma,SONIDEGIB,C,conditional qualifier in description
+JAX-CKB,2e200665c5da,SMO,SMO T534I,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,13068f189297,TP53,TP53 wild-type,cancer,PAZOPANIB,C,conditional qualifier in description
+JAX-CKB,67b365ccab74,TP53,TP53 P72R TP53 Y220C,breast cancer,Cyclophosphamide,C,conditional qualifier in description
+JAX-CKB,fd0dcc19e907,TP53,TP53 I232S,pediatric osteosarcoma,Nutlin-3,D,conditional qualifier in description
+JAX-CKB,4d2c52a67050,TP53,TP53 loss,thymoma,SELINEXOR,D,conditional qualifier in description
+JAX-CKB,d0dd110ea869,TP53,TP53 mutant,ovarian cancer,Nutlin-3,D,conditional qualifier in description
+JAX-CKB,2d90e224781f,FLT3,FLT3 exon 14 ins,acute myeloid leukemia,REBASTINIB,C,conditional qualifier in description
+JAX-CKB,36eec9b7d89c,GATA1,GATA1 over exp,acute megakaryoblastic leukemia,DAUNORUBICIN,D,conditional qualifier in description
+JAX-CKB,8fcf74d598cc,HRAS,HRAS mutant,breast cancer,273,D,conditional qualifier in description
+JAX-CKB,ea964d6729eb,HRAS,HRAS Q61L,skin squamous cell carcinoma,PLX7904,D,conditional qualifier in description
+JAX-CKB,30f023ae6a3e,HRAS,HRAS G13R KRAS G12R SRC T341M,thyroid cancer,DASATINIB,D,conditional qualifier in description
+JAX-CKB,ddbd8b4d9e84,JAK2,JAK2 R938Q,B-cell childhood acute lymphoblastic leukemia,RUXOLITINIB,D,conditional qualifier in description
+JAX-CKB,c3ce4b1daa5d,KIT,KIT Y553S KIT V556_T574del KIT D820Y,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,763cfc36df8b,KIT,KIT K558_V560del KIT V654A,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,52e729eabba1,KRAS,KRAS G12D PTPN11 E76A,pancreatic ductal adenocarcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,417dac88b3b4,KRAS,KRAS G12D,exocrine pancreatic carcinoma,4550,D,conditional qualifier in description
+JAX-CKB,5786c6f3e559,KRAS,KRAS G12V,exocrine pancreatic carcinoma,4550,D,conditional qualifier in description
+JAX-CKB,eb749848ced7,KRAS,KRAS G12V,small cell lung carcinoma,4550,D,conditional qualifier in description
+JAX-CKB,a5af2aa1dbd2,KRAS,KRAS mutant,non-small cell lung carcinoma,GEFITINIB,A,conditional qualifier in description
+JAX-CKB,dc367ae1015d,KRAS,KRAS mutant,plasma cell myeloma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,d98425d602d4,KRAS,KRAS mutant,colorectal cancer,RO4987655,C,conditional qualifier in description
+JAX-CKB,64e593bbdc63,KRAS,KRAS mutant,non-small cell lung carcinoma,Erlotinib,C,conditional qualifier in description
+JAX-CKB,0a4e098da791,KRAS,KRAS mutant,colorectal cancer,CETUXIMAB,C,conditional qualifier in description
+JAX-CKB,63439d54209d,KRAS,KRAS mutant,colorectal cancer,REGORAFENIB,C,conditional qualifier in description
+JAX-CKB,359396458773,KRAS,KRAS mutant,acute myeloid leukemia,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,7372ad45c87b,KRAS,KRAS mutant,non-small cell lung carcinoma,OSIMERTINIB,A,conditional qualifier in description
+JAX-CKB,00b4160d06d5,KRAS,KRAS act mut,colorectal cancer,VENETOCLAX,D,conditional qualifier in description
+JAX-CKB,53d0dc564108,BRAF,BRAF wild-type NRAS wild-type,melanoma,PLX7904,D,conditional qualifier in description
+JAX-CKB,3720bac500b1,BRAF,BRAF G469V NRAS Q61K,melanoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,d7fb74008a48,BRAF,BRAF V600E,colorectal cancer,VEMURAFENIB,D,conditional qualifier in description
+JAX-CKB,3cf766929543,BRAF,BRAF V600E,melanoma,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,668075f7f3e6,BRAF,BRAF V600E KRAS A146T,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,5dc79cf4843b,BRAF,BRAF V600E KRAS A146T,colorectal cancer,ALPELISIB,D,conditional qualifier in description
+JAX-CKB,0a748f30a9c6,BRAF,BRAF V600E MET over exp,colorectal cancer,PANITUMUMAB,D,conditional qualifier in description
+JAX-CKB,25d200ab98c2,BRAF,BRAF V600E KRAS G13D,colorectal cancer,SCH772984,D,conditional qualifier in description
+JAX-CKB,67fcf1ac9827,BRAF,BRAF V600E NRAS G13R,colorectal cancer,ALPELISIB,C,conditional qualifier in description
+JAX-CKB,18acea5d7062,BRAF,BRAF amp BRAF V600E,colorectal cancer,CETUXIMAB,C,conditional qualifier in description
+JAX-CKB,172b867de54e,BRAF,BRAF mut PTEN wild-type,melanoma,BINIMETINIB,D,conditional qualifier in description
+JAX-CKB,fb892d632b02,BRAF,BRAF mutant,cancer,XL147,D,conditional qualifier in description
+JAX-CKB,004c94c8f238,BRAF,BRAF K601E,melanoma,DABRAFENIB,C,conditional qualifier in description
+JAX-CKB,4461175be88f,BRAF,BRAF G464V KRAS G13D,breast cancer,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,e1f73204a24d,BRAF,BRAF V47_D380del,melanoma,DABRAFENIB,C,conditional qualifier in description
+JAX-CKB,27318ae52017,BRAF,BRAF P731T,cancer,VEMURAFENIB,B,conditional qualifier in description
+JAX-CKB,52358b699587,BRAF,BRAF G469A,lung cancer,4550,D,conditional qualifier in description
+JAX-CKB,086f74ce678a,BRCA1,BRCA1 loss FGFR2-DNM3,triple-negative breast carcinoma,BUPARLISIB,D,conditional qualifier in description
+JAX-CKB,9b0d56fcb468,BRCA1,BRCA1 E23Vfs*17 BRCA1 E29Sfs*2 BRCA1 K38Sfs*12,ovarian cancer,CARBOPLATIN,C,conditional qualifier in description
+JAX-CKB,0d3cc50b3b20,BRCA2,BRCA2 mutant,triple-negative breast carcinoma,TALAZOPARIB,C,conditional qualifier in description
+JAX-CKB,f454e5c64b1c,BRCA2,BRCA2 mutant,ovarian carcinoma,BEVACIZUMAB,C,conditional qualifier in description
+JAX-CKB,ca69cc1f5649,BRCA2,BRCA2 inact mut,ovarian cancer,Cyclophosphamide,C,conditional qualifier in description
+JAX-CKB,89e598b009c8,BRCA2,BRCA2 N136_L139del BRCA2 N136Ifs*16 BRCA2 V130_N136delinsD,breast cancer,TALAZOPARIB,C,conditional qualifier in description
+JAX-CKB,78dc27103b23,CDH1,CDH1 over exp,non-small cell lung carcinoma,VOLASERTIB,D,conditional qualifier in description
+JAX-CKB,8c3d9c98fe92,NOTCH1,NOTCH1 EML4-ALK NOTCH1 D1533A,non-small cell lung carcinoma,CERITINIB,C,conditional qualifier in description
+JAX-CKB,ae98db8a8f16,ERBB2,ERBB2 pos PTEN loss,Her2-receptor positive breast cancer,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,82a9190ffc8e,ERBB2,ERBB2 amp,gastric adenocarcinoma,Lapatinib,B,conditional qualifier in description
+JAX-CKB,2138ae5028e9,ERBB2,ERBB2 amp,gastric carcinoma,Debio 1347,D,conditional qualifier in description
+JAX-CKB,48a55880f2f9,FGFR2,FGFR2 wild-type ERBB2 amp,gastric carcinoma,AZD4547,D,conditional qualifier in description
+JAX-CKB,19813f4294e1,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,NERATINIB,D,conditional qualifier in description
+JAX-CKB,8f973359269b,ERBB2,ERBB2 G776delinsVC,non-small cell lung carcinoma,Erlotinib,C,conditional qualifier in description
+JAX-CKB,45fcf236810a,ERBB2,ERBB2 G776delinsVC,non-small cell lung carcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,8449cf977e62,ERBB2,ERBB2 G776delinsVC,non-small cell lung carcinoma,Lapatinib,C,conditional qualifier in description
+JAX-CKB,9a580789afe4,ERBB2,ERBB2 G776delinsVC,non-small cell lung carcinoma,DACOMITINIB,C,conditional qualifier in description
+JAX-CKB,f15bb68c645d,ERBB2,ERBB2 R678Q,endometrial cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,734f0771bcfc,ERBB2,ERBB2 R678Q,cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,2fd71bc7d183,ERBB2,ERBB2 R678Q,cancer,Erlotinib,D,conditional qualifier in description
+JAX-CKB,486adf427ad1,ERBB2,ERBB2 mutant,urinary bladder cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,a97933b20173,ERBB2,ERBB2 Y772_A775dup,lung cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,726fce943397,ERBB2,ERBB2 Y772_A775dup ERBB2 C805S,cancer,Lapatinib,D,conditional qualifier in description
+JAX-CKB,f0070f119432,ERBB2,ERBB2 G660D,cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,c5bd758b076d,ERBB2,ERBB2 S310F,endometrial cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,b15ad47ca7da,ERBB2,ERBB2 S310F,biliary tract cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,3d5d51165d14,ERBB2,ERBB2 D769H,Her2-receptor negative breast cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,14cc61526e2e,ERBB2,ERBB2 neg MET pos,gastric adenocarcinoma,FLUOROURACIL,B,conditional qualifier in description
+JAX-CKB,7eaf49d0b475,ERBB2,ERBB2 negative,Her2-receptor negative breast cancer,DOCETAXEL,B,conditional qualifier in description
+JAX-CKB,b7cce9dfa739,KRAS,KRAS G12V EZH2 pos,lung adenocarcinoma,3-Deazaneplanocin,D,conditional qualifier in description
+JAX-CKB,04d70a72ade9,KRAS,KRAS G12V EZH2 pos,lung adenocarcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,2aa9a6247b27,KRAS,KRAS G12D EZH2 pos,colon carcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,03131c4a069f,FBXW7,FBXW7 R505C,T-cell adult acute lymphocytic leukemia,603107-76-2,D,conditional qualifier in description
+JAX-CKB,2e65a220ad27,FBXW7,FBXW7 del,T-cell adult acute lymphocytic leukemia,603107-76-2,D,conditional qualifier in description
+JAX-CKB,90a0d1856fcc,FGFR1,FGFR1 amp NRAS over exp,non-small cell lung carcinoma,NVP-BGJ398,D,conditional qualifier in description
+JAX-CKB,1d758b9dfb6e,FGFR1,FGFR1 amp NRAS amp,non-small cell lung carcinoma,NVP-BGJ398,D,conditional qualifier in description
+JAX-CKB,cef9907ee4d6,FGFR1,FGFR1 amp,non-small cell lung carcinoma,RO4987655,D,conditional qualifier in description
+JAX-CKB,415616a13a01,FGFR1,FGFR1 amp,non-small cell lung carcinoma,946128-88-7,D,conditional qualifier in description
+JAX-CKB,b9e21867ff60,FGFR1,FGFR1 amp,non-small cell lung carcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,b287f317e3f8,FGFR1,FGFR1 amp,lung cancer,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,6e0c8d9dd121,FGFR1,FGFR1 positive,synovial sarcoma,AZD4547,D,conditional qualifier in description
+JAX-CKB,ba63cf0ac85a,FGFR1,FGFR1 positive,leiomyosarcoma,219580-11-7,D,conditional qualifier in description
+JAX-CKB,6a37f5d64f57,FGFR1,FGFR1 positive,leiomyosarcoma,NVP-BGJ398,D,conditional qualifier in description
+JAX-CKB,b6fe3c74c85b,FGFR1,FGFR1 positive,synovial sarcoma,219580-11-7,D,conditional qualifier in description
+JAX-CKB,9ddf8dd4eb86,FGFR1,FGFR1 positive,leiomyosarcoma of the corpus uteri,219580-11-7,D,conditional qualifier in description
+JAX-CKB,74c15faddc9a,FGFR1,FGFR1 wild-type,breast cancer,PONATINIB,D,conditional qualifier in description
+JAX-CKB,1f10c491bb29,FGFR2,FGFR2 amp,colon carcinoma,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,3c7b923b5544,FGFR2,FGFR2 amp,gastric carcinoma,946128-88-7,D,conditional qualifier in description
+JAX-CKB,c88fec2f8d61,FGFR2,FGFR2 N550H,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,a05baf50f996,FGFR2,FGFR2 dec exp KRAS mut,lung cancer,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,afbc123a98da,FGFR2,FGFR2-TNS1,triple-negative breast carcinoma,BUPARLISIB,D,"gene-level, no specific alteration"
+JAX-CKB,60bfd15b6a07,FGFR2,FGFR2 over exp,endometrial cancer,AZD4547,D,conditional qualifier in description
+JAX-CKB,032fbf30764d,FGFR2,FGFR2 N549K,endometrial carcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,077e643e03cc,FGFR2,FGFR2 wild-type,colon carcinoma,PONATINIB,D,conditional qualifier in description
+JAX-CKB,064853c8bc04,FGFR2,FGFR2 wild-type,breast cancer,PONATINIB,D,conditional qualifier in description
+JAX-CKB,b7aebc967e8f,FGFR3,FGFR3 L608V FGFR3 V555M,transitional cell carcinoma,NVP-BGJ398,C,conditional qualifier in description
+JAX-CKB,08f19809e7a4,FGFR3,FGFR3-TACC3,bladder urothelial papilloma,RO4987655,D,"gene-level, no specific alteration"
+JAX-CKB,986d47722b0f,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 N841K,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,e63936bfc1b0,FLT3,FLT3 exon 14 ins FLT3 D835Y,childhood leukemia,PEXIDARTINIB,C,conditional qualifier in description
+JAX-CKB,4be9533c8cd0,ALK,ALK EML4-ALK ALK F1174V ALK I1171S,non-small cell lung carcinoma,ALECTINIB,C,conditional qualifier in description
+JAX-CKB,fe7d40ba58c0,ALK,ALK G1123S ALK rearrange,lung adenocarcinoma,CERITINIB,C,conditional qualifier in description
+JAX-CKB,841ab49d899c,ALK,ALK rearrange,non-small cell lung carcinoma,DURVALUMAB,A,conditional qualifier in description
+JAX-CKB,9b39b50e3bd7,ALK,ALK rearrange,non-small cell lung carcinoma,AFATINIB,A,conditional qualifier in description
+JAX-CKB,278f002113a4,ALK,ALK rearrange,non-small cell lung carcinoma,NIVOLUMAB,B,conditional qualifier in description
+JAX-CKB,5f99262be804,ALK,ALK rearrange ALK C1156Y,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,fc7a0618d123,ALK,ALK wild-type,endometrial cancer,Delantercept,C,conditional qualifier in description
+JAX-CKB,35e1cff3ba3e,ALK,ALK	wild-type TP53 H168R,neuroblastoma,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,b8f04b28b02c,ALK,ALK EML4-ALK ALK C1156Y ALK L1196M,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,1f1cb0ec0201,ALK,ALK EML4-ALK ALK L1196M ALK F1174L,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,c3cfc0ed35e5,ALK,ALK positive,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,bf7b62d7036d,APC,APC N1819fs APC wild-type,colorectal cancer,G007,D,conditional qualifier in description
+JAX-CKB,3522e65f8748,APC,APC Q1429fs BRAF N581S ERBB2 L755S,rectum adenocarcinoma,FLUOROURACIL,C,conditional qualifier in description
+JAX-CKB,0a4e1e9d8656,APC,APC inact mut KRAS G12D PTEN inact mut,colorectal cancer,BINIMETINIB,D,conditional qualifier in description
+JAX-CKB,600e1ec69fd5,ATM,ATM over exp,gastric carcinoma,VELIPARIB,D,conditional qualifier in description
+JAX-CKB,87513f369917,BRAF,BRAF wild-type,melanoma,PLX-4720,D,conditional qualifier in description
+JAX-CKB,360c0b6f735d,TP53,TP53 loss,mantle cell lymphoma,BENDAMUSTINE,C,conditional qualifier in description
+JAX-CKB,cb6d1ad495d4,TP53,TP53 loss,acute myeloid leukemia,ALRN-6924,D,conditional qualifier in description
+JAX-CKB,1a4faeb4bc1d,TP53,TP53 del,ovarian cancer,Nutlin-3,D,conditional qualifier in description
+JAX-CKB,eb60f566a21f,TP53,TP53 mutant,neuroblastoma,Nutlin-3,D,conditional qualifier in description
+JAX-CKB,7f2709840238,TP53,TP53 mutant,ovarian clear cell adenocarcinoma,DS-7423,D,conditional qualifier in description
+JAX-CKB,5e74b429855e,TP53,TP53 mutant,childhood leukemia,UNII-Q8MI0X869M,C,conditional qualifier in description
+JAX-CKB,91cd59f8977e,VHL,VHL mutant,renal cell adenocarcinoma,,C,conditional qualifier in description
+JAX-CKB,8341512be4e1,VHL,VHL over exp,nonpapillary renal cell carcinoma,CEDIRANIB,C,conditional qualifier in description
+JAX-CKB,1b08c73f6e15,KRAS,KRAS mutant,cancer,COBIMETINIB,C,conditional qualifier in description
+JAX-CKB,70b50366a13b,KRAS,KRAS mutant,endometrial cancer,TEMSIROLIMUS,C,conditional qualifier in description
+JAX-CKB,8c8d45c8965d,KRAS,KRAS mutant,lung adenocarcinoma,BINIMETINIB,D,conditional qualifier in description
+JAX-CKB,ee05bae69d5c,KRAS,KRAS mutant,non-small cell lung carcinoma,DOCETAXEL,C,conditional qualifier in description
+JAX-CKB,3a61e9214c56,KRAS,KRAS mutant,pancreatic ductal adenocarcinoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,0c15ade13501,KRAS,KRAS G12X,colorectal cancer,FLUOROURACIL,B,conditional qualifier in description
+JAX-CKB,ce990334d2e4,KRAS,KRAS Q61X,cancer,4550,D,conditional qualifier in description
+JAX-CKB,90010134311e,KRAS,KRAS wild-type,lung cancer,PONATINIB,D,conditional qualifier in description
+JAX-CKB,23f500b09559,KRAS,KRAS wild-type,colorectal cancer,AZD4785,D,conditional qualifier in description
+JAX-CKB,ee424f2abb14,KRAS,KRAS G13D,lung cancer,4550,D,conditional qualifier in description
+JAX-CKB,f9c758591b00,KRAS,KRAS G12A MET amp,lung cancer,3396-99-4,D,conditional qualifier in description
+JAX-CKB,2f9fd01604b3,KRAS,KRAS amp MET del exon14,non-small cell lung carcinoma,Lapatinib,D,conditional qualifier in description
+JAX-CKB,61af5e30ed66,MAP2K1,MAP2K1 Y134C KRAS Q61H,lung adenocarcinoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,289152cc5af6,KRAS,KRAS G12S,lung adenocarcinoma,Erlotinib,D,conditional qualifier in description
+JAX-CKB,2332a55c75f7,MET,MET amp MET del exon14 MET D1228N MET G1163R MET L1195V,lung adenocarcinoma,GLESATINIB,C,conditional qualifier in description
+JAX-CKB,b9f9a58101d4,MET,MET amp,cancer,5-[1-(3,C,conditional qualifier in description
+JAX-CKB,ce1d9daa6f44,MET,MET over exp,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,654fce8de59c,MET,MET over exp,hepatocellular carcinoma,TIVANTINIB,B,conditional qualifier in description
+JAX-CKB,6df9195ac31e,MET,MET wild-type,colorectal cancer,GLESATINIB,D,conditional qualifier in description
+JAX-CKB,3184fc629a07,NOTCH1,NOTCH1 wild-type,triple-negative breast carcinoma,603107-76-2,D,conditional qualifier in description
+JAX-CKB,6600dc10deb4,NRAS,NRAS mutant,acute myeloid leukemia,VEMURAFENIB,D,conditional qualifier in description
+JAX-CKB,094aa53048c5,NRAS,NRAS mutant,acute myeloid leukemia,PAZOPANIB,D,conditional qualifier in description
+JAX-CKB,edd74e2ae254,NRAS,NRAS mutant,sarcoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,881eed53c08e,NRAS,NRAS mutant,acute myeloid leukemia,TIVOZANIB,D,conditional qualifier in description
+JAX-CKB,d596297911f7,NRAS,NRAS mutant,cancer,15-Trans-1,D,conditional qualifier in description
+JAX-CKB,d1ae756d4794,NRAS,NRAS mutant,colon carcinoma,GDC-0879,D,conditional qualifier in description
+JAX-CKB,408e6b0fc8ad,PTEN,PTEN del,cancer,GSK2636771,C,conditional qualifier in description
+JAX-CKB,903d3b77e521,PTEN,PTEN loss VHL loss,renal carcinoma,GEDATOLISIB,D,conditional qualifier in description
+JAX-CKB,51bc1d8a769b,PTEN,PTEN loss,ovarian mucinous neoplasm,OXALIPLATIN,D,conditional qualifier in description
+JAX-CKB,083dd87870a4,PTEN,PTEN loss,breast cancer,EVEROLIMUS,D,conditional qualifier in description
+JAX-CKB,dde2dae72020,PTEN,PTEN loss,prostate cancer,CX-5461,D,conditional qualifier in description
+JAX-CKB,344fb68c113a,PTEN,PTEN loss,squamous cell lung carcinoma,BUPARLISIB,D,conditional qualifier in description
+JAX-CKB,33525aa7a378,PTEN,PTEN loss,melanoma,NIVOLUMAB,C,conditional qualifier in description
+JAX-CKB,2d0dd4536454,PTEN,PTEN wild-type,uterine cancer,GSK2256098,D,conditional qualifier in description
+JAX-CKB,1d36000c83e4,PTEN,PTEN negative,glioma susceptibility 1,TEMOZOLOMIDE,C,conditional qualifier in description
+JAX-CKB,cf1649824915,PTEN,PTEN mutant,hepatocellular carcinoma,Sorafenib,B,conditional qualifier in description
+JAX-CKB,ac47d6246ec3,PTEN,PTEN mutant,head and neck squamous cell carcinoma,TASELISIB,D,conditional qualifier in description
+JAX-CKB,a2d470009637,RET,RET M918T RET V804M,thyroid medullary carcinoma,EVEROLIMUS,C,conditional qualifier in description
+JAX-CKB,ca3efb5ab152,ROS1,ROS1 rearrange,non-small cell lung carcinoma,ALECTINIB,A,conditional qualifier in description
+JAX-CKB,3a9a370a7e5f,SMAD4,SMAD4 mutant,colorectal cancer,CETUXIMAB,C,conditional qualifier in description
+JAX-CKB,97c76c1fefe5,SMO,SMO A327P,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,ffc13ac0fbde,SMO,SMO P513L,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,10c8e2b28ced,SMO,SMO E518K,cancer,(5r,D,conditional qualifier in description
+JAX-CKB,69edf89e11e0,SMO,SMO T640A,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,45f9979e39e6,SMO,SMO R199Q,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,1c1c54c400cf,SMO,SMO L325F,cancer,(5r,D,conditional qualifier in description
+JAX-CKB,d4df0e678d02,SMO,SMO D384A,cancer,(5r,D,conditional qualifier in description
+JAX-CKB,3968bcdb5f36,SMO,SMO W281L,skin basal cell carcinoma,VISMODEGIB,C,conditional qualifier in description
+JAX-CKB,0309af687a56,SMO,SMO P739S,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,882494af6a36,STK11,STK11 mutant,non-small cell lung carcinoma,OLENDALIZUMAB,B,conditional qualifier in description
+JAX-CKB,b42f83ed5e72,STK11,STK11 loss,lung cancer,OLENDALIZUMAB,D,conditional qualifier in description
+JAX-CKB,927c9ef93b53,FLT3,FLT3 exon 14 ins FLT3 Y842C,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,1b782b569b95,FLT3,FLT3 exon 14 ins FLT3 D835H,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,4fe6826d7673,IDH1,IDH1 mutant,chondrosarcoma,DASATINIB,D,conditional qualifier in description
+JAX-CKB,185a995b5962,KIT,KIT D820N,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,1fc2f8ae4a30,KIT,KIT V569_L576del KIT V654A KIT N822K,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,b74246383e5f,KIT,KIT D816V NRAS Q61R,melanoma,PEMBROLIZUMAB,C,conditional qualifier in description
+JAX-CKB,cbc27a994a60,KIT,KIT A502_Y503dup KIT N822K,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,9bf0cebd67f6,KIT,KIT D816H,cancer,REGORAFENIB,D,conditional qualifier in description
+JAX-CKB,7a72506e6923,KRAS,KRAS G12D,lung cancer,915019-65-7,D,conditional qualifier in description
+JAX-CKB,93aac122e961,KRAS,KRAS G12D PTEN dec exp TP53 R306*,colorectal cancer,SAPANISERTIB,D,conditional qualifier in description
+JAX-CKB,e4c28a326bbe,KRAS,KRAS mutant,non-small cell lung carcinoma,GDC-0879,D,conditional qualifier in description
+JAX-CKB,7ad3a9999a35,KRAS,KRAS mutant,acute myeloid leukemia,TAE684,D,conditional qualifier in description
+JAX-CKB,c6149b24a9f0,KRAS,KRAS mutant,cancer,CC-90003,C,conditional qualifier in description
+JAX-CKB,81ff33baf6fc,KRAS,KRAS mutant,gastric carcinoma,Poziotinib,D,conditional qualifier in description
+JAX-CKB,5bcd31fac6fb,KRAS,KRAS mutant,lung adenocarcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,1eac5908e154,BRAF,BRAF wild-type,melanoma,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,03c9737062fe,BRAF,BRAF V600D NRAS dec exp,melanoma,BINIMETINIB,D,conditional qualifier in description
+JAX-CKB,c2c4f87d56e9,BRAF,BRAF G469V NRAS Q61K,melanoma,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,b4d1b2bb0d7a,BRAF,BRAF V600E MAP2K1 V211D,colorectal cancer,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,7d6372537411,BRAF,BRAF V600E MAP2K1 C121S,melanoma,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,aa2a68a59d34,BRAF,BRAF V600E KRAS G13D,colorectal cancer,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,0e8b8fe59d3a,BRAF,BRAF V600E KRAS G12A,colorectal cancer,ALPELISIB,C,conditional qualifier in description
+JAX-CKB,abbe9c1be763,BRAF,BRAF V600E MET amp,colorectal cancer,ALPELISIB,C,conditional qualifier in description
+JAX-CKB,06df6b240ae7,BRAF,BRAF V600E MET amp,rectum mucinous adenocarcinoma,PANITUMUMAB,C,conditional qualifier in description
+JAX-CKB,30005c744083,BRAF,BRAF V47_D380del BRAF V600E,colorectal cancer,ALPELISIB,C,conditional qualifier in description
+JAX-CKB,ea0289510cb2,BRAF,BRAF V600E KRAS G12D,colorectal cancer,ALPELISIB,D,conditional qualifier in description
+JAX-CKB,9053568913fa,BRAF,BRAF V600E MAP2K1 K57T,hairy cell leukemia,VEMURAFENIB,C,conditional qualifier in description
+JAX-CKB,eda97c278e2b,BRAF,BRAF amp BRAF V600E,colorectal cancer,SCH772984,D,conditional qualifier in description
+JAX-CKB,f9eded47261d,BRAF,BRAF V600E KRAS amp,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,e7ae6da88121,BRAF,BRAF mut PTEN wild-type,melanoma,NVP,D,conditional qualifier in description
+JAX-CKB,39bc644d8473,BRAF,BRAF mut RB1 loss,melanoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,7a2192ecbd9c,BRAF,BRAF mutant,colorectal cancer,REGORAFENIB,C,conditional qualifier in description
+JAX-CKB,a47157d995d1,BRAF,BRAF mut PTEN loss,melanoma,PEMBROLIZUMAB,D,conditional qualifier in description
+JAX-CKB,8b49bcc71e9d,BRAF,BRAF mut STAG2 dec exp,melanoma,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,a9b5939e3350,BRCA1,BRCA1 wild-type,breast cancer,OLAPARIB,D,conditional qualifier in description
+JAX-CKB,4f77764a7d89,CDKN2A,CDKN2A loss,exocrine pancreatic carcinoma,Gemcitabine,D,conditional qualifier in description
+JAX-CKB,98bd9e6620bc,NOTCH1,NOTCH1 EML4-ALK NOTCH1 D1538A,non-small cell lung carcinoma,BRIGATINIB,C,conditional qualifier in description
+JAX-CKB,e24752b37a49,ERBB2,ERBB2 over exp,uterine cancer,PERTUZUMAB,C,conditional qualifier in description
+JAX-CKB,4cacc2e4bb3c,ERBB2,ERBB2 T733I,biliary tract cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,a7066abb23cd,ERBB2,ERBB2 G660R,cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,20df60a60f54,ERBB2,ERBB2 D769N,cervical cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,16e1d168ffc0,ERBB2,ERBB2 pos PTEN loss,Her2-receptor positive breast cancer,TRASTUZUMAB,C,conditional qualifier in description
+JAX-CKB,d30d11145d1f,ERBB2,ERBB2 positive,transitional cell carcinoma,lapuleucel-T,C,conditional qualifier in description
+JAX-CKB,e06f16e6d922,ERBB2,ERBB2 pos PTEN dec exp,Her2-receptor positive breast cancer,TRASTUZUMAB,B,conditional qualifier in description
+JAX-CKB,d962adb22df9,ERBB2,ERBB2 amp,colorectal cancer,Lapatinib,D,conditional qualifier in description
+JAX-CKB,95ae9bc08a79,ERBB2,ERBB2 amp ERBB2 L755S,Her2-receptor positive breast cancer,Ado,D,conditional qualifier in description
+JAX-CKB,fe1e1cfb8bb0,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,Pyrotinib,D,conditional qualifier in description
+JAX-CKB,7050f6ec6aaa,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,AZ5104,D,conditional qualifier in description
+JAX-CKB,ed9cbcd0dd6c,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,TUCATINIB,D,conditional qualifier in description
+JAX-CKB,add3222a1bf4,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,Erlotinib,D,conditional qualifier in description
+JAX-CKB,521b0752eff6,ERBB2,ERBB2 L755S ERBB2 R1153* ERBB2 V777L,urinary bladder cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,100d2437a11a,ERBB2,ERBB2 G778_P780dup,lung cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,5ef259a85ce8,ERBB2,ERBB2 L755P,non-small cell lung carcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,30ca6e984e41,ERBB2,ERBB2 mutant,endometrial cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,f22a1fe502a6,ERBB2,ERBB2 V659E,biliary tract cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,b76e8ce4a229,ERBB2,ERBB2 L663P,cancer,Erlotinib,D,conditional qualifier in description
+JAX-CKB,7a66629ecb3f,ERBB2,ERBB2 Q709L,cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,f1480b5da7b3,ERBB2,ERBB2 neg MET pos,gastric adenocarcinoma,RILOTUMUMAB,B,conditional qualifier in description
+JAX-CKB,1e55c479bf66,KRAS,KRAS G12C EZH2 pos,lung adenocarcinoma,MK-2206,D,conditional qualifier in description
+JAX-CKB,91eb41b8b645,KRAS,KRAS G12C EZH2 pos,lung adenocarcinoma,GSK343,D,conditional qualifier in description
+JAX-CKB,5e9f7a14f401,FBXW7,FBXW7 R505C,colorectal cancer,REGORAFENIB,D,conditional qualifier in description
+JAX-CKB,aa21bea94563,FBXW7,FBXW7 R479Q,T-cell adult acute lymphocytic leukemia,603107-76-2,D,conditional qualifier in description
+JAX-CKB,674c6e00a6d8,FGFR1,FGFR1 amp MET over exp,lung cancer,REGORAFENIB,D,conditional qualifier in description
+JAX-CKB,5805023d9f87,FGFR1,FGFR1 amp,small cell lung carcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,6d065aee8714,FGFR1,FGFR1 amp,squamous cell lung carcinoma,RO4987655,D,conditional qualifier in description
+JAX-CKB,8216ba01f780,FGFR1,FGFR1 amp,squamous cell lung carcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,88ebf211c857,FGFR1,FGFR1 amp,squamous cell lung carcinoma,946128-88-7,D,conditional qualifier in description
+JAX-CKB,babecf41beb4,FGFR1,FGFR1 amp,squamous cell lung carcinoma,DOVITINIB,C,conditional qualifier in description
+JAX-CKB,e848c4575080,ALK,ALK EML4-ALK ALK G1202R,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,b1db97c39e0b,ALK,ALK EML4-ALK ALK G1202R,non-small cell lung carcinoma,ALECTINIB,C,conditional qualifier in description
+JAX-CKB,26987bc6a30b,ALK,ALK EML4-ALK ALK C1156Y ALK F1174I,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,4f2fdef600a8,ALK,ALK EML4-ALK ALK C1156Y ALK F1174V,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,be37840a72d0,ALK,ALK EML4-ALK ALK F1245C,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,8a2fe3878d93,ALK,ALK EML4-ALK ALK S1206Y,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,22cd540f1bca,APC,APC N1819fs APC wild-type,colorectal cancer,284028-89-3,D,conditional qualifier in description
+JAX-CKB,f90eb75d8b14,APC,APC mutant,colorectal cancer,631,D,conditional qualifier in description
+JAX-CKB,235087f90c70,APC,APC inact mut PTEN inact mut,colorectal cancer,BINIMETINIB,D,conditional qualifier in description
+JAX-CKB,cecc48c6d97d,ARID1A,ARID1A loss,Her2-receptor positive breast cancer,AZD8055,D,conditional qualifier in description
+JAX-CKB,1ce3917ae77a,BRAF,BRAF G464E KRAS G12D,melanoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,b95b54baa41f,AKT1,AKT1 S266L FGFR1 amp,lung cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,9e05ef6d1e8c,ALK,ALK EML4-ALK ALK I1171T,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,ae1626b9008e,ALK,ALK EML4-ALK ALK G1269A ALK I1171T,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,145cc38ceaba,ALK,ALK EML4-ALK ALK C1156Y ALK I1171T,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,edd2412cf93f,ALK,ALK EML4-ALK ALK C1156Y ALK L1256F,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,112a0248da47,ALK,ALK EML4-ALK ALK F1174C ALK G1269A,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,7a91d15d35e3,ALK,ALK rearrange ALK T1151dup ALK G1269A,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,72307e483ae0,ALK,ALK rearrange,non-small cell lung carcinoma,PEMBROLIZUMAB,A,conditional qualifier in description
+JAX-CKB,22df13bd04f9,ALK,ALK rearrange TP53 mut,non-small cell lung carcinoma,CRIZOTINIB,B,conditional qualifier in description
+JAX-CKB,266e55981557,ALK,ALK rearrange TP53 mut,non-small cell lung carcinoma,CERITINIB,B,conditional qualifier in description
+JAX-CKB,1c91c2731624,ALK,ALK	wild-type TP53 C176F,neuroblastoma,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,9db76b95072c,ALK,ALK wild-type,neuroblastoma,ETHEPHON,D,conditional qualifier in description
+JAX-CKB,199e3b370fb4,ALK,ALK EML4-ALK ALK G1269A ALK L1196M,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,69ea7604932d,FGFR1,FGFR1 wild-type,lung cancer,AZD4547,D,conditional qualifier in description
+JAX-CKB,865c0581cbd8,FGFR2,FGFR2 amp,estrogen-receptor negative breast cancer,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,6daecd80fcf2,FGFR2,FGFR2 amp,gastric adenocarcinoma,AZD4547,C,conditional qualifier in description
+JAX-CKB,151903793322,FGFR2,FGFR2 amp,gastric carcinoma,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,c9c2b8bca81d,FGFR2,FGFR2 N550S,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,af10c9fe7b60,FGFR2,FGFR2 dec exp,breast cancer,BAY1187982,D,conditional qualifier in description
+JAX-CKB,d3d0b675d64a,FGFR2,FGFR2 I548V,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,389ffb4e97e9,FGFR2,FGFR2 N549K,endometrial cancer,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,74fdd36e8a39,FGFR2,FGFR2 wild-type,endometrial cancer,AZD4547,D,conditional qualifier in description
+JAX-CKB,49673b3e6a19,FGFR2,FGFR2 V565I,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,cdf359e5ad9f,FGFR2,FGFR2 L618M,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,6a8cbb32c3ff,FGFR3,FGFR3 S249C,urinary bladder cancer,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,969376d5b5f3,FGFR3,FGFR3 Y375C,urinary bladder cancer,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,08def003c2f3,FGFR3,FGFR3 Y373C,myeloid neoplasm,RO4987655,D,conditional qualifier in description
+JAX-CKB,a40aa928c0d7,FGFR3,FGFR3 act mut,cancer,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,a6a7bf268d0f,FLT3,FLT3 exon 14 ins FLT3 M837G FLT3 S838R FLT3 D839H,childhood leukemia,PEXIDARTINIB,C,conditional qualifier in description
+JAX-CKB,8a54851b5618,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 Y842S,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,7db8dacce390,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 D698N,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,1717b33739e2,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 D839G,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,bfc468d7f0e4,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 G846R,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,28fe23f9f936,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 D835H,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,1857cf8a12a7,AKT1,AKT1 act mut,lymphoma,SIROLIMUS,D,conditional qualifier in description
+JAX-CKB,0b9985b22224,ALK,ALK EML4-ALK ALK L1196M ALK I1171S,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,a957c532ec0b,ALK,ALK EML4-ALK ALK I1171S,non-small cell lung carcinoma,ALECTINIB,C,conditional qualifier in description
+JAX-CKB,29e56bc8e185,ALK,ALK EML4-ALK ALK L1196M ALK L1256F,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,f4a063c783e4,ALK,ALK EML4-ALK ALK L1196M ALK F1174C,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,f43fc4a9bbcb,ALK,ALK EML4-ALK ALK C1156Y ALK F1174C,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,8bedbf5578ed,ALK,ALK rearrange ALK G1202R ALK G1269A ALK L1204V,non-small cell lung carcinoma,LORLATINIB,C,conditional qualifier in description
+JAX-CKB,c8fcb9f4c092,ALK,ALK rearrange ALK E1210K ALK D1203N ALK G1269A,non-small cell lung carcinoma,LORLATINIB,C,conditional qualifier in description
+JAX-CKB,2f7337f86848,ALK,ALK rearrange ALK I1171N,non-small cell lung carcinoma,ALECTINIB,C,conditional qualifier in description
+JAX-CKB,79562a58af3e,ALK,ALK wild-type,neuroblastoma,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,4bf177b99e7b,ALK,ALK wild-type TP53 wild-type,neuroblastoma,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,c2e37c43b1f8,ALK,ALK EML4-ALK ALK L1196M ALK G1202R,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,f1fed91dd438,ALK,ALK EML4-ALK ALK L1196M ALK F1174V,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,3a5ba3df0630,FLT3,FLT3 exon 14 ins FLT3 D835H,childhood leukemia,PEXIDARTINIB,C,conditional qualifier in description
+JAX-CKB,6101bf99b867,FLT3,FLT3 exon 14 ins FLT3 S652G,childhood leukemia,PEXIDARTINIB,C,conditional qualifier in description
+JAX-CKB,6e9c348988c5,HRAS,HRAS Q61L,squamous cell lung carcinoma,BUPARLISIB,D,conditional qualifier in description
+JAX-CKB,a885cbba3913,IDH1,IDH1 wild-type PTEN mutant,glioma susceptibility 1,PEMBROLIZUMAB,B,conditional qualifier in description
+JAX-CKB,4ba0812a5561,IDH2,IDH2 R140Q IDH2 I139M,acute myeloid leukemia,ENASIDENIB,C,conditional qualifier in description
+JAX-CKB,6d4e70dc8e2f,KDR,KDR over exp,breast cancer,SUNITINIB,D,conditional qualifier in description
+JAX-CKB,d7c3e5209fcb,KDR,KDR amp,non-small cell lung carcinoma,VANDETANIB,B,conditional qualifier in description
+JAX-CKB,138310101506,KIT,KIT W557_K558del KIT V654A,cancer,Imatinib,D,conditional qualifier in description
+JAX-CKB,44de86bde5c6,KIT,KIT A502_Y503dup PDGFRA H687Y,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,c8a3b26d1326,KIT,KIT W557_K558delinsCE KIT N822K,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,932469345bf1,KIT,KIT V559A,gastrointestinal stromal tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,5fc2aff50844,KIT,KIT wild-type,acute megakaryoblastic leukemia,BLU-285,D,conditional qualifier in description
+JAX-CKB,9aa6f2b499d6,KIT,KIT positive,germ cell tumor,Imatinib,C,conditional qualifier in description
+JAX-CKB,c03ca21bc134,KRAS,KRAS G12D,colon carcinoma,4550,D,conditional qualifier in description
+JAX-CKB,c68a511bc3d8,KRAS,KRAS G12D PTEN loss TP53 V216M,colorectal cancer,SAPANISERTIB,D,conditional qualifier in description
+JAX-CKB,2633f50fa09a,KRAS,KRAS mutant,cancer,CH5132799,D,conditional qualifier in description
+JAX-CKB,366cfd7f2636,KRAS,KRAS mutant,lung cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,291576dd65ac,KRAS,KRAS mutant,breast cancer,273,D,conditional qualifier in description
+JAX-CKB,b9d94128f016,KRAS,KRAS mutant,lung cancer,AFATINIB,D,conditional qualifier in description
+JAX-CKB,55a7189df728,KRAS,KRAS mutant,colorectal cancer,BEVACIZUMAB,C,conditional qualifier in description
+JAX-CKB,c5b0a8805a94,KRAS,KRAS mutant,colorectal cancer,FLUOROURACIL,C,conditional qualifier in description
+JAX-CKB,e7d5fbbb081a,KRAS,KRAS mutant,non-small cell lung carcinoma,SELUMETINIB,C,conditional qualifier in description
+JAX-CKB,1a1cce998a19,KRAS,KRAS mutant,exocrine pancreatic carcinoma,Gemcitabine,C,conditional qualifier in description
+JAX-CKB,f2e29f7a8ed4,KRAS,KRAS Q61K,gastric adenocarcinoma,4550,D,conditional qualifier in description
+JAX-CKB,649c57f835e6,KRAS,KRAS wild-type,non-small cell lung carcinoma,DOCETAXEL,C,conditional qualifier in description
+JAX-CKB,05d35c4b96fd,KRAS,KRAS wild-type,colorectal adenocarcinoma,CETUXIMAB,C,conditional qualifier in description
+JAX-CKB,b8e2a164b3f8,KRAS,KRAS wild-type,squamous cell carcinoma,Metformin,D,conditional qualifier in description
+JAX-CKB,33b4eabd76af,KRAS,KRAS G13D,colon carcinoma,BUPARLISIB,D,conditional qualifier in description
+JAX-CKB,e3f818ee68a9,KRAS,KRAS amp MET del exon14,non-small cell lung carcinoma,LINSITINIB,D,conditional qualifier in description
+JAX-CKB,353b01c2bf0d,MAP2K1,MAP2K1 V211D,cancer,167869-21-8,D,conditional qualifier in description
+JAX-CKB,ecf31b144596,MET,MET negative,triple-negative breast carcinoma,CABOZANTINIB,D,conditional qualifier in description
+JAX-CKB,61ab05a57dcc,BRAF,BRAF G469V,melanoma,ENCORAFENIB,D,conditional qualifier in description
+JAX-CKB,c17b07452f4a,BRAF,BRAF G469L,lung adenocarcinoma,VEMURAFENIB,C,conditional qualifier in description
+JAX-CKB,739fdd87e02d,BRAF,BRAF V600E,melanoma,4550,D,conditional qualifier in description
+JAX-CKB,deeff3d2a81d,BRAF,BRAF V600E,melanoma,SHP099,D,conditional qualifier in description
+JAX-CKB,9753e2fec4b6,BRAF,BRAF V600E,colorectal cancer,PANITUMUMAB,C,conditional qualifier in description
+JAX-CKB,82af68323ddc,BRAF,BRAF V600E NRAS amp,colorectal cancer,PANITUMUMAB,C,conditional qualifier in description
+JAX-CKB,c33d04cd5197,BRAF,BRAF V600E MAP2K1 V211D,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,6f86406f7eaf,BRAF,BRAF V600E KRAS amp MET amp,colorectal cancer,PANITUMUMAB,C,conditional qualifier in description
+JAX-CKB,bdb19821118d,BRAF,BRAF V600E KRAS A146T KRAS A146V,colorectal cancer,ALPELISIB,D,conditional qualifier in description
+JAX-CKB,7efc2de7db0f,BRAF,BRAF V600E MAP2K1 L115P,colorectal cancer,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,356790cb53bb,BRAF,BRAF amp BRAF V600E,colorectal cancer,PANITUMUMAB,C,conditional qualifier in description
+JAX-CKB,ef1af61ce796,BRAF,BRAF mut STAG2 dec exp,melanoma,VEMURAFENIB,D,conditional qualifier in description
+JAX-CKB,713d42e329de,BRAF,BRAF N581S,cancer,VEMURAFENIB,B,conditional qualifier in description
+JAX-CKB,3efb854cbe98,BRAF,BRAF V600X,colorectal cancer,VEMURAFENIB,C,conditional qualifier in description
+JAX-CKB,c4168a711d84,BRCA1,BRCA1 wild-type,triple-negative breast carcinoma,CARBOPLATIN,D,conditional qualifier in description
+JAX-CKB,5db9a539e755,BRCA1,BRCA1 mutant,ovarian carcinoma,BEVACIZUMAB,B,conditional qualifier in description
+JAX-CKB,aa4e5487e624,BRCA1,BRCA1 dec exp MET over exp,triple-negative breast carcinoma,RUCAPARIB,D,conditional qualifier in description
+JAX-CKB,b5d55b3269b9,BRCA1,BRCA1 inact mut,ovarian cancer,Cyclophosphamide,C,conditional qualifier in description
+JAX-CKB,4c90250539f1,BRCA2,BRCA2 dec exp MET over exp,triple-negative breast carcinoma,RUCAPARIB,D,conditional qualifier in description
+JAX-CKB,6098feb0a128,CBLB,CBLB dec exp,gastric carcinoma,FLUOROURACIL,D,conditional qualifier in description
+JAX-CKB,8e4149219ade,CDKN2A,CDKN2A loss,melanoma,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,02e083a8ffb4,TP53,TP53 wild-type,ovarian cancer,Tetrofosmin,C,conditional qualifier in description
+JAX-CKB,bf85ea4549b0,TP53,TP53 wild-type,lung large cell carcinoma,NSC319726,D,conditional qualifier in description
+JAX-CKB,86f9920a432f,TP53,TP53 mutant,neuroblastoma,MI-63,D,conditional qualifier in description
+JAX-CKB,a9d730bbb287,TP53,TP53 mutant,cancer,232,D,conditional qualifier in description
+JAX-CKB,36bf0f8b0164,TP53,TP53 mutant,medulloblastoma,1268524-70-4,D,conditional qualifier in description
+JAX-CKB,43efd37af638,ALK,ALK EML4-ALK ALK I1171N,non-small cell lung carcinoma,ALECTINIB,C,conditional qualifier in description
+JAX-CKB,c80a32a0374e,ALK,ALK EML4-ALK ALK C1156Y ALK G1269A,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,65be3143a181,ALK,ALK EML4-ALK ALK C1156Y ALK L1198F,non-small cell lung carcinoma,LORLATINIB,C,conditional qualifier in description
+JAX-CKB,f469285b5de6,BRAF,BRAF G596R PTPN11 E76K,colorectal cancer,4550,D,conditional qualifier in description
+JAX-CKB,d2ff69fd2d93,BRAF,BRAF wild-type,cancer,BGB,D,conditional qualifier in description
+JAX-CKB,e26d4951bdef,ERBB2,ERBB2 S310Y,endometrial cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,7f96319e1aad,ERBB2,ERBB2 positive,gastric adenosquamous carcinoma,Ado,B,conditional qualifier in description
+JAX-CKB,10bf2e9689a2,ERBB2,ERBB2 amp,gastroesophageal junction adenocarcinoma,Lapatinib,B,conditional qualifier in description
+JAX-CKB,7c827a009ee2,ERBB2,ERBB2 amp MET amp,gastric adenocarcinoma,FLUOROURACIL,C,conditional qualifier in description
+JAX-CKB,f2c01bc3ca86,ERBB2,ERBB2 amp TP53 R158H,gastric adenocarcinoma,3396-99-4,C,conditional qualifier in description
+JAX-CKB,299bed21de72,ERBB2,ERBB2 amp KRAS wild-type,colorectal cancer,PANITUMUMAB,B,conditional qualifier in description
+JAX-CKB,dd18e52285d2,ERBB2,ERBB2 amp ERBB2 L755S,Her2-receptor positive breast cancer,TRASTUZUMAB,D,conditional qualifier in description
+JAX-CKB,a7d7cb98a58f,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,OSIMERTINIB,D,conditional qualifier in description
+JAX-CKB,e986f09aa8c7,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,DACOMITINIB,D,conditional qualifier in description
+JAX-CKB,f03469751c57,ERBB2,ERBB2 G778_P780dup,non-small cell lung carcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,b69f075d92a2,ERBB2,ERBB2 Y772_A775dup,non-small cell lung carcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,429d356872ee,ERBB2,ERBB2 Y772_A775dup,non-small cell lung carcinoma,Erlotinib,C,conditional qualifier in description
+JAX-CKB,dbf164d491a9,ERBB2,ERBB2 Y772_A775dup,non-small cell lung carcinoma,DACOMITINIB,C,conditional qualifier in description
+JAX-CKB,b9514c59b8de,ERBB2,ERBB2 Y772_A775dup ERBB2 C805S,cancer,OSIMERTINIB,D,conditional qualifier in description
+JAX-CKB,034a7e1accb4,ERBB2,ERBB2 Y772_A775dup ERBB2 C805S,cancer,AZ5104,D,conditional qualifier in description
+JAX-CKB,79a8d9da74ed,ERBB2,ERBB2 L841V,Her2-receptor negative breast cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,1ef399ed9558,ERBB2,ERBB2 G660D,cancer,Erlotinib,D,conditional qualifier in description
+JAX-CKB,bb6d27dba189,ERBB2,ERBB2 L786V,non-small cell lung carcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,4e9c973e3490,ERBB2,ERBB2 S310F,urinary bladder cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,b489fd6c7b8f,ERBB2,ERBB2 V659E,cancer,Erlotinib,D,conditional qualifier in description
+JAX-CKB,057c0afa681f,ERBB2,ERBB2 V659E,non-small cell lung carcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,3ab91e3a1811,KRAS,KRAS G12C EZH2 pos,lung adenocarcinoma,3-Deazaneplanocin,D,conditional qualifier in description
+JAX-CKB,0e637335a085,FBXW7,FBXW7 R505L,T-cell adult acute lymphocytic leukemia,603107-76-2,D,conditional qualifier in description
+JAX-CKB,059742be7048,FGFR1,FGFR1 dec exp KRAS wild-type,lung cancer,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,5ad75ebcf82b,FGFR1,FGFR1 amp,estrogen-receptor positive breast cancer,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,18435bd25431,FGFR1,FGFR1 act mut,cancer,BRIVANIB,D,conditional qualifier in description
+JAX-CKB,f14f383add72,FGFR1,FGFR1 positive,synovial sarcoma,NVP-BGJ398,D,conditional qualifier in description
+JAX-CKB,d4747c464bb6,FGFR1,FGFR1 positive,leiomyosarcoma of the corpus uteri,AZD4547,D,conditional qualifier in description
+JAX-CKB,f3696c6d4190,FGFR2,FGFR2 C383R FGFR2 N550K,endometrial cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,27f69649b5b0,FGFR2,FGFR2 K660E,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,6744bb3a3f5f,FGFR2,FGFR2 amp,colorectal adenocarcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,a0009ddc2a96,FGFR2,FGFR2 M536I,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,eee54500bd38,FGFR2,FGFR2 N549K,endometrial carcinoma,RO4987655,D,conditional qualifier in description
+JAX-CKB,0c9d8180105b,FGFR2,FGFR2 wild-type,gastric carcinoma,PONATINIB,D,conditional qualifier in description
+JAX-CKB,bcdfed17e55f,FGFR2,FGFR2 E566G,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,eebe467590fa,FGFR3,FGFR3 V555M,transitional cell carcinoma,NVP-BGJ398,C,conditional qualifier in description
+JAX-CKB,dc8671215dff,FGFR3,FGFR3 S249C,renal pelvis urothelial carcinoma,946128-88-7,D,conditional qualifier in description
+JAX-CKB,32641af17cc8,FGFR3,FGFR3 D764H,head and neck squamous cell carcinoma,NVP-BGJ398,D,conditional qualifier in description
+JAX-CKB,b764ef394f86,FGFR3,FGFR3 Y373C,myeloid neoplasm,946128-88-7,D,conditional qualifier in description
+JAX-CKB,495267e59640,FGFR3,FGFR3 K650E,myeloid neoplasm,SSR128129E,D,conditional qualifier in description
+JAX-CKB,a5d8d1e3f33f,FLT3,FLT3 exon 14 ins FLT3 N676S FLT3 F691L,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,b49270291c76,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 D835G,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,17a3c0c0b5a1,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 Y842H,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,4d99e1c34d81,MET,MET wild-type,exocrine pancreatic carcinoma,GLESATINIB,D,conditional qualifier in description
+JAX-CKB,137d17fcaf17,MET,MET wild-type,urinary bladder carcinoma,GLESATINIB,D,conditional qualifier in description
+JAX-CKB,6a4310e42a1a,MET,MET wild-type,prostate cancer,GLESATINIB,D,conditional qualifier in description
+JAX-CKB,9b5f653263e4,MSH6,MSH6 loss,colon carcinoma,KU60648,D,conditional qualifier in description
+JAX-CKB,97d5ede7d73d,NOTCH1,NOTCH1 wild-type RB1 wild-type,T-cell adult acute lymphocytic leukemia,METHOTREXATE,D,conditional qualifier in description
+JAX-CKB,db5798501ee2,NRAS,NRAS mutant,transitional cell carcinoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,85366c3dfe7a,NRAS,NRAS mutant,colorectal cancer,Futuximab,D,conditional qualifier in description
+JAX-CKB,56a270aab70e,NRAS,NRAS mutant,cancer,CC-90003,C,conditional qualifier in description
+JAX-CKB,7d9a2d28a3d2,NRAS,NRAS mutant,lung adenocarcinoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,f294f0ac976b,NRAS,NRAS mutant,colorectal cancer,CETUXIMAB,B,conditional qualifier in description
+JAX-CKB,05e7b9a08b1e,PTEN,PTEN loss,transitional cell carcinoma,EVEROLIMUS,C,conditional qualifier in description
+JAX-CKB,6488114923a1,PTEN,PTEN loss,glioma susceptibility 1,1166227-08-2,D,conditional qualifier in description
+JAX-CKB,9566d3b74986,PTEN,PTEN loss,renal carcinoma,GEDATOLISIB,D,conditional qualifier in description
+JAX-CKB,08a8b2cd6e5e,PTEN,PTEN loss,ovarian mucinous neoplasm,(4e,D,conditional qualifier in description
+JAX-CKB,fea8c03c26e9,PTEN,PTEN mutant,endometrial cancer,TEMSIROLIMUS,C,conditional qualifier in description
+JAX-CKB,8c486bbf5a40,PTEN,PTEN mutant,endometrial cancer,1166227-08-2,D,conditional qualifier in description
+JAX-CKB,0e7395f801b6,RB1,RB1 loss,estrogen-receptor positive breast cancer,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,1303b7387ef9,RB1,RB1 loss,small cell lung carcinoma,TRILACICLIB,D,conditional qualifier in description
+JAX-CKB,ba653bda48bf,ROS1,ROS1 rearrange,non-small cell lung carcinoma,AFATINIB,A,conditional qualifier in description
+JAX-CKB,90f788fccac3,ROS1,ROS1 rearrange,non-small cell lung carcinoma,GEFITINIB,A,conditional qualifier in description
+JAX-CKB,f30126366a4b,ROS1,ROS1 rearrange,non-small cell lung carcinoma,Erlotinib,A,conditional qualifier in description
+JAX-CKB,cbe0e7edc9d1,ROS1,ROS1 fusion ROS1 L2026M ROS1 L1951R,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,3ba8619cd01e,SMO,SMO Y394A,cancer,(5r,D,conditional qualifier in description
+JAX-CKB,60041c40f587,SMO,SMO N476K,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,fa0f470ab1fa,SMO,SMO V404M,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,75afe7ede9dc,SMO,SMO T349P,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,bcf905c3fb4c,SMO,SMO V386A,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,bad9d02f0622,SMO,SMO V414A,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,6365e1f2f5d4,STK11,STK11 loss,cancer,Metformin,D,conditional qualifier in description
+JAX-CKB,baaac030b21d,TP53,TP53 R280M,pediatric osteosarcoma,Nutlin-3,D,conditional qualifier in description
+JAX-CKB,aab396322030,TP53,TP53 E258Q,pediatric osteosarcoma,Nutlin-3,D,conditional qualifier in description
+JAX-CKB,a75d2b16cc38,BRAF,BRAF V600E,melanoma,Sorafenib,C,conditional qualifier in description
+JAX-CKB,9d07782f9506,BRAF,BRAF V600E,melanoma,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,a72900a66007,BRAF,BRAF V600E KRAS G13D,colorectal cancer,ALPELISIB,D,conditional qualifier in description
+JAX-CKB,1aa76237aa0e,BRAF,BRAF V600E KRAS over exp,colorectal cancer,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,8ee7872ab3db,BRAF,BRAF V600E BRAF L505H,melanoma,VEMURAFENIB,C,conditional qualifier in description
+JAX-CKB,9a8408c81b87,BRAF,BRAF V600E NRAS Q61K,lung adenocarcinoma,DABRAFENIB,C,conditional qualifier in description
+JAX-CKB,d5a580550dea,BRAF,BRAF L514V BRAF V600E,ganglioglioma,DABRAFENIB,C,conditional qualifier in description
+JAX-CKB,957d78372b00,BRAF,BRAF V600E KRAS amp,colorectal cancer,SCH772984,D,conditional qualifier in description
+JAX-CKB,f4e56f1f744c,BRAF,BRAF V600E KRAS amp,colorectal cancer,DABRAFENIB,D,conditional qualifier in description
+JAX-CKB,c9652c46e5ad,BRAF,BRAF V600E KRAS wild-type,colorectal cancer,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,ce31c471fe42,BRAF,BRAF mutant,colorectal cancer,Futuximab,D,conditional qualifier in description
+JAX-CKB,f0352a3034b4,BRAF,BRAF mutant,colorectal cancer,PLX-4720,D,conditional qualifier in description
+JAX-CKB,9435e271a3f7,BRAF,BRAF mutant,colorectal cancer,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,c8d359124407,BRAF,BRAF mut PTEN loss,melanoma,GSK2636771,D,conditional qualifier in description
+JAX-CKB,3aab5e0e8e75,BRAF,BRAF G464V KRAS G13D,breast cancer,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,66e8c537405b,BRAF,BRAF G466V,cancer,VEMURAFENIB,B,conditional qualifier in description
+JAX-CKB,84bb815f9a7d,BRAF,BRAF G466V,colorectal cancer,VEMURAFENIB,D,conditional qualifier in description
+JAX-CKB,68842bc78ee0,BRAF,BRAF act mut,melanoma,Sorafenib,C,conditional qualifier in description
+JAX-CKB,58bd13764549,BRCA1,BRCA1 mutant,triple-negative breast carcinoma,TALAZOPARIB,C,conditional qualifier in description
+JAX-CKB,12339d8e5bc0,BRCA1,BRCA1 E23Vfs*17 BRCA1 T37Qfs*13,ovarian cancer,CARBOPLATIN,C,conditional qualifier in description
+JAX-CKB,e928abbf5c9e,BRCA1,BRCA1 E23Vfs*17,invasive ductal breast carcinoma,CISPLATIN,D,conditional qualifier in description
+JAX-CKB,e3050b88a1b1,KRAS,KRAS mutant,colorectal cancer,Futuximab,D,conditional qualifier in description
+JAX-CKB,85a78065032c,KRAS,KRAS mutant,non-small cell lung carcinoma,CARBOPLATIN,B,conditional qualifier in description
+JAX-CKB,45bb96219bde,KRAS,KRAS mutant,colorectal adenocarcinoma,DASATINIB,C,conditional qualifier in description
+JAX-CKB,9fb4bc8b4a95,KRAS,KRAS mutant,colon carcinoma,GDC-0879,D,conditional qualifier in description
+JAX-CKB,cb724796c200,KRAS,KRAS mutant,colon carcinoma,PONATINIB,D,conditional qualifier in description
+JAX-CKB,256062803169,KRAS,KRAS mutant,endometrial cancer,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,bb6267571ccb,KRAS,KRAS G12X,exocrine pancreatic carcinoma,427,D,conditional qualifier in description
+JAX-CKB,26cb7d890a60,KRAS,KRAS Q61L,colon carcinoma,4550,D,conditional qualifier in description
+JAX-CKB,30ce9ef2fb84,KRAS,KRAS wild-type,colorectal cancer,Futuximab,C,conditional qualifier in description
+JAX-CKB,233d043a2596,KRAS,KRAS wild-type,exocrine pancreatic carcinoma,Echinenone,D,conditional qualifier in description
+JAX-CKB,ca8dccd6d252,KRAS,KRAS G13D,colorectal cancer,4550,D,conditional qualifier in description
+JAX-CKB,9a43d6bef8b6,KRAS,KRAS over exp MET del exon14,gastric carcinoma,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,e56d2688610e,MAP2K1,MAP2K1 K57N,cancer,167869-21-8,D,conditional qualifier in description
+JAX-CKB,1f6bf2f95d13,MAP2K1,MAP2K1 F53L,cancer,167869-21-8,D,conditional qualifier in description
+JAX-CKB,4beafac08d71,MAP2K1,MAP2K1 C121S,cancer,167869-21-8,D,conditional qualifier in description
+JAX-CKB,c808f3d9ce37,MAP2K1,MAP2K1 F129L,cancer,167869-21-8,D,conditional qualifier in description
+JAX-CKB,7617f916cb3e,MET,MET over exp MET Y1230C,gastric carcinoma,PHENYLALANINAL,D,conditional qualifier in description
+JAX-CKB,83e578a8cf5a,MET,MET del exon14 MET D1228N,squamous cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,7c511f052eff,MET,MET wild-type,breast cancer,GLESATINIB,D,conditional qualifier in description
+JAX-CKB,1696c0256b82,NOTCH1,NOTCH1 wild-type RB1 wild-type,T-cell adult acute lymphocytic leukemia,ASPARAGINASE,D,conditional qualifier in description
+JAX-CKB,516c33960219,NOTCH1,NOTCH1 rearrange,triple-negative breast carcinoma,603107-76-2,D,conditional qualifier in description
+JAX-CKB,729ccc539708,NRAS,NRAS mutant,melanoma,PALBOCICLIB,D,conditional qualifier in description
+JAX-CKB,1608a3b97ba1,NRAS,NRAS mutant,melanoma,PD-0325901,D,conditional qualifier in description
+JAX-CKB,32e63d69f77e,PTEN,PTEN loss,prostate carcinoma,1260612-13-2,D,conditional qualifier in description
+JAX-CKB,434320034f98,PTEN,PTEN loss,cancer,1260612-13-2,C,conditional qualifier in description
+JAX-CKB,3e94d0d081ca,PTEN,PTEN mutant,endometrial cancer,GSK2636771,D,conditional qualifier in description
+JAX-CKB,9b6812fd095d,RET,RET rearrange,lung cancer,PONATINIB,B,conditional qualifier in description
+JAX-CKB,35f4fe336c05,SMAD4,SMAD4 dec exp,head and neck squamous cell carcinoma,1,D,conditional qualifier in description
+JAX-CKB,5e390d7f8dac,SMO,SMO V329F,cancer,(5r,D,conditional qualifier in description
+JAX-CKB,3d64c891f740,SMO,SMO M525G,cancer,(5r,D,conditional qualifier in description
+JAX-CKB,2dfcd38d26b9,SMO,SMO P739L,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,0566bd87456c,SMO,SMO T548I,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,a339b3550b9c,SMO,SMO K564E,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,be5307a0912c,SMO,SMO V321M,skin basal cell carcinoma,VISMODEGIB,C,conditional qualifier in description
+JAX-CKB,4ec92a6e53a5,SMO,SMO T336I,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,7dd625891d3c,SMO,SMO E181K,cancer,VISMODEGIB,D,conditional qualifier in description
+JAX-CKB,372ec8dc2119,SRC,SRC over exp,nonpapillary renal cell carcinoma,CEDIRANIB,C,conditional qualifier in description
+JAX-CKB,9c605a7057fd,FLT3,FLT3 exon 14 ins FLT3 D835Y,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,9e52991b6a99,FLT3,FLT3 D835Y,acute promyelocytic leukemia,TRETINOIN,C,conditional qualifier in description
+JAX-CKB,442a21fd2ae0,FLT3,FLT3 exon 14 ins FLT3 D839G,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,562a895452bf,FLT3,FLT3 exon 14 ins FLT3 D835F,acute myeloid leukemia,Sorafenib,C,conditional qualifier in description
+JAX-CKB,e176af4a4fb2,HRAS,HRAS mutant,transitional cell carcinoma,TRAMETINIB,D,conditional qualifier in description
+JAX-CKB,869dd147e6d6,IDH1,IDH1 wild-type PTEN mutant,glioma susceptibility 1,NIVOLUMAB,B,conditional qualifier in description
+JAX-CKB,07a4672214f5,KIT,KIT A829P KIT V559D,cancer,SUNITINIB,D,conditional qualifier in description
+JAX-CKB,60450bfb4a37,KIT,KIT N822K KIT V559D,cancer,SUNITINIB,D,conditional qualifier in description
+JAX-CKB,f693a3f9caa4,KIT,KIT V559D KIT Y823D,cancer,Imatinib,D,conditional qualifier in description
+JAX-CKB,5e94068e3d9b,KIT,KIT exon 11,gastrointestinal stromal tumor,SUNITINIB,B,conditional qualifier in description
+JAX-CKB,bd4665706832,KRAS,KRAS mutant,cancer,Serabelisib,D,conditional qualifier in description
+JAX-CKB,91cb31aa36ff,KRAS,KRAS mutant,cancer,AZD-8835,D,conditional qualifier in description
+JAX-CKB,1689cc67bc59,KRAS,KRAS mutant,gastric carcinoma,BAY1082439 ,D,conditional qualifier in description
+JAX-CKB,24996ff1cd10,TP53,TP53 loss,colon carcinoma,CPUY201112,D,conditional qualifier in description
+JAX-CKB,d82042775642,TP53,TP53 loss,cancer,Lornoxicam,D,conditional qualifier in description
+JAX-CKB,88f981490157,TP53,TP53 mutant,hypopharynx cancer,OLENDALIZUMAB,D,conditional qualifier in description
+JAX-CKB,3200d04d63fd,TP53,TP53 mutant,neuroblastoma,GSK 2830371,D,conditional qualifier in description
+JAX-CKB,c7275b18cb74,TP53,TP53 P177T,pediatric osteosarcoma,Nutlin-3,D,conditional qualifier in description
+JAX-CKB,5265f117a063,VHL,VHL inact mut,renal cell adenocarcinoma,GDC,C,conditional qualifier in description
+JAX-CKB,ef9e2c002438,AKT1,AKT1 mutant,infiltrating bladder urothelial carcinoma,CISPLATIN,C,conditional qualifier in description
+JAX-CKB,ff788d86dd80,ALK,ALK rearrange,non-small cell lung carcinoma,OSIMERTINIB,A,conditional qualifier in description
+JAX-CKB,1430e93d8a60,ALK,ALK rearrange,non-small cell lung carcinoma,Erlotinib,A,conditional qualifier in description
+JAX-CKB,a664290ee861,ALK,ALK rearrange TP53 mut,non-small cell lung carcinoma,ALECTINIB,B,conditional qualifier in description
+JAX-CKB,1132eaec3b52,ALK,ALK rearrange TP53 mut,non-small cell lung carcinoma,BRIGATINIB,B,conditional qualifier in description
+JAX-CKB,656c59eb5478,ALK,ALK	wild-type TP53 P177T,neuroblastoma,CRIZOTINIB,D,conditional qualifier in description
+JAX-CKB,9e26799d788d,ALK,ALK EML4-ALK ALK C1156Y ALK L1196M,lung adenocarcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,15dd38ca4c5f,ALK,ALK EML4-ALK ALK G1269A ALK L1196M,cancer,LORLATINIB,D,conditional qualifier in description
+JAX-CKB,f3c604dbceb3,FGFR1,FGFR1 positive,leiomyosarcoma,AZD4547,D,conditional qualifier in description
+JAX-CKB,a6692f60b1f8,FGFR2,FGFR2 N550K,cancer,219580-11-7,D,conditional qualifier in description
+JAX-CKB,3f3f0badb5ed,FGFR3,FGFR3 V555L,transitional cell carcinoma,NVP-BGJ398,C,conditional qualifier in description
+JAX-CKB,2d9ff2bb9486,FGFR3,FGFR3 S249C,renal pelvis urothelial carcinoma,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,5522b6d16d5e,FGFR3,FGFR3-TACC3,bladder urothelial papilloma,946128-88-7,D,"gene-level, no specific alteration"
+JAX-CKB,1e97e5f9280f,FGFR3,FGFR3 wild-type FGFR3 dec exp HRAS G12V,transitional cell carcinoma,219580-11-7,D,conditional qualifier in description
+JAX-CKB,422b23d84978,FGFR3,FGFR3 Y373C,myeloid neoplasm,SELUMETINIB,D,conditional qualifier in description
+JAX-CKB,68d8f0230484,FGFR3,FGFR3 G384D FGFR3 over exp,plasma cell myeloma,219580-11-7,D,conditional qualifier in description
+JAX-CKB,3c442437ba5d,FLT3,FLT3 exon 14 ins FLT3 M664I FLT3 F691L,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,ef7fdaf39f04,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 D835Y,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,b39c369f6fab,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 D839A,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,d4c67dc38620,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 R834Q,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,e0b92da3367b,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 D839N,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,78e2860ef1d4,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 D835N,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,9375318480e1,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 R845G,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,fb5af5a4017a,FLT3,FLT3 exon 14 ins FLT3 F691L FLT3 Y842C,cancer,PEXIDARTINIB,D,conditional qualifier in description
+JAX-CKB,8a641afbaa3a,ERBB2,ERBB2 G660R,cancer,Erlotinib,D,conditional qualifier in description
+JAX-CKB,16fc8e5845c6,ERBB2,ERBB2 S310Y,urinary bladder cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,55d22f4e3573,ERBB2,ERBB2 G776delinsLC,lung cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,0ddc325613b9,ERBB2,ERBB2 positive,gastroesophageal junction adenocarcinoma,PACLITAXEL,C,conditional qualifier in description
+JAX-CKB,5f71212542f7,ERBB2,ERBB2 amp,lung adenocarcinoma,DACOMITINIB,C,conditional qualifier in description
+JAX-CKB,eba1fc22a898,ERBB2,ERBB2 amp,colorectal cancer,PERTUZUMAB,D,conditional qualifier in description
+JAX-CKB,ed56f7969b26,ERBB2,ERBB2 amp MET amp,gastric adenocarcinoma,3396-99-4,C,conditional qualifier in description
+JAX-CKB,c0dd0724be41,ERBB2,ERBB2 amp PTEN dec exp,Her2-receptor positive breast cancer,3379,D,conditional qualifier in description
+JAX-CKB,3b33184bbdae,ERBB2,ERBB2 amp KRAS wild-type,colorectal cancer,CETUXIMAB,B,conditional qualifier in description
+JAX-CKB,92166c867808,ERBB2,ERBB2 amp ERBB2 L755S,Her2-receptor positive breast cancer,PERTUZUMAB,D,conditional qualifier in description
+JAX-CKB,c057b682f485,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,Lapatinib,D,conditional qualifier in description
+JAX-CKB,6d46b061aa2b,ERBB2,ERBB2 G776delinsVC ERBB2 C805S,cancer,AFATINIB,D,conditional qualifier in description
+JAX-CKB,7e146618e926,ERBB2,ERBB2 L755S,cancer,497839-62-0,D,conditional qualifier in description
+JAX-CKB,8e1918f83e57,ERBB2,ERBB2 V777L,biliary tract cancer,NERATINIB,C,conditional qualifier in description
+JAX-CKB,0c20d58174f6,ERBB2,ERBB2 mutant,gastroesophageal junction adenocarcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,e6c58dcc8fc5,ERBB2,ERBB2 Y772_A775dup ERBB2 C805S,cancer,Pyrotinib,D,conditional qualifier in description
+JAX-CKB,aaff1ee88aa4,ERBB2,ERBB2 Y772_A775dup ERBB2 C805S,cancer,Erlotinib,D,conditional qualifier in description
+JAX-CKB,08ca4fd5a400,ERBB2,ERBB2 L755A,non-small cell lung carcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,673f1f5c9da6,ERBB2,ERBB2 S310F,gastroesophageal junction adenocarcinoma,NERATINIB,C,conditional qualifier in description
+JAX-CKB,2ab07c19c591,ERBB2,ERBB2 L663P,cancer,GEFITINIB,D,conditional qualifier in description
+JAX-CKB,9df7babc827f,ERBB2,ERBB2 Q709L,cancer,Erlotinib,D,conditional qualifier in description
+JAX-CKB,b8a7e2f251db,ERBB2,ERBB2 neg MET pos,gastroesophageal junction adenocarcinoma,RILOTUMUMAB,B,conditional qualifier in description
+JAX-CKB,fd58f933476c,ERBB4,ERBB4 G1109C,head and neck squamous cell carcinoma,CETUXIMAB,D,conditional qualifier in description
+JAX-CKB,42ba12301895,ERBB4,ERBB4 G1109C,head and neck squamous cell carcinoma,Erlotinib,D,conditional qualifier in description
+JAX-CKB,bf631cd79edb,EZH2,EZH2 Y641N,diffuse large B-cell lymphoma,GSK126,D,conditional qualifier in description
+JAX-CKB,b119db84de0b,FBXW7,FBXW7 R465H,T-cell adult acute lymphocytic leukemia,603107-76-2,D,conditional qualifier in description
+JAX-CKB,1f8b4a2ed421,FGFR1,FGFR1 amp MET over exp,small cell lung carcinoma,NVP-BGJ398,D,conditional qualifier in description
+JAX-CKB,c72695f47b70,FGFR1,FGFR1 amp,small cell lung carcinoma,946128-88-7,D,conditional qualifier in description
+JAX-CKB,c0c82f50d40c,FGFR1,FGFR1 amp,breast cancer,AZD4547,C,conditional qualifier in description
+JAX-CKB,a84a58c97573,ALK,ALK EML4-ALK ALK C1156Y,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,c2f65549c65a,ALK,ALK EML4-ALK ALK E1210K ALK S1206C,non-small cell lung carcinoma,BRIGATINIB,C,conditional qualifier in description
+JAX-CKB,444a2b62b10b,ALK,ALK EML4-ALK ALK E1210K,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,11c3122fe6bf,ALK,ALK EML4-ALK ALK L1152R,non-small cell lung carcinoma,CRIZOTINIB,C,conditional qualifier in description
+JAX-CKB,429c7b5aaef6,ARID1A,ARID1A wild-type,ovarian cancer,GSK126,D,conditional qualifier in description
+JAX-CKB,6e3b5dce09c7,ARID1A,ARID1A loss,Her2-receptor positive breast cancer,TRASTUZUMAB,D,conditional qualifier in description
+JAX-CKB,ce0b5495e7dc,BRAF,BRAF G606E,cancer,VEMURAFENIB,B,conditional qualifier in description
+JAX-CKB,5589a6b715bb,BRAF,BRAF G596R,cancer,VEMURAFENIB,B,conditional qualifier in description
+JAX-CKB,61b0d21ce37f,BRAF,BRAF wild-type KRAS wild-type,colorectal cancer,LSN3074753,D,conditional qualifier in description
+MOAlmanac,2e4f8e1c0a3c,ABL1,ABL1 Mutation,Chronic Myelogenous Leukemia,Dasatinib,B,conditional qualifier in description
+MOAlmanac,e037f5642be9,ABL1,ABL1 T315A,Chronic Myelogenous Leukemia,Dasatinib,B,conditional qualifier in description
+MOAlmanac,98c84ea93c11,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Dasatinib,B,conditional qualifier in description
+MOAlmanac,a018042a8cf1,ABL1,ABL1 F317L,Chronic Myelogenous Leukemia,Dasatinib,B,conditional qualifier in description
+MOAlmanac,3fc783ea0e58,ABL1,ABL1 F317V,Chronic Myelogenous Leukemia,Dasatinib,B,conditional qualifier in description
+MOAlmanac,39b5d074fa51,ABL1,ABL1 F317I,Chronic Myelogenous Leukemia,Dasatinib,B,conditional qualifier in description
+MOAlmanac,9da7190f0afa,ABL1,ABL1 F317C,Chronic Myelogenous Leukemia,Dasatinib,B,conditional qualifier in description
+MOAlmanac,a5ccf90b636a,ABL1,ABL1 Mutation,Chronic Myelogenous Leukemia,Imatinib,B,conditional qualifier in description
+MOAlmanac,30c7418a9215,ABL1,ABL1 E255K,Chronic Myelogenous Leukemia,Nilotinib,B,conditional qualifier in description
+MOAlmanac,b1df7ef3ba57,ABL1,ABL1 E255V,Chronic Myelogenous Leukemia,Nilotinib,B,conditional qualifier in description
+MOAlmanac,4e885b41e972,ABL1,ABL1 Y253H,Chronic Myelogenous Leukemia,Nilotinib,B,conditional qualifier in description
+MOAlmanac,89b62a60ead9,ABL1,ABL1 F359V,Chronic Myelogenous Leukemia,Nilotinib,B,conditional qualifier in description
+MOAlmanac,d92a06f2285b,ABL1,ABL1 F359C,Chronic Myelogenous Leukemia,Nilotinib,B,conditional qualifier in description
+MOAlmanac,7e7817b7cc5c,ABL1,ABL1 F359I,Chronic Myelogenous Leukemia,Nilotinib,B,conditional qualifier in description
+MOAlmanac,10874c10d4be,ABL1,ABL1 Y253H,Chronic Myelogenous Leukemia,Dasatinib,A,conditional qualifier in description
+MOAlmanac,961895e076ea,ABL1,ABL1 E255K,Chronic Myelogenous Leukemia,Dasatinib,A,conditional qualifier in description
+MOAlmanac,e0d5e12f9897,ABL1,ABL1 E255V,Chronic Myelogenous Leukemia,Dasatinib,A,conditional qualifier in description
+MOAlmanac,cd5bf07832a8,ABL1,ABL1 F359V,Chronic Myelogenous Leukemia,Dasatinib,A,conditional qualifier in description
+MOAlmanac,4a0b6c3a5970,ABL1,ABL1 F359C,Chronic Myelogenous Leukemia,Dasatinib,A,conditional qualifier in description
+MOAlmanac,b1f2515c7430,ABL1,ABL1 F359I,Chronic Myelogenous Leukemia,Dasatinib,A,conditional qualifier in description
+MOAlmanac,bc9a681adeab,ABL1,ABL1 F317L,Chronic Myelogenous Leukemia,Nilotinib,A,conditional qualifier in description
+MOAlmanac,a77c6c09797e,ABL1,ABL1 F317V,Chronic Myelogenous Leukemia,Nilotinib,A,conditional qualifier in description
+MOAlmanac,36d7c7116004,ABL1,ABL1 F317I,Chronic Myelogenous Leukemia,Nilotinib,A,conditional qualifier in description
+MOAlmanac,5d60729a7dbe,ABL1,ABL1 F317C,Chronic Myelogenous Leukemia,Nilotinib,A,conditional qualifier in description
+MOAlmanac,3675f5838b87,ABL1,ABL1 T315A,Chronic Myelogenous Leukemia,Nilotinib,A,conditional qualifier in description
+MOAlmanac,6029696b6a2c,ABL1,ABL1 V299L,Chronic Myelogenous Leukemia,Nilotinib,A,conditional qualifier in description
+MOAlmanac,8bb47d5ff739,ABL1,ABL1 E255K,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,7a02a6236dbc,ABL1,ABL1 E255V,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,01701581ed1a,ABL1,ABL1 F317L,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,5a638b236ab5,ABL1,ABL1 F317V,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,c5e890126ae6,ABL1,ABL1 F317I,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,f4d14b701cdb,ABL1,ABL1 F317C,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,f57a11f7bda1,ABL1,ABL1 F359V,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,7a4afad25cbf,ABL1,ABL1 F359C,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,64244903ae97,ABL1,ABL1 T315A,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,0b62098b75a3,ABL1,ABL1 Y253H,Chronic Myelogenous Leukemia,Bosutinib,A,conditional qualifier in description
+MOAlmanac,7d7c7996aba7,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Ponatinib,A,conditional qualifier in description
+MOAlmanac,2970e499d4b4,ABL1,ABL1 T315I,Chronic Myelogenous Leukemia,Omacetaxine,A,conditional qualifier in description
+MOAlmanac,03590c42abc3,BCR,BCR Mutation,Chronic Myelogenous Leukemia,Imatinib,B,conditional qualifier in description
+MOAlmanac,0b900e983a36,BRCA1,BRCA1 Mutation,"Ovarian Cancer, Other",Olaparib,B,conditional qualifier in description
+MOAlmanac,bcc202feda51,BRCA2,BRCA2 Mutation,"Ovarian Cancer, Other",Olaparib,B,conditional qualifier in description
+MOAlmanac,9dc91d6cdb8a,EGFR,EGFR T790M,Non-Small Cell Lung Cancer,Gefitinib,A,conditional qualifier in description
+MOAlmanac,354763d3e569,EGFR,EGFR Mutation,Non-Small Cell Lung Cancer,Gefitinib,A,conditional qualifier in description
+MOAlmanac,40dc481671df,ESR1,ESR1 Mutation,Invasive Breast Carcinoma,Letrozole + Tamoxifen,B,conditional qualifier in description
+MOAlmanac,217d2d4aac5c,FLT3,FLT3 F691L,Acute Myeloid Leukemia,Quizartinib,B,conditional qualifier in description
+MOAlmanac,ef4376b46b88,KRAS,KRAS Mutation,Colorectal Adenocarcinoma,Cetuximab,A,conditional qualifier in description
+MOAlmanac,e487053f267f,KRAS,KRAS Mutation,Colorectal Adenocarcinoma,Panitumumab,A,conditional qualifier in description
+MOAlmanac,265ace9205bd,KRAS,KRAS Mutation,Non-Small Cell Lung Cancer,Gefitinib,A,conditional qualifier in description
+MOAlmanac,9b406e2ba60b,KRAS,KRAS Mutation,Pancreatic Adenocarcinoma,Vemurafenib,B,conditional qualifier in description
+MOAlmanac,1829139a1289,KRAS,KRAS Mutation,Rectal Adenocarcinoma,Chemoradiotherapy,B,conditional qualifier in description
+MOAlmanac,b82f023cfdcf,KRAS,KRAS Mutation,Non-Small Cell Lung Cancer,Stereotactic Body Radiation Therapy,B,conditional qualifier in description
+MOAlmanac,b1c2d4726838,NFE2L2,NFE2L2 Mutation,Lung Squamous Cell Carcinoma,Radiation Therapy,D,conditional qualifier in description
+MOAlmanac,4079d206147c,PTEN,PTEN Mutation,Uterine Leiomyoma,Pembrolizumab,B,conditional qualifier in description
+MOAlmanac,b45931c3cab0,PTEN,PTEN Mutation,Melanoma,Pembrolizumab,B,conditional qualifier in description
+MOAlmanac,fef225886a3a,TP53,TP53 Mutation,Myelodysplasia,Lenalidomide,A,conditional qualifier in description
+MOAlmanac,8c4915ad54e1,TP53,TP53 Mutation,Gastric Remnant Adenocarcinoma,nutlin-3,D,conditional qualifier in description
+MOAlmanac,7fdac5d0f77f,TP53,TP53 Mutation,Rectal Adenocarcinoma,Chemoradiotherapy,B,conditional qualifier in description
+MOAlmanac,e28b6023be29,AR,AR Amplification,Prostate Adenocarcinoma,Abiraterone,A,conditional qualifier in description
+MOAlmanac,cbeff81b79e5,AR,AR Amplification,Invasive Breast Carcinoma,Radiation Therapy,E,conditional qualifier in description
+MOAlmanac,0eb20ef6d42e,BRAF,BRAF Amplification,Colorectal Adenocarcinoma,Selumetinib,D,conditional qualifier in description
+MOAlmanac,ae4d605ab06e,BRAF,BRAF Amplification,Melanoma,Vemurafenib,B,conditional qualifier in description
+MOAlmanac,5c18fef78498,CRKL,CRKL Amplification,Non-Small Cell Lung Cancer,Gefitinib,B,conditional qualifier in description
+MOAlmanac,1cdbd2aa4bf7,ERBB2,ERBB2 Amplification,Invasive Breast Carcinoma,Radiation Therapy,D,conditional qualifier in description
+MOAlmanac,e6623e0d0059,KEAP1,KEAP1 Deletion,Lung Squamous Cell Carcinoma,Radiation Therapy,D,conditional qualifier in description
+MOAlmanac,d301d1d20eed,MET,MET Amplification,Non-Small Cell Lung Cancer,Gefitinib,A,conditional qualifier in description
+MOAlmanac,46774a6a7372,MIR17HG,MIR17HG Deletion,Rectal Adenocarcinoma,Chemotherapy + Surgery,D,conditional qualifier in description
+MOAlmanac,bc73c69809a5,PTEN,PTEN Deletion,Uterine Leiomyoma,Pembrolizumab,B,conditional qualifier in description
+MOAlmanac,6b19193a521a,RB1,RB1 Mutation,Osteosarcoma,Palbociclib,D,conditional qualifier in description

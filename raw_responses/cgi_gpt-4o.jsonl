@@ -1,0 +1,1016 @@
+{"uid": "a400033e713a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "2106ad2832b3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "caf166305dde", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "d41fa25e62e3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "8c6d4493bd93", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 80}}
+{"uid": "2c362699da79", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "937262fabcba", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "226a1019caba", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "6e45d7312e17", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "6cec1b6e4e59", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "9e9b7db79513", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "d5e4280d2bcd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "4f0e0c67a22e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "7174ff23025a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "b8a07d37f35b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "3e6d49e1195c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "2dd7ede73f66", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "8842e6ef555a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "538e5db0e047", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "91dc3b09efd3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "b559bcb9d13b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "9755a425d9dc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "f671ac108f6a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "644584b2fd45", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "ba722ebd069d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "520905c3ad3d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 60}}
+{"uid": "67bac1ca0f9e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "afcb73d50aa1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "88ba58032744", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "22cd2b511171", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "05210ef60930", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c9a3bf12531b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "5eb6ada8964a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "8580496ad443", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5ed76dcb2a34", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "3dcd45e9f483", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "197a35b07d20", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 60}}
+{"uid": "633f5de5f302", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "e7e2c82d5e9d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "eb1570bae39c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "302538b601b6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "4169ea3fd41e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "a63bfcb91f62", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "8a3aebe565c3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f4c4d11d4b42", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "061259473b9b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c63ace36198e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2c393e86815f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "932ade443c99", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "7fafb0f7fd11", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "aabb15520c98", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "b505b6989adc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "0dfddb4e83c6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "824aa5af7b11", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4302b736552b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "2c68e472afd0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "da621884fdff", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "ef81bb82cf51", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "878f2c4267de", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "3fadf0858663", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "ab941e80de61", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "5d7e9f8d8bfd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5a49e231011c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "54b014406197", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "aac5eb70135b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "01ae71ec5bad", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "c356f6c7f269", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "38e29b396a1e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "71eb45c23fab", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "06d2c7dec235", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "bfe98310f5f4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "b942a6132cf0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ea09def014c3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f783689e1428", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 80}}
+{"uid": "3c0541f65a05", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "eedea3a3b5bf", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "f26cffb7a5e0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ecb98ef73b8a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "0b621c55f0ef", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "b7f0db993fa8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "345b8821d75d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "e5d195563f21", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4eb013c14eb2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "423eb65bbefb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "2e2ee177304e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "17910e951cf7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "8915a5f6f068", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "abb8608a242e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "ae082b6ba0bc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "6032fedd3b28", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "075f04c1080c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "0c812dae2d6e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c213552db52a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "abe1096aa3c4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e3c4d5910b9f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "654eecdad536", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "e823ecbb80c8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a2aca278a993", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "70920580f743", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "daadd565f4b4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 70}}
+{"uid": "dc675af313fe", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "0dadd16d3efc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "733ff2b710e0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "dd52b82556ba", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "5c46bd02ef24", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "b73caf719c9a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "0a1054bdc0fb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "bd6bc80f5c58", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "c717f07a4374", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "81505e807a77", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "8f7c12a0ec6c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "cc767c6c0dbb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "93029a677b6e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "de7febd198e6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "7615dadf47fb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "87a23e535833", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d5823c430d10", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "0e2c8f187972", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6f33815bcc65", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "014d75cfe953", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "9e9f9cd58924", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "bd31b0b66664", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "141cc6da3bef", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2145ccf7b347", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "51425c94c1f0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "af2e40013aef", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "cf0217e931f8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "1e8777aee4dc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "8fc11b0f6963", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "4ac2cf6443aa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "fc9cf17625a6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "138f90e41859", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "2a2d652a4755", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "d4e6e1c6ab43", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "12e913c4bf3b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "7ee7bb052b8c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2dbe1a411446", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "bd8001778db2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "9da1dbf80216", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "b9a4deb0e3e3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "97f25b85ff09", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "f7e247f1aabe", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "6340c2bc6cd2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "1b229d3ac7a7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c75baa58f27e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "86f4e4dba098", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "00201c2345b4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "ee1ae6eb588f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "21606f0f125b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "3356fe0fe464", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "4a8155e1c09b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "675042700e3b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "503bf899224b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "3856c0f89bcc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "3dc31c23dc6b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "21c9ceb7eda5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "4d90a1a0ae5b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "1aba2d60b1dc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "23b72b42732d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "902343785542", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "fed5405c839e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "46e543104329", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "247295decbd4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "3b482a3fb811", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "9a4135f16dd8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "072d94191f6b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "ec57036d19da", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2979a684b138", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "b17f021fc0d8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "cdc9bb0a21ab", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f1170d175d99", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "2f253fcfa71c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "aa481b1e624b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "5ab4301249c1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "4881d3a3f404", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "177b0b513565", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "facb7f9a2ec9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "3c3e3d7055a9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e2bcef5db2ce", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "204c547a6e2e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "20224e94c150", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "601ca4939138", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "a19f54095c59", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "1d1755709277", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a478ab93631e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "0e7365dc7238", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "15d648b86081", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "ebe023b467f0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d13118e32275", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "faab1772edc0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "a8258430bdb1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "f4473bd00729", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "52d67f4d7553", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6f5aa55503b2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "253f45ea56bb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6e50c958377d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "c5efbdd081b6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "48f35fb8f1e4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "901c3a461d77", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "a7d3eb5467da", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "2559c4d6ef27", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "e0e75520bf05", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "30aa9acffecd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "d968d1d82535", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "17e442ed768f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "2893e097d9a4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b7157f6f8d0c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "41bee2bef403", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "6ca457bcbfdf", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "65b59179d95d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "8684f4a56821", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "d83a53e4678b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "e33cbd3fa856", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "573fa65a5423", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "3aaf49f83527", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "acd97edac75f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "bbd2fb724465", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "913738baf117", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "2f27bd103502", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "e0f55174ed86", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "2e0fe3abff52", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "d390601b7374", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d37ee541849e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "d299e5892b57", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "a67c5412b3a4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "254e979aa860", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "09eaaefc9c0e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "502eca5328b9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "6494e2ed6086", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "54fb6ac0188f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "73c2d29af055", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6a465183df13", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "80881fff0a52", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "96e28489182a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "7a340aa3a237", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "7a429cbb4fb6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e17cac5a2993", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e7d9888b958e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8155ff56c153", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "6c8e0a073e2f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "55ebeaf0c73c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "1dbe96742fe6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "073ace36a5af", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "eb59097c6d60", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "1a3073d82870", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 70}}
+{"uid": "89f1c092c33c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "303fac22e119", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "91c73b9bcf26", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5a0300386e4b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "9929e94e7ff2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8e9b4663f7df", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "89c0ee233297", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "8fa829017f4a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "cd3c9791c06d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "fe166bb805f0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "a0fa20e5c740", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "a36179e2ad6c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "9a9cec2fb561", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "8006fb2592af", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "a20c049827d3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "e52a03998083", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "4e6f923b8223", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "c860fb4cf9aa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 80}}
+{"uid": "ea03dc58b62d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "a7f779a09c9b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "e12c85d860b5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ff34486e5248", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "648c36b02ae5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "18ba05131993", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "d5ec6f2267ce", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "14723d2dd5ff", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "45ae6f495844", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "cb9b40334351", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "17b846289685", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "7b9fb4d647c7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "eef243cf72ee", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "bce7e4eafe52", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "b365b8ee9837", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "28d4ff82039b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "91dac84d22bb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "b5664327d855", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "2915d6d0b6ac", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "40f2cf73b4d1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "3717e417a491", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "61b6c8e09f3c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "35f5c6b6b77f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b9a108582609", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "0081f1013eff", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "d9ee449f3c61", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "1fe27372a207", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "5a17e4c30a3a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6eca79b8625c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "6da69e5b9f3f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "1e0b09700a0a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "07544c51db71", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "9af2ecdb2137", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "be64cc2e31c3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "bd824ec2a541", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "eb9c5cd76e0b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "884ff2a76dbe", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e1c2544ac08a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "21ea1eaa955c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "c0e281dcf98b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "ddd0d5d4821a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8fc1a60bda6a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8139645dbb38", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "eb1c73f2e728", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "94f0fffeaad9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f29e98155c27", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4fce0660e4e9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "4974f1790cab", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "38136031e932", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "755e239b723d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "77df79bdc0d8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "879dec3e16e2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "e52e0f101ea5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "92feaa059261", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b91517c23d8e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "878f4cfd2468", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "5eee92f82535", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "4e22be9d6eae", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2fe8cc68625c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "53b91551a83b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "95fddc6a1c12", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "68f78bfdcb8e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c0cff76e9f21", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "832c1c675e15", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "070e2e4c6931", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f01fd1e372d9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "59f56bceca6e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "76c39293a9e8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "32c6f391cf82", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "505630872de3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d3d147660011", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "e63ac96804d4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f014929cde5b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "1eb444a59cdb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5aaedec20a16", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "763696378873", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "186a615dec04", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "fb0526d4aef4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "a31179442688", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "86343ebf380e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "99b7682675f2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "fd4dd48501de", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "0da9cedd88a9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "91d521892f18", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "967d00005b83", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "30e1a652b483", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "c56af3e85596", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b7046f03746f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "c31f1b620dd5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b812ca588ec7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "8c907554f5ce", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "fd419b4112cc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "49321b74fb97", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "84a904c7446e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "edffd3d970fc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "6da5e15df234", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "82643bb86889", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "391ad5733cfa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "68fe880f75dd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "3ce0eead67cd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "1ed7d4329643", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "ad7df7767515", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8ce2d5d74c38", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "924a4d13f066", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "16175609b3a4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "619fc512544f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "90981aa29d47", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e15e6977860a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "6364d01f864a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "3918fb3d21ef", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "20f161d08360", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "70f597d92c34", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "5f9da6fab883", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "b3246e7e3434", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5f80c9199b22", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "e9d21039999a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "432ad3c0d7fb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "cd63dda664d5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "f5f17e38c892", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "8851f4ba1545", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "9faa3f3e20ff", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "c69172ce5fd9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5ad27d615de3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "63200223afbc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "3f97e86e6f9c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "8afd8a46ba1b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "fca0abbad718", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a7fceb47ac49", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "57e1d52375fc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f317aa1055c7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "710fb8a7b9a0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "f34bbc62f72e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "b2c84a218827", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "4d5423b46b6e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "89e408ee290c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "5898ff570a8b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "cd8da3f82e90", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "5b194b5685bd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "028190a1fecf", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "fc43a8fc1c4a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "79d9b7af68ab", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "400d3d97f30f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 50}}
+{"uid": "468cc9beaca1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "369ed64fbbc5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 50}}
+{"uid": "9dcbc68eaca9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "6ed858fbddbe", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "aac2bb964e23", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "4c41db4bd07e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "6802fdcfdc7e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "73f1e020153e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "51235d0549e5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "5e38bdd734ac", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "33ac2e3ff2f8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "65691878dcdf", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "6ff9f246c9f8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f2a79a6b03ec", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "200dad7d0227", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "7dcc6cde41c0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "98822d0de966", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "f08a167e444b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "15e2364ff035", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "4bf11e90c319", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "48da98a3fd1b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "318cfd7fac42", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "709b4abe4507", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "bdffa385ec4a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e68866b5f18d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "f9c079fb75e0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "662d9ac8c71a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5d0a2cd178f9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "878d7222678f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "6fa8eab6e5b9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5baa29572334", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8ae863843256", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "e497e4c7d2da", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "bf7aae49e6ad", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "984e22f77f2e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a6052d29690e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "50ac38001e96", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "8783f471843a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "7870f1af3321", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "447cf8e8da0c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "bcb6decb3e7e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "cbb889cc75ca", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "678f2985f748", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ba2c37ba571b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "e383fd3a8456", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "13e9dc62d01a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "c048f099c2e5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "f15015bd0c8c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "398903bbf700", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "5833adf8fc9e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "037534827f78", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "530d899db679", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5d49fc1bd725", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "7c6c20c04ce6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "1373f259f046", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "91946620c72d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "6e51854c35fc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8966c797fc79", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "922760150169", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "07fb37600838", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "aa5cf113d2f3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "a0e7079e79bc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c3ad4f772b66", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "81f179204b57", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "6db1e8886fad", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6eaddb52c216", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "492e1586959a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "3c29ba53500c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "f31cf35983eb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "d524fdf00ed2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "049008449c99", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5a84be9d0d6b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d3520fdfc71f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "5b8025ca12d3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "83b7d1b8b0d1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "ba147e4068bd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b8807a2d36e1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "a22553e3d774", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "319772d5b814", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "859b1f01648c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "5b2dc5e0e589", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "0efb314201ee", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "56ca35f3dca8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "be6025185070", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5dd93cddd61f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "96ecb374c661", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5f35ca4c239a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "136a062c7544", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "6202a1f72cd6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "011c48862931", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "43285477f15b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "d42a126a8247", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "52a5be696d94", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "5d763b3d5c46", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "e503f32671e5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "28e35e30b5e4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "47844983f1ea", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 80}}
+{"uid": "4dd0eb855904", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "97a5ae355166", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "f223a1c98ee9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "9e92ff9fbd94", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "be23b5f465eb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "621b768f4a32", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "9f454e3ef077", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "fbf91b478a69", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "af78acf1344b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "8242b8d98465", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "df24df600f8c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "668bac366aa6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "36d4a400b070", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "616ecf4b27e9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "44ce975c38f3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ae42cf2b7000", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "7411b516aca3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5e12b72e22fc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "b936559a93ef", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "c38ab6fedf65", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "a71bec93901d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "838f5b3b557f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "70291b2068d2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "81f292442323", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "c80d1aa9a3c4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "c2d0a4a64db9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8f9bf995bd7a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "ce6b5658b3cc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "70add4bb1b63", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "231486ceac03", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 70}}
+{"uid": "733cd969af65", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5554ae603738", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d01ef4fcace5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "d8e6e95f315f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5b9b98ab9ad0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "55a7742dafdd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "19da23f73828", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "ed315694a56e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "bf7550928c49", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "8e8fbd17afe4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "5a62c031cb95", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "76a8ef4b240a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "d5c6a90422fd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c59f5a1b7361", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "536dafe78095", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "615b89063b66", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "f4931a073305", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "5bc1acbe49d5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "73c8bf7ba0a3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "4934f5c1789f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "b4525bf8f6a8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "031b9fee7f5a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "0ee3611f85b6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "3ddbd51e2e1b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "cc973d0af689", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "71420f7fbfa7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "6f2cf2e483ba", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "224ddc444057", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "08f6024e7918", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c08b971c46fa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "c7a282371cc7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "957d635d90da", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5959c3f35d96", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "1b4a7c56cca8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "483a757789ee", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "77e670d190c7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "e394b96fdec5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "5c435cf8cd37", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "95c411c61d99", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "33420f18a585", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d7ee1ab795c5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "95d39ba57a0c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d28a5b1283ff", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "3baeeb6640ea", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "65ab9aa2eb0c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "4f4cd7647246", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "40fa3f36ea02", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5937543e0d17", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "130a4bc4c77d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5bb66db873be", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "308ae177959c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "a5352ec52b61", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "2664b71e7c66", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "ead19ce15ffc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "27de42098866", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "5d89a5304021", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "3d58c80871e1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "09b8e79f55b4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "c09fc142ebd4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "4ff0e027a697", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "5ff4768697c2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "91b8f06003b7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "7a5c8ad1b40c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "64690b82931c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "2e9bc31fcf84", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 60}}
+{"uid": "957c9d3a2971", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "6bb148e703a4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "452aca7fa60b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "714073c44e5a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f16b3fa24d1b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "be8bfdfdef65", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 70}}
+{"uid": "2607b5fdef63", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "7e78a0a8fa9b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "6a1cdb7040a3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "6dcfe0c58cbc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "e09acc29c255", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "d2383d464609", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "c04c892ef597", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "eb1256782767", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "ff65a50e2ce0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "ed084ac65b2b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "1843163843ab", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "13cf45f86ce1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "31432d572cd8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "73f49dc29254", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "0daecb561712", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "bb34944c8f86", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "50739a241230", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "16506c027b4e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "abf08c491981", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "21baad63b7ac", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "f36ab30a2a72", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "9f7754421867", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "892864c6dc4e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "9d1d6bad503f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5d89e6a2127a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "9a17d540caab", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "4a48fd0cbcf5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "ff710c8637d0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "a6e92522fa66", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "3015580ffd5e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "9ae92ea6abda", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "b726c56c785f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "e32415d67553", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "a652b6d40434", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "a0dd2a2a382b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "61f78090ebeb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b2d524008e90", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 70}}
+{"uid": "f87520d0f2e6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "ba383cc251f5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2c2957288eff", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "c439c7dbb3eb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "e56e9924cac2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "52143d8a5eb9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "9b59e3f93222", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "861efe556edc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8f2d1235254f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c96ce85f01bd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "8eba73875e96", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "e462d5ae37fa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "ca1a2cd95bf1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "aeca6805d205", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "d212274b26a7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "3819b1e71a60", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "446b54389548", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "26cb6b27b940", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "7ed42f456b56", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "e68e6269827d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "3b2ba44a66d0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "d33d8dca8f55", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "cf946e7084c5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "5b0145b312e1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "24c8757bf18c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "9fce37f3392a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "679e10be86e2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "cc1caf3f11c1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "0c52fef0ef39", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "1e5ccc7f88dd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "ecde843c4349", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "efa7f17ffbe5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "83eca1f77c46", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b9527b334d90", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 50}}
+{"uid": "fa207a49e26c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ccab0345d1df", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2e1d7b02a2f8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "90781da34817", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "1526e6d4aa2f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "295e8dad759c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "b8b1765301af", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "6320105ff95f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "6b8e14fdd05a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "61ef1a7c0741", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "80347525b815", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "caefdb5aa6a2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "33184a2279fe", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "50612897ec80", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f1d2f0dbdca7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "a7052cebd3de", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a655a0e6d0f5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "c46e38b9cdad", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "1ac667dda5b1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b8fc20849904", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "55ff742ff032", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4cc419486362", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "9eeb1dbe410c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "78535808ff9f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "8437b17d21da", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "e8d114cf8d82", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "c2bdabb5003e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "1da626b66bb8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "2ba80a11db02", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "c81ba26566aa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6c43d2c01bac", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "3141c3d8e8f5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "87f925780de0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "d280bf074ed4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 70}}
+{"uid": "55b002969666", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "7e7d7103d3f3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "531aa63578e0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6910b29058c6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "d3badc93cd00", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "17e5271ffb30", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a336354e9371", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "82d60af2e554", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ad9d8377a24c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ac112f22a18d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "2adf870cb2bc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "0fac4d950e36", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "bc6e7fab0e76", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 50}}
+{"uid": "364bf7bd5351", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "cb98aa40044e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "95fc1d20cec5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 30}}
+{"uid": "3de095dbfbed", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "118ca1278338", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "cc36d30fbe44", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d52e881298a3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "da2b2fd82f41", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "cd0db84900c8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "ad2c5d024a93", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4179df4ece17", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "b0b03f5c319a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2613fdfe71a3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "4fd9680851f7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "26f12ac67954", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "61528bff8321", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "1f4e3a271c28", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b882aebeca77", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "7136f95556fc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "11b9b4f4f586", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "59cb29b87577", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "fad8222c9996", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "db86bec416d9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a3f63b99843e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6cae53cd0088", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5fa454077299", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "2548bd0fab52", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "70475eef2411", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "7d2b97ff6991", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "3b4ac8ec5c17", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "ffe9bc7b8b54", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "7e1f3539312f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "b3d2a69c236d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "0e93bf1924ac", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "730cade5c722", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "44b06fa0c343", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "ec93c13c5757", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f9b07e2e8be2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "410fffbdfabe", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "f3898ff86471", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "f516ee701b92", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b2e3d595573b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "3eaee532ab49", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "d79ed3b555b4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "36a82723ee53", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "229b8db71cc0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b570fd726e97", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f78a6366d7db", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4dcfc738a39f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "5cdb3b97c61f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b23372af1a8a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "71cf69ec4796", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "bc06c442e1ac", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "cffadc23d1d7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "da840f358336", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "67cd21cffb1b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "fbdd6fe57aca", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "3b04f2a419ab", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "cd4575c86727", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "3d459888e941", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 30}}
+{"uid": "6af8ded2961b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "bbea2f3f9fb3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "f5c2588ae840", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "586e526599f6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "34a906eba6b5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "e721297fd944", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "11712b665753", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "d0a4c19d9dfe", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c05c37f5d637", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "b4df3582c803", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6f9eb92c608d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "f496d111fec1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "dd7349f76bc1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "0f1a0352e964", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "384bcc6e8768", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "7116410d6b8b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "5745674d9814", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "a70ca649a97b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "34db83e0b886", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "7781cc3743c6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "c4a6ae187283", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "83a105530281", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "bb08c79c1724", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "1b267f2f3a21", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a347a4d1c87a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "9159cc229674", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "9e700e226d17", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "72063c75e6d8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "775d75c85ad6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "59ed9a4b61b0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "abbab4f1366f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a2bb99c23b2f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "dc537d782e87", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "e10f2ca68891", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "f8daf4319c8c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "9d2acc8d81a3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "511e70ac1d3e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "fff47f54b4b1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "b5ac383c147e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "62e6aa777bfa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "de73d0648439", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "0cbad93f5348", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "01f3239fdd69", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "3237f87f0d13", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "7d25fecec3ef", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "b216d29d576c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "d326ec77ed0d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "ab34b8904961", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "2be7e2a4da99", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "b18f22fee839", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c9046a1dc94d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "239e4bbf156e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c418587f510c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "b496799e1c9c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "ef9e0c51f767", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "0541c98ba55b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "a4cc730626ae", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "27e2ae7f4005", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "c42e0e61ab52", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "477606ff565e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "cb9c3614938a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "e10d4a8052f1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "50542c5dd1a2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "2f55d131fb4c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "86e3b5f7ec1a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "5466a01aeb17", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 70}}
+{"uid": "d98363443e96", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "fc3cf8edba35", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "058d3de4c3dd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a2cdd389f843", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5dae615356ee", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "126a45793aeb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d99c18106487", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "c4f5aa2bdc4e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "dba5fad675c0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "fbc59a44ad35", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "4072fe290bea", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "No supporting evidence", "confidence": 50}}
+{"uid": "883004272946", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "8ebab3dd9755", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "754b245fa75c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "2ce48af7c5f7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4d180d71b165", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "96df084e4d6c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "c289ee9e2ab6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5ab15478cdf5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "f1644540a329", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "2f4e6544d0f3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "f248ce1fad00", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "8abad8cdff45", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "0e3ad95d257c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "33fd33aeea67", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "1f38fc63cac9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "05c8366f6982", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "b0763649ab40", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "23e6d9295ff9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "c2493c523213", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "601ccc2fadb8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "715994d9b8a5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e1b5379576cc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "86154266a929", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "852d108639fd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "02e0cc3770cb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "70da765b03a7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "34b45b98e675", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "0953d610de88", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "b1bec4f7789d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "8c09c1a950a4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "81b2971dedaa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "77dc73b71fa1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5af0d10ac7f0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "510bbd4218c6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4ad89d604453", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 80}}
+{"uid": "fa8eec94557d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "896425b471dc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "dd43aea4665c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "705bfc854961", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "ecb58ec85987", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "7ec5daeeec05", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "edea140a54ad", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "ca6158603692", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "7608e9a2f84b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "962df19ba6a9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f0287849c011", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "6fb9dfd547b3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "222dc4e84fe2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "cd00d6091788", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4241a1789850", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "55c258d59de6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "aed874446a10", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "a050acc1ffd9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "37cafc1b869f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "138941d92542", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "0e5d77dd7a12", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "40809177d668", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "539a32a9293d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "7776c56542c0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "9cf8a53ab17b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "44b0c12c890d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "c50cd95c4b46", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "3c1a5270e7fa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "8d67dc1bc267", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "66a7522032ec", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "3b2cc88253e0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5f669979776c", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "b31c0f4eb931", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "dd13d512cac6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "1511b01b8e59", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "8af30dba0e90", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e85c1ea9fbcc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "939ebbdc0cac", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "01d51dc87191", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "172e64ed0ea2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "24efb9522af6", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b2a09c6efeb9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "fd38ba6e8835", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 100}}
+{"uid": "d387f8d239d1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "3352a87221bf", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 30}}
+{"uid": "28b6cbed9ae3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "381afbbb4a8b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "fbb15d5d2d84", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "1f2254cfdda7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "7171976c4a29", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "3b2bbc13f1f4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "9446656d10cf", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "39efb153e379", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "7d40c517ba0e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "e567ad1ff0ea", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "d1a82dbaeae8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "9c72c3dd1afd", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "8335e834b31b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "9884a9f97f99", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "50506d3e8f2e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5df90ec693f7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "1eb4aa840cef", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "f19f16c442fa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "6a467dc35d92", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "527ceca5ca12", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "d27e01eb7259", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "a6a900d2f61a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 80}}
+{"uid": "d12213d24cee", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "c88546745efb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "abb843f48b37", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "f7f292f22b3b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "7b191c429b76", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "b330d8daa57b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "ed5fad06ab48", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 40}}
+{"uid": "0187746e4858", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "694e6574779d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "8f6594eac2e9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "ce0629cfcfed", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "efd67f8b9966", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "42598a46c8ce", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "729f0e83ea56", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "07499b39a4e0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "da2bed37d010", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "0dc26eceb2b0", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "ecd565c8398b", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "394188b5bcea", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "81d9737488ea", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "d7795924d9e8", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "018195ffb132", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "b976d8562575", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "8d289d86623e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "88f181730dce", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "69b06db538f4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "34064782b807", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "504fd2d81e6a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "cd8c118b48e4", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "8735210a8b86", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "2a3a9e17d3b2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "98204460f0aa", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 70}}
+{"uid": "5e1838e2dfa9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "367697e5545a", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "9cb8238c8cb3", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "4279a51b6bd2", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "9631daf87ac1", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "5b1af2b55a41", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 30}}
+{"uid": "ed0c8ccc0369", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "4cc9b9458f1f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "5090699f16de", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "67a9a3d1aa91", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "4c3b9282fee7", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "8d7cf09a240e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 60}}
+{"uid": "1c2ecfbb2130", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "a8879d2141fb", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "6da2bbff6e20", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 50}}
+{"uid": "952a20761664", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "f34c802e7e24", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "5e288daae4b9", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 40}}
+{"uid": "49b35b411d3d", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "5ffba4dc164e", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "71f98f35457f", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 60}}
+{"uid": "575e8996deec", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "8fedbc5fd8bc", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 90}}
+{"uid": "6d6ed866c9a5", "rep": 0, "model": "gpt-4o", "temp": 0.0, "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 40}}

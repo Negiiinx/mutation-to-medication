@@ -1,0 +1,6 @@
+{"uid": "6114bd9699af", "model": "claude-opus-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 88}}
+{"uid": "9ef0f9b97ca5", "model": "claude-opus-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 82}}
+{"uid": "3ffa214888cf", "model": "claude-opus-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "39464cb2adbb", "model": "claude-opus-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 85}}
+{"uid": "381ed4a07d90", "model": "claude-opus-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 85}}
+{"uid": "efb47feb5ac1", "model": "claude-opus-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 72}}

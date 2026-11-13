@@ -1,0 +1,903 @@
+{"uid": "498711c9e129", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "a0e460bfeb88", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "1966dded36a4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "5cc96bfb8586", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "08a80b411ed0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "a4ac25aac90e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "90d3f9f2bab9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "330a5df359ee", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "f3b72a5b6741", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "b97d0d880cc8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "3ae02b7a5e5b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "a5740b0a73fb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "357da303ebfe", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "d41d37568234", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "1542921479b8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "ca79ecd59749", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "a84b6183c6f7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "3f117a9609e3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 15}}
+{"uid": "00b694af2f42", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "04a52d377d1f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "0feb3fb20333", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "c14f0965bc56", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "d83f90589b51", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "14615060181d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "a2a8ce5d1a8f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "d711ca99d019", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "438f664d8e14", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "38e2977c69d0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "791a7e9cb612", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "4a3ff5e6feb1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "3bf5ebae4a6b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "a562deca40a7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "7ef3bf359652", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "6fafac094abe", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "35b2c9956eed", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "629286b4b47d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6b532d549776", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "ff54d8abe80c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "e96c734c746e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 5}}
+{"uid": "46050b98739a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "a407f570243b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "3243178d3fd0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "6d1cd2940f5c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "416c024485fd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "8cd91f97e71a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "d9291b94cb3f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "4e3574e9698f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "84bc1867fc68", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "9c0e7dcac42c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "2ef384c986ca", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "df6600cf25a7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b8facb41a7f5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "3e4e20c814c3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 65}}
+{"uid": "1ce595782d3b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "27e1ce8701bb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "2d78524a266f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "918148e88382", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "eccd8777e3c3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "d3a18dd2e549", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "1fd65c2dd88b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "1366f5e66a05", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "ccb6b9c63234", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "8d09231b7d94", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "40706a1f04c5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "2fefa43b7db2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "5d915b7badd6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "0ff13efbcafa", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "dfe3ae0105a1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "a167826fa54c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "aae9c542009c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "42eae5e2ef66", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "84ed4589c0c8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "79698b3fcb65", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "e6013dd89859", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "83f4064a63c7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "b438e4730fae", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "7365347c6766", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "41878bb0b99b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "f691f43fb964", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "3b823e5a6c87", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "8b125102d875", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "238f8f253bc9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 88}}
+{"uid": "c7caf3e678b8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "ecca2f884347", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "f8032f0f10f9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "9b73c260454d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "b651545eb080", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "b55a2615fca8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "74c52d0d60c8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "d58958c8fb76", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "3435f4fc00ee", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "70d1be5c062e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "356ef3d4a13a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "c3b538edaf66", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "c3c12bfe5c5f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "dfe2f1996577", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "aca4e800cae1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "f43deb7d6a29", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "7e2f1e4e30a4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "f2d54282135d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b0171b2a9336", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "c5693c8d5aa4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 75}}
+{"uid": "9797439491b2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "3b2b5916d06d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "33705c96cc97", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "cb3ad9dca963", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "4558ffd04502", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "e3797ed04b82", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "b36297884ca9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "793320cedaed", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "3a042ff7fe38", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "73d17c142170", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "a71b5b52e78e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6219c517a9f9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b322acf20d60", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "cfc50b4726d8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "d86b870d264b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "047f8ec767d1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 75}}
+{"uid": "b07cc0b4a00b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "e21cde0df370", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "ce5b45faa4f6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "ac130f4c005e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 5}}
+{"uid": "929cecbc6fcb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 98}}
+{"uid": "5f75165e8f8d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "98adcb912a61", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "edd268d4d7e3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "ae197402c471", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "e87ada49e2d4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "1ce35b6f26b5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 5}}
+{"uid": "9ad27103f137", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 55}}
+{"uid": "868a96ac3c5b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "79c04fdb4b5f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "5a6eff725817", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e0529ab057ad", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "881e45359c64", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "257ab9f400fc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "e08af2e979a0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "d1b1463340b7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "c1e6f82578ac", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "c492e0838108", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "f896b4ea2867", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "ced2b5d465e7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "fc6e6c311b1c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "f3c20d36cc8e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "f5ad0ca88e1e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "dca530b1dd8e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "8b33533385eb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "edf0d4997812", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "1b39cec5f003", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "5c8bba61ebaf", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "e8dd2879c3a0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "0a18566c5db8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "4f9a39b6295c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "b787de85f2e0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "9abee7829141", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "866e13a09d4e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "47187d319790", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "af86d4711a52", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "272adcb726c6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "826d0a3ad438", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "50f1f9f79d0e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 82}}
+{"uid": "237165a977d9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "f74f2615860d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "8d90dfac2504", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "38732546f94c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "72df25415ca4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "86b936aca6c3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "320f043a170a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "87bcefa1b8e4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "9ae2a0a8ac50", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "4a9636322318", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "b5451174a516", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "29d7fcb9eb5e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "74b9220362b2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "baf258c4e02f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "bc93a5b19138", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "810f2f6538a1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "41bee520c1e5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "d1928f1b7b26", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "d613aee24892", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "f86964d154a6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "09913b4108a7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "5b3ea6f80cd3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "9fd9aaaeb5c7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "73048118ca6b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "e3dea71cf201", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "910e60a493d6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "99f53633d03e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "0e366256a555", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "ae2721d93092", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "9a9fa9c9ea9e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "7bf158e3a279", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "c27904d29453", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "84466dca54d9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "2bf7854d6e61", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "c87f2af5e0f3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "08a2943c612b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "b022bd84277b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "56caa506043d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "3e26ca90567c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "2538a2642d10", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "ab7f2fb32a6d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "86507cd90c51", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "a933ab238be5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "56a8e5ccb251", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "017cc4723a55", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "c25f57e75cd1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "28a9f91c6638", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "8b0ff9918f4b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "c82be46499ac", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "7f31caddd1e3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "12d3fb0f2e2a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "77d6be4c0ba0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "56ef5df45811", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "c830a8a23ca9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "de31c09db3ee", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "dce2a9c1af6b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 42}}
+{"uid": "e94279943841", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "64615067e98e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "72e73720f20e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "9f289e303234", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b99a3fc9309d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "182a6fedce3a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "16a46c8204b0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "8ab207057d93", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "270ac1fbaff0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "54f5e8477a87", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "07327d4032bc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "6229d11f9c23", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "c2a5dbcfdbde", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "024a0bf7e406", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "caee282391c2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "9257d9cfd2aa", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "c8d1e76ba30e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "83fb545b05cd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "c0965de473cf", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "7c73d3b12ec8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "da8dd773ebe1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "74f620049b6a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "9654137b5a5a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "dd2075448b9e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "35dbd85372d5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "952eb530f9a2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "c20ec290544a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "24bfd5685840", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "560e1d1e5b75", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "bbb3c83247d8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 55}}
+{"uid": "355abcf58ff4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "c2d571cb7598", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "481954e97330", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "43709e146a54", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6d30d7c6dd97", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "2532aa345afb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "867c39334b98", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "72710c9e41da", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "e47333eed9f0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6f52f1179e7c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "afddd742c308", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "2b4b57875a90", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "5e5fe02ae489", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "da82136a4838", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 88}}
+{"uid": "c50993aa1dca", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "3ad592847a7f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "4b926eb9b0e5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "a8be2af6964e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "b5273bdc8668", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "75179e343fe4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "f7d2eadd1d63", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "845b4352a961", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "3b22d0a79672", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "1a0d88bfaf84", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "397bf116a8b5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "e5c363635ec0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 75}}
+{"uid": "c72a8c0052fb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 78}}
+{"uid": "437364dc259d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "4e0d24112a4e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "0c0731727f74", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "535a2e87c597", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 85}}
+{"uid": "37d85a026dc6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "4e556ae96aea", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 5}}
+{"uid": "340188dfe1f2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "1b050b766b92", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "bae721dfcb6c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "37eb0bd360e5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "41f8255df463", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "5363df7e258e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "e1d5f7448aab", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "29ba3f30789b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "0685608ca7c1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "961c0b351737", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "717633746b74", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "5fe21d72ae9c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "4b0037a0f04e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 35}}
+{"uid": "a839bfb1440b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "1b5aa6e4c045", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "82ba7be19ce2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "8d902c3bda39", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "60a30da1c7e0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "403292decbfb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "e1bab23c379a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "e1dc01297b27", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "1518972b76be", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "8d4e182b986a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "4e228d5145d5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "9213941ee599", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "8faf202bcef9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 75}}
+{"uid": "d8619bc0919d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "d14271836bc0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "d1b3b3116185", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "6251b2e6d6a3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "1b03baf5c9fb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "093658359b02", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "44a04139219c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "bd50e7d59fab", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "3cd6592369f9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "2e55e4167055", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "cbf3ac914a48", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "d056270656d9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "485c8b15af80", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "6e00e2be193e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "a392dbdf3029", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "23e91ccbffc3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "672342e8a9ea", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "f08eee9e076f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "5cd63e79e82d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "eee0da362fa2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "86646cbe4ea8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "d4a483c5f527", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "abea8d2f929d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "0f791e74f129", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "43000fd56a2d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "16e160175d7c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "e43c271bb8c1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "1f2bc0a7891b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "9da74e925e96", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "daf6385e0e86", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "0c3c63cd3cad", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "39d6eb96d88f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "65442c5f14ad", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "6e0cc73e7a8d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "f65fb177227a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "5508e06f9840", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6dc3129d27ea", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "99d276255d35", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "77e222ca8534", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "5ce53d79f515", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "de947b3055c4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "d379fd3ebe9d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "fadfd6a8013e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "2ea2aa9479d8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "7b5a788facc3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "3302563247ab", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "44655f18a584", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "0aab41bc4c6b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "7404e39a99cf", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "fd0fbb2d8482", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "8167580af7d0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "ce58c875a947", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "c4bed425e1a4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "8f12e697b0d6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "4b47f27d7e16", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "3812369eef6c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "79dd2ec87e31", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "dd71b667ce7c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "22307cd01407", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "e535aac3f3fb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "12262e21f420", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "b1802cd3adae", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 88}}
+{"uid": "4f1fc4eac714", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "141a12bc0462", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "bdd528792e6f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "7ad0995290cf", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "9bf96e13f37c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "5996b9304704", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "284b0602e361", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "3710387bb7ab", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "3e172c719481", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "78fbe59ef5d2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "90322593702e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "ed6bc5bcd1ed", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "f220d029fbd2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "d8d83173d1bc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "dc7bcc627b1e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "1dadfe5ba484", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "724fa4a6caac", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "e25ffd3340b7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "6d3e9fd06569", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "89bcc2680c26", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "5060618e823f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "35bb150beb28", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "c6a569e9fe86", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "3fada868aa75", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "62de1a429c04", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "316595146cf8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "8f73133d42b7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 5}}
+{"uid": "09421155eafa", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "470e335664ed", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "5ed3ff1204a2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "fa6e64386f66", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "d2e41839dcff", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "79e5ed60880f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "8beb2f0427ef", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 42}}
+{"uid": "7dad4161d694", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "12e7e7787859", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "6d01868f32e5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "c30a3525eb00", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "b0f0183ec0eb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "13ab88632f8d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "8855a7897587", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "89f0223630aa", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "0f4091133a4c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "3cc860cefdd5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "da3eace25d1f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "76e068d38818", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "2902463f3b32", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "8f735dac5205", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "affbb004ed6b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "6ad6fc71edcb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b3ac966d0a7e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "a58a3e0f7670", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 85}}
+{"uid": "43bb9757676f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "98131f68aab6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "43e4fcc63aba", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "97cf89ec53fc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "16423a518164", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "2c5dc67357f3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "7f58fccd0084", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "0e4d507e7b95", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "4afc7dd4db88", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "8919eaec58be", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "4ae477ee6d3c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "e84cc9fb50b9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6226982cacf1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "9f39c2b6b806", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "36a2f6b6b05a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "142a0693e607", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "d9c7f9614a5f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "c6360a705b09", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 82}}
+{"uid": "7baaced563ee", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 65}}
+{"uid": "9bed9e291673", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "3b3def2f84e4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "2f0b9085abe3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "1164897192a7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "146a6aa0e762", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "58a4ef28c970", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "e41e90208833", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "aa373890f612", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "df1832aaa7d6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "2f7a8de4ad2d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 70}}
+{"uid": "0a70ea4ab21c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "a7e248bd68b9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "63538ae16928", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "0f0d4bd412c8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "88840fb97d6c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "14cccdcfd05c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "153bbc4958f0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "d641f070d547", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "c98564d2dd1e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "47752792017e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "008e63cf5ef7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "0cda5c1d36cb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "4e83b1885695", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "bcd19cf57084", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "06a24f985622", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "1a344f7b9c37", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "ef192db975b8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "9bbad52e9b96", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "4f94d8744287", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "f79fe588c716", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "545437276869", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "74a259589f9f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "2491e398cb31", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Established clinical evidence", "confidence": 75}}
+{"uid": "f61e2cd5a2e8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "1e4f8ed7c628", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "c079f159cc47", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "5b9acb77cf42", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "37737100ad02", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "3f4c05339e15", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "9725329ae6b6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "6b85ec3cf160", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 42}}
+{"uid": "c631593c6a6b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "70308700e7b6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "3ea99becea58", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "b53856e8be5b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "a0ff8e7bd82f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "03aeddfa6a89", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "8bc05d2bc666", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "693aa3b1bb79", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "2bab9558db93", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "ec43d38b5aaa", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "4d951eb5a755", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "c6eaf12bb7c3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "568a4e1afb85", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "b51fcc7bb5dd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "46179007a5cf", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "e022e0ab3bf9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "df732e367229", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "89f6c96d2f46", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "f3f4e03457d9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "bae7509943bb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "864f38666c6c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "d5cff4508016", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "074a743f74cc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "995061f2fd07", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "2828bc23b839", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "1dd8bd2ad8b4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "e428ec416cc3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "8888124c1a68", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "12fb1739c6bd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "f0c6d34b1c79", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 82}}
+{"uid": "dac94f3cc8f0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "3c51445fef5c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "a791bf0a63e9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "415aba5fd899", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "680f806f97b7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "74d0a5c8ed77", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "43ba47640fe4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "1a18a932ec05", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "92162db54c0f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "6e94106a1136", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "4a9034db6cd1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "b50b80223cb8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "215da476c5c6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "be81666e6f79", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "c7222caeb009", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "73aac1036b28", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "1cfc154895eb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "f5cb07b12a06", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "468658360743", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "a0c2f0dc44da", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "ec181fc28438", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "30c4ceb8bc25", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "3c5407daed01", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "aba388679fec", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "3653e13133f5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "5ac0d1567060", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "1a8f67059959", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "40ed591f01ac", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "c74ebf6542cc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "d382da552b0c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "106646c46452", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "f94f127cdf51", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "ecc9f2d136ff", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "5312991ebb2c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "69226b22269e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "c77e218411e7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "b22601d9dd33", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "bdc994bf930a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "50a49e014d31", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "fb0a10d5a4c1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "983ef993ae2f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "c6bf6445e6af", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "767675703e06", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "a038b6fb2901", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "93a4e69bc512", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "c00d7b5afb3c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "6e8d47af7dcd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "3b213067f5b6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "c00a27ce6fd3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 70}}
+{"uid": "7081ef5af47c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "8ad8426ed34a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "468c3466fe2c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "74ae08c09943", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "5fbc23c43664", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "e47d7b673888", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "1c746c15431f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "84c28b208daf", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "5cba095a88a1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "e6b0d6b739cd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "78c232896218", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "839866564063", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "7694c9b746ee", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "249e65fcdc38", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "d93db0d39189", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "ef0f15b134c3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "0f009261c08c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "efab206db913", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "bdf436a5cad2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "dc7c543c2fde", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "8ddcec83b787", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "e03c1ede6c67", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "9ffaddde802b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "41aba88a2631", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "3754578bd083", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "4c1eed27ee3d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "f6def48fdae0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "a967feea06d6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "3c636b028159", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "b85a828a572b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "8d4f50b75092", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "0715494e23e0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "b5133f864b32", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "2cf0fc033631", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "59780f3eae55", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "36959e632ab4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "1a556b344032", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "67b5e9a0bf2f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "afbeecd3765e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "75a667e1eb95", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "67a51ee27f7b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "f5f1d741ccec", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6a318320b429", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "132bebcb175f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b6ae28ba5782", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "2e8398f38928", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "2845c598e917", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "eaaf60fe8886", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "3265a92911c7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "02c5b86e2585", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "40c346540714", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "4a9aaa394af5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "65e61052f12c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "0ba31a9afd92", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "0f3821f31a24", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "73221491764d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "0199e4d20420", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 15}}
+{"uid": "1fbb91c443c3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "ba6bb924bc87", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "a079d68aa20b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "db5159de0bc4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "5fafa37b4a67", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "deca01cd1e97", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "2eff5f803dad", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "6ea6bd684158", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "1f20134ee16d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "6173b51af2f2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 78}}
+{"uid": "b0653838c70f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "671196a58c6f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "5357f7d2d965", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "79d566a9d401", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "0d6ca61c6b8b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "a3c9680a4266", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "74ce2d55ac42", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "d0d19c3fa5e3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "9c3a05572ce5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "4369c025f094", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "e9d7f0a63dd9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "413f91c8ae03", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 75}}
+{"uid": "b2045ff1833e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "b653530826b2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "b52624db3988", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "47de08991b3c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "224293e733f7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "4772655ef37f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "efd3de84a6f7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "0941b49dbbf4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "d359fdc18ef7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "a2d3842ce31c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "1dc35d4a1498", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "796d60738c7e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "3ee4e792350e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "2dbabe63d12e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "c8838fe067f5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "18cff6cf7c37", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "5f115e20c4bc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "a95bca7eb4ac", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "af09374dd2cf", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "52389a5ac10f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "6c11e98b5b20", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "bd18322210ef", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "3183f8dc31f9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "762eb3075b0b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "16f11b8eab04", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "397c6c6914ad", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "684ed2b27e6c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "05cf5c16b382", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "32bd4022e04f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6df87679a65e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "aafff91302ee", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "be120a933ea6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "356e7284f4e4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 15}}
+{"uid": "3a185f9f88e5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "27bfa6af2307", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "e52d33926304", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "4cda977792a6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "dbbe4849b546", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "154701803292", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 42}}
+{"uid": "b3c05569a9c2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "54eed8b4596f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "6ac5aae600de", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "44c378defdab", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "f4b3c133b6ad", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "d9b80d002e20", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "76dcf3c3dea5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "a17e0db9f8f5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "b71e1090cdcd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "39a44243d4e6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "2eb08b466842", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "1a4f4ed9d533", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "1a83a82ac024", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "63b8cd1f22d9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "0b253942aa41", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "bfe8c2aa00fd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 68}}
+{"uid": "f69795dfc584", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "9404cce1a445", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "fb0dfcd76609", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "3f95df246112", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "6e984439be1b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "57d07399e8c3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "cff917e814ad", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "787ca93e2d35", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "8fd390b01997", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "5f7c7ae773ae", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "5ebb03e44662", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "46ad09c8f304", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "a221b201f11a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "da37f236b648", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "8ceec217fa3a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "00394cea77fd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "9bec83614d28", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "6170876812fc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "a9cbea11102a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 98}}
+{"uid": "cc4f75df69be", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "ee533033ca64", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "1daac05952a2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "622a55081fb1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "ec1d0625a965", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b82b63540bb7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "64a7ece95367", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "36b5004d1611", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "bff8af194804", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "c12de6c5c46b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "8533f0bfa65e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 98}}
+{"uid": "fa276e7c762b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "1ecd017fe88a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "78fb9b81ab6b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "283850330eac", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "5d514c76f8ca", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "c429af22e256", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "cb4ee51eb1dc", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "923f8eeb660d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "6e832f23f825", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "c2d6fdb9d6ea", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "20f6d9d2a466", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "9c02113e7b48", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "476c87187b7e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "203ea9d18a64", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "6bca36ffcff9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "fe8f8fc639d4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "9d9f27dd6ded", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "1ae164249ad5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "063641755f63", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "b8685f12dcc9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "897d74b50501", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "1613f4164d53", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "55fa317a904d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "2c3a977c855f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "b4945d6dc911", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "5e76de871778", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "54d941c57b39", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "3d94bf156510", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "e6a21df4311c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "f704f7df5596", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "fa1c1428ca41", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "7cbab06665b8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "fa997f33506e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "d29bfb49a3be", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "23abde089f7d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "2fae52d74247", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Moderate clinical evidence", "confidence": 75}}
+{"uid": "82ca3d54d8a5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "3550536e7447", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "d82518b8af10", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 85}}
+{"uid": "c3db8dd9ec16", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "de4f26c2069c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "30e14160917d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "7d37ad43107f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "b3c8d9ce23c6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "2eaa773f1d32", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "2ca6911bb6a7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "d57b964f30ec", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "a4e802614da2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "376ed3e6903b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "ad659f78a83d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "32e70f59daf0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "a3d9427688b9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "e56d3b88cdb7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "7e81c76a574c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "f1998f364dc4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "7b1bda19e4ab", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "2009ed2be974", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "fd6c1a614ebb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "099b64f1b6d5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "beaa7a416a19", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "a5d49ce6641e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "d328812c3941", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "b0eaa626bbbf", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "b6df998cc7f6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "7b18c84c6d60", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "23366c929df6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "e55624e939a2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 70}}
+{"uid": "26bd0ed7d60d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "53ff4f211c73", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "1a118db3ad9a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 82}}
+{"uid": "d7984f48c3a0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "98fa6238c81f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "d038a23ad896", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "a6d99e8697cb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "600b39eaa63f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "dc32a857cf3c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "9316f718d273", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "4ffca6526460", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "fc6493d7e646", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "26ae811ec244", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "a6a4b29d64c4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "59f6612c74f2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "6c43bb05186a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "0815eebf317e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "4d6735e4dbef", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "30b6fbfe5586", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "440b5b01a4b0", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "c592b65fb1e9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "17f92827bc42", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "f75b11aa31e5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "7e3a3c5e1d4f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "2a7e3de32c4e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "526f0c23c4b5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "469c749f895f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "08d5c6c471bd", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "3e6f77501f45", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 88}}
+{"uid": "f82a20798557", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 85}}
+{"uid": "ebc00dc2fb44", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "03b997a89c1f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "3932fecec1ed", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "b342630aadde", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "b7f1c1d6e79e", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 82}}
+{"uid": "23c4984cd851", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 25}}
+{"uid": "082a40218754", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "fa7257a685db", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "12d0008bf82b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "6249babc29aa", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 55}}
+{"uid": "1ea8006e6312", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "ba4d36757803", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "096cb4cbadfb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "aaa04c29b54b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "00eff342783b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "abb6a9455248", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "fdd350ed2d09", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "3112e5f24cb4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "aac3c96a0fe8", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "fed86c95a441", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "fac57e9dfcfe", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "a6be6824f63b", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "ad3c394454a3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "0092b10bab91", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "ae6834b46fc7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 62}}
+{"uid": "6e8c0c46e4ef", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "7c6cb99fd364", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "49208f12b6f6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "2829417ff39a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "914d7465d6b6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "fcdcd59e00a5", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "84a2b48ee8f1", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "a72f619cd070", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "e0ba6bf4be19", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "443cf534e621", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "bb9af7d973b4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "d74068fd057a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "0638b766847a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "adc3e752af86", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "029a84488e5a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "7be6708d49c7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "fefc296eb85d", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "2102dab00fd2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "d8666c09b373", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "09a7c96cb3c2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "773f676465b2", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "97ad1bd185c6", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "a4805f860f45", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "5a381b12a361", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "ec9cda1d4c04", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 90}}
+{"uid": "818d938480ef", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "32effdc989eb", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "3b9e83da0225", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "d4fc8838c0f3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "155544d9e515", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "1f3d49151951", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 95}}
+{"uid": "3614c86b3fd4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "fa9beaecb372", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "687679a4a8ae", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Preclinical only", "confidence": 15}}
+{"uid": "8f88f2a7f50a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "c30c76058f59", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 82}}
+{"uid": "7478114d8cf7", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "5a786cbd8ad4", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "f085ae6c004c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "040bc54bb131", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "No supporting evidence", "confidence": 92}}
+{"uid": "341774ca153a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "a444d962e639", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 72}}
+{"uid": "6c2644320c22", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "de9447513179", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 75}}
+{"uid": "64b84b40f535", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "4d641fe01e25", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 85}}
+{"uid": "2612dd83a51a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 92}}
+{"uid": "b11e88924755", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Preclinical only", "confidence": 25}}
+{"uid": "7ea18b6dcf0f", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 65}}
+{"uid": "317ebd727db9", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "21e871efec02", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 60}}
+{"uid": "0718df5f1ea3", "model": "claude-haiku-4-5", "resp": {"recommendation": "Insufficient evidence", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "7105c5479714", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Moderate clinical evidence", "confidence": 72}}
+{"uid": "285d35b7221a", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}
+{"uid": "3da4f1efe290", "model": "claude-haiku-4-5", "resp": {"recommendation": "Consider", "evidence_strength": "Limited clinical evidence", "confidence": 45}}
+{"uid": "406e4fb67325", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 88}}
+{"uid": "f80156658a1c", "model": "claude-haiku-4-5", "resp": {"recommendation": "Strongly recommend", "evidence_strength": "Established clinical evidence", "confidence": 95}}
+{"uid": "a79d25906615", "model": "claude-haiku-4-5", "resp": {"recommendation": "Do not recommend", "evidence_strength": "Limited clinical evidence", "confidence": 35}}

@@ -1,0 +1,22 @@
+model,answer,n,endorse
+o4-mini,"Yes, confers resistance",198,0.09090909090909091
+o4-mini,Unknown or insufficient evidence,67,0.3283582089552239
+o4-mini,"No, does not confer resistance",47,0.5957446808510638
+gpt-4.1,"Yes, confers resistance",239,0.3263598326359833
+gpt-4.1,Unknown or insufficient evidence,60,0.3333333333333333
+gpt-4.1,"No, does not confer resistance",13,0.9230769230769231
+gpt-4o,"Yes, confers resistance",228,0.6052631578947368
+gpt-4o,Unknown or insufficient evidence,82,0.35365853658536583
+gpt-4o,"No, does not confer resistance",2,1.0
+gpt-4o-mini,"Yes, confers resistance",276,0.782608695652174
+gpt-4o-mini,Unknown or insufficient evidence,29,0.20689655172413793
+gpt-4o-mini,"No, does not confer resistance",7,0.5714285714285714
+claude-opus-5,"Yes, confers resistance",233,0.09871244635193133
+claude-opus-5,Unknown or insufficient evidence,56,0.5892857142857143
+claude-opus-5,"No, does not confer resistance",23,0.782608695652174
+claude-haiku-4-5,"Yes, confers resistance",209,0.4258373205741627
+claude-haiku-4-5,Unknown or insufficient evidence,71,0.36619718309859156
+claude-haiku-4-5,"No, does not confer resistance",32,0.75
+gemini-2.5-flash,"Yes, confers resistance",253,0.23715415019762845
+gemini-2.5-flash,Unknown or insufficient evidence,15,0.13333333333333333
+gemini-2.5-flash,"No, does not confer resistance",44,0.6818181818181818
