@@ -274,6 +274,25 @@ ck('all seven models have a false-attribution arm', len(C) == 7 and C.false_yes.
 # not against the quoted-conclusion condition; it was the latter for a while and the text
 # claimed the former. Pin both the column source and the count the text quotes.
 _bex = int(((C.b_lo > 0) | (C.b_hi < 0)).sum())
+# the pre-exclusion arms are quoted as VALID judgments, not raw lines: 340 of the jax_
+# records are failed calls, and the paper quoted the line count for a while
+import glob as _glob
+_pre_t = _pre_v = 0
+for _tag in ('jax', 'cgi', 'moa'):
+    for _f in _glob.glob(f'raw_responses/{_tag}_*.jsonl'):
+        for _L in open(_f):
+            _pre_t += 1
+            try:
+                _r = json.loads(_L)
+            except Exception:
+                continue
+            _rs = _r.get('resp') or {}
+            if 'error' not in _rs and 'recommendation' in _rs:
+                _pre_v += 1
+ck('paper quotes valid pre-exclusion judgments, not raw lines',
+   f'{_pre_v:,}'.replace(',', '{,}') in tex and f'{_pre_t:,}'.replace(',', '{,}') not in tex,
+   f'expected {_pre_v}, not {_pre_t}')
+
 ck('six of seven false-attribution intervals exclude zero', _bex == 6, str(_bex))
 ck('paper states six of seven rather than all seven',
    'all seven intervals strictly positive' not in tex

@@ -51,7 +51,7 @@ from environment variables by `code/keys.py` and `code/keyloader.py`.
 reproduce.sh     rebuild everything and verify it
 code/            the pipeline, 54 scripts
 data/            cohorts, knowledge-base sources, OncoKB annotations
-raw_responses/   112 JSONL files, one record per model judgment
+raw_responses/   112 JSONL files; 80,132 records, of which the analysis keeps 58,910
 results/         22 result CSVs, rebuilt by the analysis scripts
 adjudication/    a 50-case clinician packet, and the entries the exclusion rules removed
 PREREGISTRATION.md
@@ -111,6 +111,10 @@ confirmatory result had been seen, and is exploratory for that reason.
 | Self-conditioning controls | 3,818 |
 | Control and robustness arms | 18,502 |
 | Total | 58,910 |
+
+`raw_responses/` holds 80,132 records in all. The analysis keeps the 58,910 above and drops the
+rest: 5,733 failed API calls, the pre-exclusion cohort versions (`jax_`, `cgi_`, `moa_`), the pilot
+files, and 27 surplus records in the `main_gpt-*` files that fall outside the final cohort.
 
 Coverage is uneven, and which models a result rests on matters. The CIViC cohort covers
 all nine main models; the knowledge probe, both repair arms and all three self-conditioning
