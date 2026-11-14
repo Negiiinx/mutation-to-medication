@@ -111,6 +111,21 @@ wild = {m for m in wg.index if wg.loc[m, 'wild_p'] < 0.05}
 ck('percentile and wild bootstrap agree on which models are significant',
    perc == wild, f'percentile {sorted(perc)} vs wild {sorted(wild)}')
 ck('six significant under gene matching', len(perc) == 6, str(len(perc)))
+# Delta_gene is weighted by the resistance cases inside the eligible cells, which is a
+# smaller set than the cases in genes that have at least one eligible cell. The paper quoted
+# the second figure as coverage for a long time; these two checks pin the first.
+_mc = 2  # reviewer_analyses.MIN_CELL
+_both = load('data/cohort_direction.csv', 'dir')      # D above is resistance-only
+_one = _both[_both.model == ORDER[0]]
+_w = sum(len(sub[sub.label == 'RESISTANT'])
+         for _, sub in _one.groupby(['gene', 'best_level'])
+         if len(sub[sub.label == 'RESISTANT']) >= _mc and len(sub[sub.label == 'SENSITIVE']) >= _mc)
+_nres = len(_one[_one.label == 'RESISTANT'])
+_cov = f'{100 * _w / _nres:.1f}'
+assert _w > 100 and _nres == 312, f'cohort load changed: {_w}/{_nres}'
+ck('paper quotes the weighted case count behind Delta_gene', str(_w) in tex, f'{_w} missing')
+ck('paper quotes the matching coverage', _cov in tex, f'{_cov}% missing')
+
 ck('gene-matched cells/genes as stated in text',
    gm.n_cells.iloc[0] == 28 and gm.n_genes.iloc[0] == 17,
    f'{gm.n_cells.iloc[0]} cells / {gm.n_genes.iloc[0]} genes')
