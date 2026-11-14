@@ -270,6 +270,15 @@ ck('case-difficulty claim softened',
 C = pd.read_csv('results/controls.csv')
 ck('all seven models have a false-attribution arm', len(C) == 7 and C.false_yes.notna().all(),
    f'{C.false_yes.notna().sum()} of {len(C)}')
+# the opposite-attribution interval in Table 27 is the paired difference against BASELINE,
+# not against the quoted-conclusion condition; it was the latter for a while and the text
+# claimed the former. Pin both the column source and the count the text quotes.
+_bex = int(((C.b_lo > 0) | (C.b_hi < 0)).sum())
+ck('six of seven false-attribution intervals exclude zero', _bex == 6, str(_bex))
+ck('paper states six of seven rather than all seven',
+   'all seven intervals strictly positive' not in tex
+   and 'Six of seven paired differences' in tex, 'claim not updated')
+
 ck('all seven have the no-instruction arm', C.noinstr_yes.notna().all(),
    f'{C.noinstr_yes.notna().sum()} of {len(C)}')
 ck('false attribution raises endorsement above baseline for every model',

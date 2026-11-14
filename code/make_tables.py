@@ -295,14 +295,14 @@ for m in ORDER:
     if m not in _ct.index: continue
     r=_ct.loc[m]
     ni=f"{r.noinstr_yes:.1f}" if not pd.isna(r.noinstr_yes) else '--'
-    ci=f"$[{r.d_lo:+.0f},{r.d_hi:+.0f}]$" if not pd.isna(r.d_lo) else '--'
+    ci=f"$[{r.b_lo:+.0f},{r.b_hi:+.0f}]$" if not pd.isna(r.b_lo) else '--'
     dg=sg(_cg.loc[m,'d_gene']) if m in _cg.index else '--'
     rows.append(f"{LABEL[m]} & {int(r.n_yes)} & {dg} & {r.base_yes:.1f} & {r.self_yes:.1f} & {ni} & "
                 f"{r.false_yes:.1f} & {ci} & {r.base_strong:.1f} & {r.false_strong:.1f} \\\\")
 w('controls',"\\begin{tabular}{lrrrrrrrrr}\n\\toprule\n"
   "& & & \\multicolumn{3}{c}{Endorsement} & \\multicolumn{2}{c}{Endorse, opposite attrib.} & \\multicolumn{2}{c}{Strong rec.} \\\\\n"
   "\\cmidrule(lr){4-6}\\cmidrule(lr){7-8}\\cmidrule(lr){9-10}\n"
-  "Model & $n$ & $\\Delta_{\\mathrm{gene}}$ & Base & Self & No instr. & \\% & 95\\% CI vs base & Base (strong) & Opposite \\\\\n\\midrule\n"
+  "Model & $n$ & $\\Delta_{\\mathrm{gene}}$ & Base & Self & No instr. & \\% & 95\\% CI, diff.\\ vs base & Base (strong) & Opposite \\\\\n\\midrule\n"
   +"\n".join(rows)+"\n\\bottomrule\n\\end{tabular}\n")
 
 # ---- review round 2 tables ----

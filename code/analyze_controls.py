@@ -78,13 +78,19 @@ for m in ORDER:
         return 100 * df[col].mean() if len(df) else np.nan
 
     common = yu & set(fa.uid) if len(fa) else set()
-    lo = hi = np.nan
+    lo = hi = blo = bhi = np.nan
     if common:
         a = fa[fa.uid.isin(common)].set_index('uid')
         b = yes[yes.uid.isin(common)].set_index('uid')
         idx = sorted(common)
+        # paired difference against the quoted-conclusion (self) condition
         lo, hi = cb((a.loc[idx].endorse - b.loc[idx].endorse).values,
                     [gene[u] for u in idx])
+        # paired difference against the untouched baseline, which is the comparison the
+        # text makes when it says false attribution pushes endorsement above baseline
+        blo, bhi = cb((a.loc[idx].endorse.values
+                       - np.array([B[(m, u)][0] for u in idx], float)),
+                      [gene[u] for u in idx])
     rows.append(dict(
         model=m,
         n_yes=len(yes),
@@ -95,6 +101,8 @@ for m in ORDER:
         n_false=len(fa), false_yes=rate(fa), false_strong=rate(fa, 'strong'),
         d_lo=100 * lo if lo == lo else np.nan,
         d_hi=100 * hi if hi == hi else np.nan,
+        b_lo=100 * blo if blo == blo else np.nan,
+        b_hi=100 * bhi if bhi == bhi else np.nan,
         n_noinstr=len(ni), noinstr_yes=rate(ni)))
 C = pd.DataFrame(rows)
 C.to_csv('results/controls.csv', index=False)
