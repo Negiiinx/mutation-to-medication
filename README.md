@@ -15,7 +15,7 @@ prompt does not reveal the curated direction, the evidence level or the source.
 
 A raw failure rate is not comparable across models, because a model that agrees with
 everything will look bad for reasons unrelated to evidence. One open-weight model endorses
-81.4 percent of resistance cases and 82.3 percent of sensitivity controls, which says
+81.4 percent of resistance cases and 82.3 percent of drug sensitivity controls, which says
 nothing about whether it reads the evidence. So every resistance case is contrasted with
 sensitivity controls sharing its gene and its evidence level, and the reported quantity is
 the difference between the two.
@@ -49,7 +49,7 @@ from environment variables by `code/keys.py` and `code/keyloader.py`.
 
 ```
 reproduce.sh     rebuild everything and verify it
-code/            the pipeline, 54 scripts
+code/            the pipeline, 54 Python scripts and 3 shell scripts
 data/            cohorts, knowledge-base sources, OncoKB annotations
 raw_responses/   112 JSONL files; 80,132 records, of which the analysis keeps 58,910
 results/         22 result CSVs, rebuilt by the analysis scripts
@@ -73,7 +73,7 @@ as secondary, acquired, compound or reversion. They matter for MOAlmanac, which 
 built from specific molecular profiles: they flag none of its 418 sensitivity cases and
 none of its 312 retained resistance cases.
 
-`adjudication/excluded_resistance_entries.csv` lists all 949 removed entries with the rule
+`adjudication/excluded_resistance_entries.csv` lists all 949 flagged entries with the rule
 that removed each, and the pre-exclusion cohorts are in `data/`, so the rules can be
 re-applied from scratch.
 
@@ -86,8 +86,9 @@ The level-matched version holds evidence level and source fixed, using cells wit
 five cases per arm. The gene-and-level matched version additionally holds the gene fixed,
 so a model is credited only for separating directions within the same gene rather than for
 recognising a familiar gene-drug pair. It uses cells with at least two cases per arm,
-giving 28 cells over 17 of the 28 CIViC genes and covering 94.9 percent of the resistance
-arm.
+giving 28 cells over 17 of the 28 CIViC genes. Those cells hold 268 resistance cases, 85.9
+percent of the arm: 11 singleton genes contribute no cell at all, and a further 28 cases sit in
+(gene, level) cells where one arm holds fewer than two.
 
 The two thresholds differ by design. `code/reviewer_analyses.py` holds the definitions.
 
@@ -122,8 +123,8 @@ controls cover the seven hosted models; CGI covers all seven across three vendor
 MOAlmanac, OncoKB and the paraphrase arms cover three. Running `code/make_tables.py` writes
 the full breakdown to `tables/coverage.tex`, which is Table 2 of the paper.
 
-`raw_responses/` also holds 18,592 judgments from earlier runs against pre-exclusion
-cohorts, none of which are analysed. They are kept so the effect of the exclusion rules can
+`raw_responses/` also holds 12,626 valid judgments from earlier runs against pre-exclusion
+cohorts (12,966 records, 340 of them failed calls), none of which are analysed. They are kept so the effect of the exclusion rules can
 be measured directly, by comparing an arm against its own earlier version.
 
 ## Note on the data
