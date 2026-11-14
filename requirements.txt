@@ -1,0 +1,7 @@
+# Versions the released results/ files were produced with. Everything except
+# prereg.csv reproduces byte-identically on other versions; prereg.csv solves a
+# regression with np.linalg.pinv, whose last decimals depend on the BLAS build.
+pandas==3.0.3
+numpy==2.4.6
+scipy==1.17.1
+statsmodels==0.13.5

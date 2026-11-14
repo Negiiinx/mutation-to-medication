@@ -36,9 +36,17 @@ files; the paper itself is published rather than distributed here, so put its `m
 `manuscript/` to run those checks.
 
 The `results/` files in this repository are the ones the published paper was written from,
-so diffing them after a run is a direct check that nothing has drifted. All 22 rebuild byte-identical: every bootstrap is
-seeded, the estimators accumulate in a fixed order, and the one script that solves a regression
-pins its thread count so the linear algebra reduces in the same order on any machine.
+so diffing them after a run is a direct check that nothing has drifted. Twenty-one of the 22 rebuild byte-identical anywhere: every bootstrap
+is seeded and the estimators accumulate in a fixed order. The exception is `prereg.csv`, whose
+fixed effects are solved with `np.linalg.pinv`; `prereg_confirm.py` pins its thread count so the
+reduction order is fixed, but a different BLAS build can still move the last decimal or two. Pin
+the versions in `requirements.txt` to reproduce it exactly.
+
+Where a case was queried more than once, the loader keeps the first valid response
+(`code/anlib.py`, `drop_duplicates(['uid','model'])`). This matters most for o4-mini, whose
+headline file holds two valid responses for 669 of its 730 cases: the published row is the first
+run (21.8% resistance endorsement, 61.7% control, 13.8% strong recommendation); the second gives
+19.9 / 66.3 / 12.2, and 51 cases change endorsement between them. Both runs are in the file.
 
 The `code/probe_*.py` scripts are the collection step and call paid vendor APIs. Nothing
 above needs them, since every judgment is already in `raw_responses/`. They are included
@@ -113,15 +121,17 @@ confirmatory result had been seen, and is exploratory for that reason.
 | Control and robustness arms | 18,502 |
 | Total | 58,910 |
 
-`raw_responses/` holds 80,132 records in all. The analysis keeps the 58,910 above and drops the
-rest: 5,733 failed API calls, the pre-exclusion cohort versions (`jax_`, `cgi_`, `moa_`), the pilot
-files, and 27 surplus records in the `main_gpt-*` files that fall outside the final cohort.
+`raw_responses/` holds 80,132 records in all. The counts above are cases times models, which is
+the convention Table 6 states, so they are not a record count. What the analysis sets aside, by
+category: 5,733 failed API calls, 12,626 valid judgments on the pre-exclusion cohorts (`jax_`,
+`cgi_`, `moa_`), 4,069 repeat records for a case the model had already answered, 975 records from
+Gemini 2.5 Pro, which is excluded as a model, and 71 pilot records.
 
 Coverage is uneven, and which models a result rests on matters. The CIViC cohort covers
 all nine main models; the knowledge probe, both repair arms and all three self-conditioning
 controls cover the seven hosted models; CGI covers all seven across three vendors; JAX-CKB,
 MOAlmanac, OncoKB and the paraphrase arms cover three. Running `code/make_tables.py` writes
-the full breakdown to `tables/coverage.tex`, which is Table 2 of the paper.
+the full breakdown to `tables/coverage.tex`, which is Table 6 of the paper.
 
 `raw_responses/` also holds 12,626 valid judgments from earlier runs against pre-exclusion
 cohorts (12,966 records, 340 of them failed calls), none of which are analysed. They are kept so the effect of the exclusion rules can
@@ -131,8 +141,25 @@ be measured directly, by comparing an arm against its own earlier version.
 
 `data/vicc_by_source.json`, the raw VICC harmonized meta-knowledgebase dump, is 360 MB and
 is not included; regenerate it with `code/fetch_vicc.py` to rebuild the cross-source
-cohorts from scratch. The JAX-CKB, CGI, PMKB and MolecularMatch cohorts derived from it are
-all here.
+cohorts from scratch. The JAX-CKB and CGI cohorts derived from it are both here; MOAlmanac
+came through its own API and OncoKB through OncoKB's.
+
+## Reuse and data provenance
+
+The code in `code/` is released under the MIT licence in `LICENSE`. The data is not ours to
+relicense and carries the terms of the sources it came from:
+
+| Source | Terms |
+|---|---|
+| CIViC | CC0 1.0 |
+| JAX Clinical Knowledgebase | CC BY-NC-SA 4.0 |
+| Cancer Genome Interpreter | see the CGI site |
+| MOAlmanac | ODC-ODbL 1.0 |
+| OncoKB | OncoKB terms of use; commercial and some redistribution uses need a licence |
+
+`data/oncokb_*.json` and `data/cohort_oncokb.csv` hold OncoKB annotations retrieved through the
+OncoKB API. Check your OncoKB licence covers redistribution before relying on those files being
+public.
 
 ## Citation
 
