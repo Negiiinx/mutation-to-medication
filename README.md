@@ -36,11 +36,13 @@ files; the paper itself is published rather than distributed here, so put its `m
 `manuscript/` to run those checks.
 
 The `results/` files in this repository are the ones the published paper was written from,
-so diffing them after a run is a direct check that nothing has drifted. Twenty-one of the 22 rebuild byte-identical anywhere: every bootstrap
-is seeded and the estimators accumulate in a fixed order. The exception is `prereg.csv`, whose
-fixed effects are solved with `np.linalg.pinv`; `prereg_confirm.py` pins its thread count so the
-reduction order is fixed, but a different BLAS build can still move the last decimal or two. Pin
-the versions in `requirements.txt` to reproduce it exactly.
+so diffing them after a run confirms you have the exact results reported in the paper.
+Twenty-one of the 22 rebuild byte-identical on any machine: every bootstrap is seeded and the
+estimators accumulate in a fixed order. The exception is `prereg.csv`, whose fixed effects are
+solved with `np.linalg.pinv`, so its exact values depend on the installed package versions.
+`prereg_confirm.py` pins its thread count so the reduction order is fixed, but a different
+NumPy/BLAS build can still change the last decimal or two. Install the exact versions in
+`requirements.txt` to get the paper's values for this file.
 
 Where a case was queried more than once, the loader keeps the first valid response
 (`code/anlib.py`, `drop_duplicates(['uid','model'])`). This matters most for o4-mini, whose
